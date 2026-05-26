@@ -11,6 +11,7 @@ CORS(app)
 
 PAYSTACK_SECRET_KEY = os.environ.get("sk_live_5c757b451f0a616b7f0f462b54feb0d9a116d090", "sk_test_YOUR_KEY_HERE")
 PAYSTACK_WEBHOOK_SECRET = os.environ.get("getprepared2024admin", "your_webhook_secret")
+PAYSTACK_PUBLIC_KEY = os.environ.get("pk_live_10facb7256c431e6120390bc7c6a18a7cca7663f", "pk_test_YOUR_KEY_HERE")
 EXPECTED_AMOUNT = 80000
 
 activation_codes = {}
@@ -26,6 +27,10 @@ def generate_code():
 @app.route("/")
 def home():
     return jsonify({"status": "Get Prepared backend is running ✅"})
+
+@app.route("/config")
+def config():
+    return jsonify({"public_key": PAYSTACK_PUBLIC_KEY})
 
 @app.route("/verify-payment")
 def verify_payment():
