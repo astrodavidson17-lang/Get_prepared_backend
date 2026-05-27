@@ -6,6 +6,7 @@ import requests
 import random
 import os
 import json
+import sqlite3
 
 app = Flask(__name__)
 CORS(app)
@@ -18,10 +19,10 @@ PAYSTACK_WEBHOOK_SECRET = os.environ.get("sk_live_5c757b451f0a616b7f0f462b54feb0
 PAYSTACK_PUBLIC_KEY = os.environ.get("pk_live_10facb7256c431e6120390bc7c6a18a7cca7663f", "pk_test_YOUR_KEY_HERE")
 ADMIN_SECRET = os.environ.get("getprepared2024admin", "admin123")
 EXPECTED_AMOUNT = 80000
+DB_PATH = os.environ.get("DB_PATH", "myschool_yearly_master.db")
 
 # ============================
 # PERSISTENT FILE STORAGE
-# Survives Railway restarts
 # ============================
 CODES_FILE = "codes.json"
 
@@ -46,8 +47,15 @@ activation_codes, paid_emails = load_codes()
 print(f"📦 Loaded {len(activation_codes)} existing codes from storage.")
 
 # ============================
+# DATABASE CONNECTION
+# ============================
+def get_db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+# ============================
 # GENERATE CODE
-# 8 random characters
 # ============================
 def generate_code():
     chars = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"
@@ -67,15 +75,168 @@ def home():
     })
 
 # ============================
-# ROUTE: Config (frontend fetches public key)
+# ROUTE: Config
 # ============================
 @app.route("/config")
 def config():
     return jsonify({"public_key": PAYSTACK_PUBLIC_KEY})
 
 # ============================
+# ROUTE: Get All Subjects
+# Returns list of subjects per exam type
+# ============================
+@app.route("/subjects")
+def get_subjects():
+    exam_type = request.args.get("exam", "WAEC")
+    try:
+        conn = get_db()
+        cursor = conn.cursor()
+
+        cursor.execute('''
+            SELECT DISTINCT subject FROM exam_vault
+            WHERE exam_type = ?
+            UNION
+            SELECT DISTINCT subject FROM theory_vault
+            WHERE exam_type = ?
+            ORDER BY subject
+        ''', (exam_type, exam_type))
+
+        subjects = [row[0] for row in cursor.fetchall()]
+        conn.close()
+
+        return jsonify({"exam": exam_type, "subjects": subjects})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+# ============================
+# ROUTE: Get Years for Subject
+# ============================
+@app.route("/years")
+def get_years():
+    exam_type = request.args.get("exam", "WAEC")
+    subject = request.args.get("subject", "")
+
+    if not subject:
+        return jsonify({"error": "subject required"}), 400
+
+    try:
+        conn = get_db()
+        cursor = conn.cursor()
+
+        cursor.execute('''
+            SELECT DISTINCT year FROM exam_vault
+            WHERE exam_type = ? AND subject = ?
+            UNION
+            SELECT DISTINCT year FROM theory_vault
+            WHERE exam_type = ? AND subject = ?
+            ORDER BY year DESC
+        ''', (exam_type, subject, exam_type, subject))
+
+        years = [str(row[0]) for row in cursor.fetchall()]
+        conn.close()
+
+        return jsonify({"exam": exam_type, "subject": subject, "years": years})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+# ============================
+# ROUTE: Get Questions
+# Fetches questions for exam + subject + year
+# ============================
+@app.route("/questions")
+def get_questions():
+    exam_type = request.args.get("exam", "WAEC")
+    subject = request.args.get("subject", "")
+    year = request.args.get("year", "")
+    q_type = request.args.get("type", "all")  # all, objective, theory
+
+    if not subject:
+        return jsonify({"error": "subject required"}), 400
+
+    try:
+        conn = get_db()
+        cursor = conn.cursor()
+        questions = []
+
+        # Fetch objectives
+        if q_type in ("all", "objective"):
+            query = '''
+                SELECT id, question_text, option_a, option_b,
+                       option_c, option_d, correct_option
+                FROM exam_vault
+                WHERE exam_type = ? AND subject = ?
+            '''
+            params = [exam_type, subject]
+
+            if year:
+                query += " AND year = ?"
+                params.append(year)
+
+            query += " ORDER BY id"
+            cursor.execute(query, params)
+
+            for i, row in enumerate(cursor.fetchall(), 1):
+                questions.append({
+                    "id": f"{exam_type}_{subject}_{year}_O{i}",
+                    "type": "objective",
+                    "number": i,
+                    "text": (row[1] or "").strip(),
+                    "options": {
+                        "A": (row[2] or "").strip(),
+                        "B": (row[3] or "").strip(),
+                        "C": (row[4] or "").strip(),
+                        "D": (row[5] or "").strip(),
+                    },
+                    "answer": (row[6] or "").strip(),
+                    "topic": "Objectives",
+                    "subject": subject,
+                    "exam": exam_type,
+                    "year": year
+                })
+
+        # Fetch theory
+        if q_type in ("all", "theory"):
+            query = '''
+                SELECT id, question_text, solution_text, content_type
+                FROM theory_vault
+                WHERE exam_type = ? AND subject = ?
+            '''
+            params = [exam_type, subject]
+
+            if year:
+                query += " AND year = ?"
+                params.append(year)
+
+            query += " ORDER BY id"
+            cursor.execute(query, params)
+
+            for i, row in enumerate(cursor.fetchall(), 1):
+                questions.append({
+                    "id": f"{exam_type}_{subject}_{year}_T{i}",
+                    "type": "theory",
+                    "number": i,
+                    "text": (row[1] or "").strip(),
+                    "solution": (row[2] or "").strip(),
+                    "topic": "Theory",
+                    "subject": subject,
+                    "exam": exam_type,
+                    "year": year
+                })
+
+        conn.close()
+        return jsonify({
+            "exam": exam_type,
+            "subject": subject,
+            "year": year,
+            "count": len(questions),
+            "questions": questions
+        })
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+# ============================
 # ROUTE: Verify Payment
-# Called from frontend after Paystack payment
 # ============================
 @app.route("/verify-payment")
 def verify_payment():
@@ -105,34 +266,20 @@ def verify_payment():
 
     email = data["data"]["customer"]["email"]
 
-    # Return existing code if already paid
     if email in paid_emails:
         code = paid_emails[email]
-        return jsonify({
-            "success": True,
-            "code": code,
-            "email": email,
-            "message": "Payment verified!"
-        })
+        return jsonify({"success": True, "code": code, "email": email})
 
-    # Generate new code
     code = generate_code()
     activation_codes[code] = {"used": False, "email": email}
     paid_emails[email] = code
     save_codes(activation_codes, paid_emails)
 
     print(f"✅ New activation: {email} → {code}")
-
-    return jsonify({
-        "success": True,
-        "code": code,
-        "email": email,
-        "message": "Payment verified! Here is your activation code."
-    })
+    return jsonify({"success": True, "code": code, "email": email})
 
 # ============================
 # ROUTE: Validate Code
-# Called from app.js when student enters code
 # ============================
 @app.route("/validate-code", methods=["POST"])
 def validate_code():
@@ -141,27 +288,18 @@ def validate_code():
         return jsonify({"valid": False, "message": "No data provided"}), 400
 
     code = body.get("code", "").strip().upper()
-
     if not code:
         return jsonify({"valid": False, "message": "No code provided"}), 400
 
     if code in activation_codes:
         activation_codes[code]["used"] = True
         save_codes(activation_codes, paid_emails)
-        print(f"✅ Code validated: {code}")
-        return jsonify({
-            "valid": True,
-            "message": "Code is valid! Access granted.",
-            "email": activation_codes[code].get("email", "")
-        })
+        return jsonify({"valid": True, "message": "Access granted!"})
 
-    print(f"❌ Invalid code attempt: {code}")
-    return jsonify({"valid": False, "message": "Invalid code. Please check and try again."}), 400
+    return jsonify({"valid": False, "message": "Invalid code"}), 400
 
 # ============================
 # ROUTE: Manual Code Generator
-# For students who pay via transfer
-# Usage: /generate-code?secret=YOUR_ADMIN_SECRET&email=student@gmail.com
 # ============================
 @app.route("/generate-code")
 def generate_code_manual():
@@ -171,30 +309,18 @@ def generate_code_manual():
 
     email = request.args.get("email", "manual@getprepared.com")
 
-    # Return existing code if email already has one
     if email in paid_emails:
-        return jsonify({
-            "code": paid_emails[email],
-            "email": email,
-            "note": "Existing code returned"
-        })
+        return jsonify({"code": paid_emails[email], "email": email})
 
     code = generate_code()
     activation_codes[code] = {"used": False, "email": email}
     paid_emails[email] = code
     save_codes(activation_codes, paid_emails)
 
-    print(f"🔑 Manual code generated: {email} → {code}")
-
-    return jsonify({
-        "code": code,
-        "email": email,
-        "note": "New code generated"
-    })
+    return jsonify({"code": code, "email": email})
 
 # ============================
-# ROUTE: List All Codes (Admin)
-# Usage: /admin/codes?secret=YOUR_ADMIN_SECRET
+# ROUTE: Admin - List Codes
 # ============================
 @app.route("/admin/codes")
 def list_codes():
@@ -204,7 +330,6 @@ def list_codes():
 
     return jsonify({
         "total_codes": len(activation_codes),
-        "total_emails": len(paid_emails),
         "codes": activation_codes,
         "emails": paid_emails
     })
@@ -230,8 +355,7 @@ def paystack_webhook():
     if event.get("event") == "charge.success":
         email = event["data"]["customer"]["email"]
         amount = event["data"]["amount"]
-        ref = event["data"]["reference"]
-        print(f"💰 Webhook: {email} paid ₦{amount // 100} — Ref: {ref}")
+        print(f"💰 Webhook: {email} paid ₦{amount // 100}")
 
     return "OK", 200
 
