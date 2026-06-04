@@ -14,10 +14,10 @@ CORS(app)
 # ============================
 # CONFIGURATION
 # ============================
-PAYSTACK_SECRET_KEY = os.environ.get("PAYSTACK_SECRET_KEY", "sk_test_YOUR_KEY_HERE")
-PAYSTACK_WEBHOOK_SECRET = os.environ.get("PAYSTACK_WEBHOOK_SECRET", "your_webhook_secret")
-PAYSTACK_PUBLIC_KEY = os.environ.get("PAYSTACK_PUBLIC_KEY", "pk_test_YOUR_KEY_HERE")
-ADMIN_SECRET = os.environ.get("ADMIN_SECRET", "admin123")
+PAYSTACK_SECRET_KEY = os.environ.get("PAYSTACK_SECRET_KEY", "sk_live_5c757b451f0a616b7f0f462b54feb0d9a116d090")
+PAYSTACK_WEBHOOK_SECRET = os.environ.get("PAYSTACK_WEBHOOK_SECRET", "sk_live_5c757b451f0a616b7f0f462b54feb0d9a116d090")
+PAYSTACK_PUBLIC_KEY = os.environ.get("PAYSTACK_PUBLIC_KEY", "pk_live_10facb7256c431e6120390bc7c6a18a7cca7663f")
+ADMIN_SECRET = os.environ.get("ADMIN_SECRET", "getprepared2024")
 EXPECTED_AMOUNT = 80000
 DB_PATH = os.environ.get("DB_PATH", "myschool_yearly_master.db")
 
