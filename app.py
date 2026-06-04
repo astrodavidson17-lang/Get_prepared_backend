@@ -14,10 +14,10 @@ CORS(app)
 # ============================
 # CONFIGURATION
 # ============================
-PAYSTACK_SECRET_KEY = os.environ.get("sk_live_5c757b451f0a616b7f0f462b54feb0d9a116d090", "sk_test_YOUR_KEY_HERE")
-PAYSTACK_WEBHOOK_SECRET = os.environ.get("sk_live_5c757b451f0a616b7f0f462b54feb0d9a116d090", "your_webhook_secret")
-PAYSTACK_PUBLIC_KEY = os.environ.get("pk_live_10facb7256c431e6120390bc7c6a18a7cca7663f", "pk_test_YOUR_KEY_HERE")
-ADMIN_SECRET = os.environ.get("getprepared2024admin", "admin123")
+PAYSTACK_SECRET_KEY = os.environ.get("PAYSTACK_SECRET_KEY", "sk_test_YOUR_KEY_HERE")
+PAYSTACK_WEBHOOK_SECRET = os.environ.get("PAYSTACK_WEBHOOK_SECRET", "your_webhook_secret")
+PAYSTACK_PUBLIC_KEY = os.environ.get("PAYSTACK_PUBLIC_KEY", "pk_test_YOUR_KEY_HERE")
+ADMIN_SECRET = os.environ.get("ADMIN_SECRET", "admin123")
 EXPECTED_AMOUNT = 80000
 DB_PATH = os.environ.get("DB_PATH", "myschool_yearly_master.db")
 
@@ -83,7 +83,6 @@ def config():
 
 # ============================
 # ROUTE: Get All Subjects
-# Returns list of subjects per exam type
 # ============================
 @app.route("/subjects")
 def get_subjects():
@@ -91,7 +90,6 @@ def get_subjects():
     try:
         conn = get_db()
         cursor = conn.cursor()
-
         cursor.execute('''
             SELECT DISTINCT subject FROM exam_vault
             WHERE exam_type = ?
@@ -100,10 +98,8 @@ def get_subjects():
             WHERE exam_type = ?
             ORDER BY subject
         ''', (exam_type, exam_type))
-
         subjects = [row[0] for row in cursor.fetchall()]
         conn.close()
-
         return jsonify({"exam": exam_type, "subjects": subjects})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -115,14 +111,11 @@ def get_subjects():
 def get_years():
     exam_type = request.args.get("exam", "WAEC")
     subject = request.args.get("subject", "")
-
     if not subject:
         return jsonify({"error": "subject required"}), 400
-
     try:
         conn = get_db()
         cursor = conn.cursor()
-
         cursor.execute('''
             SELECT DISTINCT year FROM exam_vault
             WHERE exam_type = ? AND subject = ?
@@ -131,24 +124,21 @@ def get_years():
             WHERE exam_type = ? AND subject = ?
             ORDER BY year DESC
         ''', (exam_type, subject, exam_type, subject))
-
         years = [str(row[0]) for row in cursor.fetchall()]
         conn.close()
-
         return jsonify({"exam": exam_type, "subject": subject, "years": years})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
 # ============================
 # ROUTE: Get Questions
-# Fetches questions for exam + subject + year
 # ============================
 @app.route("/questions")
 def get_questions():
     exam_type = request.args.get("exam", "WAEC")
     subject = request.args.get("subject", "")
     year = request.args.get("year", "")
-    q_type = request.args.get("type", "all")  # all, objective, theory
+    q_type = request.args.get("type", "all")
 
     if not subject:
         return jsonify({"error": "subject required"}), 400
@@ -158,7 +148,6 @@ def get_questions():
         cursor = conn.cursor()
         questions = []
 
-        # Fetch objectives
         if q_type in ("all", "objective"):
             query = '''
                 SELECT id, question_text, option_a, option_b,
@@ -167,14 +156,11 @@ def get_questions():
                 WHERE exam_type = ? AND subject = ?
             '''
             params = [exam_type, subject]
-
             if year:
                 query += " AND year = ?"
                 params.append(year)
-
             query += " ORDER BY id"
             cursor.execute(query, params)
-
             for i, row in enumerate(cursor.fetchall(), 1):
                 questions.append({
                     "id": f"{exam_type}_{subject}_{year}_O{i}",
@@ -194,7 +180,6 @@ def get_questions():
                     "year": year
                 })
 
-        # Fetch theory
         if q_type in ("all", "theory"):
             query = '''
                 SELECT id, question_text, solution_text, content_type
@@ -202,14 +187,11 @@ def get_questions():
                 WHERE exam_type = ? AND subject = ?
             '''
             params = [exam_type, subject]
-
             if year:
                 query += " AND year = ?"
                 params.append(year)
-
             query += " ORDER BY id"
             cursor.execute(query, params)
-
             for i, row in enumerate(cursor.fetchall(), 1):
                 questions.append({
                     "id": f"{exam_type}_{subject}_{year}_T{i}",
@@ -231,24 +213,36 @@ def get_questions():
             "count": len(questions),
             "questions": questions
         })
-
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
 # ============================
-# ROUTE: Verify Payment
+# ROUTE: Verify Payment (GET)
 # ============================
 @app.route("/verify-payment")
-def verify_payment():
+def verify_payment_get():
     reference = request.args.get("reference")
     if not reference:
         return jsonify({"success": False, "message": "No reference provided"}), 400
+    return process_payment(reference)
 
+# ============================
+# ROUTE: Verify Payment (POST)
+# Called from frontend after Paystack
+# ============================
+@app.route("/verify-payment", methods=["POST"])
+def verify_payment_post():
+    body = request.get_json() or {}
+    reference = body.get("reference")
+    if not reference:
+        return jsonify({"success": False, "message": "No reference provided"}), 400
+    return process_payment(reference)
+
+def process_payment(reference):
     headers = {
         "Authorization": f"Bearer {PAYSTACK_SECRET_KEY}",
         "Content-Type": "application/json"
     }
-
     try:
         response = requests.get(
             f"https://api.paystack.co/transaction/verify/{reference}",
@@ -286,16 +280,13 @@ def validate_code():
     body = request.get_json()
     if not body:
         return jsonify({"valid": False, "message": "No data provided"}), 400
-
     code = body.get("code", "").strip().upper()
     if not code:
         return jsonify({"valid": False, "message": "No code provided"}), 400
-
     if code in activation_codes:
         activation_codes[code]["used"] = True
         save_codes(activation_codes, paid_emails)
         return jsonify({"valid": True, "message": "Access granted!"})
-
     return jsonify({"valid": False, "message": "Invalid code"}), 400
 
 # ============================
@@ -306,28 +297,119 @@ def generate_code_manual():
     secret = request.args.get("secret", "")
     if secret != ADMIN_SECRET:
         return jsonify({"error": "Unauthorized"}), 401
-
     email = request.args.get("email", "manual@getprepared.com")
-
     if email in paid_emails:
         return jsonify({"code": paid_emails[email], "email": email})
-
     code = generate_code()
     activation_codes[code] = {"used": False, "email": email}
     paid_emails[email] = code
     save_codes(activation_codes, paid_emails)
-
     return jsonify({"code": code, "email": email})
 
 # ============================
-# ROUTE: Admin - List Codes
+# ROUTE: Admin Stats
+# ============================
+@app.route("/api/admin/stats")
+def admin_stats():
+    secret = request.args.get("secret", "")
+    if secret != ADMIN_SECRET:
+        return jsonify({"error": "Unauthorized"}), 401
+    try:
+        conn = get_db()
+        cursor = conn.cursor()
+        cursor.execute("SELECT COUNT(*) FROM exam_vault")
+        obj_count = cursor.fetchone()[0]
+        cursor.execute("SELECT COUNT(*) FROM theory_vault")
+        theory_count = cursor.fetchone()[0]
+        conn.close()
+    except:
+        obj_count = 0
+        theory_count = 0
+    return jsonify({
+        "total_codes": len(activation_codes),
+        "total_emails": len(paid_emails),
+        "objective_questions": obj_count,
+        "theory_questions": theory_count,
+        "codes": activation_codes,
+        "emails": paid_emails
+    })
+
+# ============================
+# ROUTE: Admin Issue Code
+# ============================
+@app.route("/api/admin/issue-code", methods=["POST"])
+def admin_issue_code():
+    body = request.get_json()
+    secret = body.get("secret", "")
+    if secret != ADMIN_SECRET:
+        return jsonify({"error": "Unauthorized"}), 401
+    email = body.get("email", "manual@getprepared.com")
+    if email in paid_emails:
+        return jsonify({"code": paid_emails[email], "email": email})
+    code = generate_code()
+    activation_codes[code] = {"used": False, "email": email}
+    paid_emails[email] = code
+    save_codes(activation_codes, paid_emails)
+    return jsonify({"code": code, "email": email})
+
+# ============================
+# ROUTE: Admin Mark Paid
+# ============================
+@app.route("/api/admin/mark-paid", methods=["POST"])
+def admin_mark_paid():
+    body = request.get_json()
+    secret = body.get("secret", "")
+    if secret != ADMIN_SECRET:
+        return jsonify({"error": "Unauthorized"}), 401
+    email = body.get("email", "")
+    if not email:
+        return jsonify({"error": "email required"}), 400
+    if email in paid_emails:
+        return jsonify({"code": paid_emails[email], "email": email, "note": "existing"})
+    code = generate_code()
+    activation_codes[code] = {"used": False, "email": email}
+    paid_emails[email] = code
+    save_codes(activation_codes, paid_emails)
+    return jsonify({"code": code, "email": email, "note": "new"})
+
+# ============================
+# ROUTE: Admin Set Price
+# ============================
+@app.route("/api/admin/set-price", methods=["POST"])
+def admin_set_price():
+    body = request.get_json()
+    secret = body.get("secret", "")
+    if secret != ADMIN_SECRET:
+        return jsonify({"error": "Unauthorized"}), 401
+    return jsonify({"message": "Price noted"})
+
+# ============================
+# ROUTE: Payment Status
+# ============================
+@app.route("/api/payment/status/<reference>")
+def payment_status(reference):
+    headers = {
+        "Authorization": f"Bearer {PAYSTACK_SECRET_KEY}",
+        "Content-Type": "application/json"
+    }
+    try:
+        response = requests.get(
+            f"https://api.paystack.co/transaction/verify/{reference}",
+            headers=headers
+        )
+        data = response.json()
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+# ============================
+# ROUTE: Admin Codes List
 # ============================
 @app.route("/admin/codes")
 def list_codes():
     secret = request.args.get("secret", "")
     if secret != ADMIN_SECRET:
         return jsonify({"error": "Unauthorized"}), 401
-
     return jsonify({
         "total_codes": len(activation_codes),
         "codes": activation_codes,
@@ -341,22 +423,18 @@ def list_codes():
 def paystack_webhook():
     payload = request.get_data()
     signature = request.headers.get("x-paystack-signature", "")
-
     expected = hmac.new(
         PAYSTACK_WEBHOOK_SECRET.encode("utf-8"),
         payload,
         hashlib.sha512
     ).hexdigest()
-
     if not hmac.compare_digest(expected, signature):
         return "Unauthorized", 401
-
     event = request.get_json()
     if event.get("event") == "charge.success":
         email = event["data"]["customer"]["email"]
         amount = event["data"]["amount"]
         print(f"💰 Webhook: {email} paid ₦{amount // 100}")
-
     return "OK", 200
 
 # ============================
