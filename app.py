@@ -228,7 +228,6 @@ def verify_payment_get():
 
 # ============================
 # ROUTE: Verify Payment (POST)
-# Called from frontend after Paystack
 # ============================
 @app.route("/verify-payment", methods=["POST"])
 def verify_payment_post():
@@ -260,8 +259,13 @@ def process_payment(reference):
 
     email = data["data"]["customer"]["email"]
 
+    # Return existing code if already paid
     if email in paid_emails:
         code = paid_emails[email]
+        # Reset used status so student can re-activate on new device
+        if code in activation_codes:
+            activation_codes[code]["used"] = False
+            save_codes(activation_codes, paid_emails)
         return jsonify({"success": True, "code": code, "email": email})
 
     code = generate_code()
@@ -274,6 +278,7 @@ def process_payment(reference):
 
 # ============================
 # ROUTE: Validate Code
+# Single use but re-usable via payment verification
 # ============================
 @app.route("/validate-code", methods=["POST"])
 def validate_code():
@@ -284,6 +289,11 @@ def validate_code():
     if not code:
         return jsonify({"valid": False, "message": "No code provided"}), 400
     if code in activation_codes:
+        if activation_codes[code].get("used"):
+            return jsonify({
+                "valid": False,
+                "message": "Code already used! If you paid, verify your payment to get your code again."
+            }), 400
         activation_codes[code]["used"] = True
         save_codes(activation_codes, paid_emails)
         return jsonify({"valid": True, "message": "Access granted!"})
@@ -299,7 +309,11 @@ def generate_code_manual():
         return jsonify({"error": "Unauthorized"}), 401
     email = request.args.get("email", "manual@getprepared.com")
     if email in paid_emails:
-        return jsonify({"code": paid_emails[email], "email": email})
+        code = paid_emails[email]
+        if code in activation_codes:
+            activation_codes[code]["used"] = False
+            save_codes(activation_codes, paid_emails)
+        return jsonify({"code": code, "email": email})
     code = generate_code()
     activation_codes[code] = {"used": False, "email": email}
     paid_emails[email] = code
@@ -345,7 +359,11 @@ def admin_issue_code():
         return jsonify({"error": "Unauthorized"}), 401
     email = body.get("email", "manual@getprepared.com")
     if email in paid_emails:
-        return jsonify({"code": paid_emails[email], "email": email})
+        code = paid_emails[email]
+        if code in activation_codes:
+            activation_codes[code]["used"] = False
+            save_codes(activation_codes, paid_emails)
+        return jsonify({"code": code, "email": email})
     code = generate_code()
     activation_codes[code] = {"used": False, "email": email}
     paid_emails[email] = code
@@ -365,7 +383,11 @@ def admin_mark_paid():
     if not email:
         return jsonify({"error": "email required"}), 400
     if email in paid_emails:
-        return jsonify({"code": paid_emails[email], "email": email, "note": "existing"})
+        code = paid_emails[email]
+        if code in activation_codes:
+            activation_codes[code]["used"] = False
+            save_codes(activation_codes, paid_emails)
+        return jsonify({"code": code, "email": email, "note": "existing"})
     code = generate_code()
     activation_codes[code] = {"used": False, "email": email}
     paid_emails[email] = code
