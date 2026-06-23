@@ -1,0 +1,3443 @@
+[
+  {
+    "id": 102,
+    "year": 2005,
+    "topic": "General",
+    "question": "Hydrostatic skeleton is the type of supporting system found in",
+    "options": [
+      "Mammals",
+      "reptiles",
+      "oligochaetes",
+      "arthropods"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: oligochaetes"
+  },
+  {
+    "id": 108,
+    "year": 2005,
+    "topic": "General",
+    "question": "The population density of Tridax in an abandoned square farmland of side 200m was found to be 5 plants per m2. The population size of the plant on the farm is",
+    "options": [
+      "40",
+      "4000",
+      "40000",
+      "200000"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 200000"
+  },
+  {
+    "id": 323,
+    "year": 2011,
+    "topic": "General",
+    "question": "The  type of asexual reproduction that is common to both paramecium and protists is",
+    "options": [
+      "speculation",
+      "fragmentation",
+      "fission",
+      "budding"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: fission"
+  },
+  {
+    "id": 143,
+    "year": 2006,
+    "topic": "General",
+    "question": "The mammalian vain which starts with and ends in a capillary network is the",
+    "options": [
+      "hepatic portal vein",
+      "pulmonary vein",
+      "renal vein",
+      "measenteric vein"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: hepatic portal vein"
+  },
+  {
+    "id": 372,
+    "year": 2012,
+    "topic": "General",
+    "question": "The carrying capacity of a habitat is reached when the population growth begins to",
+    "options": [
+      "increase slowly",
+      "increase exponentially",
+      "slow down",
+      "remain steady"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: remain steady"
+  },
+  {
+    "id": 18,
+    "year": 2003,
+    "topic": "General",
+    "question": "Homologous pairs of chromosomes separate during",
+    "options": [
+      "cytolysis",
+      "cleavage",
+      "mitosis",
+      "Meiosis"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Meiosis"
+  },
+  {
+    "id": 341,
+    "year": 2011,
+    "topic": "General",
+    "question": "The crossing of individuals of the same species with different genetic characters is",
+    "options": [
+      "polygenic inheritance",
+      "non disjunction",
+      "inbreeding",
+      "cross breeding"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: inbreeding"
+  },
+  {
+    "id": 359,
+    "year": 2012,
+    "topic": "General",
+    "question": "A function of the hydrochloric acid produced in the human stomach during digestion is to",
+    "options": [
+      "neutralize the effect of bile",
+      "coagulate milk protein and emulsify fats",
+      "stop the action of ptyalin",
+      "break up food into smaller particles"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: stop the action of ptyalin"
+  },
+  {
+    "id": 49,
+    "year": 2004,
+    "topic": "General",
+    "question": "The function of the long-winged reproductive in a  termite colony is to",
+    "options": [
+      "disperse the population",
+      "feed the young",
+      "participate in swarming",
+      "protect the young"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: participate in swarming"
+  },
+  {
+    "id": 360,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is a polysaccharide?",
+    "options": [
+      "Glucose",
+      "sucrose",
+      "Maltose",
+      "Cellulose"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Cellulose"
+  },
+  {
+    "id": 117,
+    "year": 2005,
+    "topic": "General",
+    "question": "When a peacock displays its colourful  feathers, it is",
+    "options": [
+      "ready for a fight",
+      "protecting itself from predators",
+      "protecting its mate from predator",
+      "courting a female"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: courting a female"
+  },
+  {
+    "id": 162,
+    "year": 2007,
+    "topic": "General",
+    "question": "The pancreas secretes enzymes for the digestion of",
+    "options": [
+      "fats, vitamins and cellulose",
+      "fats, carbohydrates and vitamins",
+      "proteins, celluclose and minerals",
+      "fats, proteins and carbohydrates"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: fats, proteins and carbohydrates"
+  },
+  {
+    "id": 193,
+    "year": 2008,
+    "topic": "General",
+    "question": "Radial symmetry is a feature common to the",
+    "options": [
+      "platyhelminthes",
+      "nematodes",
+      "coelentrates",
+      "arthropods"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: coelentrates"
+  },
+  {
+    "id": 123,
+    "year": 2006,
+    "topic": "General",
+    "question": "The two normal types of sex chromosomes are",
+    "options": [
+      "xxy and xyy",
+      "xx and xyy",
+      "xx and xy",
+      "xy and xxy"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: xx and xy"
+  },
+  {
+    "id": 140,
+    "year": 2006,
+    "topic": "General",
+    "question": "The formation of water in tissue  respiration  results from the",
+    "options": [
+      "combination of water  molecules",
+      "breakdown of water molecules",
+      "reduction of carbon (IV) oxide",
+      "reduction of oxygen by hydrogen"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: reduction of oxygen by hydrogen"
+  },
+  {
+    "id": 188,
+    "year": 2008,
+    "topic": "General",
+    "question": "A characteristic that can possibly be shared by both living  and non-living organisms is",
+    "options": [
+      "locomotion",
+      "irritability",
+      "increase in biomass",
+      "increase in size"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: increase in size"
+  },
+  {
+    "id": 178,
+    "year": 2007,
+    "topic": "General",
+    "question": "The causative agent of bird flu is a",
+    "options": [
+      "virus",
+      "bacterium",
+      "fungus",
+      "protozoan"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: virus"
+  },
+  {
+    "id": 347,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is the lowest category of  classification?",
+    "options": [
+      "Class",
+      "species",
+      "Family",
+      "Genus"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: species"
+  },
+  {
+    "id": 71,
+    "year": 2004,
+    "topic": "General",
+    "question": "The Scarcity of food causes a sudden decrease in population size by",
+    "options": [
+      "decrease the reproductive rate",
+      "bringing about immigration",
+      "raising the mortality rate",
+      "minimizing the rate of competition"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: decrease the reproductive rate"
+  },
+  {
+    "id": 361,
+    "year": 2012,
+    "topic": "General",
+    "question": "In the kidney of mammals, the site of ultra filtration is the",
+    "options": [
+      "urinferous tuble",
+      "Bowman capsule",
+      "loop of Henle",
+      "renal tuble"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Bowman capsule"
+  },
+  {
+    "id": 122,
+    "year": 2006,
+    "topic": "General",
+    "question": "One advantage of variation in a species population  is that individuals",
+    "options": [
+      "easily reach their reproduction age",
+      "with favoured trait become dominant",
+      "are better adapted  to changes",
+      "are easily  recognized by mates"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: are better adapted  to changes"
+  },
+  {
+    "id": 75,
+    "year": 2004,
+    "topic": "General",
+    "question": "In a mendelian cross of red and white varieties of the four o’clock pant, the F1 generation expresses incomplete dominance by having flowers which are",
+    "options": [
+      "white",
+      "red",
+      "pink",
+      "multi-coloured"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: pink"
+  },
+  {
+    "id": 26,
+    "year": 2003,
+    "topic": "General",
+    "question": "The correct sequence of biomes from northern to southern Nigeria is",
+    "options": [
+      "gulnea savanna _ sudan savanna_ tropical rain forest_ sahel savanna_eetuarine",
+      "estuarine_tripical rainforest_guinea savanna _ sahel_ savanna",
+      "sahel savanna_ tropical_rain forest_ estuarine _guinea savanna",
+      "sahel savanna_sudan savanna_guinea savanna _tropical rain forest_estuarine"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: estuarine_tripical rainforest_guinea savanna _ sahel_ savanna"
+  },
+  {
+    "id": 128,
+    "year": 2006,
+    "topic": "General",
+    "question": "Grasses recover quickly from bush fires in the savanna  because of their",
+    "options": [
+      "succulent stems",
+      "rapid growth",
+      "fibrous roots",
+      "perennating organs"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: perennating organs"
+  },
+  {
+    "id": 165,
+    "year": 2007,
+    "topic": "General",
+    "question": "The waste product of plants used in the conversion of hide to leather is",
+    "options": [
+      "resin",
+      "tannin",
+      "gum",
+      "Alkaloid"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: tannin"
+  },
+  {
+    "id": 35,
+    "year": 2003,
+    "topic": "General",
+    "question": "A feature association with the Y- chromosome in humans is",
+    "options": [
+      "Drosophila melanogaster",
+      "prominent fingernails",
+      "facial hairs",
+      "enlarged breast"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: prominent fingernails"
+  },
+  {
+    "id": 79,
+    "year": 2004,
+    "topic": "General",
+    "question": "Plants survive hot dry condition by",
+    "options": [
+      "storing water in large parenchyma cells",
+      "producing numerous leaves",
+      "having numerous stomata",
+      "having every green leaves"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: storing water in large parenchyma cells"
+  },
+  {
+    "id": 192,
+    "year": 2008,
+    "topic": "General",
+    "question": "The most abundant group of organism in the animal kingdom is",
+    "options": [
+      "Mammalian",
+      "Aves",
+      "Annelida",
+      "Insecta"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Insecta"
+  },
+  {
+    "id": 11,
+    "year": 2003,
+    "topic": "General",
+    "question": "Organisms I, II, III and IV have surface volume ratios  of 1:2, 1:3, 1:4, 1:5, respectively. The organism that is likely to have the most complex transport system is",
+    "options": [
+      "IV",
+      "III",
+      "I",
+      "II"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: IV"
+  },
+  {
+    "id": 241,
+    "year": 2009,
+    "topic": "General",
+    "question": "The most important ecological factor in a terrestrial environment is",
+    "options": [
+      "rainfall",
+      "humidity",
+      "wind",
+      "soil"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: rainfall"
+  },
+  {
+    "id": 227,
+    "year": 2009,
+    "topic": "General",
+    "question": "The first terrestrial vertebratese volved from",
+    "options": [
+      "pisces",
+      "Reptilia",
+      "Amphibia",
+      "Mammalia"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Amphibia"
+  },
+  {
+    "id": 295,
+    "year": 2010,
+    "topic": "General",
+    "question": "Throxne and adrenalin are examples of hormones which control",
+    "options": [
+      "blood grouping",
+      "tongue rolling",
+      "behavioural patterns",
+      "colour variation"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: behavioural patterns"
+  },
+  {
+    "id": 277,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following stimuli is likely to elicit a nastic response in an organism?",
+    "options": [
+      "Touch",
+      "Light intensity",
+      "Chemical substances",
+      "gravity"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Touch"
+  },
+  {
+    "id": 136,
+    "year": 2006,
+    "topic": "General",
+    "question": "An increase  in air pressure in the lings is due to the",
+    "options": [
+      "increase in the volume of the thoracic cavity",
+      "relaxation of the diaphragm",
+      "upward movement of the ribs",
+      "contraction intercostal muscles"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: relaxation of the diaphragm"
+  },
+  {
+    "id": 383,
+    "year": 2012,
+    "topic": "General",
+    "question": "The use and disuse of body parts and the inheritance of acquired traits were used to explain",
+    "options": [
+      "Darwin’s theory",
+      "Lamarck’s theory",
+      "genetic drift",
+      "gene flow"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Lamarck’s theory"
+  },
+  {
+    "id": 62,
+    "year": 2004,
+    "topic": "General",
+    "question": "If a nursing mother is not  producing enough milk, her hormonal system is probably deficient in",
+    "options": [
+      "prollactine",
+      "estosterone",
+      "thyroxin",
+      "insulin"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: prollactine"
+  },
+  {
+    "id": 260,
+    "year": 2009,
+    "topic": "General",
+    "question": "During the dry season in the tropics, the body metabolism of some animals slows to a minimal level in a process referred to as",
+    "options": [
+      "hibernation",
+      "aestivation",
+      "dormancy",
+      "sense scense"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: aestivation"
+  },
+  {
+    "id": 23,
+    "year": 2003,
+    "topic": "General",
+    "question": "A density dependent factor that regulates the population size of organism is",
+    "options": [
+      "disease",
+      "sudden flood",
+      "drought",
+      "fire outbreak"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: drought"
+  },
+  {
+    "id": 141,
+    "year": 2006,
+    "topic": "General",
+    "question": "The organ situated in the pericardial cavity of a mammal is the",
+    "options": [
+      "stomach",
+      "Liver",
+      "Liver",
+      "spleen"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Liver"
+  },
+  {
+    "id": 65,
+    "year": 2004,
+    "topic": "General",
+    "question": "Use the table below to answer questions 33 and 34\nZone  © (mm)\nI 45 300\nII 32 2000\nIII 30 2200\nIV 15 800\n\nHigh relative humidity will be expected in zones",
+    "options": [
+      "I and II",
+      "I and IV",
+      "II and III",
+      "II and IV"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: II and III"
+  },
+  {
+    "id": 304,
+    "year": 2011,
+    "topic": "General",
+    "question": "Seed plants are divided into",
+    "options": [
+      "angiosperms and gymnosperms",
+      "monocotyledons and dicotyledons",
+      "thallophyes and pbryophytes",
+      "Tracheophytes and ferns"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: angiosperms and gymnosperms"
+  },
+  {
+    "id": 63,
+    "year": 2004,
+    "topic": "General",
+    "question": "The two key cations involved in the action potential of nervous transmissions are",
+    "options": [
+      "Na+ and Fe2+",
+      "Mg2+ and K+",
+      "Na+ and K+",
+      "Fe2+ and Mg 2+"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Na+ and K+"
+  },
+  {
+    "id": 317,
+    "year": 2011,
+    "topic": "General",
+    "question": "The part of the mammalian ear responsible for the maintenance of balance is the",
+    "options": [
+      "pinna",
+      "perilymph",
+      "Ossicles",
+      "cochlea"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: cochlea"
+  },
+  {
+    "id": 195,
+    "year": 2008,
+    "topic": "General",
+    "question": "The beak of a duck is structurally adapted  for",
+    "options": [
+      "scooping and sieving food",
+      "catching and gasping food",
+      "picking and cracking food",
+      "boring and sucking food"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: scooping and sieving food"
+  },
+  {
+    "id": 237,
+    "year": 2009,
+    "topic": "General",
+    "question": "In insects, the structure that performs  the same function as the kidney in man is the",
+    "options": [
+      "nephridium",
+      "flame cell",
+      "malphigiann tubule",
+      "trachea"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: malphigiann tubule"
+  },
+  {
+    "id": 371,
+    "year": 2012,
+    "topic": "General",
+    "question": "The most likely first colonizers of a bare rock are",
+    "options": [
+      "mosses",
+      "ferns",
+      "lichen",
+      "fungi"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: lichen"
+  },
+  {
+    "id": 95,
+    "year": 2005,
+    "topic": "General",
+    "question": "The only vein that caries pure oxygenated blood is the",
+    "options": [
+      "renal vein",
+      "Pulmonary vein",
+      "hepatic vein",
+      "sciatic vein"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Pulmonary vein"
+  },
+  {
+    "id": 321,
+    "year": 2011,
+    "topic": "General",
+    "question": "Which of the following organs regulates the levels of water, salts, hydrogen ions and urea in the mammalian blood?",
+    "options": [
+      "kidney",
+      "bladder",
+      "colon",
+      "liver"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: kidney"
+  },
+  {
+    "id": 239,
+    "year": 2009,
+    "topic": "General",
+    "question": "The reproductive  system of a male mammal is made up of",
+    "options": [
+      "claspers, prostrate, gland, sperm duct and vas deferns",
+      "testis, prostrate gland, sperm duct and vas deferns",
+      "oviduct , urethra, testis and sperm  duct",
+      "testis, uterus, prostrate gland and sperm duct."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: testis, prostrate gland, sperm duct and vas deferns"
+  },
+  {
+    "id": 363,
+    "year": 2012,
+    "topic": "General",
+    "question": "An example of a fruit  that develops from a single carpel is",
+    "options": [
+      "(a)okro",
+      "tomato",
+      "bean",
+      "orange"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: bean"
+  },
+  {
+    "id": 183,
+    "year": 2007,
+    "topic": "General",
+    "question": "In lizards, the lowering  of the gular fold is used to",
+    "options": [
+      "attract mates",
+      "frighten enemies",
+      "catch insects",
+      "defend their territory"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: frighten enemies"
+  },
+  {
+    "id": 37,
+    "year": 2003,
+    "topic": "General",
+    "question": "An insect with a mandibulate  mouth part will obtain its food by",
+    "options": [
+      "biting and chewing",
+      "chewing and sucking",
+      "chewing",
+      "Sucking"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: chewing"
+  },
+  {
+    "id": 29,
+    "year": 2003,
+    "topic": "General",
+    "question": "Soil fertility can best be conserved and renewed by the activities of",
+    "options": [
+      "earthworms",
+      "man",
+      "rodents",
+      "microbes"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: man"
+  },
+  {
+    "id": 214,
+    "year": 2008,
+    "topic": "General",
+    "question": "A boy who is fond of swimming in a pond finds himself passing urine with traces of blood. He is likely to have contracted",
+    "options": [
+      "Schistosomiasis",
+      "onchoerciasis",
+      "poliomyelitis",
+      "salmonellosis"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Schistosomiasis"
+  },
+  {
+    "id": 329,
+    "year": 2011,
+    "topic": "General",
+    "question": "The vector of the malaria parasite is a",
+    "options": [
+      "female anopheles mosquito",
+      "male culex mosquitoes",
+      "female culex mosquito",
+      "female Aids mosquito"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: female anopheles mosquito"
+  },
+  {
+    "id": 164,
+    "year": 2007,
+    "topic": "General",
+    "question": "The opening  and closing of the stoma are regulated by",
+    "options": [
+      "osmosis",
+      "diffusion",
+      "transpiration",
+      "respiration"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: osmosis"
+  },
+  {
+    "id": 175,
+    "year": 2007,
+    "topic": "General",
+    "question": "In which of the following Nigerian states can montane vegetation be found?",
+    "options": [
+      "Plateau",
+      "Taraba",
+      "Enugu",
+      "Bauchi"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Plateau"
+  },
+  {
+    "id": 40,
+    "year": 2003,
+    "topic": "General",
+    "question": "An example of cryptic colouration is the",
+    "options": [
+      "mottled colours on moths that rest o lichens",
+      "bright colour of an insect pollinated flower",
+      "green colour of a plant",
+      "bright marks on a poisonous tropical frog on variegated  leaves"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: bright marks on a poisonous tropical frog on variegated  leaves"
+  },
+  {
+    "id": 242,
+    "year": 2009,
+    "topic": "General",
+    "question": "The association between bacteria residing I the caecum and the ruminant is",
+    "options": [
+      "parasitism",
+      "predation",
+      "saprophytism",
+      "mutalism"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: mutalism"
+  },
+  {
+    "id": 171,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following is an example of parasitism?",
+    "options": [
+      "Mistletoe growing on an orange tree",
+      "Fungi growing on a dead  tree branch",
+      "cattle egrets taking ticks from the body of cattle",
+      "a squirrel living in an abandoned nest of a bird"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Mistletoe growing on an orange tree"
+  },
+  {
+    "id": 167,
+    "year": 2007,
+    "topic": "General",
+    "question": "Pineapple is an example of",
+    "options": [
+      "a composite fruit",
+      "a simple fruit",
+      "an aggregate fruit",
+      "a dehiscent fruit"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a composite fruit"
+  },
+  {
+    "id": 325,
+    "year": 2011,
+    "topic": "General",
+    "question": "In an experiment to determine the percentage of humus and water in a soil sample, the following results were obtained. \nWeight of the evaporating basin alone = 80.5g   Weight of basin and soil = 101.5g    Weight after drying the soil in the oven = 99.0g    Weight of basin and roasted soil = 95.5h\nThe percentage of humus in the soil sample is",
+    "options": [
+      "17.60%",
+      "26.70%",
+      "16.20%",
+      "16.70%"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 16.70%"
+  },
+  {
+    "id": 266,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following groups of cells is devoid of true nuclei?",
+    "options": [
+      "viruses",
+      "algae",
+      "Monera",
+      "Fungi"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Monera"
+  },
+  {
+    "id": 234,
+    "year": 2009,
+    "topic": "General",
+    "question": "The part of the alimentary system of a bird where food is  ground into small particles is the",
+    "options": [
+      "cloaca",
+      "stomach",
+      "crop",
+      "gizzard"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: gizzard"
+  },
+  {
+    "id": 3,
+    "year": 2003,
+    "topic": "General",
+    "question": "The umbrella-shaped fruiting body of a fully developed mushroom is the",
+    "options": [
+      "pileus",
+      "Mycelium",
+      "basidium",
+      "Stipe"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: pileus"
+  },
+  {
+    "id": 344,
+    "year": 2011,
+    "topic": "General",
+    "question": "The fallacy in Lamarck’s evolutionary theory was the  assumption that",
+    "options": [
+      "acquired traits  are heritable",
+      "acquired traits are seldom formed",
+      "traits  are acquired  through the use of body parts",
+      "traits are acquired through disuse  of body parts."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: traits  are acquired  through the use of body parts"
+  },
+  {
+    "id": 119,
+    "year": 2005,
+    "topic": "General",
+    "question": "The only caste in the termite colony whose members can feed themselves are the",
+    "options": [
+      "reproductive",
+      "workers",
+      "nymhs",
+      "soldiers"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: workers"
+  },
+  {
+    "id": 224,
+    "year": 2009,
+    "topic": "General",
+    "question": "A characteristic exhibited by all living organism is",
+    "options": [
+      "sexual reproduction",
+      "aerobic respiration",
+      "the ability to move from one place to another",
+      "the ability to remove unwanted substances."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the ability to remove unwanted substances."
+  },
+  {
+    "id": 202,
+    "year": 2008,
+    "topic": "General",
+    "question": "Exhaled air differs from inhaled air in that it",
+    "options": [
+      "contains less amount of carbon (IV) oxide",
+      "is usually lower in temperature",
+      "often has more oxygen",
+      "usually has more water vapour"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: usually has more water vapour"
+  },
+  {
+    "id": 61,
+    "year": 2004,
+    "topic": "General",
+    "question": "Nervous control differs from hormonal control in that the former",
+    "options": [
+      "involves only chemical  transmission",
+      "is a slower process",
+      "produces short term changes",
+      "has no specific pathway"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: produces short term changes"
+  },
+  {
+    "id": 369,
+    "year": 2012,
+    "topic": "General",
+    "question": "The presence of stilt roots, pneumatophores, sunken stomata and salt glands are adaptive features of plants found in the",
+    "options": [
+      "tropical rainforest",
+      "mangrove swamps",
+      "grassland",
+      "montane forest"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: mangrove swamps"
+  },
+  {
+    "id": 243,
+    "year": 2009,
+    "topic": "General",
+    "question": "A marine protozoan is likely to have no contractile acuole  mainly because the cytoplasm is",
+    "options": [
+      "isotonic to sea water",
+      "hypotonic to sea water",
+      "hypertonic to sea water",
+      "impervious to seas water"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: isotonic to sea water"
+  },
+  {
+    "id": 159,
+    "year": 2007,
+    "topic": "General",
+    "question": "Moncot stems differ from dioct  stems in that monocots have",
+    "options": [
+      "fewer vascular bundies",
+      "no cambium",
+      "phloem with parenchyma",
+      "no pith"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: no cambium"
+  },
+  {
+    "id": 330,
+    "year": 2011,
+    "topic": "General",
+    "question": "Which of the following  instruments is used  to measure relative humidity?",
+    "options": [
+      "Thermometer",
+      "Hygrometer",
+      "Anemometer",
+      "Hydrometer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Hygrometer"
+  },
+  {
+    "id": 261,
+    "year": 2009,
+    "topic": "General",
+    "question": "According to Darwin, the driving force behind evolutionary change is",
+    "options": [
+      "atural selection",
+      "genetic drift",
+      "mutation",
+      "gene flow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: atural selection"
+  },
+  {
+    "id": 46,
+    "year": 2004,
+    "topic": "General",
+    "question": "The most common characteristic of the fungal hyphae is the possession of",
+    "options": [
+      "cell like compartments with one nucleus each",
+      "cell walls that are true are both rigid and chitinous",
+      "a multicellular mycelium in strate",
+      "cell like partitions formed  by cross walls"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: cell walls that are true are both rigid and chitinous"
+  },
+  {
+    "id": 308,
+    "year": 2011,
+    "topic": "General",
+    "question": "Which of the following can cause shrinkage  of living cells?",
+    "options": [
+      "Isotonic solution",
+      "Delonized water",
+      "Hypertonic solution",
+      "hypotonic solution"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Hypertonic solution"
+  },
+  {
+    "id": 20,
+    "year": 2003,
+    "topic": "General",
+    "question": "The response of plants to external stimuli in a non-directional manner is known as",
+    "options": [
+      "tactic movement",
+      "phototropism",
+      "geotropism",
+      "nastic  movement"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: nastic  movement"
+  },
+  {
+    "id": 339,
+    "year": 2011,
+    "topic": "General",
+    "question": "If the cross of a red  flowered plant with a white flowered plant produces a pink flowered plant, it is an example of",
+    "options": [
+      "incomplete dominance",
+      "mutation",
+      "linkage",
+      "co dominance"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: co dominance"
+  },
+  {
+    "id": 91,
+    "year": 2005,
+    "topic": "General",
+    "question": "The blackly is a vector of",
+    "options": [
+      "material",
+      "trypanosomiasis",
+      "onchocerciasis",
+      "yellow fever"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: onchocerciasis"
+  },
+  {
+    "id": 285,
+    "year": 2010,
+    "topic": "General",
+    "question": "The blood component  that has the greatest affinity for oxygen is the",
+    "options": [
+      "lymphocytes",
+      "leucocytes",
+      "erythorocytes",
+      "thromboytes"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: erythorocytes"
+  },
+  {
+    "id": 312,
+    "year": 2011,
+    "topic": "General",
+    "question": "In mammals, the exchange of nutrients and metabolic products occurs in the",
+    "options": [
+      "oesophagus",
+      "trachea",
+      "lymph",
+      "lungs"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: lymph"
+  },
+  {
+    "id": 318,
+    "year": 2011,
+    "topic": "General",
+    "question": "The path followed by air as it passes through the lungs in mammals is",
+    "options": [
+      "bronchi_ trachea_ alveoli_ bronchioles",
+      "Trachea _ Bronchiole _ bronchi_ alveoli",
+      "bornchioles _ alveoli _ bronchi_ trachea",
+      "trachea_ bronchi _ bronchioles_ alveoli"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: trachea_ bronchi _ bronchioles_ alveoli"
+  },
+  {
+    "id": 114,
+    "year": 2005,
+    "topic": "General",
+    "question": "Which of the following gis the best explanation for a child who is phenol-typically short and born of two tall parents?",
+    "options": [
+      "The father possesses a gene for shortness",
+      "The mother possesses a gene for shortness",
+      "Nature makes the child short",
+      "Both parents posses genes for shortness."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Both parents posses genes for shortness."
+  },
+  {
+    "id": 85,
+    "year": 2005,
+    "topic": "General",
+    "question": "The hyphal wall of fungi is rigid  owing to the presence of",
+    "options": [
+      "cell wall",
+      "lignin",
+      "cellulose",
+      "chitia"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: chitia"
+  },
+  {
+    "id": 342,
+    "year": 2011,
+    "topic": "General",
+    "question": "The number of alleles controlling  blood groups in humans is",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 3"
+  },
+  {
+    "id": 173,
+    "year": 2007,
+    "topic": "General",
+    "question": "One adaptation  shown by hydrophytes in fresh water habitats is the",
+    "options": [
+      "poor  development of roots and xylem tissues",
+      "well developed roots and supporting system",
+      "leaves reduced to spines",
+      "waxy  cuticle on shoot surface"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: poor  development of roots and xylem tissues"
+  },
+  {
+    "id": 115,
+    "year": 2005,
+    "topic": "General",
+    "question": "A yellow maize is crossed with the a white maize and the first filial generation produce yellow maize only. The white trait is said to exhibit",
+    "options": [
+      "dominance",
+      "recessiveness",
+      "codominance",
+      "Incomplete  dominance"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: recessiveness"
+  },
+  {
+    "id": 21,
+    "year": 2003,
+    "topic": "General",
+    "question": "The most important hormone that induces the ripening of fruit is",
+    "options": [
+      "ethylene",
+      "indole acetic acid",
+      "gibberellin",
+      "cytokinin"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: ethylene"
+  },
+  {
+    "id": 96,
+    "year": 2005,
+    "topic": "General",
+    "question": "The function of the fluid filled pericardium is to",
+    "options": [
+      "reduce the friction caused by the pumping movements of the heart",
+      "supply the heart with oxygen and nutrients",
+      "prevent disease organisms from attacking the heart",
+      "reduce the  intensity of the pumping action of the heart"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: reduce the friction caused by the pumping movements of the heart"
+  },
+  {
+    "id": 15,
+    "year": 2003,
+    "topic": "General",
+    "question": "Metabolic production of urea is carried out in the",
+    "options": [
+      "Urinary bladder and kidney",
+      "liver",
+      "pancreas",
+      "kidney and malphigian tubule"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: liver"
+  },
+  {
+    "id": 293,
+    "year": 2010,
+    "topic": "General",
+    "question": "The protozoan plasmodium falciparum is transmitted by",
+    "options": [
+      "female anopheles mosquitoes",
+      "female Aedes mosquitoes",
+      "female Culex mosquitoes",
+      "Female  blackfly"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: female anopheles mosquitoes"
+  },
+  {
+    "id": 138,
+    "year": 2006,
+    "topic": "General",
+    "question": "A unique characteristic of the cervical vertebrae  is the present  of",
+    "options": [
+      "long transverse processes",
+      "zygaphphysis",
+      "vertebraterial canal",
+      "large centrum"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: vertebraterial canal"
+  },
+  {
+    "id": 154,
+    "year": 2007,
+    "topic": "General",
+    "question": "A water medium is necessary for fertilization in",
+    "options": [
+      "angisperms",
+      "ferns",
+      "fungi",
+      "conifers"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: ferns"
+  },
+  {
+    "id": 13,
+    "year": 2003,
+    "topic": "General",
+    "question": "The best method of propagating sugarcane by",
+    "options": [
+      "seed sowing",
+      "layering",
+      "grafting",
+      "stem cuttings"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: stem cuttings"
+  },
+  {
+    "id": 170,
+    "year": 2007,
+    "topic": "General",
+    "question": "A biotic factor which affects the distribution and abundance of organisms in a terrestrial  habitat is",
+    "options": [
+      "competition",
+      "temperature",
+      "light",
+      "pH"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: competition"
+  },
+  {
+    "id": 281,
+    "year": 2010,
+    "topic": "General",
+    "question": "I. Stomata _ spirogyra   II alveoli _ earthworm  III malpighian tubule_mammal Iv.Contractile vacuole _protozoa \nWhich of the above structures is correctly matched with the organisms in which it is found?",
+    "options": [
+      "III",
+      "II",
+      "I",
+      "IV"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: IV"
+  },
+  {
+    "id": 245,
+    "year": 2009,
+    "topic": "General",
+    "question": "Which of the following biomass could be characterized by very low rainfall, cold nights, hardays and fast blooming plants?",
+    "options": [
+      "Northern Guinea savanna",
+      "southern Guinea savanna",
+      "Tropical desert",
+      "montane forest"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: southern Guinea savanna"
+  },
+  {
+    "id": 106,
+    "year": 2005,
+    "topic": "General",
+    "question": "The mambilla plateau is a unique Nigeria biome located in",
+    "options": [
+      "Plateau State",
+      "Borno state",
+      "Taraba state",
+      "Benue state"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Plateau State"
+  },
+  {
+    "id": 185,
+    "year": 2007,
+    "topic": "General",
+    "question": "An example of a fish that aestivates is",
+    "options": [
+      "lung fish",
+      "shark",
+      "cat fish",
+      "croaker"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: lung fish"
+  },
+  {
+    "id": 235,
+    "year": 2009,
+    "topic": "General",
+    "question": "Which of the following describes the sequence of blood flow fro the heart to a tissue?",
+    "options": [
+      "Heart_artery_arteriole _ tissue",
+      "Heart_vein_venule _tissue",
+      "Heart _ venule _vein_tissue",
+      "Heart _arteriole _artery_tissue"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Heart_artery_arteriole _ tissue"
+  },
+  {
+    "id": 374,
+    "year": 2012,
+    "topic": "General",
+    "question": "An indigenous method of renewing and maintaining  soil fertility is by",
+    "options": [
+      "clearing farms a by burning",
+      "planting one crop type",
+      "adding inorganic fertilizers yearly",
+      "crop rotation and shifting cultivation"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: crop rotation and shifting cultivation"
+  },
+  {
+    "id": 36,
+    "year": 2003,
+    "topic": "General",
+    "question": "The type of reproduction that leads to variation in animal and plant population is",
+    "options": [
+      "budding",
+      "sexual",
+      "vegatative",
+      "asexual"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: budding"
+  },
+  {
+    "id": 100,
+    "year": 2005,
+    "topic": "General",
+    "question": "Excess water  in plants is excreted as water vapour and droplets respectively through",
+    "options": [
+      "respiration and guttation",
+      "transpiration and guttation",
+      "photosynthesis and guttation",
+      "guttation and condensation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: transpiration and guttation"
+  },
+  {
+    "id": 54,
+    "year": 2004,
+    "topic": "General",
+    "question": "The Breakdown of fats and oils into simpler absorbable compounds is catalyzed by the group of enzymes called",
+    "options": [
+      "lipases",
+      "hydrolases",
+      "amylases",
+      "peptidases"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: lipases"
+  },
+  {
+    "id": 120,
+    "year": 2005,
+    "topic": "General",
+    "question": "An evidence of a common ancestry for fishes, amphibians, reptiles, birds and mammals is the",
+    "options": [
+      "possession of wings by bird and bats",
+      "cold-bloodedness of fishes, amphibians and reptiles",
+      "presence of gill clefts in vertebrate embryos"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: presence of gill clefts in vertebrate embryos"
+  },
+  {
+    "id": 116,
+    "year": 2005,
+    "topic": "General",
+    "question": "The association in which one member benefits and the other is relatively unaffected by the interaction is termed",
+    "options": [
+      "symbiosis",
+      "parasitism",
+      "commensalism",
+      "Mutualism"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: commensalism"
+  },
+  {
+    "id": 327,
+    "year": 2011,
+    "topic": "General",
+    "question": "Which of the  following is a feature of the population Pyramid of a developing country?",
+    "options": [
+      "Low birth rate",
+      "low death rate",
+      "short lifespan",
+      "long lifespan"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: short lifespan"
+  },
+  {
+    "id": 301,
+    "year": 2010,
+    "topic": "General",
+    "question": "The flippers of a whale  and the fins of a fish are examples of",
+    "options": [
+      "divergent evolution",
+      "co evolution",
+      "continuous variation",
+      "convergent evolution"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: divergent evolution"
+  },
+  {
+    "id": 179,
+    "year": 2007,
+    "topic": "General",
+    "question": "An accurate identification  of a rapist can be carried out by conducting a",
+    "options": [
+      "blood group test",
+      "behavioural traits test",
+      "DNA analysis",
+      "RNA analysis"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: DNA analysis"
+  },
+  {
+    "id": 364,
+    "year": 2012,
+    "topic": "General",
+    "question": "Plant  growth can be artificially stimulated by the addition of",
+    "options": [
+      "gibberellin",
+      "kinin",
+      "abscisic acid",
+      "ethylene"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: gibberellin"
+  },
+  {
+    "id": 39,
+    "year": 2003,
+    "topic": "General",
+    "question": "Spines and shells on animals are adaptations for",
+    "options": [
+      "camouflage",
+      "chemical defence",
+      "physical defence",
+      "mimicry"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: physical defence"
+  },
+  {
+    "id": 181,
+    "year": 2007,
+    "topic": "General",
+    "question": "An example of a sex-linked  trait is the",
+    "options": [
+      "ability to roll the tongue",
+      "possession of facial hair in adult humans",
+      "ability to grow long hair in females",
+      "colour of the skin in human"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: ability to grow long hair in females"
+  },
+  {
+    "id": 297,
+    "year": 2010,
+    "topic": "General",
+    "question": "The chromosome number of a cell before and after the process of meiosis is conventionally represented as",
+    "options": [
+      "2n_2n",
+      "n_n",
+      "n-2n",
+      "2n-n"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 2n-n"
+  },
+  {
+    "id": 384,
+    "year": 2012,
+    "topic": "General",
+    "question": "From his study of Galapagos finches, Darwin derived his theory of evolution from",
+    "options": [
+      "comparative anatomy",
+      "comparative physiology",
+      "fossil remains",
+      "comparative embryology."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: comparative anatomy"
+  },
+  {
+    "id": 2,
+    "year": 2003,
+    "topic": "General",
+    "question": "One distinctive feature in the life history  of liverworts is that they exhibit",
+    "options": [
+      "alternation of generation",
+      "vegetative reproduction",
+      "sexual reproduction",
+      "sexual reproduction"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: alternation of generation"
+  },
+  {
+    "id": 109,
+    "year": 2005,
+    "topic": "General",
+    "question": "Secondary succession is much faster then primary succession because",
+    "options": [
+      "pioneer colonizers are more in number",
+      "soil is already present",
+      "Secondary series require less nutrients",
+      "species competition is increased"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: soil is already present"
+  },
+  {
+    "id": 233,
+    "year": 2009,
+    "topic": "General",
+    "question": "Which of the following is an example of a carnivorous plant?",
+    "options": [
+      "Hydra",
+      "Bladderwort",
+      "Yeast",
+      "Spirogyra"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Bladderwort"
+  },
+  {
+    "id": 176,
+    "year": 2007,
+    "topic": "General",
+    "question": "The increasing order of the particle size in the following soil types  is",
+    "options": [
+      "clay_silt_sand_gravel",
+      "Silt_clay-sand_gravel",
+      "clay_sand_slit_gravel",
+      "silt_sand_clay gravel"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: clay_silt_sand_gravel"
+  },
+  {
+    "id": 78,
+    "year": 2004,
+    "topic": "General",
+    "question": "Which of the following is an example of intraspecific competition?",
+    "options": [
+      "a lizard and an ant eater chasing an insect",
+      "a worker termite and a solider in a limited space",
+      "a hawk and an eagle targeting the same chicken",
+      "yam and potato shoots growing out through the same window"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a worker termite and a solider in a limited space"
+  },
+  {
+    "id": 291,
+    "year": 2010,
+    "topic": "General",
+    "question": "The loss of soil through erosion can be reduced by",
+    "options": [
+      "watering",
+      "crop rotation",
+      "maturing",
+      "irrigation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: crop rotation"
+  },
+  {
+    "id": 255,
+    "year": 2009,
+    "topic": "General",
+    "question": "A health condition that isi known to have resulted from gene mutation is",
+    "options": [
+      "heamophilia",
+      "colour blindeness",
+      "sickle cell anaemia",
+      "anaemia"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: sickle cell anaemia"
+  },
+  {
+    "id": 157,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following is common to the mosquito, housefly and blackfly?",
+    "options": [
+      "Their  immature stages are aquatic",
+      "They undergo complete metamorphosis",
+      "Their adults have two pairs of wings",
+      "They are parasites of man"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: They undergo complete metamorphosis"
+  },
+  {
+    "id": 25,
+    "year": 2003,
+    "topic": "General",
+    "question": "The most effective method of dealing with non-gradable pollutants by  \\",
+    "options": [
+      "dumping",
+      "recycling",
+      "incineration",
+      "Burying"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Burying"
+  },
+  {
+    "id": 64,
+    "year": 2004,
+    "topic": "General",
+    "question": "A caterpillar and an aphid living in different parts of the same plant can be said to",
+    "options": [
+      "occupy the same ecological riches",
+      "Be in different habitats",
+      "occupy different ecological riches",
+      "be in  similar micro habitats"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: occupy different ecological riches"
+  },
+  {
+    "id": 377,
+    "year": 2012,
+    "topic": "General",
+    "question": "A yellow maize is planted and all the fruits obtained are of yellow seeds. When they are cross bred, yellow seeds and white seeds are obtained in a ratio 3:1. The yellow seed is said to be",
+    "options": [
+      "non heritable",
+      "sex linked",
+      "a recessive trait",
+      "a dominant trait"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a dominant trait"
+  },
+  {
+    "id": 232,
+    "year": 2009,
+    "topic": "General",
+    "question": "Chewing the cud is an adaptation peculiar to",
+    "options": [
+      "herbivores",
+      "omnivores",
+      "rodents",
+      "ruminants"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: ruminants"
+  },
+  {
+    "id": 89,
+    "year": 2005,
+    "topic": "General",
+    "question": "I. Rettus rattus   II. Agama agama  II Bufo regularis  IV. Tilapia Zill. The order of evolutionary advancement  of the above",
+    "options": [
+      "I, II and III , IV",
+      "I, IV, III, II",
+      "II, III, IV, I",
+      "IV, III, II, I"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: IV, III, II, I"
+  },
+  {
+    "id": 379,
+    "year": 2012,
+    "topic": "General",
+    "question": "The correct base pairing for DNA is",
+    "options": [
+      "adenine _ thymine and guanine_ cytosine",
+      "adenine_ guanine and thymine_ cytosine",
+      "adenine_ cytosine and guanine_ thymine",
+      "adenine_ adenine  and cytosine_cytosine"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: adenine _ thymine and guanine_ cytosine"
+  },
+  {
+    "id": 69,
+    "year": 2004,
+    "topic": "General",
+    "question": "One adaptation of reptiles of water loss is the presence of",
+    "options": [
+      "Keratinous scales",
+      "claws on Limbs",
+      "Long tails",
+      "long stickly tongues"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Keratinous scales"
+  },
+  {
+    "id": 300,
+    "year": 2010,
+    "topic": "General",
+    "question": "The main distinguishing features between the soldier termite and other members of the caste are the",
+    "options": [
+      "presence of wings, possession of a small head and large thorax",
+      "presence of wings, possession of a large thorax  and a small head",
+      "absence of wings, possession off strong mandibles and a large head",
+      "absence of wings, possession of big head and the absence of mandible."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: absence of wings, possession off strong mandibles and a large head"
+  },
+  {
+    "id": 51,
+    "year": 2004,
+    "topic": "General",
+    "question": "In the internal structure of plants, a wide pith in the centre is common to",
+    "options": [
+      "dicot stems and moocot stems",
+      "dicot stems and monocot roots",
+      "dicot roots and monocot roots",
+      "dicotroots and monocot stems"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: dicot stems and monocot roots"
+  },
+  {
+    "id": 221,
+    "year": 2008,
+    "topic": "General",
+    "question": "Which of the following is the most advanced evolutionary development in plants?  (a) possession of unicellular structures",
+    "options": [
+      "possession of unicellular structures",
+      "Development of flowers",
+      "dispersal of spores",
+      "Development of secondary thickening"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Development of flowers"
+  },
+  {
+    "id": 288,
+    "year": 2010,
+    "topic": "General",
+    "question": "I. Adoption of appropriate nocturnal habits   II. Burrowing   III. adjusting their  internal body temperature   IV. Possession of many sweat pores.\nWhich of the above are ways in which desert animals adapt to extreme heat of environment?",
+    "options": [
+      "I and IV only",
+      "II and III only",
+      "I and II only",
+      "I, II and III only"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: I, II and III only"
+  },
+  {
+    "id": 244,
+    "year": 2009,
+    "topic": "General",
+    "question": "In freshwater  marshes and swamps, the most important abiotic factor that organisms have to",
+    "options": [
+      "nature  of substratum",
+      "high salinity",
+      "high temperature",
+      "low pH"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: nature  of substratum"
+  },
+  {
+    "id": 198,
+    "year": 2008,
+    "topic": "General",
+    "question": "The order of passage of food in the digestive system is",
+    "options": [
+      "ileum caecum large intestine rectum",
+      "ileum colon caecum rectum",
+      "large intestine ileum caecum rectum",
+      "colon caeum ileum rectum"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: ileum colon caecum rectum"
+  },
+  {
+    "id": 287,
+    "year": 2010,
+    "topic": "General",
+    "question": "The two halves of the pelvic girdle are jointed together at the",
+    "options": [
+      "public  symphysis",
+      "ilium",
+      "pubis",
+      "obturator foramen"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: public  symphysis"
+  },
+  {
+    "id": 124,
+    "year": 2006,
+    "topic": "General",
+    "question": "Hassan and Hussain are identical twins but Hasan grows taller and fatter than Hussain. This is probably  because",
+    "options": [
+      "Hussain in endowed with genes for shortness and thinness",
+      "They are raised in different environments",
+      "they have dissimilar genotypes",
+      "Hassan inherits genes for tallness and fatness from the father."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: They are raised in different environments"
+  },
+  {
+    "id": 80,
+    "year": 2004,
+    "topic": "General",
+    "question": "Rodents gnaw on food with their",
+    "options": [
+      "molar teeth",
+      "strong jaws",
+      "flat-ridged teeth",
+      "chisel like front teeth"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: chisel like front teeth"
+  },
+  {
+    "id": 303,
+    "year": 2011,
+    "topic": "General",
+    "question": "In which of the following species is the biomass of an individual the smallest?",
+    "options": [
+      "Agama sp",
+      "Bufo sp",
+      "spirogyra sp",
+      "Tilapia sp"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: spirogyra sp"
+  },
+  {
+    "id": 366,
+    "year": 2012,
+    "topic": "General",
+    "question": "Plants of temperate origin can be grown in tropical areas in the vegetation zones of the",
+    "options": [
+      "rain forest",
+      "Guinea savanna",
+      "Sudan savanna",
+      "montane forest"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: montane forest"
+  },
+  {
+    "id": 150,
+    "year": 2006,
+    "topic": "General",
+    "question": "The evidence that supports the advancement of  fern over mosses is derived from",
+    "options": [
+      "biochemical similarities",
+      "physiological records",
+      "molecular records"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: physiological records"
+  },
+  {
+    "id": 296,
+    "year": 2010,
+    "topic": "General",
+    "question": "A pair of genes that control a trait is referred to as",
+    "options": [
+      "anallele",
+      "recessive",
+      "dominant",
+      "ahybrid"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: anallele"
+  },
+  {
+    "id": 197,
+    "year": 2008,
+    "topic": "General",
+    "question": "Inn a dictyledonous stem, the zone between the epidermis and the pericycle is the",
+    "options": [
+      "cortex",
+      "stele",
+      "xylem",
+      "phloem"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cortex"
+  },
+  {
+    "id": 355,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following plant structures lacks a waterproof of cuticle?",
+    "options": [
+      "leaf",
+      "stem",
+      "root",
+      "shoot"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: root"
+  },
+  {
+    "id": 104,
+    "year": 2005,
+    "topic": "General",
+    "question": "The optimal temperature  for breeding cockroaches is",
+    "options": [
+      "15oC",
+      "19oC",
+      "24oC",
+      "33oC"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 24oC"
+  },
+  {
+    "id": 86,
+    "year": 2005,
+    "topic": "General",
+    "question": "Angiosperms and gymnosperms belong to the class",
+    "options": [
+      "schizophyta",
+      "spermatophyte",
+      "pteridophyta",
+      "bryophta"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: spermatophyte"
+  },
+  {
+    "id": 315,
+    "year": 2011,
+    "topic": "General",
+    "question": "I. Test tube containing cane sugar and water  II. Test tube containing cane sugar and dilute acid  III Test tube containing cane sugar and its degrading enzyme \nIn which of the test tubes will glucose be detected after complete hydrolysis?",
+    "options": [
+      "II and III only",
+      "I only",
+      "I, II and III",
+      "I and II only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: II and III only"
+  },
+  {
+    "id": 216,
+    "year": 2008,
+    "topic": "General",
+    "question": "Which of the following is a major case of variation among  organisms?",
+    "options": [
+      "inbreeding",
+      "backcrossing",
+      "sexual reproduction",
+      "Gene dominance"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: sexual reproduction"
+  },
+  {
+    "id": 68,
+    "year": 2004,
+    "topic": "General",
+    "question": "The progressive loss of energy at each level in a food chain  leads to",
+    "options": [
+      "an increase in biomass at each successive level",
+      "a decrease in biomass at each successive level",
+      "an increase in the number of organisms at each successive level",
+      "an increase in the total weight of living matter at each successive level."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a decrease in biomass at each successive level"
+  },
+  {
+    "id": 19,
+    "year": 2003,
+    "topic": "General",
+    "question": "An example of a caryopsis is",
+    "options": [
+      "guava",
+      "maize grain",
+      "coconut",
+      "tomato"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: maize grain"
+  },
+  {
+    "id": 180,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of  the following is true of cloning?",
+    "options": [
+      "it involves the asexual multiplication of the tissues of the original organisms",
+      "the clone is similar to but not exactly like the original organism",
+      "Only one cell of the original organism is needed to initiate the process",
+      "it is welcomed as an ethically  and morally sound science"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Only one cell of the original organism is needed to initiate the process"
+  },
+  {
+    "id": 268,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following is lacking in the diet of a person with kwashiorkor?",
+    "options": [
+      "Vitamins",
+      "Proteins",
+      "Carbohydrates",
+      "Minerals"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Proteins"
+  },
+  {
+    "id": 92,
+    "year": 2005,
+    "topic": "General",
+    "question": "The transition from amphibians to mammals involves the limbs becoming arranged to support the weight  more effectively requiring modifications in the",
+    "options": [
+      "collar bones and coccyx",
+      "pectoral and pelvic girdles",
+      "scapulae and clavicles",
+      "vertebrae and sternum"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: pectoral and pelvic girdles"
+  },
+  {
+    "id": 191,
+    "year": 2008,
+    "topic": "General",
+    "question": "The bacteria type that are arranged in chains are the",
+    "options": [
+      "Staphylococci",
+      "clostridia",
+      "streptococci",
+      "Bacilli"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: streptococci"
+  },
+  {
+    "id": 8,
+    "year": 2003,
+    "topic": "General",
+    "question": "The stunted group of a leguminous plant suffering from nitrogen deficiency may be corrected by inoculating the soil with",
+    "options": [
+      "denitrifying bacteria",
+      "saprophytic bacteria",
+      "Rhizobium",
+      "nitrosomonas"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Rhizobium"
+  },
+  {
+    "id": 139,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of following produces both hormones and enzymes?",
+    "options": [
+      "Gall blader",
+      "Lieum",
+      "Pancreas",
+      "kidney"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Pancreas"
+  },
+  {
+    "id": 166,
+    "year": 2007,
+    "topic": "General",
+    "question": "The correct sequence of the movement of urea during urine formation is",
+    "options": [
+      "Convoluted tubule_ glomerulus_Henle’s loop_ Bowman’s capsule_collecting tubule",
+      "Glomerulus_Bowman’s capsule_convoluted tuble_ Henle’s loop_collecting tubule",
+      "convoluted tubule_ Bowman’s capsule_Henle’s loop _ glomerulus_collecting tubule",
+      "Glomerulus_Bowman’s capsule_convoluted tubule_ Henle’s loop_convoluted tubule_collecting tubule"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Glomerulus_Bowman’s capsule_convoluted tubule_ Henle’s loop_convoluted tubule_collecting tubule"
+  },
+  {
+    "id": 47,
+    "year": 2004,
+    "topic": "General",
+    "question": "Insects are considered the most successful among the invertebrates because they",
+    "options": [
+      "possess exoskeletons",
+      "survive in various environmental conditions",
+      "have wings for flight",
+      "possess the ability to change their forms"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: possess exoskeletons"
+  },
+  {
+    "id": 263,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following is NOT a function of the nucleus of a cell?",
+    "options": [
+      "it controls the life processes of the cell",
+      "It translates genetic formation for   the manufacture of proteins",
+      "it stores and carries hereditary information",
+      "it sis a reservoir of energy for the cell"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: it sis a reservoir of energy for the cell"
+  },
+  {
+    "id": 331,
+    "year": 2011,
+    "topic": "General",
+    "question": "Exo-erythrocytic phase  of the life cycle  of malaria parasite occurs in the",
+    "options": [
+      "reticuloendothelial cells of humans",
+      "maphigian tubules of mosquito",
+      "brain of humans",
+      "liver  of humans"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: liver  of humans"
+  },
+  {
+    "id": 196,
+    "year": 2008,
+    "topic": "General",
+    "question": "The most important characteristic that makes reptiles to conquer terrestrial habitats is the possession of",
+    "options": [
+      "long tail",
+      "scaly skin",
+      "sharp claw",
+      "amniotic egg"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: scaly skin"
+  },
+  {
+    "id": 43,
+    "year": 2004,
+    "topic": "General",
+    "question": "The rods in the retina of the eye are examples of",
+    "options": [
+      "cells",
+      "Tissues",
+      "organs",
+      "systems"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cells"
+  },
+  {
+    "id": 70,
+    "year": 2004,
+    "topic": "General",
+    "question": "A state in Nigeria that is most susceptible to desert encroachment is",
+    "options": [
+      "Kwara",
+      "Taraba",
+      "Kaduna",
+      "Katsina"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Katsina"
+  },
+  {
+    "id": 44,
+    "year": 2004,
+    "topic": "General",
+    "question": "The absence of special food and water-conducting systems  restricts the body size in",
+    "options": [
+      "algae, liverworts and mosses",
+      "liverworts, mosses and ferns",
+      "the bryophytes and the pteriodophytes",
+      "the thallophytes and the pteriodphytes"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: algae, liverworts and mosses"
+  },
+  {
+    "id": 231,
+    "year": 2009,
+    "topic": "General",
+    "question": "Bird toes suitable for digging have claws that are",
+    "options": [
+      "blunt",
+      "curved",
+      "hooked",
+      "sharp"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: blunt"
+  },
+  {
+    "id": 309,
+    "year": 2011,
+    "topic": "General",
+    "question": "Which of the following is true of leucocytes?",
+    "options": [
+      "They are most numerous and ramify all cells",
+      "They are large and nucleated",
+      "They are involved in blood clotting",
+      "They are respiratory pigments"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: They are large and nucleated"
+  },
+  {
+    "id": 345,
+    "year": 2011,
+    "topic": "General",
+    "question": "The brightly coloured eye spots on the hind wings of a moth are an example of",
+    "options": [
+      "disruptive colouration",
+      "continuous variation",
+      "divergent  Evolution",
+      "convergent  evolution"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: convergent  evolution"
+  },
+  {
+    "id": 236,
+    "year": 2009,
+    "topic": "General",
+    "question": "The enzymes of the glycolytic pathway are located in  the",
+    "options": [
+      "mitochondria",
+      "gastric juice",
+      "plasma",
+      "cytoplasm"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: cytoplasm"
+  },
+  {
+    "id": 111,
+    "year": 2005,
+    "topic": "General",
+    "question": "The importance of practicing crop rotation  in agriculture is to",
+    "options": [
+      "maintain soil fertility",
+      "improve the nutritional value of crops",
+      "control soil erosion",
+      "ensure the growth of crops."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: maintain soil fertility"
+  },
+  {
+    "id": 137,
+    "year": 2006,
+    "topic": "General",
+    "question": "In the transverse section of a dicot stem, the region lying between the endodermis and the vascular bundle is the",
+    "options": [
+      "parenchyma",
+      "Pholem",
+      "phypodermis",
+      "pericyle"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: pericyle"
+  },
+  {
+    "id": 130,
+    "year": 2006,
+    "topic": "General",
+    "question": "Climax communities in a biotic succession are usually characterized by",
+    "options": [
+      "a constant change in the appearance of the commodities",
+      "a stable composition of plant and animal species",
+      "rapid changes in the plant and animal species",
+      "different species that are constantly changing"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a stable composition of plant and animal species"
+  },
+  {
+    "id": 142,
+    "year": 2006,
+    "topic": "General",
+    "question": "Mammals are  capable  of producing hypertonic urine mainly because of re-absorption in the",
+    "options": [
+      "urethra",
+      "loop of henle",
+      "ureater",
+      "Bowman’s capsule"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: loop of henle"
+  },
+  {
+    "id": 133,
+    "year": 2006,
+    "topic": "General",
+    "question": "One basic similarly between nervous and endocrine system is that both",
+    "options": [
+      "produce precise and short –lived  effects",
+      "Involve the use of chemical substances",
+      "transmit very fast impulses",
+      "produce widespread effects."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Involve the use of chemical substances"
+  },
+  {
+    "id": 131,
+    "year": 2006,
+    "topic": "General",
+    "question": "The product of excretion common to the mammalian kidney lung and skin is",
+    "options": [
+      "Urea",
+      "carbon (IV)oxides",
+      "mineral salt",
+      "water"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: water"
+  },
+  {
+    "id": 155,
+    "year": 2007,
+    "topic": "General",
+    "question": "The process of shedding the exoskeleton of an arthropod is known as",
+    "options": [
+      "instar formation",
+      "metamorphosis",
+      "tagmosis",
+      "Ecdysis"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Ecdysis"
+  },
+  {
+    "id": 256,
+    "year": 2009,
+    "topic": "General",
+    "question": "Plants that grow in an area that is neither too wet nor too dry are",
+    "options": [
+      "xerophytes",
+      "mesophytes",
+      "epiphytes",
+      "hydrophytes"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: mesophytes"
+  },
+  {
+    "id": 156,
+    "year": 2007,
+    "topic": "General",
+    "question": "The part labeled IV is responsible for",
+    "options": [
+      "ingestion",
+      "locomotion",
+      "osmoregualtion",
+      "respiration"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: osmoregualtion"
+  },
+  {
+    "id": 316,
+    "year": 2011,
+    "topic": "General",
+    "question": "I. Test tube containing cane sugar and water  II. Test tube containing cane sugar and dilute acid  III Test tube containing cane sugar and its degrading enzyme \nThe enzyme involved in the hydrolysis is",
+    "options": [
+      "erepsin",
+      "perilymph",
+      "maltase",
+      "rennin"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: maltase"
+  },
+  {
+    "id": 182,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following factors can bring about competition in a population?",
+    "options": [
+      "Drought",
+      "Mortality",
+      "Dispersion",
+      "Emigration"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Emigration"
+  },
+  {
+    "id": 127,
+    "year": 2006,
+    "topic": "General",
+    "question": "The  soil type that contains nutrients which are not readily available for plants is",
+    "options": [
+      "sandy",
+      "Alluvial",
+      "loamy",
+      "clayey"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: clayey"
+  },
+  {
+    "id": 218,
+    "year": 2008,
+    "topic": "General",
+    "question": "Genetically modified food products have not become  universally accepted because",
+    "options": [
+      "They are not tasty as others produced  by conventional means",
+      "they are usually costlier than others produced by conventional means",
+      "their  efforts on human consumers is not yet fully understood",
+      "the technology can be applied only  in developed  countries"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: their  efforts on human consumers is not yet fully understood"
+  },
+  {
+    "id": 299,
+    "year": 2010,
+    "topic": "General",
+    "question": "At what stage in the life history of a mammal is the sex of an individual set?",
+    "options": [
+      "At adolescence",
+      "At puberty",
+      "At birth",
+      "At conception"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: At conception"
+  },
+  {
+    "id": 55,
+    "year": 2004,
+    "topic": "General",
+    "question": "The surface of an alveolus in a mammal is well supplied with tiny blood vessels known as",
+    "options": [
+      "arterioles",
+      "Venules",
+      "arteries",
+      "capillaries"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: capillaries"
+  },
+  {
+    "id": 22,
+    "year": 2003,
+    "topic": "General",
+    "question": "A density dependent factor that regulates the population size of organism is",
+    "options": [
+      "disease",
+      "sudden flood",
+      "drought",
+      "fire outbreak"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: disease"
+  },
+  {
+    "id": 294,
+    "year": 2010,
+    "topic": "General",
+    "question": "A dilute solution of phenylthiocarbamide tastes bitter to some people  and is tasteless to others. This is an example of",
+    "options": [
+      "taste bud variation",
+      "discontinuous variation",
+      "morphological variation",
+      "continuous variation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: discontinuous variation"
+  },
+  {
+    "id": 247,
+    "year": 2009,
+    "topic": "General",
+    "question": "Mass of a crucible = 10g\n Mass of a crucible and soil before heating = -29g.\nMass of a crucible and sol after heating = 18g. From the information above, determine the percentage of wter in the given soil sample?",
+    "options": [
+      "20%",
+      "25%",
+      "40%",
+      "50%"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 50%"
+  },
+  {
+    "id": 230,
+    "year": 2009,
+    "topic": "General",
+    "question": "The feature that makes locomotion in water easy for fish is the",
+    "options": [
+      "scaly body",
+      "slimy body",
+      "steam lined body",
+      "lateral line"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: steam lined body"
+  },
+  {
+    "id": 274,
+    "year": 2010,
+    "topic": "General",
+    "question": "The sheet of muscle that separates the thoracic and the abdominal cavities is the",
+    "options": [
+      "diaphragm",
+      "intercostal muscles",
+      "pleural membrane",
+      "pericardium"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: pleural membrane"
+  },
+  {
+    "id": 10,
+    "year": 2003,
+    "topic": "General",
+    "question": "The dark reaction of photosynthesis involves the",
+    "options": [
+      "reduction of carbon (IV) oxides to organic compounds",
+      "release of oxygen and the splitting of water",
+      "photolysis of water and the production of starch",
+      "splitting of water into hydrogen ions."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: reduction of carbon (IV) oxides to organic compounds"
+  },
+  {
+    "id": 229,
+    "year": 2009,
+    "topic": "General",
+    "question": "A blue-green alga is not a protophytes because",
+    "options": [
+      "it is aquatic",
+      "its cells are prokaryotic",
+      "it cannot move",
+      "it is not a green plant"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: its cells are prokaryotic"
+  },
+  {
+    "id": 66,
+    "year": 2004,
+    "topic": "General",
+    "question": "Zone  © (mm)\nI 45 300\nII 32 2000\nIII 30 2200\nIV 15 800\n\nWhich of the zones is likely to be a desert",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: I"
+  },
+  {
+    "id": 149,
+    "year": 2006,
+    "topic": "General",
+    "question": "The dominant phase in the life cycle of a bryophyte is the",
+    "options": [
+      "prothallus",
+      "Gametangium",
+      "saprophyte",
+      "gametophyte"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: gametophyte"
+  },
+  {
+    "id": 222,
+    "year": 2008,
+    "topic": "General",
+    "question": "The natural process that produces adaptive evolutionary  changes is",
+    "options": [
+      "mutation",
+      "gene flow",
+      "genetic drift",
+      "natural selection"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: natural selection"
+  },
+  {
+    "id": 380,
+    "year": 2012,
+    "topic": "General",
+    "question": "The short thick beak in birds is an adaptation for",
+    "options": [
+      "crushing seeds",
+      "sucking nectar",
+      "tearing flesh",
+      "straining mud"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: crushing seeds"
+  },
+  {
+    "id": 88,
+    "year": 2005,
+    "topic": "General",
+    "question": "the leech and the earthworm belong to the",
+    "options": [
+      "molluscs",
+      "crustaceans",
+      "arachnids",
+      "annelids"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: annelids"
+  },
+  {
+    "id": 367,
+    "year": 2012,
+    "topic": "General",
+    "question": "The water cycle is maintained mainly by",
+    "options": [
+      "evaporation  of water in the environment",
+      "evaporation and condensation of water  in the environment",
+      "condensation of water in the environment",
+      "transpiration and respiration in plants"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: evaporation and condensation of water  in the environment"
+  },
+  {
+    "id": 246,
+    "year": 2009,
+    "topic": "General",
+    "question": "The optimum temperature  for the growth of the organism is",
+    "options": [
+      "25oC",
+      "50oC",
+      "75oC",
+      "100oC"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 50oC"
+  },
+  {
+    "id": 30,
+    "year": 2003,
+    "topic": "General",
+    "question": "The pioneer organism in ecological  succession are usually the",
+    "options": [
+      "mosses",
+      "lichens",
+      "ferns",
+      "Algae"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Algae"
+  },
+  {
+    "id": 305,
+    "year": 2011,
+    "topic": "General",
+    "question": "In which of the following groups of vertebrates is parental  care mostly exhibited?",
+    "options": [
+      "Amphibia",
+      "Aves",
+      "Mammalia",
+      "Reptilia"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Mammalia"
+  },
+  {
+    "id": 223,
+    "year": 2009,
+    "topic": "General",
+    "question": "What is the level of organization  of an onion bulb?",
+    "options": [
+      "tissue",
+      "organ",
+      "systemic",
+      "organism"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: organ"
+  },
+  {
+    "id": 16,
+    "year": 2003,
+    "topic": "General",
+    "question": "The structure can be found in the",
+    "options": [
+      "sympathetic and parasympathetic nervous systems",
+      "peripheral and central nervous systems",
+      "peripheral nervous system only",
+      "central nervous system only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: peripheral and central nervous systems"
+  },
+  {
+    "id": 324,
+    "year": 2011,
+    "topic": "General",
+    "question": "In nature, plants and animals are perpetually engaged in mutulism because",
+    "options": [
+      "all animals rely on food produced  by plants",
+      "they  utilize respiratory wastes of each other",
+      "they are neighbours",
+      "they are rivals"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: they  utilize respiratory wastes of each other"
+  },
+  {
+    "id": 336,
+    "year": 2011,
+    "topic": "General",
+    "question": "In which of the following biomes is the south western part of Nigeria located?",
+    "options": [
+      "Tropical rainforest",
+      "Tropical woodland",
+      "desert",
+      "Temperature forest"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Tropical rainforest"
+  },
+  {
+    "id": 81,
+    "year": 2004,
+    "topic": "General",
+    "question": "The sports and stripes of the leopard and tiger and example of",
+    "options": [
+      "cryptic colouration",
+      "warning colouration",
+      "Disruptive colouration",
+      "counter shading"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Disruptive colouration"
+  },
+  {
+    "id": 238,
+    "year": 2009,
+    "topic": "General",
+    "question": "The axial  skeleton is found in the",
+    "options": [
+      "skull , ribs, vertebral column and breast bone",
+      "skull humerus, vertebral column and ribs",
+      "breastbone, clavicle, rids and vertebral column",
+      "femur, sternum, ulnae and skull"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: skull , ribs, vertebral column and breast bone"
+  },
+  {
+    "id": 87,
+    "year": 2005,
+    "topic": "General",
+    "question": "An example of a adially symmetrical organism is",
+    "options": [
+      "planaria",
+      "Hydra",
+      "tapeworm",
+      "roundworm"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Hydra"
+  },
+  {
+    "id": 253,
+    "year": 2009,
+    "topic": "General",
+    "question": "In Mendelian inheritance, discontinuous characters are controlled by the",
+    "options": [
+      "centromeres",
+      "alleles",
+      "chromosomes",
+      "chromatids"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: alleles"
+  },
+  {
+    "id": 153,
+    "year": 2007,
+    "topic": "General",
+    "question": "The chromosomes of members of the kingdom  monera are within the",
+    "options": [
+      "nucleus",
+      "nucleolus",
+      "cytoplasm",
+      "Nucleoplasm"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: cytoplasm"
+  },
+  {
+    "id": 311,
+    "year": 2011,
+    "topic": "General",
+    "question": "The ability  of a living organism to detect and respond to changes in the environment is referred to as",
+    "options": [
+      "irritability",
+      "growth",
+      "taxis",
+      "locomotion"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: irritability"
+  },
+  {
+    "id": 203,
+    "year": 2008,
+    "topic": "General",
+    "question": "In the mammalian kidney,  the Bowman’s  capsule is located in the",
+    "options": [
+      "ureter",
+      "Pelvis",
+      "cortex",
+      "medulla"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: medulla"
+  },
+  {
+    "id": 248,
+    "year": 2009,
+    "topic": "General",
+    "question": "I Onchocerciasis  II Schistosomiasis  \nIII Salmonellosis  IV Meningitis \nWhich of the diseases listed above are associated with water?",
+    "options": [
+      "I and II only",
+      "II, III and IV",
+      "I, II and III",
+      "II and IV"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: I, II and III"
+  },
+  {
+    "id": 163,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following uses diffusion as the principal method of gaseous exchange?",
+    "options": [
+      "Rate",
+      "lizard",
+      "Earthworm",
+      "Grasshopper"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Earthworm"
+  },
+  {
+    "id": 59,
+    "year": 2004,
+    "topic": "General",
+    "question": "The eggs of birds contain relatively larger quantities of yolk than those of amphibians and reptiles because",
+    "options": [
+      "birds are generally bigger in size",
+      "embroyonic development is longer in birds",
+      "those of birds are fertilized internally",
+      "birds lay shelled eggs"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: embroyonic development is longer in birds"
+  },
+  {
+    "id": 319,
+    "year": 2011,
+    "topic": "General",
+    "question": "The movement response of a cockroach away  from a light source can be described as",
+    "options": [
+      "negative phototaxism",
+      "negative photropism",
+      "positive  photropism",
+      "positive phototaxism"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: negative phototaxism"
+  },
+  {
+    "id": 103,
+    "year": 2005,
+    "topic": "General",
+    "question": "Which of the following is a homeostatic response in humans?",
+    "options": [
+      "withdrawing the hand from a hot object",
+      "the mouth getting watery when food is lighted",
+      "yawning owing to tiredness",
+      "shivering in a cold environment"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: shivering in a cold environment"
+  },
+  {
+    "id": 129,
+    "year": 2006,
+    "topic": "General",
+    "question": "The main purpose of establishing shelter belts in the sahel region to",
+    "options": [
+      "break the harmattan wind",
+      "beautify the region",
+      "check desert encroachment",
+      "provide wood fuel"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: break the harmattan wind"
+  },
+  {
+    "id": 169,
+    "year": 2007,
+    "topic": "General",
+    "question": "The highest level of ecological organization is the",
+    "options": [
+      "niche",
+      "biosphere",
+      "population",
+      "Ecosystem"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Ecosystem"
+  },
+  {
+    "id": 93,
+    "year": 2005,
+    "topic": "General",
+    "question": "The main function of the caudal fin in tilapia  is to",
+    "options": [
+      "propel it forward in water",
+      "seer it while changing directions",
+      "balance it in eater",
+      "enable it to float in water"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: propel it forward in water"
+  },
+  {
+    "id": 373,
+    "year": 2012,
+    "topic": "General",
+    "question": "The abiotic factors that  control human population include",
+    "options": [
+      "disease and famine",
+      "space and rainfall",
+      "flooding and earthquake",
+      "temperature"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: disease and famine"
+  },
+  {
+    "id": 14,
+    "year": 2003,
+    "topic": "General",
+    "question": "In mammalian males, the excretory and reproductive  systems share the",
+    "options": [
+      "ureter",
+      "vas deferens",
+      "urethra",
+      "Testes."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: urethra"
+  },
+  {
+    "id": 368,
+    "year": 2012,
+    "topic": "General",
+    "question": "Organisms living in an estuarine habitat are adapted to",
+    "options": [
+      "withstand   wide fluctuations in temperature",
+      "survive only in water with low salinity",
+      "withstand wide fluctuations in salinity",
+      "feed only on phytoplankton and dead organic matter."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: withstand wide fluctuations in salinity"
+  },
+  {
+    "id": 269,
+    "year": 2010,
+    "topic": "General",
+    "question": "The mode of nutrition of sundew and bladderwort can be described as",
+    "options": [
+      "autotrophic",
+      "saprophytic",
+      "holozoic",
+      "chemosynthetic"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: holozoic"
+  },
+  {
+    "id": 145,
+    "year": 2006,
+    "topic": "General",
+    "question": "The variation illustrated is",
+    "options": [
+      "physiological",
+      "discontinuous",
+      "morphological",
+      "biochemical"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: morphological"
+  },
+  {
+    "id": 370,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following animals an exist solely on the water they get from food and metabolic reactions?",
+    "options": [
+      "Forest arboreal dwellers",
+      "Desert dwellers",
+      "forest ground dwellers",
+      "rainforest dwellers"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Desert dwellers"
+  },
+  {
+    "id": 57,
+    "year": 2004,
+    "topic": "General",
+    "question": "The opening of the stoma is controlled by the",
+    "options": [
+      "presence of a pore",
+      "increase in solute concentration  in the guard cells",
+      "presence of guard cells",
+      "decrease in solute concentration in the guard cells"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: increase in solute concentration  in the guard cells"
+  },
+  {
+    "id": 134,
+    "year": 2006,
+    "topic": "General",
+    "question": "Night blindness result from a deficiency of",
+    "options": [
+      "Vitamin E",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin A"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Vitamin A"
+  },
+  {
+    "id": 376,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is true in blood transfusion?",
+    "options": [
+      "a person of blood group AB can donate blood only to another person of blood group AB",
+      "Persons of blood groups A and B can donate or receive blood from each other",
+      "A person of blood group AB can receive blood only from persons of blood group A or B",
+      "A person of blood group O can donate only to a person of blood group O."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a person of blood group AB can donate blood only to another person of blood group AB"
+  },
+  {
+    "id": 272,
+    "year": 2010,
+    "topic": "General",
+    "question": "Circulation of blood to all parts of the body except the lungs is through",
+    "options": [
+      "the pulmonary artery",
+      "systemic circulation",
+      "the lymphatic system",
+      "pulmonary circulation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: systemic circulation"
+  },
+  {
+    "id": 354,
+    "year": 2012,
+    "topic": "General",
+    "question": "Counter shading is an adaptive  feature that enables animals to",
+    "options": [
+      "flight enemies",
+      "remain undetected",
+      "warn enemies",
+      "attract mates"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: remain undetected"
+  },
+  {
+    "id": 76,
+    "year": 2004,
+    "topic": "General",
+    "question": "Identical twins inherit their genes from",
+    "options": [
+      "Different eggs and sperms",
+      "The same egg and sperm",
+      "two egg and a sperm",
+      "one egg and two sperms"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: The same egg and sperm"
+  },
+  {
+    "id": 84,
+    "year": 2005,
+    "topic": "General",
+    "question": "Which of the following is likely to have a higher concentration of mitochondria?",
+    "options": [
+      "Sperm cell",
+      "white blood cell",
+      "Egg cell",
+      "red blood cell"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Sperm cell"
+  },
+  {
+    "id": 335,
+    "year": 2011,
+    "topic": "General",
+    "question": "Millet, sorghum, maize and onions are common crops grown in Nigerian in the  (a) Sudan savanna",
+    "options": [
+      "montane forests",
+      "Sahel savanna",
+      "Tropical rainforests"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: montane forests"
+  },
+  {
+    "id": 105,
+    "year": 2005,
+    "topic": "General",
+    "question": "At which temperature will cockroaches not survive after 10 days?",
+    "options": [
+      "15oC",
+      "19oC",
+      "24oC",
+      "33oC"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: 15oC"
+  },
+  {
+    "id": 72,
+    "year": 2004,
+    "topic": "General",
+    "question": "The soil type that will be most difficult to plough in a wet season is one that is",
+    "options": [
+      "loamy",
+      "clayey",
+      "sandy",
+      "silty"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: clayey"
+  },
+  {
+    "id": 375,
+    "year": 2012,
+    "topic": "General",
+    "question": "The disease caused by water-brone pathogen include",
+    "options": [
+      "gonrrhoea and poliomyelitis",
+      "typhoid and syphilis",
+      "tuberculosis and cholera",
+      "typhoid and cholera"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: typhoid and cholera"
+  },
+  {
+    "id": 189,
+    "year": 2008,
+    "topic": "General",
+    "question": "The cell of an onion bulb can be differentiated from a cheek cell by the presence of",
+    "options": [
+      "plasmalemma",
+      "chloroplast",
+      "cell wall",
+      "nucleus"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: cell wall"
+  },
+  {
+    "id": 219,
+    "year": 2008,
+    "topic": "General",
+    "question": "A major  adaptive feature of endo-parasites is the",
+    "options": [
+      "loss of the organ of movement",
+      "presence of claws",
+      "loss of the central nervous system",
+      "presence of piercing mouthparts"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: loss of the organ of movement"
+  },
+  {
+    "id": 286,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following organisms is mainly  found in the marine habitat?",
+    "options": [
+      "Achatina",
+      "Tilapia",
+      "Dog fish",
+      "Tortoise"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Dog fish"
+  },
+  {
+    "id": 33,
+    "year": 2003,
+    "topic": "General",
+    "question": "If the pair of alleles for baidness is given as Bb, a female carrier will be denoted by",
+    "options": [
+      "XbY",
+      "XBXB",
+      "XBY",
+      "XBXb"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: XbY"
+  },
+  {
+    "id": 252,
+    "year": 2009,
+    "topic": "General",
+    "question": "A farmer’s assumption that the seed from a good harvest will produce a good yield is explained by the theory  of",
+    "options": [
+      "evolution",
+      "adaptation",
+      "variation",
+      "heredity"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: heredity"
+  },
+  {
+    "id": 351,
+    "year": 2012,
+    "topic": "General",
+    "question": "An animal body that can be cut along its axis in any plane to give two identical parts is said to be",
+    "options": [
+      "radically  symmetrical",
+      "bilaterally symmetrical",
+      "asymmetrical",
+      "symmetrical"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: radically  symmetrical"
+  },
+  {
+    "id": 356,
+    "year": 2012,
+    "topic": "General",
+    "question": "In the mammalian male reproductive system, the part that serves as a passage for both urine and semen is the",
+    "options": [
+      "urethra",
+      "ureter",
+      "bladder",
+      "seminal vesicle"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: urethra"
+  },
+  {
+    "id": 5,
+    "year": 2003,
+    "topic": "General",
+    "question": "Hermaphroditic reproduction can be found among the",
+    "options": [
+      "arthropods and nematodes",
+      "Pisces and amphibians",
+      "annelids and molluscs",
+      "coelenterates and  platyghelminthes"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: coelenterates and  platyghelminthes"
+  },
+  {
+    "id": 362,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following  is involved1 in secondary  thickening in plants?",
+    "options": [
+      "collenchyma  and  xylem cells",
+      "Vascular cambium and collenchyma’s cells",
+      "vascular cambium and cork cambium",
+      "Cork cambium and sclerenchyma"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: vascular cambium and cork cambium"
+  },
+  {
+    "id": 289,
+    "year": 2010,
+    "topic": "General",
+    "question": "Low annual rainfall, sparse vegetation, high dermal temperatures and cold nights are characteristics features of the",
+    "options": [
+      "tropical  rainforest",
+      "desert",
+      "mundane forest",
+      "guinea savanna"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: desert"
+  }
+]

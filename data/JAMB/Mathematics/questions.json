@@ -1,0 +1,4300 @@
+[
+  {
+    "id": 657,
+    "year": 2011,
+    "topic": "General",
+    "question": "Find ∫ cos4 x dx",
+    "options": [
+      "3/4 sin 4x + k",
+      "-1/4 sin 4x + k",
+      "-3/4 sin 4x + k",
+      "1/4 sin 4x + k"
+    ],
+    "answer": 3,
+    "explanation": "∫ cos4 x dx\n\nlet u = 4x\n\ndy/dx = 4\n\ndx = dy/4\n\n\n∫cos u. dy/4 = 14\n∫cos u du\n\n= 1/4 sin u + k\n\n= 1/4 sin4x + k"
+  },
+  {
+    "id": 827,
+    "year": 2016,
+    "topic": "General",
+    "question": "From the diagram above, Find the value of < ROP",
+    "options": [
+      "110°",
+      "70°",
+      "95°",
+      "85°"
+    ],
+    "answer": 2,
+    "explanation": "< ROP = 95° (Exterior angle of cyclic quadrilateral)"
+  },
+  {
+    "id": 108,
+    "year": 2000,
+    "topic": "General",
+    "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?",
+    "options": [
+      "y = (3x<sup>2</sup>/)2 + 2x",
+      "y = (3x<sup>2</sup>)/2 + x",
+      "y = 3x<sup>2</sup> + (x/2)",
+      "y = 3x<sup>2</sup> +2x"
+    ],
+    "answer": 0,
+    "explanation": "Hints:\n1. Integrate the given first derivative of f(x) at the boundaries, (0,0)\n\nThen solve accordingly to get f(x) = y = (3x<sup>2</sup>/)2 + 2x"
+  },
+  {
+    "id": 1153,
+    "year": 2023,
+    "topic": "General",
+    "question": "The ages of students in a small primary school were recorded in the table below.  Estimate the mean",
+    "options": [
+      "7.7",
+      "7.5",
+      "7.8",
+      "7.6"
+    ],
+    "answer": 0,
+    "explanation": "Mean = ∑fx/∑f=820.5/107\n = 7.7 (1 d.p)"
+  },
+  {
+    "id": 144,
+    "year": 2001,
+    "topic": "General",
+    "question": "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?\n\n(Take pi = 22/7)",
+    "options": [
+      "23 m",
+      "25 m",
+      "20 m",
+      "22 m"
+    ],
+    "answer": 2,
+    "explanation": "Capacity = 3080 m<sup>3</sup>\nBase diameter = 14 m, thus radius = 7 m.\n\nVolume of cylinder = capacity of cylinder = πr<sup>2</sup>h. = 3080\n22/7 x 7<sup>2</sup> x h = 3080\nh = 3080/(22x7)\nh = 20 m"
+  },
+  {
+    "id": 1131,
+    "year": 2022,
+    "topic": "General",
+    "question": "Find x if the mean of 2x, 4x, 2x - 13 and 6x is 4.",
+    "options": [
+      "1.5",
+      "2.0",
+      "1.0",
+      "0.5"
+    ],
+    "answer": 1,
+    "explanation": "mean (4) =  2x+4x+2x−13+6x/4                                                           16 = 14x - 13\n\n16 + 13 = 14x\n\nx = 29/14 or 2.07"
+  },
+  {
+    "id": 274,
+    "year": 2004,
+    "topic": "General",
+    "question": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+    "options": [
+      "y = 90 - x",
+      "y = 150 - x",
+      "y = 60 - x",
+      "y = 120 -x"
+    ],
+    "answer": 0,
+    "explanation": "6x + 6y = (n - 2) 180\n6x + 6y= (5 - 2) 180\n6(x + y) = 3 * 180\nx + y = (3 * 180)/6\nx + y = 90o\ny = 90 - x"
+  },
+  {
+    "id": 1281,
+    "year": 2015,
+    "topic": "General",
+    "question": "The area of a circle of radius 4cm is equal to (Take π = 3.142 )",
+    "options": [
+      "10.3 cm<sup>2</sup>",
+      "15.7 cm<sup>2</sup>",
+      "50.3 cm<sup>2</sup>",
+      "17.4 cm<sup>2</sup>"
+    ],
+    "answer": 2,
+    "explanation": "Area of a circle (A) = πr<sup>2</sup>\n\nRadius = 4cm\n\nπ = 3.142\n\nA = 3.142 × (4)<sup>2</sup>\n\n= 3.142 × 16\n\n= 50.272\n\nA = 50.3 cm<sup>2</sup> (1dp)"
+  },
+  {
+    "id": 600,
+    "year": 2010,
+    "topic": "General",
+    "question": "Make Q the subject of formula if p = M/5(X + Q) + 1",
+    "options": [
+      "5P−MX+5/M",
+      "5P−MX−5/M",
+      "5P+MX+5/M",
+      "÷(5P+MX-5)/M"
+    ],
+    "answer": 1,
+    "explanation": "p = M/5(X + Q) + 1\n\nP - 1 = M/5(X + Q)\n\n5/M(p - 1) = X + Q\n\n5/M(p - 1)- x = Q\n\nQ = 5(p−1)−Mx/M\n\n= 5p−5−Mx/M\n\n= 5p−Mx−5/M"
+  },
+  {
+    "id": 1082,
+    "year": 2021,
+    "topic": "General",
+    "question": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9",
+    "options": [
+      "1/8",
+      "2/15",
+      "3/16",
+      "7/8"
+    ],
+    "answer": 0,
+    "explanation": "Given from 41 to 56\n\n41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56\n\nThe nos multiple of 9 are: 45, 54\n\nP(multiple of 9) = 2/16\n\n\n= 1/8"
+  },
+  {
+    "id": 1098,
+    "year": 2022,
+    "topic": "General",
+    "question": "Solve for k in the equation 1/8<sup>k+2</sup>\n = 1",
+    "options": [
+      "2",
+      "-4",
+      "-2",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "(8<sup>−1</sup>)<sup>k+2</sup>\n = (8<sup>0</sup>)\nbase 8 cancel out on both sides\n\n-1(k+2) = 0\n\n-k -2 = 0\n\n: k = -2"
+  },
+  {
+    "id": 774,
+    "year": 2013,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <msup>\n      <mn>3</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>5</mn>\n        <mi>n</mi>\n      </mrow>\n    </msup>\n    <msup>\n      <mn>9</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>1</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mi>n</mi>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <msup>\n    <mn>27</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mi>n</mi>\n      <mo>+</mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n</math>",
+    "question": "Simplify 3<sup>(-5n)</sup>/9<sup>(1-n)</sup> ×〖27<sup>(n+1)</sup>",
+    "options": [
+      "3<sup>2</sup>",
+      "3<sup>3</sup>",
+      "3<sup>5</sup>",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "3<sup>(-5n)</sup>/9<sup>(1-n)</sup> ×〖27<sup>(n+1)</sup>\n\n\n3<sup>(-5n)/3<sup>2(1-n)</sup>  × 3<sup>3(n+1)</sup>\n\n\n3<sup>−5n</sup> ÷ 3<sup>2(1−n)<?sup> × 3<sup>3(n+1)</sup>\n\n\n\n3<sup>−5n−2(1−n)+3(n+1)</sup>\n\n\n\n3<sup> −5n −2 + 2n +3n + 3</sup>\n\n\n3<sup> −5n + 5n + 3 −2</sup>\n\n\n3<sup>1</sup>\n\n\n= 3"
+  },
+  {
+    "id": 500,
+    "year": 2008,
+    "topic": "General",
+    "question": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0",
+    "options": [
+      "3/2",
+      "2/3",
+      "-2/3",
+      "-3/2"
+    ],
+    "answer": 1,
+    "explanation": "3X + 2Y + 1 = 0\n2Y = -3X - 1\n−3/2X−1/2\nGradient of 3X + 2Y +1 = 0 is -3/2\nGradient of a line perpendicular to 3X + 2Y + 1 = 0\n=−1÷3/2 = −1 × −2/3 =2/3"
+  },
+  {
+    "id": 304,
+    "year": 2004,
+    "topic": "General",
+    "question": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
+    "options": [
+      "96 cm",
+      "324 cm",
+      "36 cm",
+      "144 cm"
+    ],
+    "answer": 1,
+    "explanation": "L∝T <sup>2</sup>\nL=kT <sup>2</sup>\nk=L/T <sup>2</sup>\nwhen T = 4, L = 64.\n\nk=64/4 <sup>2</sup>=4\nL=4T <sup>2</sup>\nwhen T = 9,\n\nL=4×9 <sup>2</sup>=324cm"
+  },
+  {
+    "id": 1161,
+    "year": 2023,
+    "topic": "General",
+    "question": "Determine the area of the region bounded by y = 2x<sup>2</sup> + 10 and Y = 4x + 16\n.",
+    "options": [
+      "18",
+      "−10/3",
+      "44/3",
+      "64/3"
+    ],
+    "answer": 3,
+    "explanation": "To find the point of intersection, equate the two equations\n\n⇒ 2x<sup>2</sup> + 10 = 4x + 16\n\n⇒ 2x<sup>2</sup>  + 10 - 4x - 16 = 0\n\n⇒ 2x<sup>2</sup>  - 4x - 6 = 0\n\nFactorize\n\n⇒ 2(x + 1)(x - 3) = 0\n\n∴ x = -1 or 3\n\nThe curves will intersect at -1 and 3\n\n\nArea = ∫<sup>b</sup> <sub>a</sub>  [upper function] - [lower function] dx\n\n \n\n= ∫<sup>3</sup> <sub>1</sub> 4x + 16 − (2x<sup>2</sup>+10)dx\n= ∫<sup>3</sup> <sub>1</sub> − 2x<sup>2</sup> + 4x + 6dx\n= ((−2x<sup>3</sup>)/3 + (2x<sup>2</sup>) + 6x)<sup>3</sup> <sub>1</sub>\n= ((−2(3)<sup>3</sup>)/3 + 2(3)<sup>2</sup> + 6(3)) − ((−2(−1)<sup>3</sup>)/3 + 2(−1)<sup>2</sup> + 6(−1))\n= 18 -  (10/3)\n= 18 + 10/3\n= 64/3"
+  },
+  {
+    "id": 754,
+    "year": 2012,
+    "topic": "General",
+    "question": "Find the range of 4,9,6,3,2,8,10 and 11",
+    "options": [
+      "11",
+      "9",
+      "8",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Range = Highest Number - Lowest Number\n\nRange = 11 - 2 = 9"
+  },
+  {
+    "id": 614,
+    "year": 2010,
+    "topic": "General",
+    "question": "If y = x sinx, find dy/dx",
+    "options": [
+      "sin x - x cosx",
+      "sinx + x cosx",
+      "sinx - cosx",
+      "sinx + cosx"
+    ],
+    "answer": 1,
+    "explanation": "If y = x sinx, then\n\nLet u = x and v = sinx\n\ndu/dx = 1 and dv/dx = cosx\n\nHence by the product rule,\n\ndy/dx = v (du/dx) + u(dv/dx)\n\n= (sin x) x 1 + x cosx\n\n= sinx + x cosx"
+  },
+  {
+    "id": 977,
+    "year": 2019,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mfrac>\n        <mn>2</mn>\n        <mn>3</mn>\n      </mfrac>\n      <mo>&#x00F7;<!-- ÷ --></mo>\n      <mfrac>\n        <mn>4</mn>\n        <mn>5</mn>\n      </mfrac>\n    </mrow>\n    <mrow>\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n      <mo>+</mo>\n      <mfrac>\n        <mn>3</mn>\n        <mn>5</mn>\n      </mfrac>\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>3</mn>\n      </mfrac>\n    </mrow>\n  </mfrac>\n</math>",
+    "question": "(2/3÷4/5)/(1/4+3/5-1/3)",
+    "options": [
+      "31/50",
+      "20/31",
+      "31/20",
+      "50/31"
+    ],
+    "answer": 3,
+    "explanation": "(2/3÷4/5)/(1/4+3/5-1/3).  2/3÷4/5=2/3×5/4 = 5/6                         1/4+3/5-1/3=(15+36-20)/60 = 31/60  ∴ ∴(2/3÷4/5)/(1/4+3/5-1/3)=5/6÷31/60 = 5/6 x 60/31 = 50/31"
+  },
+  {
+    "id": 360,
+    "year": 2005,
+    "topic": "SOLUTION : <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>m</mi>\n  <mi>e</mi>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mo stretchy=\"false\">(</mo>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>20</mn>\n      <mi>t</mi>\n    </mrow>\n    <mn>5</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mn>4</mn>\n  <mi>t</mi>\n  <mspace linebreak=\"newline\" />\n  <mi>s</mi>\n  <mi>t</mi>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mi>a</mi>\n  <mi>r</mi>\n  <mi>d</mi>\n  <mspace width=\"1mm\" />\n  <mi>d</mi>\n  <mi>e</mi>\n  <mi>v</mi>\n  <mi>i</mi>\n  <mi>a</mi>\n  <mi>t</mi>\n  <mi>i</mi>\n  <mi>o</mi>\n  <mi>n</mi>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mn>10</mn>\n        <msup>\n          <mi>t</mi>\n          <mn>2</mn>\n        </msup>\n      </mrow>\n      <mn>5</mn>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mn>10</mn>\n        <msup>\n          <mi>t</mi>\n          <mn>2</mn>\n        </msup>\n      </mrow>\n      <mn>5</mn>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>=</mo>\n  <msqrt>\n    <mn>2</mn>\n    <msup>\n      <mi>t</mi>\n      <mn>2</mn>\n    </msup>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>2</mn>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>t</mi>\n    <mn>2</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mi>t</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>t</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n</math>",
+    "question": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "mean(x)=20t/5=4t. Standard deviation=√((10t<sup>2</sup> )/5) √2=√((10t<sup>2</sup> )/5) √2=√(2t<sup>2</sup>  ) 2=2t<sup>2</sup>  t<sup>2</sup> =1. t=1"
+  },
+  {
+    "id": 576,
+    "year": 2010,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <mo>+</mo>\n      <mn>3</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>10</mn>\n      <mi>x</mi>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>8</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "question": "Factorize completely (x<sup>3</sup>+3x<sup>2</sup>-10x)/(2x<sup>2</sup>-8)",
+    "options": [
+      "x(x-5)/2(x+2)",
+      "x(x-5)/2(x-2)",
+      "x(x+5)/2(x+2)",
+      "x2+5/2x+4"
+    ],
+    "answer": 2,
+    "explanation": "x<sup>3</sup> + 3x<sup>2</sup> − 10x/2x<sup>2</sup> − 8 = x(x<sup>2</sup> + 3x − 10)/2(x<sup>2</sup> − 4)\n= x(x<sup>2</sup> − 2x +5x − 10)/2(x − 2)(x + 2)\n= x(x − 2)(x + 5)/2(x − 2)(x + 2)\n= x(x + 5)/2(x + 2)"
+  },
+  {
+    "id": 355,
+    "year": 2005,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mn>0</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mi>&#x03C0;<!-- π --></mi>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msubsup>\n  <mi>s</mi>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "question": "Evaluate  ∫<sub>0</sub>, <sup>(π/2</sup>sin2xdx",
+    "options": [
+      "1",
+      "Zero",
+      "-1/2",
+      "-1"
+    ],
+    "answer": 0,
+    "explanation": "∫<sub>0</sub><sup>(π/2</sup>sin2xdxx = [-1/2cos 2x + C]<sup>(π/2</sup, <sub>0</sub>\n\n=[-1/2 cos 2 * π/2 + C] - [-1/2 cos 2 * 0]\n= [-1/2 cos π] - [-1/2 cos 0]\n= [-1/2x - 1] - [-1/2 * 1]\n= 1/2 -(-1/2) = 1/2 + 1/2 = 1"
+  },
+  {
+    "id": 133,
+    "year": 2001,
+    "topic": "General",
+    "question": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *.",
+    "options": [
+      "4",
+      "0",
+      "-2",
+      "-4"
+    ],
+    "answer": 3,
+    "explanation": "By definition a*b = a + b + 1.\nLet the inverse of the element 2 be x,\n\nTherefore 2*x = -1\ni.e. 2 + x + 1 = -1\n3 + x = -1\nx = -1 - 3\nx = -4"
+  },
+  {
+    "id": 620,
+    "year": 2010,
+    "topic": "General",
+    "question": "Determine the value of x for which (x2 - 1)>0",
+    "options": [
+      "x < -1 or x > 1",
+      "-1 < x < 1",
+      "x > 0",
+      "x < -1"
+    ],
+    "answer": 0,
+    "explanation": "x(x - 1) > 0\n\nx < -1 or x > 1"
+  },
+  {
+    "id": 975,
+    "year": 2019,
+    "topic": "General",
+    "question": "Find the length of the chord |AB| in the diagram shown above.",
+    "options": [
+      "4.2 cm",
+      "4.3 cm",
+      "3.2 cm",
+      "3.4 cm"
+    ],
+    "answer": 3,
+    "explanation": "Length of chord = 2rsin(θ/2)\n= 2(3)sin(68/2)\n= 6sin 34\n= 6 × 0.559\n= 3.354 cm ≊\n  3.4 cm"
+  },
+  {
+    "id": 105,
+    "year": 2000,
+    "topic": "General",
+    "question": "If U = {x : x is an integer and 1 ≤\n x ≤\n 20\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2",
+    "options": [
+      "3/4",
+      "3/10",
+      "1/4",
+      "1/20"
+    ],
+    "answer": 0,
+    "explanation": "U = {1, 2, 3, 4, 5,..., 20}\nE1 = {3, 6, 9, 12, 15, 18}\nE2 = {4, 8, 12, 16, 20}\nP(E1) = 5/20\nP(not E1) = 1 - (5/20) = 15/20 = 3/4"
+  },
+  {
+    "id": 123,
+    "year": 2001,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mroot>\n    <mrow>\n      <mn>64</mn>\n      <msup>\n        <mi>a</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n    </mrow>\n    <mn>3</mn>\n  </mroot>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n</math>",
+    "question": "Simplify (3√(64a<sup>3</sup>))<−1",
+    "options": [
+      "4a",
+      "1/8a",
+      "8a",
+      "1/4a"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 1/4a"
+  },
+  {
+    "id": 888,
+    "year": 2017,
+    "topic": "General",
+    "question": "Simplify 4√27 + 5√12 − 3√75",
+    "options": [
+      "7",
+      "-7",
+      "-7√3",
+      "7√3"
+    ],
+    "answer": 3,
+    "explanation": "4√27 + 5√12 − 3√75\n\n= 4√3 × 9 + 5√3 × 4 − 3√3 × 25\n\n= 4 × 3√3 + 5 × 2√3 − 3 × 5√3\n= 12√3 + 10√3 − 15√3\n\n\n= (12 + 10 − 15)√3\n\n= 7√3"
+  },
+  {
+    "id": 396,
+    "year": 2006,
+    "topic": "General",
+    "question": "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number.",
+    "options": [
+      "89 cm<sup>2</sup>",
+      "70 cm<sup>2</sup>",
+      "90 cm<sup>2</sup>",
+      "80 cm<sup>2</sup>"
+    ],
+    "answer": 2,
+    "explanation": "Area of rectangle PQRS\n= 10 x 7 = 70 cm2\nArea of semi circle\nQR = Dπ = 7 x 22/7 = 22cm2\n∴Area of the figure = 70 + 22\n= 92cm<sup>2</sup>\n= 90cm<sup>2</sup>"
+  },
+  {
+    "id": 1081,
+    "year": 2021,
+    "topic": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid solid solid solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>1</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>3</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>4</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "question": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even?",
+    "options": [
+      "2/3",
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "answer": 1,
+    "explanation": "sample space = 16\n\nsum of nos. removed are (2), 3, (4), 5\n\n3, (4), 5, (6)\n\n(4), 5, (6), 7\n\n(5), 6, 7, (8)\n\nEven nos. = 8 of them\n\nPr(even sum) = 8/16\n\n\n= 1/2"
+  },
+  {
+    "id": 732,
+    "year": 2012,
+    "topic": "General",
+    "question": "Solve for x and y in the equations below\nx<sup>2</sup>  - y<sup>2</sup>  = 4\nx + y = 2",
+    "options": [
+      "x = 0, y = -2",
+      "x = 0, y = 2",
+      "x = 2, y = 0",
+      "x = -2, y = 0"
+    ],
+    "answer": 2,
+    "explanation": "x<sup>2</sup>  - y<sup>2</sup>  = 4 .... (1)\nx + y = 2 .... (2)\n\nSimplify eqn (1)\n\n(x + y)(x - y) = 4\n\nFrom eqn (2)\nx + y = 2 so substitute it into simplified eqn (1), we have\n\n2 (x - y) = 4\n\ntherefore,\nx - y = 2 ... (1)\nx + y = 2\n---------\n2x = 4\n---------\n\nx = 2, when y = 0"
+  },
+  {
+    "id": 188,
+    "year": 2002,
+    "topic": "General",
+    "question": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d.",
+    "options": [
+      "2a + 2 = 0",
+      "3a + 5d = 0",
+      "a + 3d = 0",
+      "a + 2d = 0"
+    ],
+    "answer": 2,
+    "explanation": "T<sub>n</sub> = a + (n−1)d\n  (nth term of an AP).\n\nT<sub>9</sub>=5T<sub>5</sub>\na + 8d = 5(a+4d) ⟹a + 8d = 5a + 20d\n5a − a + 20d − 8d = 0 ⟹ 4a + 12d = 0\na + 3d = 0"
+  },
+  {
+    "id": 1208,
+    "year": 2014,
+    "topic": "General",
+    "question": "Find the value of ∣∣∣∣010375284∣∣∣∣\n.",
+    "options": [
+      "12",
+      "10",
+      "-1",
+      "-2"
+    ],
+    "answer": 3,
+    "explanation": "= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n\n= 0(-12) - 3(4) + 2(5)\n\n= 0 - 12 + 10\n\n= -2"
+  },
+  {
+    "id": 951,
+    "year": 2018,
+    "topic": "General",
+    "question": "In how many ways can the letters LEADER be arranged?",
+    "options": [
+      "72",
+      "144",
+      "360",
+      "720"
+    ],
+    "answer": 2,
+    "explanation": "The word LEADER has 1L 2E 1A 1D and 1R making total of 6! 6/1!2!1!1!1!\n = 6!/2!\n  = (6×5×4×3×2×1)/(2×1)\n  = 360"
+  },
+  {
+    "id": 484,
+    "year": 2008,
+    "topic": "General",
+    "question": "If 2x<sup>2</sup>\n - kx - 12 is divisible by x-4, Find the value of k",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "2x<sup>2</sup> - kx - 12 is divisible by x-4\nimplies x is a factor ∴ x = 4\nf(4) implies 2(4)2 - k(4) - 12 = 0\n32 - 4k - 12 = 0\n-4k + 20 = 0\n-4k = -20\nk = 5"
+  },
+  {
+    "id": 157,
+    "year": 2001,
+    "topic": "General",
+    "question": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub>",
+    "options": [
+      "30",
+      "33",
+      "35",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "6Pr = 6 Thus r = 1\n\nN.B 6P<sup>1</sup> = 6!/(6-1)!\n=6!/5!\n= 6x 5!/5! = 6\n= 6P<subr+1</sub> = 6P<sub>2</sub> =  6!/(6-2)! =6!/4!\n \n = (6x5x4!)/4!\n= 30"
+  },
+  {
+    "id": 1068,
+    "year": 2021,
+    "topic": "General",
+    "question": "At what rate would a sum of N100.00 deposited for 5 years raise an interest of N7.50?",
+    "options": [
+      "1/2 %",
+      "2(1/2)%",
+      "1.5%",
+      "25%"
+    ],
+    "answer": 2,
+    "explanation": "Interest I = PRT/100\n\n\n∴ R = (100n×n1)/(100 × 5)\n\n\n= (100 × 7.50)/(500 × 5)\n\n= 750/500\n\n\n= 3/2\n\n\n= 1.5%"
+  },
+  {
+    "id": 408,
+    "year": 2006,
+    "topic": "General",
+    "question": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?",
+    "options": [
+      "p varies directly as r<sup>3</sup>",
+      "p varies inversely as r<sup>6</sup>",
+      "p varies inversely as 6√P",
+      "p varies directly as r<sup>6</sup>"
+    ],
+    "answer": 2,
+    "explanation": "P ∝ 1/q<sup>3</sup>\nP = K/q<sup>3</sup>\nq3 = K/P\nq = K/p<sup>1/3</sup>\nBut q ∝ r<sup>2</sup>\nq = Kr<sup>2</sup>\nK/p<sup>1/3</sup> = Kr<sup>2</sup><sup>2</sup>\nr<sup>2</sup> = K/p<sup>1/3</sup>x 1/K\nr<sup>2</sup> = 1/p<sup>1/3</sup>\nr = (1/p1/3)<sup>2</sup>\nr = 1/p<sup>1/6</sup>\nr ∝ 1/p<sup>1/6</sup>\n∴ r varies inversely as 6√P"
+  },
+  {
+    "id": 1209,
+    "year": 2014,
+    "topic": "General",
+    "question": "How many sides has a regular polygon whose interior angle is 135°?",
+    "options": [
+      "12",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "If each interior angle of the polygon is 135°, then each exterior angle is 180° - 135° = 45°.\n\nHence, number of sides =\n\n360°/one exterior angle\n\n\n360°/45°\n\n\n= 8"
+  },
+  {
+    "id": 109,
+    "year": 2000,
+    "topic": "General",
+    "question": "The expression ax<sup>2</sup> + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively?",
+    "options": [
+      "1, 3, 1",
+      "1, 2, 1",
+      "2, 1, 1",
+      "1, 1, 3"
+    ],
+    "answer": 3,
+    "explanation": "At x = 1, substituting x = 1 in the equation: ax<sup>2</sup> + bx + c = 5;\nf(1) => a + b + c = 5 .....(1)\n\nTaking the first derivative of f(x) in the original equation gives dy/dx = 2ax + b = 2x + 1 (given)....(2)\n\nFrom (2),=> b = 1, and 2ax = 2x, => a = 1.\n\nsubstituting into (1) 1 + 1 + c = 5, => c = 5 - 2 = 3\n\nThus a = 1, b = 1 and c = 3"
+  },
+  {
+    "id": 880,
+    "year": 2017,
+    "topic": "General",
+    "question": "The locus of a point which is equidistant from the line PQ forms a",
+    "options": [
+      "circle centre P",
+      "pair of parallel lines each opposite to PQ",
+      "circle centre Q",
+      "perpendicular line to PQ"
+    ],
+    "answer": 3,
+    "explanation": "The locus of points at a fixed distance from the point P is a circle with the given P at its centre.\n\nThe locus of points at a fixed distance from the point Q is a circle with the given point Q at its centre\n\nThe locus of points equidistant from two points P and Q i.e line PQ is the perpendicular bisector of the segment determined by the points\n\nHence, The locus of a point which is equidistant from the line PQ forms a perpendicular line to PQ"
+  },
+  {
+    "id": 498,
+    "year": 2008,
+    "topic": "General",
+    "question": "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters\n[π = 22/7]",
+    "options": [
+      "44,000 liters",
+      "4,400 liters",
+      "440 liters",
+      "44 liters"
+    ],
+    "answer": 0,
+    "explanation": "V = πr2h\n1m = 100cm\n14cm = 1400cm\n∴V=22/7 × (100 x100 x 1400)/1000 = 44,000liters"
+  },
+  {
+    "id": 136,
+    "year": 2001,
+    "topic": "General",
+    "question": "a sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?",
+    "options": [
+      "8cm",
+      "6cm",
+      "9cm",
+      "7cm"
+    ],
+    "answer": 1,
+    "explanation": "(r/L) = (θ/360°)\nGiven θ = 300, and L = 7.2cm,\n\n=> r = (300 x 7.2)/360\nr = 6cm"
+  },
+  {
+    "id": 844,
+    "year": 2016,
+    "topic": "General",
+    "question": "Find dy/dx, if y = 2/3 x<sup>3</sup> - 4/x",
+    "options": [
+      "3x<sup>2</sup> - 4/x",
+      "2x<sup>2</sup> +4/x2",
+      "3x<sup>2</sup> + 4/x2",
+      "2x<sup>2</sup> - 4/x"
+    ],
+    "answer": 1,
+    "explanation": "y = 2/3x<sup>3</sup>\n - 4/x\n\ndy/dx = 2x<sup>2</sup> - (-4)x<sup>−2<sup> = 2x<sup>2</sup> + 4/x<sup>2</sup>"
+  },
+  {
+    "id": 874,
+    "year": 2017,
+    "topic": "General",
+    "question": "Evaluate (sin45° + sin30° ) in surd form",
+    "options": [
+      "√3/2√2",
+      "√3 − 1/2",
+      "1/2 √2",
+      "1+√2/2"
+    ],
+    "answer": 3,
+    "explanation": "hypotenuse\nsin = 1/2\n\n\nsin45=1/√2\n\n\n= 2/2\n\n\n∴ (sin45 + sin30)\n\n= 1/√2 + 1/2\n\n\n= √2/2 + 1/2\n\n\n= √2+1/2\n\n\n= 1+√2/2"
+  },
+  {
+    "id": 307,
+    "year": 2004,
+    "topic": "General",
+    "question": "Find P, if 451<sub>6</sub> - P<sub>7</sub> = 305<sub>6</sub>",
+    "options": [
+      "62<sub>7</sub>",
+      "116<sub>7</sub>",
+      "611<sub>7</sub>",
+      "142<sub>7</sub>"
+    ],
+    "answer": 1,
+    "explanation": "451 <sub>6</sub> - P <sub>7</sub> = 305 <sub>6</sub>\nP <sub>7</sub> = 451 <sub>6</sub> - 305 <sub>6</sub>\nP <sub>7</sub = 142<sub>6</sub>\nconvert 142<sub>6</sub>\n= 1 * 6<sup>2</sup> + 4 * 6<sup>1</sup> + 2 * 6<sup>0</sup>\n= 36 + 24 + 2\n= 62\nConvert 62<sub>10</sub>  to base 7\n62/7 = 8 R 6\n8/7 = 1 R 1\n1/7 = 0 R 1\n∴ P <sub>7</sub = 116<sub>7</sub"
+  },
+  {
+    "id": 950,
+    "year": 2018,
+    "topic": "General",
+    "question": "Integrate the expression 6x<sup>2</sup> - 2x + 1",
+    "options": [
+      "3x<sup>3</sup> - 2x<sup>2</sup>\n + x + c",
+      "2x<sup>3</sup> - x<sup>2</sup>\n + x + c",
+      "2x<sup>3</sup>\n – 3x<sup>2</sup>\n + c",
+      "x<sup>2</sup> + x<sup>2</sup>\n – x + c"
+    ],
+    "answer": 1,
+    "explanation": "6x<sup>2</sup> - 2x + 1\n\n(6x<sup>(2+1)</sup>)/(2+1)-(2x<sup>(1+1)</sup>)/(1+1)+1x=(6x<sup>3</sup>)/3-(2x<sup>2</sup>)/2+x\n2x<sup>3</sup>−x<sup>2</sup>+x+c"
+  },
+  {
+    "id": 1237,
+    "year": 2015,
+    "topic": "General",
+    "question": "Simplify 1¼ ÷ (2 ÷ ¼ of 28)",
+    "options": [
+      "1 (3/8)",
+      "2 (3/4)",
+      "4 (3/8)",
+      "3 (1/5)"
+    ],
+    "answer": 2,
+    "explanation": "1¼ ÷ [ 2 ÷ ¼] of 28\n\nApply BODMAS rules\n\n5/4 ÷ [ 2 ÷ ¼ × 28 ]\n\n5/4 ÷ 2/7\n\n\n\n5/4 × 7/2\n\n\n35/8\n\n\n= 4(3/8)"
+  },
+  {
+    "id": 922,
+    "year": 2018,
+    "topic": "General",
+    "question": "A trader realises 10x - x<sup>2</sup>\nNaira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Profit (P) = 10x − x2\nMaximum profit can be achieved when the differential of profit with respect to number of bags(x) is 0\n\ni.e. dp/dx = 0\n\ndp/dx = 10 - 2x = 0\n\n10 = 2x\n\nThen x = 10/2 = 5"
+  },
+  {
+    "id": 1138,
+    "year": 2023,
+    "topic": "General",
+    "question": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup>",
+    "options": [
+      "2",
+      "0",
+      "2<sup>0</sup>",
+      "1/2"
+    ],
+    "answer": 0,
+    "explanation": "16<sup>0.16</sup> × 16<sup>0.04</sup> × 2<sup>0.2/sup>\n\n= 2<sup>4(0.16)</sup> × 2<sup>4(0.04)</sup> ×2<sup>0.2</sup>\n\n= 2<sup>0.64</sup> × 2<sup>0.16</sup> × 2<sup>0.2</sup>\n\n=2<sup>(0.64 × 0.16 × 0.2)</sup>\n\n=2<sup>1</sup>\n\n  = 2"
+  },
+  {
+    "id": 473,
+    "year": 2008,
+    "topic": "General",
+    "question": "If 125<sub>x</sub>  = 20<sub>10</sub>  find x",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "125x = 20<sub>10</sub> \n1 x X<sup>2</sup> + 2 x X<sup>1</sup>\n + 5x X<sup>0</sup>\n = 20\nX<sup>2</sup> + 2X + 5 = 20\nX<sup>2</sup> + 2X - 15 = 0\n(X + 5)( X - 3) = 0\nX + 5 implies X = -5\nX - 3 implies X = 3\nBut X cannot be negative\n∴X = 3"
+  },
+  {
+    "id": 474,
+    "year": 2008,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo>(</mo>\n      <mrow>\n        <mfrac>\n          <mn>3</mn>\n          <mn>8</mn>\n        </mfrac>\n        <mo>&#x00F7;<!-- ÷ --></mo>\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n        <mo>+</mo>\n        <mfrac>\n          <mn>1</mn>\n          <mn>2</mn>\n        </mfrac>\n      </mrow>\n      <mo>)</mo>\n    </mrow>\n    <mrow>\n      <mo>(</mo>\n      <mrow>\n        <mfrac>\n          <mn>1</mn>\n          <mn>8</mn>\n        </mfrac>\n        <mo>&#x00D7;<!-- × --></mo>\n        <mfrac>\n          <mn>2</mn>\n          <mn>3</mn>\n        </mfrac>\n        <mo>+</mo>\n        <mfrac>\n          <mn>1</mn>\n          <mn>3</mn>\n        </mfrac>\n      </mrow>\n      <mo>)</mo>\n    </mrow>\n  </mfrac>\n</math>",
+    "question": "Evaluate  ((3/8÷1/2+1/2))/((1/8×2/3+1/3))",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 3"
+  },
+  {
+    "id": 266,
+    "year": 2003,
+    "topic": "General",
+    "question": "By how much is the mean of 30, 56, 31, 55, 43 and \n44 less than the median",
+    "options": [
+      "0.50",
+      "0.75",
+      "0.17",
+      "0.33"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 0.33"
+  },
+  {
+    "id": 760,
+    "year": 2012,
+    "topic": "General",
+    "question": "The shaded region above is represented by\nthe equation",
+    "options": [
+      "y ≤ 4x + 2",
+      "y ≥ 4x + 2",
+      "y ≤ -4x + 4",
+      "y ≤ 4x + 4"
+    ],
+    "answer": 2,
+    "explanation": "Equation of the line\n\ny − 4/x−0 = 0−4/1−0\ny − 4/x = −4/1\n∴ −4x = y −4\ny = −4x + 4\n∴ The shaded portion = y ≤ −4x + 4"
+  },
+  {
+    "id": 428,
+    "year": 2007,
+    "topic": "General",
+    "question": "What is the mean deviation of 3, 5, 8, 11, 12 and 21?",
+    "options": [
+      "4.7",
+      "60",
+      "3.7",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "=¯x=60/6=10=(∑|x-¯x|)/n=28/6                       = 4.7"
+  },
+  {
+    "id": 1216,
+    "year": 2014,
+    "topic": "General",
+    "question": "If y = cos 3x, find δy/δx",
+    "options": [
+      "1/3sin3x",
+      "−1/3sin3x",
+      "3 sin 3x",
+      "-3 sin 3x"
+    ],
+    "answer": 3,
+    "explanation": "y = cos 3x\n\nLet u = 3x so that y = cos u\n\nNow, δy/δx = 3,\n\nδy/δx = −sinu\n\n\nBy the chain rule,\n\nδy/δx=δy/δu × δu/δx\n\n\nδy/δx = (−sinu)(3)\n\n\nδy/δx = −3sinu\n\n\nδy/δx= −3sin3x"
+  },
+  {
+    "id": 1235,
+    "year": 2014,
+    "topic": "General",
+    "question": "The locus of a dog tethered to a pole with a rope of 4m is a",
+    "options": [
+      "semi-circle with diameter 4m",
+      "semi-circle with radius 4m",
+      "circle with diameter 4m",
+      "circle with radius 4m"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: circle with radius 4m"
+  },
+  {
+    "id": 728,
+    "year": 2012,
+    "topic": "General",
+    "question": "If P is a set of all prime factors of 30 and Q is a set of all factors of 18 less than 10, find P ∩ Q",
+    "options": [
+      "{3}",
+      "{2,3}",
+      "{2,3,5}",
+      "{1,2}"
+    ],
+    "answer": 1,
+    "explanation": "P = {2,3,5}\n\nQ = {2,3,6,9}\n\nP ∩ Q = {2,3}"
+  },
+  {
+    "id": 1078,
+    "year": 2021,
+    "topic": "General",
+    "question": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the?",
+    "options": [
+      "perpendicular bisector of the two lines",
+      "angle bisector of the two lines",
+      "bisector of the two lines",
+      "line parallel to the two lines"
+    ],
+    "answer": 1,
+    "explanation": "The required locus is angle bisector of the two lines"
+  },
+  {
+    "id": 1157,
+    "year": 2023,
+    "topic": "General",
+    "question": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
+    "options": [
+      "7/8",
+      "3/8",
+      "None the above",
+      "1/8"
+    ],
+    "answer": 0,
+    "explanation": "Sample space = {HHH, HHT, HTH, THH, TTH, THT, HTT, TTT}\n\nTotal number of possible outcomes = 2 x 2 x 2 = 8\n\nfavourable number of outcomes = 7\n\n∴Pr(at least one head) = 7/8"
+  },
+  {
+    "id": 987,
+    "year": 2019,
+    "topic": "General",
+    "question": "The marks scored by 30 students in a Mathematics test are recorded in the table below: What is the total number of marks scored by the children?",
+    "options": [
+      "82",
+      "15",
+      "63",
+      "75"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 75"
+  },
+  {
+    "id": 1276,
+    "year": 2015,
+    "topic": "SOLUTION:<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>27</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>13</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n        <mtext>&#xA0;rem 0</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mn>0</mn>\n        <mtext>&#xA0;rem 1</mtext>\n      </mtd>\n    </mtr>\n  </mtable>\n  <mo stretchy=\"false\">&#x2191;<!-- ↑ --></mo>\n</math>",
+    "question": "10011<sub>2</sub>  + *****2 + 11100<sub>2</sub>  + 101<sub>2</sub>  = 1001111<sub>2</sub>",
+    "options": [
+      "1111<sub>2</sub>",
+      "11011<sub>2</sub>",
+      "10111<sub>2</sub>",
+      "11001<sub>2</sub>"
+    ],
+    "answer": 1,
+    "explanation": "Convert the binary to base 10 and they convert back to base two\n\n10011<sub>2</sub>  + xxxxx<sub>2</sub>  + 11100<sub>2</sub>  + 101<sub>2</sub>  = 1001111<sub>2</sub> \n\n\n(1 × 2<sup>4</sup> + 0 × 2<sup>3</sup> + 1 × 2<sup>2</sup> + 1 × 21 + 1 × 2<sup>0</sup>) + xxxxx2 +(1 × 2<sup>4</sup> + 1 × 2<sup>3</sup> + 1 × 2<sup>2</sup> + 0 × 2<sup>2</sup> + 0 × 2<sup>0</sup>) + (1 × 2<sup>2</sup> + 0 × 2<sup>1</sup> + 1 × 2<sup>0</sup>)\n\n= (16 + 0 + 0 + 2 + 1) + xxxxx2 + (16 + 8 + 4 + 0 + 0 ) + (4 + 0 + 1)\n\n=(64 + 0 + 0 + 8 + 4 + 2 + 1)\n\n19 + xxxxx<sub>2</sub>  + 33 = 79\n\nxxxxx<sub>2</sub>  + 52 = 79\n\nxxxxx<sub>2</sub>  = 79 − 52\n\nxxxxx<sub>2</sub>  = 27<sub>210</sub> \n\n\n\n\n27<sub>10</sub>  = 11011<sub>2</sub> \n\nTherefore xxxxx<sub>2</sub>  = 27<sub>10</sub>  = 11011<sub>2</sub>"
+  },
+  {
+    "id": 526,
+    "year": 2009,
+    "topic": "General",
+    "question": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
+    "options": [
+      "7/15",
+      "8/15",
+      "2/5",
+      "4/5"
+    ],
+    "answer": 2,
+    "explanation": "Let his allowance = y.\n\nBooks=  y/5                   Remainder: y − y/5 = 4y/5 \nFood: 1/2 × 4y/5 = 2y/5\nContingencies: 4y/5−2y5=2y5\nTherefore, he kept 2/5 of his allowance for contingencies."
+  },
+  {
+    "id": 511,
+    "year": 2008,
+    "topic": "General",
+    "question": "If x > 0, find the range of number x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x and 3x+1",
+    "options": [
+      "3x+3",
+      "3x+1",
+      "2x+5",
+      "2x+1"
+    ],
+    "answer": 0,
+    "explanation": "x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x, 3x+1\nRange = 4x - (x-3)\n= 3x + 3"
+  },
+  {
+    "id": 161,
+    "year": 2001,
+    "topic": "General",
+    "question": "Triangle SPT is the solution of the linear inequalities",
+    "options": [
+      "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
+      "-2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
+      "2y - x - 2 ≤ 0, y + 2x + 2 ≤ 0, y ≥ 0, x ≤ 0",
+      "2y - x - 2 ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0"
+    ],
+    "answer": 0,
+    "explanation": "Δ SPT is the solution of the inequalities\n2y - x - 2 ≤ 0\n2y ≤ 2 + x\ny ≤ 2/2 + x/2\ny ≤ 1 + 1/2x\ny + 2x + 2 ≥ 0,\ny ≥ -2 -2x\n∴ the solution of the inequalities\n2y - x - 2 ≤ 0,\ny + 2x + 2 ≥ 0\n= -2 ≤ x ≤ -1"
+  },
+  {
+    "id": 923,
+    "year": 2018,
+    "topic": "General",
+    "question": "If y = 23<sub>five</sub> + 101<sub>three</sub> , find y, leaving your answer in base two",
+    "options": [
+      "1110",
+      "10111",
+      "11101",
+      "111100"
+    ],
+    "answer": 1,
+    "explanation": "y = 23<sub>five</sub> + 101<sub>three</sub>\n23<sub>five</sub> = 2 × 5<sup>1</sup> + 3 × 5<sup>0</sup>\n= 13<sub>ten</sub>\n101<sub>three</sub>\n = 1×3<sup>2</sup> + 0 × 3<sup>1</sup> + 1 × 3<sup>0</sup>\n= 10<sub>ten</sub>\ny<sub>ten</sub> = 13<sub>ten</sub> + 10<sub>ten</sub>\n= 23<sub>ten</sub>\n= 10111<sub>two</sub>"
+  },
+  {
+    "id": 353,
+    "year": 2005,
+    "topic": "General",
+    "question": "The maximum value of the function\nf(x) = 2 + x - x<sup>2</sup> is",
+    "options": [
+      "9/4",
+      "7/4",
+      "3/2",
+      "1/2"
+    ],
+    "answer": 0,
+    "explanation": "f(x) = 2 + x - x<sup>2</sup>\ndy/dx = 1-2x\nAs dy/dx = 0\n1-2x = 0\n2x = 1\nx = 1/2\nAt x = 1/2\nf(x) = 2 + x - x<sup>2</sup>\n= 2 + 1/2 -(1/2)<sup>2</sup>\n= 2 + 1/2 - 1/4\n= (8+2-1) / 4 = 9/4"
+  },
+  {
+    "id": 653,
+    "year": 2011,
+    "topic": "General",
+    "question": "The derivatives of (2x + 1)(3x + 1) is",
+    "options": [
+      "12x + 1",
+      "6x + 5",
+      "6x + 1",
+      "12x + 5"
+    ],
+    "answer": 3,
+    "explanation": "2x + 1 d(3x+1)/dx\n + (3x + 1) d(2x+1)/dx\n\n\n2x + 1 (3) + (3x + 1) (2)\n\n6x + 3 + 6x + 2 = 12x + 5"
+  },
+  {
+    "id": 1196,
+    "year": 2014,
+    "topic": "General",
+    "question": "If gt<sup>2</sup> - k - w = 0, make g the subject of the formula",
+    "options": [
+      "k+w/t<sup>2</sup>",
+      "k-w/t<sup>2</sup>",
+      "k+w/t",
+      "k-w/t"
+    ],
+    "answer": 0,
+    "explanation": "gt<sup>2</sup> - k - w = 0\n\ngt<sup>2</sup> = k + w\n\ng = k + w/t<sup>2</sup>"
+  },
+  {
+    "id": 475,
+    "year": 2008,
+    "topic": "General",
+    "question": "Express 123456 to 3 significant figures",
+    "options": [
+      "123000",
+      "124000",
+      "125000",
+      "126000"
+    ],
+    "answer": 0,
+    "explanation": "NB: This is a correction to the solution in the video lesson.\n123456 ≊\n 123000."
+  },
+  {
+    "id": 835,
+    "year": 2016,
+    "topic": "General",
+    "question": "Factorize k<sup>2</sup> - 2kp + p<sup>2</sup>",
+    "options": [
+      "(k +p)<sup>2</sup>",
+      "(k - p)<sup>2</sup>",
+      "k<sup>2</sup> + p<sup>2</sup>",
+      "k<sup>2</sup> - p<sup>2</sup>"
+    ],
+    "answer": 1,
+    "explanation": "k<sup>2</sup> - 2kp + p<sup>2</sup> = (k - p)<sup>2</sup>"
+  },
+  {
+    "id": 616,
+    "year": 2010,
+    "topic": "General",
+    "question": "In how many ways can a committee of 2 women and 3 men be chosen from 6 men and 5 women?",
+    "options": [
+      "100",
+      "200",
+      "30",
+      "50"
+    ],
+    "answer": 1,
+    "explanation": "A committee of 2 women and 3 men can be chosen from 6 men and 5 women, in <sup>5</sup>C<sub>2</sub> x <sup>6</sup>C<sub>3</sub> ways\n\n= 5!/(5−2)!2! × 6!/(6−3)!3!\n\n= 5!/3!2! × 6!/3×3!\n\n= 5×4×3!/3!×2! × 6×5×4×3!/3!×3!\n\n= 5×4/1×2 × 6×5×4/1×2×3\n\n= 10 x (6×20)/6\n\n= 200"
+  },
+  {
+    "id": 1137,
+    "year": 2023,
+    "topic": "General",
+    "question": "How many different 8 letter words are possible using the letters of the word SYLLABUS?",
+    "options": [
+      "(8 - 1)!",
+      "8!/2!",
+      "8!/2!2!",
+      "8!"
+    ],
+    "answer": 2,
+    "explanation": "SYLLABUS has 8 letters, 2S's and 2L's\n\n8!/2!2!"
+  },
+  {
+    "id": 115,
+    "year": 2000,
+    "topic": "General",
+    "question": "If the diagram is the graph of y = x<sup>2</sup>, the shaded area is",
+    "options": [
+      "64 square units",
+      "126/4 square units",
+      "32 square units",
+      "64/3 square units"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 64/3 square units"
+  },
+  {
+    "id": 402,
+    "year": 2006,
+    "topic": "General",
+    "question": "What is the locus of points equidistant from the lines ax + bc + c = 0?",
+    "options": [
+      "A line bx - ay +q = 0",
+      "A line ax - ay +q = 0",
+      "A line bx + ay +q = 0",
+      "A line bx + ay +q = 0"
+    ],
+    "answer": 1,
+    "explanation": "Locus of point equidistant from a given straight is the perpendicular bisector of the straight line\n∴Gradient of the line ax + by + c = 0\nimplies by = -ax - c\ny = -a/bx - c\nthe gradient (m) = a/b\n∴Gradient of the perpendicular (m) = b/a\nIf P(x,y) is the point intersection of the two lines equation of the perpendicular becomes\ny - y1 = m(x - x1)\ny - y1 = b/a(x - x1)\nay - ay1 = bx - bx1\nay - bx + bx1 - ay1 = 0\nay - bx + b(x1 - y1) = 0\nimplies ay - bx + q"
+  },
+  {
+    "id": 560,
+    "year": 2009,
+    "topic": "General",
+    "question": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?",
+    "options": [
+      "45",
+      "50",
+      "60",
+      "75"
+    ],
+    "answer": 1,
+    "explanation": "Sectorial angle of apple\n100 + 100 + 115 + x = 30°\n315 + x = 360\nx = 360 - 315\nx = 45°\n360° represents 400\n1° represents 400 / 360\n45o represents (400/360) x (45/1)\n= 50 apples"
+  },
+  {
+    "id": 636,
+    "year": 2011,
+    "topic": "General",
+    "question": "T varies inversely as the cube of R. When R = 3, T = 2/81\n, find T when R = 2",
+    "options": [
+      "1/18",
+      "1/12",
+      "1/24",
+      "1/6"
+    ],
+    "answer": 1,
+    "explanation": "T α1/R<sup>3</sup>\n\n\nT = k/R<sup>3</sup>\n\n\nk = T/R<sup>3</sup>\n\n= 2/81 x 3<sup>3</sup>\n\n= 2/81 x 27\n\ndividing 81 by 27\n\nk = 2/2\n\n\ntherefore, T = 2/3\n x 1/R<sup>3</sup>\n\n\nWhen R = 2\n\nT = 2/3 x 1/23 = 2/3 x 1/8\n\n\n= 1/12"
+  },
+  {
+    "id": 1132,
+    "year": 2022,
+    "topic": "General",
+    "question": "Factorize 4a<sub>2</sub> - 9b<sub>2</sub>",
+    "options": [
+      "(2a-3b) (2a+3b)",
+      "(2a-b) (2a+3b)",
+      "(2a-3b) (a+3b)",
+      "(a-3b) (a+3b)"
+    ],
+    "answer": 0,
+    "explanation": "Check:\n(2a-3b) (2a+3b)\n\n4a<sub>2</sub> + 6ab - 6ab - 9b<sub>2</sub>\n                                                                                                                     4a<sub>2</sub> - 9b<sub>2</sub>"
+  },
+  {
+    "id": 102,
+    "year": 2000,
+    "topic": "General",
+    "question": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).\nIf a pie chart is used to depict the data, the angle corresponding to 4 is?",
+    "options": [
+      "10°",
+      "16°",
+      "40°",
+      "60°"
+    ],
+    "answer": 3,
+    "explanation": "Angle corresponding to 4 is 40/240 x 360/1 = 60°\nNote that total angle in a circle is 360°.\nNote also that sum of the frequencies given is 240."
+  },
+  {
+    "id": 164,
+    "year": 2001,
+    "topic": "General",
+    "question": "The histogram above shows the distribution of passengers in taxis of a certain motor park. How many taxis have more than 4 passengers",
+    "options": [
+      "16",
+      "17",
+      "14",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 17"
+  },
+  {
+    "id": 1268,
+    "year": 2015,
+    "topic": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>159</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>26</mn>\n        <mtext>&#xA0;rem 3</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n        <mtext>&#xA0;rem 2</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mn>0</mn>\n        <mtext>&#xA0;rem 4</mtext>\n      </mtd>\n    </mtr>\n  </mtable>\n  <mo stretchy=\"false\">&#x2191;<!-- ↑ --></mo>\n</math>",
+    "question": "If (159.75)10 = (x)6. Find x",
+    "options": [
+      "x<sub>6</sub> = 123.34<sub>6</sub>",
+      "x<sub>6</sub> = 424.5<sub>6</sub>",
+      "x6<sub>6</sub> = 122.43<sub>6</sub>",
+      "x<sub>6</sub> = 124.456<sub>6</sub>"
+    ],
+    "answer": 1,
+    "explanation": "(159.75)10 = (y)6\n\n\n\n15910 = 4236\n\nThen Convert 0.75 to base 6\n\n0.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.5\n0.5 x 6 = 3.00 423 + 1.5 =424.5\n\n159.75 = (424.5)6\n\n(159)10 = (424.5)6"
+  },
+  {
+    "id": 765,
+    "year": 2012,
+    "topic": "General",
+    "question": "The bar chart above shows the distribution of marks in a class test. If the pass mark is 5, what percentage of students failed the test?",
+    "options": [
+      "10%",
+      "20%",
+      "50%",
+      "60%"
+    ],
+    "answer": 2,
+    "explanation": "Number that score less than 5: 5 + 6 + 4 + 3 + 2 = 20\n\nTotal number of students: 5 + 6 + 4 + 3 + 2 + 4 + 6 + 5 + 1 + 3 + 1 = 40.\n\n%age of students that failed: 20/40 × 100"
+  },
+  {
+    "id": 351,
+    "year": 2005,
+    "topic": "General",
+    "question": "Find the derivative of y = sin(2x<sup>3</sup>\n + 3x - 4)",
+    "options": [
+      "cos (2x<sup>3</sup> + 3x - 4)",
+      "-cos (2x<sup>3</sup> + 3x - 4)",
+      "(6x<sup>2</sup> + 3) cos (2x<sup>3</sup> + 3x - 4)",
+      "-(6x<sup>2</sup> + 3) cos (2x<sup>3</sup> + 3x - 4)"
+    ],
+    "answer": 2,
+    "explanation": "y = sin (2x<sup>3</sup>\n + 3x - 4)\nlet u = 2x<sup>3</sup>\n + 3x - 4\n∴du/dx = 6x<sup>2</sup>\n\ny = sin u\ndy/du = cos u\ndy/dx = du/dx * dy/du\n∴dy/dx = (6x<sup>2</sup>\n + 3) cos u\n= (6x<sup>2</sup>\n + 3)cos(2x<sup>3</sup>\n + 3x - 4)"
+  },
+  {
+    "id": 387,
+    "year": 2006,
+    "topic": "General",
+    "question": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup>",
+    "options": [
+      "1:11",
+      "1:13",
+      "1:10",
+      "1:12"
+    ],
+    "answer": 3,
+    "explanation": "m : n = 13 : 11\nm<sup>2</sup> - n<sup>2</sup> = (m - n)<sup>2</sup>\n= 13<sup>2</sup> - 11<sup>2</sup> : (13 + 11)<sup>2</sup>\n= 169 - 121 : 24<sup>2</sup>\n= 48 : 576\n= 1 : 12"
+  },
+  {
+    "id": 492,
+    "year": 2008,
+    "topic": "General",
+    "question": "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation.",
+    "options": [
+      "1",
+      "0",
+      "-1/2",
+      "-1"
+    ],
+    "answer": 1,
+    "explanation": "mΔn = m+n+mn\nLet e be the identity element\n∴mΔe = eΔm = m\nm+e+me = m\ne+me = m-m\ne+me = 0\ne(1+m) = 0\ne = 0 / (1+m)\ne = 0"
+  },
+  {
+    "id": 1198,
+    "year": 2014,
+    "topic": "General",
+    "question": "Find the value of k if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6",
+    "options": [
+      "-6",
+      "-4",
+      "O",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6, then\n\nf(1) = (1)<sup>3</sup> + 4(1)<sup>2</sup> + k(1) - 6 = 0 (factor theorem)\n\n1 + 4 + k - 6 = 0\n\n5 - 6 + k = 0\n\n-1 + k = 0\n\nk = 1"
+  },
+  {
+    "id": 179,
+    "year": 2002,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>y</mi>\n  <mo>=</mo>\n  <msup>\n    <mi>sin</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>5</mn>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n</math>",
+    "question": "Find the derivative of y=sin<sup>2</sup>(5x)\n with respect to x.",
+    "options": [
+      "10 sin 5x cos 5x",
+      "5 sin5x cos 5x",
+      "2 sin 5x cos 5x",
+      "15 sin 5x cos 5x"
+    ],
+    "answer": 0,
+    "explanation": "y=sin<sup>2</sup>(5x)\n \nLet u = sin 5x\n\ndu/dx=5cos5x\n∴y=u<sup>2</sup>\nd/ydu=2u\ndy/dx=2u. 5 cos 5x\n= 10u cos 5x\n= 10 sin 5x cos 5x"
+  },
+  {
+    "id": 359,
+    "year": 2005,
+    "topic": "General",
+    "question": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r.",
+    "options": [
+      "1.35",
+      "1.65",
+      "1.95",
+      "3.00"
+    ],
+    "answer": 2,
+    "explanation": "1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20\nModal height = 1.35\nRange (r) = 1.50 - 1.20\n= 0.30\n∴m + 2r = 1.35 + 2(0.30)\n= 1.35 + 0.60\n= 1.95"
+  },
+  {
+    "id": 843,
+    "year": 2016,
+    "topic": "General",
+    "question": "From the table above, find the median",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 5"
+  },
+  {
+    "id": 107,
+    "year": 2000,
+    "topic": "General",
+    "question": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
+    "options": [
+      "15",
+      "28",
+      "30",
+      "45"
+    ],
+    "answer": 3,
+    "explanation": "No of ways of choosing 1 man, 2 women = 5C1 x 3C2\nNo of ways of choosing 2 men, 1 woman = 5C2 x 3C1\nSumming, => (5C1 x 3C2) + (5C2 x 3C1) = 15 + 30 = 45"
+  },
+  {
+    "id": 902,
+    "year": 2017,
+    "topic": "General",
+    "question": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
+    "options": [
+      "x3/3  - 3x2/2 - 5x + k",
+      "x3/3 - 3x2/2\n + 5x + k",
+      "x3/3  + 3x2/2 - 5x + k",
+      "x3/3  + 3x2/2\n + 5x + k"
+    ],
+    "answer": 2,
+    "explanation": "∫x<sup>n</sup>dx = x<sub>n+1</sub>/n+1\n\n\n∫dx = x + k\n\nwhere k is constant\n\n∫(x<sup>2</sup>  + 3x − 5)dx\n\n∫x<sup>2</sup>  dx + ∫3xdx − ∫5dx\n\n(2<sub>2</sub> + 1)/(2 + 1)\n + 3x<sup>1+1</sup>/(1+1)\n − 5x + k\n\nx<sub>3</sub>/3 + 3x<sub>2</sub>/2 − 5x + k"
+  },
+  {
+    "id": 907,
+    "year": 2017,
+    "topic": "General",
+    "question": "Find the gradient of the line joining the points (3, 2) and (1, 4)",
+    "options": [
+      "3/2",
+      "2/1",
+      "-1",
+      "3/2"
+    ],
+    "answer": 2,
+    "explanation": "Gradient of line joining points (3, 2), (1, 4)\n\nGradient = Change in Y/Change in X\n\n\n= y<sub>2</sub> −Y<sub>1</sub>/ x<sub>2</sub> −x<sub>1</sub> \n\n\n(X<sub>1</sub> , Y<sub>1</sub> ) = (3, 2)\n\n(X<sub>2</sub> , Y<sub>2</sub> ) = (1, 4)\n\nGradient = (4−2)/(1+3)\n\n\n= 2/−2\n\n\n= −1"
+  },
+  {
+    "id": 727,
+    "year": 2012,
+    "topic": "General",
+    "question": "Simplify (√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>",
+    "options": [
+      "2√6",
+      "4√6",
+      "8√6",
+      "16√6"
+    ],
+    "answer": 2,
+    "explanation": "√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>  =  [(√6+2)+(√6 − 2)][(√6 + 2) − (√6 − 2)]\n\n= (√6 + 2 + √6 − 2)(√6 + 2− √6 + 2)]\n\n\n= (2√6)(4)\n\n\n= 8√6"
+  },
+  {
+    "id": 537,
+    "year": 2009,
+    "topic": "General",
+    "question": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is?",
+    "options": [
+      "n(3n - 0.5)",
+      "n(3n + 2)",
+      "n(3n + 2.5)",
+      "n(3n + 5)"
+    ],
+    "answer": 1,
+    "explanation": "a = 5, d = 6, n = n\nSn = n/2(2a + (n-1)d)\n= n/2(2(5) + (n-1)6)\n= n/2(10 + 6n-6)\n= n/2(6n+4)\n= 6n2/2 + 4n/2\n= 32 + 2n\n= n(3n + 2)"
+  },
+  {
+    "id": 368,
+    "year": 2005,
+    "topic": "General",
+    "question": "In the diagram above calculate the value of x",
+    "options": [
+      "60°",
+      "100°",
+      "120°",
+      "140°"
+    ],
+    "answer": 2,
+    "explanation": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°"
+  },
+  {
+    "id": 1200,
+    "year": 2014,
+    "topic": "General",
+    "question": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R.",
+    "options": [
+      "P = Q/12R",
+      "P = 12Q/R",
+      "P=12QR",
+      "P = 12/QR"
+    ],
+    "answer": 1,
+    "explanation": "P ∝ Q/R\n \n\nP = K(Q/R)\n\n\nWhen Q = 36, R = 16, P = 27\n\nThen substitute into the equation\n\n27 = K(36/16)\n\n\n\nK = (27×16)/36\n\n\nK=12\n\n\nSo the equation connecting P, Q and R is\n\nP = 12Q/R"
+  },
+  {
+    "id": 1219,
+    "year": 2014,
+    "topic": "General",
+    "question": "Evaluate ∫(2x+3)<sup>(1/2)</sup> δx",
+    "options": [
+      "1/12(2x+3)<sup>6</sup> +k",
+      "1/3(2x+3)<sup>(1/2)</sup> +k",
+      "1/3(2x+3)<sup>3/2</sup> +k",
+      "1/12(2x+3)<sup>3/4</sup> +k"
+    ],
+    "answer": 2,
+    "explanation": "∫(2x + 3)<sup>(1/2)</sup>δx\n\n\nlet u = 2x + 3, δy/δx=2\n\n\nδx=δu/2\n\n\nNow ∫(2x+3)<sup>(1/2)</sup>δx=∫u<sup>(1/2)</sup>.δx/2\n\n\n=1/2∫u<sup>(1/2)</sup>δu\n\n\n=1/2u<sup>(3/2)</sup>×23 + k\n\n\n=1/3u<sup>(3/2)</sup> + k\n\n\n=1/3(2x+3)3/2 + k"
+  },
+  {
+    "id": 849,
+    "year": 2016,
+    "topic": "General",
+    "question": "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is",
+    "options": [
+      "2",
+      "t",
+      "-t",
+      "-2"
+    ],
+    "answer": 0,
+    "explanation": "Mean = (2−t+4+t+3−2t+2+t+t−1)/5\n\n\n= 10/5\n = 2"
+  },
+  {
+    "id": 544,
+    "year": 2009,
+    "topic": "General",
+    "question": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
+    "options": [
+      "12",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Sum of interior angles of a polygon = each interior ∠ x n\n(n-2)180 = 150 x n\n180n - 360 = 150n\n180n-150n = 360\n30n = 360\nn = 360/30\nn = 12 sides"
+  },
+  {
+    "id": 326,
+    "year": 2005,
+    "topic": "General",
+    "question": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
+    "options": [
+      "60",
+      "54",
+      "48",
+      "42"
+    ],
+    "answer": 1,
+    "explanation": "Let x = the number of oranges\nThe 1st received 1/3 of x = 1/3x\n∴Remainder = x - 1/3x = 2x/3\nThe 2nd received 2/3 of 2x/3 = 2/3 * 2x/3 = 4x/3\nThe 3rd received 12 oranges\n∴1/3x + 4x/9 + 12 = x\n(3x + 4x + 108)/9 = x\n3x + 4x + 108 = 9x\n7x + 108 = 9x\n9x - 7x = 108\n2x = 108\nx = 54 oranges"
+  },
+  {
+    "id": 391,
+    "year": 2006,
+    "topic": "General",
+    "question": "Find the tax on an income of N20,000 if no tax is paid on the first N10,000 and tax is paid at N50 in N1000 on the next N5000 and at N55 in N1000 on the remainder",
+    "options": [
+      "N500",
+      "N552",
+      "N255",
+      "N525"
+    ],
+    "answer": 3,
+    "explanation": "N20,000 - N10,000 = N10,000\n1st tax on N5000 at N50 per N1000\n= 5*50 = N250\n2nd tax on the remaining N5000 at N55 per N1000 = 5*55 = N275\nTotal tax paid = N250 + N275\n= N525"
+  },
+  {
+    "id": 401,
+    "year": 2006,
+    "topic": "General",
+    "question": "IN the diagram above, POQ is a diameter of the circle PQRS. If ∠PSR = 145°, find xo",
+    "options": [
+      "55°",
+      "45°",
+      "35°",
+      "25°"
+    ],
+    "answer": 0,
+    "explanation": "∠PSQ = 90° (∠ in semi circle)\n∠PSQ + ∠QSR = 145o\n90 + ∠QSR = 145\n∠QSR = 145 - 90\n∠QSR = 55°\nBUt x° = ∠QSR (∠s in the same segment)\n∴xo = 55°"
+  },
+  {
+    "id": 516,
+    "year": 2008,
+    "topic": "General",
+    "question": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5",
+    "options": [
+      "3/10",
+      "1/5",
+      "1/6",
+      "1/10"
+    ],
+    "answer": 1,
+    "explanation": "Total possible outcome\n12+18+x+30+2x+45 = 105+3x\nâˆ´105+3x = 150\n3x = 150-105\n3x = 45\nx = 15\nP(obtaining 5) =  2x/((105+3x)) Butx=15=(2(15))/((105+3(15)))=30/((105+45))=30/150=1/5"
+  },
+  {
+    "id": 567,
+    "year": 2009,
+    "topic": "General",
+    "question": "What value of x will make the function x(4 - x) a maximum?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "x(4 - x)\n\n4x - x2\n\ndy/dx = 4 - 2x\n\ndy/dx = 0\n\n2x = 4\n\nx = 4/2\n\n= 2"
+  },
+  {
+    "id": 782,
+    "year": 2013,
+    "topic": "General",
+    "question": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
+    "options": [
+      "s varies inversely as r and t<sup>2</sup>",
+      "s varies inverely as r<sup>2</sup> and t",
+      "s varies directly as r<sup>2</sup> and t<sup>2</sup>",
+      "s varies directly as r and t"
+    ],
+    "answer": 1,
+    "explanation": "r ∝ 1/√s, r ∝ 1/√t\n \n\nr ∝ 1/√s ..... (1)\n\nr ∝ 1/√t ..... (2)\n\nCombining (1) and (2), we get\n\nr = k/(√s × √t) = k/√(st)\n\n\nThis gives √(st) = k/r\n\n\nBy taking the square of both sides, we get\n\nst = k<sup>2</sup>/r<sup>2</sup>\n\n\ns = k<sup>2</sup>/r<sup>2</sup>t"
+  },
+  {
+    "id": 189,
+    "year": 2002,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>x</mi>\n    <mrow>\n      <mi>r</mi>\n      <mo>+</mo>\n      <mi>a</mi>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mi>a</mi>\n    <mi>r</mi>\n  </mfrac>\n</math>",
+    "question": "ake r subject of the formula given that x/r+a = a/r",
+    "options": [
+      "a<sub>2</sub>/(x−a)",
+      "a<sub>2</sub>/(x+a)",
+      "a/(x - a)",
+      "a/(x + a)"
+    ],
+    "answer": 0,
+    "explanation": "x/r+a = a/r\n \n⟹ rx = ar + a<sub>2</sub>\nrx − ra = a<sub>2</sub> ⟹ r = a<sub>2</sub>/ (x−a)"
+  },
+  {
+    "id": 1231,
+    "year": 2014,
+    "topic": "General",
+    "question": "Find the value of x in the figure above",
+    "options": [
+      "20√3cm",
+      "10√3cm",
+      "5√3cm",
+      "4√3cm"
+    ],
+    "answer": 1,
+    "explanation": "In the figure above, x/sin 60° =10/sin30° (Sine rule)\n\nx = 10sin60°/sin30°\n\n\n= 10 x √3/2 × 1/2\n\n\n= 10 x √3/2 × 2/1\n\n\n= 10√3cm"
+  },
+  {
+    "id": 229,
+    "year": 2003,
+    "topic": "General",
+    "question": "A cinema hall contains a certain number of people. If 22(1/2)% are children, 47{1/2)% are men and 84 are women, find the number of men in the hall.",
+    "options": [
+      "63",
+      "84",
+      "113",
+      "133"
+    ],
+    "answer": 3,
+    "explanation": "45/2% + 95/2% = 70%\n100% - 70% = 30% (i.e women)\n=> 30% = 84\n1% = 84/30\n95/2% = (84/30 x 95/2) = 133."
+  },
+  {
+    "id": 889,
+    "year": 2017,
+    "topic": "General",
+    "question": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?",
+    "options": [
+      "three times as much",
+      "the same",
+      "twice as much",
+      "half as much"
+    ],
+    "answer": 2,
+    "explanation": "Let the speed of the 1st trip be x miles/hr\n\nand the speed of the 2nd trip be 3x miles/hr\n\nSpeed = distance/time\n\n∴ Time taken to cover a distance of 50 miles on the 1st trip\n\n= 50/xhr\n\ntime taken to cover a distance of 300 miles on the next trip\n\n= 300/3xhr\n\n= 100/xhr\n\n∴the new time compared with the old time is twice as much"
+  },
+  {
+    "id": 245,
+    "year": 2003,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>3</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msubsup>\n  <mo stretchy=\"false\">(</mo>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "question": "Evaluate ∫<sup>2</sup>\n<sub>3</sub>(x2−2x)dx",
+    "options": [
+      "4",
+      "2",
+      "4/3",
+      "1/3"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 4/3"
+  },
+  {
+    "id": 279,
+    "year": 2004,
+    "topic": "General",
+    "question": "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find ∠PSO",
+    "options": [
+      "45°",
+      "55°",
+      "35°",
+      "40°"
+    ],
+    "answer": 2,
+    "explanation": "x° = 35 + 29 (Exterior angle = sum of two interior opposite angles)\nx = 55° (∠ at the center twice ∠ at circumference) y = 110°\n∠PSO = ∠SPO (base ∠S of 1sc Δ b/c PO = SO)\n∴ ∠PSO = (180 - 110)/2\n= 35°"
+  },
+  {
+    "id": 1006,
+    "year": 2019,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>6</mn>\n    <mn>0.32</mn>\n  </mfrac>\n  <mo>&#x00F7;<!-- ÷ --></mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>0.084</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n</math>",
+    "question": "Evaluate  (6/0.32÷2/0.084 )<sup>(-1)</sup> correct to 1 decimal place.",
+    "options": [
+      "1.3",
+      "2.5",
+      "4.6",
+      "3.2"
+    ],
+    "answer": 0,
+    "explanation": "(6/0.32 ÷ 2/0.084)<sup>−1</sup>\n= (600/32 ÷ 2000/84)<sup>−1</sup>\n= (600/32×84/2000)<sup>−1</sup>\n= (63/80)<sup>−1</sup>\n= 80/63 = 1.3 (to 1 decimal place)"
+  },
+  {
+    "id": 639,
+    "year": 2011,
+    "topic": "General",
+    "question": "Find the sum of the first 18 terms of the series 3, 6, 9,..., 36.",
+    "options": [
+      "505",
+      "513",
+      "433",
+      "635"
+    ],
+    "answer": 1,
+    "explanation": "3, 6, 9,..., 36.\n\na = 3, d = 3, i = 36, n = 18\n\nS<sub>n</sub> = n/2\n [2a + (n - 1)d\n\nSS<sub>18</sub> = 18/2\n [2 x 3 + (18 - 1)3]\n\n= 9[6 + (17 x 3)]\n\n= 9 [6 + 51] = 9(57)\n\n= 513"
+  },
+  {
+    "id": 1115,
+    "year": 2022,
+    "topic": "General",
+    "question": "The locus of points equidistant from a fixed point.",
+    "options": [
+      "circle",
+      "perpendicular lines",
+      "straight line",
+      "bisector"
+    ],
+    "answer": 0,
+    "explanation": "Definition of a circle"
+  },
+  {
+    "id": 654,
+    "year": 2011,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>C</mi>\n        <mi>l</mi>\n        <mi>a</mi>\n        <mi>s</mi>\n        <mi>s</mi>\n        <mi>I</mi>\n        <mi>n</mi>\n        <mi>t</mi>\n        <mi>e</mi>\n        <mi>r</mi>\n        <mi>v</mi>\n        <mi>a</mi>\n        <mi>l</mi>\n        <mi>s</mi>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>8</mn>\n      </mtd>\n      <mtd>\n        <mn>9</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>11</mn>\n      </mtd>\n      <mtd />\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>F</mi>\n        <mi>r</mi>\n        <mi>e</mi>\n        <mi>q</mi>\n        <mi>u</mi>\n        <mi>e</mi>\n        <mi>n</mi>\n        <mi>c</mi>\n        <mi>y</mi>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd />\n    </mtr>\n  </mtable>\n</math>",
+    "question": "ClassIntervalsFrequency0−233−526−859−113\n \nFind the mode of the above distribution.",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "Mode = L<sub>1</sub> + (D<sub>1</sub/D<sub>1</sub>+D<sub>2</sub>)C\n\nD<sub>1</sub> = frequency of modal class - frequency of the class before it\n\nD<sub>1</sub> = 5 - 2 = 3\n\nD<sub>2</sub> = frequency of modal class - frequency of the class that offers it\n\nD<sub>2</sub> = 5 - 3 = 2\n\nL<sub>1</sub> = lower class boundary of the modal class\n\nL<sub>1</sub> = 5 - 5\n\nC is the class width = 8 - 5.5 = 3\n\nMode = L<sub>1</sub> + (D<sub>1</sub>/D<sub>1</sub>+D<sub>2</sub>)C\n\n= 5.5 + 3/(2+3)C\n\n= 5.5 + 3/5 x 3\n\n= 5.5 + 9/5\n\n= 5.5 + 1.8\n\n= 7.3 ≈ = 7"
+  },
+  {
+    "id": 580,
+    "year": 2010,
+    "topic": "General",
+    "question": "If ∣∣∣x237∣∣∣ = 15, find the value of x",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "x x 7 - 2 x 3 = 15\n7x - 6 = 15\n7x = 15+6\n7x = 21\nx = 21/7\nx = 3"
+  },
+  {
+    "id": 168,
+    "year": 2001,
+    "topic": "General",
+    "question": "Find the value of θ in the diagram",
+    "options": [
+      "60°",
+      "100°",
+      "120°",
+      "30°"
+    ],
+    "answer": 2,
+    "explanation": "Using cosine formula (t√3)<sup>2</sup> = t<sup>2</sup> + t<sup>2</sup> - 2t<sup>2</sup> cosθ\n\n\n3t<sup>2</sup> = 2t<sup>2</sup> - 2t<sup>2</sup> cosθ\n = 2t<sup>2</sup>(1 - cosθ)\n\n1 - cosθ\n = 3t<sup>2</sup> / 2t<sup>2</sup>\n = 3/2\n\n\ncos = 1 - 3/2 = − 1/2\n\n\nθ = cos<sup>-1</sup>(-1/2)          = 120° and 240°\n\nN.B 0 ≥ θ 360"
+  },
+  {
+    "id": 1278,
+    "year": 2015,
+    "topic": "General",
+    "question": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx",
+    "options": [
+      "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 + 2x + C",
+      "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 − x<sup>2</sup>  + 5x + C",
+      "5x<sup>3</sup> /3 + 7x<sup>2</sup> /x − x + C",
+      "2x<sup>2</sup> /3 + x/5  − C"
+    ],
+    "answer": 1,
+    "explanation": "∫(5x<sup>3</sup> + 7x<sup>2</sup> −2x + 5)dx\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − 2x<sup>2</sup>/2 + 5x + c\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − x<sup>2</sup> + 5x + c"
+  },
+  {
+    "id": 220,
+    "year": 2002,
+    "topic": "General",
+    "question": "Use the graph find the values of p and q if px + qy ≥\n 4",
+    "options": [
+      "p = 2, q = -1",
+      "p = -1, q = 2",
+      "p = 2, q = 2",
+      "p = 1, q = 2"
+    ],
+    "answer": 1,
+    "explanation": "m =( y<sub>2</sub>−y<sub>1</sub>)/ (x<sub>2</sub>−x<sub>1</sub>) = 2−0/0−(4) = 2/4 = 1/2\n\n\n(y<sub>2</sub>−y<sub>1</sub>)/x<sub>2</sub>− x<sub>1</sub> ≥ m\n\n\n(y−0)/(x+4) ≥ 1/2\n\n2y ≥ x + 4, -x + 2y ≥ 4 = px + qy ≥ 4\np = -1, q = 2"
+  },
+  {
+    "id": 652,
+    "year": 2011,
+    "topic": "General",
+    "question": "A man walks 100 m due West from a point X to Y, he then walks 100 m due North to a point Z. Find the bearing of X from Z.",
+    "options": [
+      "195°",
+      "135°",
+      "225°",
+      "045°"
+    ],
+    "answer": 1,
+    "explanation": "tanθ = 100/100 = 1\n\nθ = tan<sup>-1</sup>(1) = 45°\n\nThe bearing of x from z is N45oE or 135°"
+  },
+  {
+    "id": 502,
+    "year": 2008,
+    "topic": "General",
+    "question": "Find the derivative of y=x<sup>7</sup> −x<sup>7</sup>/ x<sup>4</sup>",
+    "options": [
+      "x(x<sup>2</sup> -1)",
+      "3x(x<sup>2</sup> -1)",
+      "3x<sup>2</sup> -1",
+      "7x<sup>6</sup> -5x<sup>4</sup>"
+    ],
+    "answer": 2,
+    "explanation": "y=(x<sup>7</sup> -x<sup>5</sup> )/x<sup>4</sup>.   y=x<sup>7</sup> /x<sup>4</sup>  ÷ x<sup>5</sup> /x<sup>4</sup>.   y=x<sup>3</sup> -x. dy/dx=3x<sup>2</sup> -1"
+  },
+  {
+    "id": 1171,
+    "year": 2023,
+    "topic": "General",
+    "question": "If −2x<sup></sup> +6x<sup>2</sup> +17x - 21 is divided by (x+1), then the remainder is",
+    "options": [
+      "32",
+      "30",
+      "-30",
+      "-32"
+    ],
+    "answer": 2,
+    "explanation": "Let p(x)=−2x<sup>3</sup> + 6x<sup>2</sup> + 17x − 21\n\n\nUsing the remainder theorem\n\nLet x + 1 = 0\n\n\n∴ x = −1\n\n\nSince, (x+1) divides p(x), then, remainder will be p(-1)\n\n⇒ p(-1) = -2(-1)<sup>3</sup> +6(−1)<sup>2</sup>  + 17(-1) - 21\n\n∴ p(-1) = -30"
+  },
+  {
+    "id": 947,
+    "year": 2018,
+    "topic": "General",
+    "question": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12",
+    "options": [
+      "5x + 7y = 20",
+      "7x + 5y = 70",
+      "xy = 7",
+      "15x + 17y = 90"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 7x + 5y = 70"
+  },
+  {
+    "id": 550,
+    "year": 2009,
+    "topic": "General",
+    "question": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
+    "options": [
+      "A circle of radius 4 cm and the center 0",
+      "The perpendicular bisector of the chords",
+      "A straight line passing through 0",
+      "A circle of radius 6 cm and with center 0"
+    ],
+    "answer": 0,
+    "explanation": "x<sup>2</sup> + 3<sup>3</sup> = 5<sup>2</sup>\nx<sup>2</sup> + 9 = 25\nx<sup>2</sup> = 25 – 9\nx<sup>2</sup> = 16\n\nx = √ 16 \n\n= 4 cm\n∴ The locus is a circle of radius 4 cm with the center O"
+  },
+  {
+    "id": 400,
+    "year": 2006,
+    "topic": "General",
+    "question": "In the diagram above, find the value of x",
+    "options": [
+      "55°",
+      "50°",
+      "45°",
+      "40°"
+    ],
+    "answer": 2,
+    "explanation": "y = 55 (alternate angles)\nx = x (same reason)\n260 + y + x = 360 (∠s at a point)\n260 + 55 + x = 360\n315 + x = 360\nx = 360 - 315\nx = 45°"
+  },
+  {
+    "id": 1165,
+    "year": 2023,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mn>16</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>4</mn>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <msup>\n    <mi>y</mi>\n    <mn>4</mn>\n  </msup>\n</math>                                                                                                                                                                                            =                                            <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>[</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mn>0</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>]</mo>\n  </mrow>\n</math>",
+    "question": "Factorize: 16x<sup>4</sup>−y<sup>4</sup>",
+    "options": [
+      "(2x−y)(2x+y)(4x<sup>2</sup>+y<sup>2</sup>)",
+      "(2x+y)(2x+y)(4x<sup>2</sup>+y<sup>2</sup>)",
+      "(2x−y)(2x−y)(4x<sup>2</sup>+y<sup>2</sup>)",
+      "(2x−y)(2x+y)(4x<sup>2</sup>−y<sup>2</sup>)"
+    ],
+    "answer": 0,
+    "explanation": "16x<sup>4</sup> − y<sup>4</sup>\n\n\n= 2<sup>4</sup>x<sup>4</sup> − y<sup>4</sup>\n\n\n= (2x)<sup>4</sup> − y<sup>4</sup>\n\n\n= ((2x)<sup>2</sup>)<sup>2</sup> − (y<sup>2</sup>)<sup>2</sup>\n\n\nUsing a<sup>2</sup> − b<sup>2</sup> = (a - b)(a + b) identity\n\n= ((2x)<sup>2</sup>−y<sup>2</sup>)((2x)<sup>2</sup>+y<sup>2</sup>)\n\n\nUsing the identity one more time\n\n= (2x − y)(2x + y)((2x)<sup>2</sup> + y<sup>2</sup>)\n\n\n∴ (2x − y)(2x + y)(4x<sup>2</sup> + y<sup>2</sup>)"
+  },
+  {
+    "id": 415,
+    "year": 2006,
+    "topic": "General",
+    "question": "If y = x2 - x - 12, find the range of values of x for which y ≥ \n 0",
+    "options": [
+      "x < -3 0r x > 4",
+      "x ≤ -3 or x ≥ 4",
+      "-3 < x ≥ 4",
+      "-3 ≤ x ≤ 4"
+    ],
+    "answer": 1,
+    "explanation": "y = x<sup>2</sup> - x - 12\n= (x - 4)(x + 3)\n∴ x = 4 or x = -3\nChecking the cases for y ≥\n 0\nWe check values on the range x - 4 ≥\n 0; x + 3 ≤\n 0; x - 4 ≤\n 0 and x + 3 ≥\n 0 for the range which satisfies the inequality x2\n - x - 12 ≥ 0.\n\nWe find that the inequality is satisfied on the range x ≤ -3 and x ≥\n 4."
+  },
+  {
+    "id": 298,
+    "year": 2004,
+    "topic": "SOLUTION : <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>a</mi>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mo>,</mo>\n  <msub>\n    <mi>U</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mn>162</mn>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>U</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mi>a</mi>\n  <msup>\n    <mi>r</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>4</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>U</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mi>a</mi>\n  <msup>\n    <mi>r</mi>\n    <mn>3</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <mn>162</mn>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mo stretchy=\"false\">(</mo>\n  <mi>r</mi>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mn>3</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mi>r</mi>\n    <mn>3</mn>\n  </msup>\n  <mo>=</mo>\n  <mn>27</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>r</mi>\n  <mo>=</mo>\n  <mroot>\n    <mn>27</mn>\n    <mn>3</mn>\n  </mroot>\n  <mspace linebreak=\"newline\" />\n  <mi>r</mi>\n  <mo>=</mo>\n  <mn>3</mn>\n  <mspace linebreak=\"newline\" />\n  <msub>\n    <mi>S</mi>\n    <mn>4</mn>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mi>a</mi>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mi>r</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi>n</mi>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mi>r</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mn>3</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>6</mn>\n      <mo stretchy=\"false\">(</mo>\n      <mn>27</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>3</mn>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mn>26</mn>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>78</mn>\n</math>",
+    "question": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
+    "options": [
+      "27",
+      "8",
+      "78",
+      "48"
+    ],
+    "answer": 2,
+    "explanation": "a=6,U<sub>4</sub> =162. U<sub>4</sub>=ar<sup>(4-1)</sup> UU<sub>4</sub> = ar<sup>3</sup> 162=6(r)<sup>3</sup>. r<sup>3</sup>=27. r=∛27.  r=3.  S<sub>4</sub>=(a(r<sup>n</sup>-1))/(r-1)=(6(3<sup>3</sup>-1))/(3-1)=(6(27-1))/2=3×26=78"
+  },
+  {
+    "id": 915,
+    "year": 2017,
+    "topic": "General",
+    "question": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+    "options": [
+      "15 days",
+      "12 days",
+      "5days",
+      "9days"
+    ],
+    "answer": 3,
+    "explanation": "Let t be the time taken Let m the number of men  t ∝1/m t = k/m (k = proportionality constant) when m =45, t=5.    5=k/45.   k =225 When we have 25 men, the number of days will be  t = k/m =225/25  t = 9days"
+  },
+  {
+    "id": 913,
+    "year": 2017,
+    "topic": "General",
+    "question": "What is the product of 2x<sup>2</sup − x + 1 and 3 − 2x",
+    "options": [
+      "4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+      "−4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3",
+      "−4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+      "4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3"
+    ],
+    "answer": 1,
+    "explanation": "(2x<sup>2</sup> - x + 1) × (3 - 2x);\n\n3(2x<sup>2</sup> - x + 1) - 2x (2x<sup>2</sup> - x + 1)\n\n6x<sup>2</sup> - 3x + 3 - 4x<sup>3</sup> + 2x<sup>2</sup> - 2x\n\n-4x<sup>3</sup> + 8x<sup>2</sup> -5x + 3"
+  },
+  {
+    "id": 1181,
+    "year": 2023,
+    "topic": "General",
+    "question": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle",
+    "options": [
+      "1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
+      "1950 m<sup>2</sup>\n ≤ A < 2002m<sup>2</sup>",
+      "1957 m<sup>2</sup>\n ≤ A < 1995 m<sup>2</sup>",
+      "1931.25 m<sup>2</sup>\n ≥ A > 2021.25 m<sup>2</sup>"
+    ],
+    "answer": 0,
+    "explanation": "The sides have been given to the nearest meter, so\n\n51.5 m ≤ length < 52.5\n\n37.5 m ≤ width < 38.5\n\nMinimum area = 37.5 x 51.5 = 1931.25 m<sup>2</sup>\n\n\nMaximum area = 38.5 x 52.5 = 2021.25 m<sup>2</sup>\n\n\n∴ The range of the area = 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>"
+  },
+  {
+    "id": 660,
+    "year": 2011,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>C</mi>\n        <mi>l</mi>\n        <mi>a</mi>\n        <mi>s</mi>\n        <mi>s</mi>\n        <mi>I</mi>\n        <mi>n</mi>\n        <mi>t</mi>\n        <mi>e</mi>\n        <mi>r</mi>\n        <mi>v</mi>\n        <mi>a</mi>\n        <mi>l</mi>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>8</mn>\n      </mtd>\n      <mtd>\n        <mn>9</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>11</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>F</mi>\n        <mi>r</mi>\n        <mi>e</mi>\n        <mi>q</mi>\n        <mi>u</mi>\n        <mi>e</mi>\n        <mi>n</mi>\n        <mi>c</mi>\n        <mi>y</mi>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "question": "Find the standard deviation of the above distribution.",
+    "options": [
+      "√5",
+      "√6",
+      "√7",
+      "√2"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: √6"
+  },
+  {
+    "id": 1105,
+    "year": 2022,
+    "topic": "General",
+    "question": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
+    "options": [
+      "8cm",
+      "5.6cm",
+      "7cm",
+      "6.5cm"
+    ],
+    "answer": 0,
+    "explanation": "Using pythagoras formula:\n\nHyp<sup>2</sup>\n = adj<sup>2</sup>\n + opp<sup>2</sup>\n5<sup>2</sup>\n = opp<sup>2</sup>\n + 3<sup>2</sup>\n \n\n5<sup>2</sup>\n - 3<sup>2</sup>\n = adj<sup>2</sup>\n4 = adj\n\nlength of the chord = 2 * 4 = 8cm"
+  },
+  {
+    "id": 858,
+    "year": 2016,
+    "topic": "General",
+    "question": "Solve for x and y respectively\n3x - 5y = 9\n6x - 4y = 12",
+    "options": [
+      "3/4 , 1",
+      "4/3 , 1",
+      "3/4 , -1",
+      "4/3 , -1"
+    ],
+    "answer": 3,
+    "explanation": "3x - 5y = 9 ------x2\n6x - 4y = 12 -----x1\n6x - 10y = 18\n-6x - 4y = 12\n____________\n6y/−6 = 6/6\n\n\ny = -1\nin eq (1) 3x - 5y = 9\n3x - 5(-1) = 9\n3x + 5 = 9\n3x = 4\nx = 4/3"
+  },
+  {
+    "id": 1221,
+    "year": 2014,
+    "topic": "General",
+    "question": "Find the mode of the distribution above",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "The number with the highest frequency = 4"
+  },
+  {
+    "id": 1071,
+    "year": 2021,
+    "topic": "General",
+    "question": "Simplify √27 + 3/√3",
+    "options": [
+      "4√3",
+      "4/√3",
+      "3√3",
+      "√3/4"
+    ],
+    "answer": 0,
+    "explanation": "√27 + 3√3\n= √(9×3) + (3×√3/(√3 ×√3)\n= 3√3 + √3\n= 4√3"
+  },
+  {
+    "id": 201,
+    "year": 2002,
+    "topic": "General",
+    "question": "A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45°. if the distance between the hunter and the tree is 10.4 m, find the height of the tree.",
+    "options": [
+      "9.0 m",
+      "12. 0 m",
+      "8.8 m",
+      "10.4 m"
+    ],
+    "answer": 1,
+    "explanation": "tan 45 = x/10.4\n = 10.4m\n\nheight of the tree is equal to 1.6m + 10.4m = 12m"
+  },
+  {
+    "id": 992,
+    "year": 2019,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>d</mi>\n    <mrow>\n      <mi>d</mi>\n      <mi>x</mi>\n    </mrow>\n  </mfrac>\n  <mo stretchy=\"false\">[</mo>\n  <mi>log</mi>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>4</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>3</mn>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo stretchy=\"false\">]</mo>\n</math>",
+    "question": "d/dx [log⁡(4x<sup>3</sup> - 2x) ] is equal to",
+    "options": [
+      "(12x−2)/4x<sup>2</sup>",
+      "(43x<sup>2</sup>−2x)/7x",
+      "(4x<sup>2</sup>−2)/7x+6",
+      "(12x<sup>2</sup>−2)/4x<sup>3</sup>−2x"
+    ],
+    "answer": 3,
+    "explanation": "d/dx [log(4x<sup>3</sup> - 2x) ]   ... (1)\n\nLet u = 4x<sup>3</sup - 2x.\n\nd/dx(log(4x<sup>3</sup> − 2x)) = (d/du)(du/dx)\nd/du(logu) = 1/u\ndu/dx = 12x<sup>2</sup> − 2\n∴d/dx[log(4x<sup>3</sup> − 2x) ]= (12x<sup>2</sup> − 2)/u\n= (12x<sup>2</sup> − 2)/(4x<sup>3</sup> − 2x)"
+  },
+  {
+    "id": 211,
+    "year": 2002,
+    "topic": "General",
+    "question": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8.",
+    "options": [
+      "13/6",
+      "5/2",
+      "7/6",
+      "7/3"
+    ],
+    "answer": 3,
+    "explanation": "Mean : (7+3+14+9+7+8)/6 = 48/6 = 8\nMean deviation : (∑|x−x¯)n = 14/6 = 7/3"
+  },
+  {
+    "id": 795,
+    "year": 2013,
+    "topic": "General",
+    "question": "If the variance of 3+x, 6, 4, x and 7-x is 4 and the mean is 5, find the standard deviation",
+    "options": [
+      "√3",
+      "2",
+      "3",
+      "√2"
+    ],
+    "answer": 1,
+    "explanation": "Let δ<sup>2</sup> and δ denote the variance and standard deviation of the distribution respectively.\n\nBut δ<sup>2</sup> = 4 (given)\n\nHence δ = √4 = 2"
+  },
+  {
+    "id": 452,
+    "year": 2007,
+    "topic": "General",
+    "question": "Given\nP = {1, 3, 5, 7, 9, 11}\nand Q = {2, 4, 6, 8, 10, 12}. Determine the relationship between P and Q",
+    "options": [
+      "P∩Q = ∅",
+      "P ⊂ Q",
+      "Q⊂P",
+      "P = Q"
+    ],
+    "answer": 0,
+    "explanation": "P = {1, 3, 5, 7, 9, 11}\nQ = {2, 4, 6, 8, 1, 12}\nP∩Q = {1, 3, 5, 7, 9, 11}∩{2, 4, 6, 8, 1, 12}\n= {} = ∅"
+  },
+  {
+    "id": 1146,
+    "year": 2023,
+    "topic": "General",
+    "question": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR",
+    "options": [
+      "72<sup>o</sup>",
+      "36<sup>o</sup>",
+      "144<sup>o</sup>",
+      "54<sup>o</sup>"
+    ],
+    "answer": 0,
+    "explanation": "From ∆PSR\n\n|PS| = |SR| (If two tangents are drawn from an external point of the circle, then they are of equal lengths)\n\n∴ ∆PSR is isosceles\n\n∠PSR + ∠SRP + ∠SPR = 180\n <sup>o</sup> (sum of angles in a triangle)\n\nSince |PS| = |SR|; ∠SRP = ∠SPR\n\n⇒ ∠PSR + ∠SRP + ∠SRP = 180<sup>o</sup>\n\n\n∠PSR + 2∠SRP = 180<sup>o</sup>\n\n\n36<sup>o</sup>\n + 2∠SRP = 180<sup>o</sup>\n\n\n2∠SRP = 180<sup>o</sup>\n - 36<sup>o</sup>\n\n\n2∠SRP = 144<sup>o</sup>\n∠SRP = 144<sup>o</sup>/2=72<sup>o</sup>\n∠SRP = ∠PQR (angle formed by a tangent and chord is equal to the angle in the alternate segment)\n\n∴ ∠PQR = 72<sup>o</sup>"
+  },
+  {
+    "id": 1016,
+    "year": 2019,
+    "topic": "General",
+    "question": "Express (0.0439÷3.62)\n as a fraction.",
+    "options": [
+      "21/100",
+      "21/1000",
+      "12/1000",
+      "12/100"
+    ],
+    "answer": 2,
+    "explanation": "(0.0439 ÷ 3.62)\n \n= 0.01213\n\n≊\n 0.012\n\n= 12/1000"
+  },
+  {
+    "id": 508,
+    "year": 2008,
+    "topic": "General",
+    "question": "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word?",
+    "options": [
+      "1/4",
+      "1/3",
+      "2/3",
+      "3/4"
+    ],
+    "answer": 0,
+    "explanation": "Ratio of least to most = 3:12\n= 3/12\n= 1/4"
+  },
+  {
+    "id": 1008,
+    "year": 2019,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.0839</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>6.381</mn>\n    </mrow>\n    <mn>5.44</mn>\n  </mfrac>\n</math>",
+    "question": "Simplify (0.0839 × 6.381)/5.44\n to 2 significant figures.",
+    "options": [
+      "0.2809",
+      "2.51",
+      "3.5",
+      "0.098"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 0.098"
+  },
+  {
+    "id": 634,
+    "year": 2011,
+    "topic": "General",
+    "question": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0",
+    "options": [
+      "-3, -9",
+      "9, -3",
+      "-9,3",
+      "3, -9"
+    ],
+    "answer": 2,
+    "explanation": "-2x -5y = 3\n\nx + 3y = 0\n\nx = -3y\n\n-2 (-3y) - 5y = -3\n\n6y - 5y = 3\n\ny = 3\n\nbut, x = -3y\n\nx = -3(3)\n\nx = -9\n\ntherefore, x = -9, y = 3"
+  },
+  {
+    "id": 238,
+    "year": 2003,
+    "topic": "General",
+    "question": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
+    "options": [
+      "1/4",
+      "1/2",
+      "2/3",
+      "3/2"
+    ],
+    "answer": 3,
+    "explanation": "r = n/n−2 and r= n+3/n                    ∴n/n−2= n+3/n n<sup>2</sup> = n<sup>2</sup> + 3n − 2n − 6. 0 = n−6. ∴ n = 6. But r = n/n−2. r = 6/6−2.6/4 = 3/2"
+  },
+  {
+    "id": 1247,
+    "year": 2015,
+    "topic": "General",
+    "question": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms",
+    "options": [
+      "nth = 3",
+      "nth = 4",
+      "nth = 5",
+      "nth = 6"
+    ],
+    "answer": 2,
+    "explanation": "nth term of a linear sequence (AP) = a+(n − 1)d\n\nfirst term = 6, last term = 10 sum − 40\n\ni.e. a = 6, l = 10, S = 40\n\nS<sub>n</sub> \n= n/2(2a + (n − 1)d or Sn = ÷2 (a + l)\n\nS<sub>n</sub> \n = n/2(a + l)\n\n40 = n/2(6 + 10)\n\n40 = 8n\n\n8n = 40\n\n8n = 40\n\nn = 40/8\n\n= 5\n\nThe number of terms = 5"
+  },
+  {
+    "id": 369,
+    "year": 2005,
+    "topic": "General",
+    "question": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000?",
+    "options": [
+      "16",
+      "12",
+      "8",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "Workers earning more than N700.00 = 4 + 6 + 2 = 12"
+  },
+  {
+    "id": 871,
+    "year": 2017,
+    "topic": "General",
+    "question": "If U = {x : x is an integer and 1 ≤ x ≤ 20 }\nE1 = {x: x is a multiple of 3}\nE2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2",
+    "options": [
+      "3/4",
+      "3/10",
+      "1/4",
+      "1/20"
+    ],
+    "answer": 0,
+    "explanation": "U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}\n\nE1 = {3, 6, 9, 12, 15, 18}\n\nE2 = {4, 8, 12, 16, 20}\n\nProbability of E2 = 5/20 i.e Total number inE<sup>2</sup>/Entire number in set\n\n\nProbability of set E2 = 1 − 5/20\n\n\n= 15/20\n\n\n= 3/4"
+  },
+  {
+    "id": 945,
+    "year": 2018,
+    "topic": "General",
+    "question": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room.",
+    "options": [
+      "15/17",
+      "9/17",
+      "8/15",
+      "12/17"
+    ],
+    "answer": 0,
+    "explanation": "Given length of the room = 12m; breadth = 9m and height = 8m.\n\nThe room is a cuboid in shape, therefore the length of the diagonal = √(l<sup>2</sup>+b<sup>2</sup>+h<sup>2</sup>)\n= √(12<sup>2</sup>+9<sup>2</sup>+8<sup>2</sup>)\n=√(289)\n= 17m.\n\nThe diagonal makes an angle with the diagonal of the floor: √122+92\n= √(225)\n= 15m\n\nThe cosine of the angle that the diagonal makes with the floor (θ) = 15/17."
+  },
+  {
+    "id": 281,
+    "year": 2004,
+    "topic": "General",
+    "question": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
+    "options": [
+      "1",
+      "-3",
+      "2",
+      "-1"
+    ],
+    "answer": 3,
+    "explanation": "y = 3cos(x/3)\ndy/dx = 3x(1/3)x - sin (x/3)\n= - sin x/3\nBut x = 3π/2 ∴ -sin(x/3) = -sin(3π/6)\n= -sin (3 * 180)/6\n= - sin 90\n= -1"
+  },
+  {
+    "id": 1279,
+    "year": 2015,
+    "topic": "General",
+    "question": "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (π = 3.14)",
+    "options": [
+      "17.1 cm<sup>2</sup>",
+      "27.2 cm<sup>2</sup>",
+      "47.1 cm<sup>2</sup>",
+      "37.3 cm<sup>2</sup>"
+    ],
+    "answer": 2,
+    "explanation": "Find the slant height\n\nl<sup>2</sup> = h<sup>2</sup> + r<sup>2</sup>(h = 4 cm, r = 3 cm)\n\n\nl<sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup> = 16 + 9 =25\n\n\nl<sup>2</sup> = √25\n\n\nSquaring both sides\n\nl = 5cm\n\nThe area of curved surface (s) =π(3)(5)\n\n15π = 15 × 3.14\n\n= 47.1 cm<sup>2</sup>"
+  },
+  {
+    "id": 251,
+    "year": 2003,
+    "topic": "General",
+    "question": "In the diagram PQR is a straight line and PS is a tangent to the circle < QRS with |PS| = |SR| and < SPR = 40°. Find PSQ",
+    "options": [
+      "20°",
+      "40°",
+      "10°",
+      "30°"
+    ],
+    "answer": 1,
+    "explanation": "PS = SR\n\nPSR is an isosceles\n\n< P = < SPQ = 40°\n\n< R = < SRQ\n\n< PSQ = < SRQ (alternate segment)\n\n< PSQ = 40°"
+  },
+  {
+    "id": 459,
+    "year": 2007,
+    "topic": "General",
+    "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
+    "options": [
+      "It is a semi circle with ST as diameter",
+      "It is a perpendicular bisector of St",
+      "It is a quadrant of a circle with ST as diameter",
+      "It is a straight line perpendicular to ST"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: It is a semi circle with ST as diameter"
+  },
+  {
+    "id": 968,
+    "year": 2018,
+    "topic": "General",
+    "question": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
+    "options": [
+      "1/16",
+      "1/6",
+      "1/4",
+      "3/8"
+    ],
+    "answer": 2,
+    "explanation": "P( tail on a coin) = 1/2\nEven numbers on a care 2, 4 and 6\n\n  P( even number on a die) = 3/6 = 1/2\nP( tail on a coin and even number on a die) = 1/2 x 1/2\n = 1/4"
+  },
+  {
+    "id": 517,
+    "year": 2008,
+    "topic": "General",
+    "question": "Find the values of x and y respectively if",
+    "options": [
+      "-3, -2",
+      "-5, -3",
+      "-2, -5",
+      "-3, -5"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: -3, -5"
+  },
+  {
+    "id": 809,
+    "year": 2013,
+    "topic": "General",
+    "question": "A chord of a circle subtends an angle of 120° at the centre of a circle of diameter 4√3cm\n. Calculate the area of the major sector.",
+    "options": [
+      "32πcm<sup>2</sup>",
+      "4π cm<sup>2</sup>",
+      "8π cm<sup>2</sup>",
+      "16π cm<sup>2</sup>"
+    ],
+    "answer": 2,
+    "explanation": "Angle of major sector = 360° - 120° = 240°\n\nArea of major sector : θ/360 × πr<sup>2</sup>\nr = 4√3/2 = 2√3cm\nArea : 240/360× π × (2√3)<sup>2</sup>\n= 8πcm<sup>2</sup>"
+  },
+  {
+    "id": 631,
+    "year": 2011,
+    "topic": "General",
+    "question": "Make R the subject of the formula if T = KR<sup>2</sup>+M/3",
+    "options": [
+      "√((3T-K)/M)",
+      "√((3T-M)/K)",
+      "√((3T+K)/M)",
+      "√((3T-K)/M)"
+    ],
+    "answer": 1,
+    "explanation": "T = KR<sup>2</sup>+M/3\n\n\n3T = KR<sup>2</sup> + M\n\nKR2<sup>2</sup> = 3T - M\n\nR<sup>2</sup> = 3T−M/K\n\n\nR = √3T−M/K"
+  },
+  {
+    "id": 1107,
+    "year": 2022,
+    "topic": "General",
+    "question": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume?",
+    "options": [
+      "65.0cm<sup>3</sup>",
+      "70.5cm<sup>3</sup>",
+      "56.5cm<sup>3</sup>",
+      "60.0cm<sup>3</sup>"
+    ],
+    "answer": 3,
+    "explanation": "Volume of a rectangular pyramid = length∗width∗height/3\n or area∗height/3\n= 24∗7.5/3\n → 180/3\nVolume of the rectangular pyramid = 60cm<sup>3</sup>"
+  },
+  {
+    "id": 203,
+    "year": 2002,
+    "topic": "General",
+    "question": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
+    "options": [
+      "-4",
+      "4",
+      "8",
+      "-8"
+    ],
+    "answer": 2,
+    "explanation": "2y - ax + 4 = 0 ⟹\n 2y = ax - 4.\n\ny + (x/4) - 7 = 0 ⟹\n y = -x/4 + 7\n\n Slope of line 1 = a/2\n\nSlope of line 2 = -1/4\n\n-1/4 x a/2 = -1 (product of the slope of two perpendicular lines = -1)\n\na/8 = 1 ⟹\n a = 8."
+  },
+  {
+    "id": 861,
+    "year": 2016,
+    "topic": "General",
+    "question": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23.",
+    "options": [
+      "11.2",
+      "10",
+      "10.2",
+      "11.3"
+    ],
+    "answer": 2,
+    "explanation": "(10+8+5+11+12+9+6+3+15+23)/10\n \n= 102/10\n = 10.2"
+  },
+  {
+    "id": 223,
+    "year": 2003,
+    "topic": "General",
+    "question": "Simplify 213<sub>4</sub>\n x 23<sub>4</sub>",
+    "options": [
+      "10311<sub>4</sub>",
+      "10321<sub>4</sub>",
+      "12231<sub>4</sub>",
+      "13211<sub>4</sub>"
+    ],
+    "answer": 2,
+    "explanation": "You can either multiply directly in base 4 or you can decide to convert to base 10 and do the multiplication and re-convert."
+  },
+  {
+    "id": 921,
+    "year": 2018,
+    "topic": "General",
+    "question": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200?",
+    "options": [
+      "1000",
+      "2000",
+      "3000",
+      "4000"
+    ],
+    "answer": 1,
+    "explanation": "Let the angle for school fees = x°\n\nThen Housing = 2x°\n\n120° + 90° + x° + 2x° = 360°\n\n3x° = 150° ⟹ x° = 50°.\n\nAmount spent on housing = 100/360 × 7200\n= N2000."
+  },
+  {
+    "id": 905,
+    "year": 2017,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>s</mi>\n      <msup>\n        <mi>m</mi>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n    <mrow>\n      <mi>n</mi>\n      <mi>r</mi>\n    </mrow>\n  </mfrac>\n</math>",
+    "question": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr",
+    "options": [
+      "s = nrpn/r+m<sup>2</sup>",
+      "s = nr + m<sup>2</sup> /mrp",
+      "s = nrp/mr\n + m<sup>2</sup>",
+      "s = nrp/nr\n + m<sup>2</sup>"
+    ],
+    "answer": 0,
+    "explanation": "p = s + sm<sup>2</sup> /nr\n\n\np = s + ( 1 + m<sup>2</sup> nr)\n\np = s (1 + nr+m<sup>2</sup>/ nr)\n\nnr × p = s (nr + m<sup>2</sup> )\n\ns = nrp/nr+m<sup>2</sup>"
+  },
+  {
+    "id": 92,
+    "year": 2000,
+    "topic": "General",
+    "question": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.",
+    "options": [
+      "-4/3",
+      "-3/4",
+      "3/4",
+      "4/3"
+    ],
+    "answer": 0,
+    "explanation": "Grad of 3y = 4x - 1\ny = 4x/3 - 1/3\nGrad = 4/3\nGrad of Ky = x + 3\ny = x/k + 3/4\nGrad = 1/k\nSince two lines are perpendicular,\n1/k = -3/4\n-3k = 4\nk = -4/3"
+  },
+  {
+    "id": 342,
+    "year": 2005,
+    "topic": "General",
+    "question": "The sum of the interior angle of a regular polygon is 1800o. Calculate the size of one exterior angle of the polygon",
+    "options": [
+      "30°",
+      "24°",
+      "18°",
+      "12°"
+    ],
+    "answer": 0,
+    "explanation": "Sum of interior ∠s = 1800°\n∴(n - 2) 180° = 1800°\n180n -360° = 1800°\n180n = 1800° + 360°\n180n = 2160°\nn = 2160°/180°\nn = 12 sides\nEach exterior ∠ = 360°/n\n= 360°/12\n= 30°"
+  },
+  {
+    "id": 448,
+    "year": 2007,
+    "topic": "General",
+    "question": "Find the value of x for which 2(3<sup>2x-1</sup>) = 162",
+    "options": [
+      "5/2",
+      "3/2",
+      "2/5",
+      "1/2"
+    ],
+    "answer": 0,
+    "explanation": "2(3<sup>2x-1</sup>) = 162\n3<sup>2x-1</sup> = 162/2\n3<sup>2x-1</sup> = 81\n3<sup>2x-1</sup> = 3<sup>2</sup>\n2x - 1 = 4 (equating the indices)\n2x = 5\nx = 5/2"
+  },
+  {
+    "id": 579,
+    "year": 2010,
+    "topic": "General",
+    "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
+    "options": [
+      "q = 18",
+      "p <1",
+      "p = 18",
+      "q < 1"
+    ],
+    "answer": 0,
+    "explanation": "If 18(p + q) = (18 + p)q\n\nthen 18p + 18q = 18q + pq\n\n18p = pq ⟹ q = 18."
+  },
+  {
+    "id": 433,
+    "year": 2007,
+    "topic": "General",
+    "question": "Find the value of x for which the function f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x + 4 has a maximum value",
+    "options": [
+      "2/3",
+      "1",
+      "- 2/3",
+      "- 1"
+    ],
+    "answer": 1,
+    "explanation": "f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x – 4\nf’(x) = 6x<sup>2</sup> - 2x – 4\nAs f’(x) = 0\nImplies 6x<sup>2</sup> - 2x – 4 = 0\n3x – x – 2 = 0 (By dividing by 2)\n(3x – 2)(x + 1) = 0\n3x – 2 = 0 implies x = -2/3\nOr x + 1 = 0 implies x = -1\nf’(x) = 6x<sup>2</sup> - 2x – 4\nf’’(x) = 12x – 2\nAt max point f’’(x) < 0\n∴f’’(x) = 12x – 2 at x = -1\n= 12(-1) – 2\n= -12 – 2 = -14\n∴Max at x = 1"
+  },
+  {
+    "id": 964,
+    "year": 2018,
+    "topic": "General",
+    "question": "Using the table,What is the modal age?",
+    "options": [
+      "4",
+      "5",
+      "5",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "The modal age is the age with the highest frequency, and that is age 5 years with f of 7"
+  },
+  {
+    "id": 343,
+    "year": 2005,
+    "topic": "General",
+    "question": "In the diagram above, O is the center of the circle,\n\n∠UOT = 70° and ∠RST = 100°. Calculate ∠RUO.",
+    "options": [
+      "20°",
+      "25°",
+      "50°",
+      "80°"
+    ],
+    "answer": 1,
+    "explanation": "∠OUT = ∠OTU = a (Base ∠s of 180 Δ)\n∴ a + a + 70 = 180° (sum of ∠s of a Δ)\n2a = 180° - 70°\n2a = 110°\na = 55°\nBut ∠RUT + ∠RBT = 180° (opposite ∠s of a Cyclic quad)\n∴ x + a = 100 = 180\nx + 55 + 100 = 180\nx = 180 - 155\nx = 25\nso ∠RUO = x = 25°"
+  },
+  {
+    "id": 637,
+    "year": 2011,
+    "topic": "General",
+    "question": "Solve the inequality -6(x + 3) ≤ 4(x - 2)",
+    "options": [
+      "x ≤ 2",
+      "x ≥ -1",
+      "x ≥ -2",
+      "x ≤ -1"
+    ],
+    "answer": 1,
+    "explanation": "-6(x + 3) ≤ 4(x - 2)\n\n-6(x +3) ≤ 4(x - 2)\n\n-6x -18 ≤ 4x - 8\n\n-18 + 8 ≤ 4x +6x\n\n-10 ≤ 10x\n\n10x ≥ -10\n\nx ≥ -1"
+  },
+  {
+    "id": 1086,
+    "year": 2021,
+    "topic": "General",
+    "question": "If w varies inversely as (uv)/(u + v) and w = 8 when\n\nu = 2 and v = 6, find a relationship between u, v, w.",
+    "options": [
+      "uvw = 16(u + v)",
+      "16uv = 3w(u + v)",
+      "uvw = 12(u + v)",
+      "12uvw = u + v"
+    ],
+    "answer": 2,
+    "explanation": "W α (1/uv)/(u + v)\n\n\n∴ w = (k/uv)/(u + v)\n\n\n= k(u+v)/(uv)\n\n\nw = k(u+v)/uv\n\n\nw = 8, u = 2 and v = 6\n\n8 = k(2+6)/2(6)\n\n\n= k(8)/12\n\n\nk = 12\n\ni.e 12 ( u + v) = uwv"
+  },
+  {
+    "id": 1074,
+    "year": 2021,
+    "topic": "General",
+    "question": "The angle of a sector of a circle, radius 10.5 cm, is 48°, Calculate the perimeter of the sector",
+    "options": [
+      "8.8 cm",
+      "25.4 cm",
+      "25.6 cm",
+      "29.8 cm"
+    ],
+    "answer": 3,
+    "explanation": "Length of Arc AB = θ/360 2πr\n\n= 48/360 x 2(22/7) x 21/2\n\n\n= (4 × 22 × 3)/30 =  88/10\n = 8.8 cm\n\nPerimeter = 8.8 + 2r\n\n= 8.8 + 2(10.5)\n\n= 8.8 + 21\n\n= 29.8 cm"
+  },
+  {
+    "id": 1264,
+    "year": 2015,
+    "topic": "General",
+    "question": "Find the value of x if [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]",
+    "options": [
+      "3/2",
+      "2/3",
+      "1/3",
+      "-3/2"
+    ],
+    "answer": 3,
+    "explanation": "[1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]               64<sup>-(x+2)</sup>=[4<sup>(x−3)</sup>] ÷ [16<sup>x</sup>]\n\n\nbreakdown 4,16,64 into a small index no\n\n2<sup>−6(x+2)</sup> = 2<sup>2</sup>(x−3)÷2<sup>4(x)</sup>\n\n\n2<sup>−6x−12</sup> =2<sup>2x−4x−6</sup>\n\n\n2<sup>−6x−12</sup> = 2<sup>−2x−6</sup>\n\n\n− 6x − 12 = − 2x − 6\n\nCollect the like term\n\n−6x + 2x = −6 + 12\n\n−4x =6\n\nx = 6/4\n\n\nx = −3/2"
+  },
+  {
+    "id": 258,
+    "year": 2003,
+    "topic": "General",
+    "question": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R",
+    "options": [
+      "90°",
+      "135°",
+      "225°",
+      "270°"
+    ],
+    "answer": 2,
+    "explanation": "Since PQ = QR, Δ PQR is a right angle isosceles triangle\n∴ ∠PQR = 45°\n=> The bearing of P from R = 180 + 45\n= 225°"
+  },
+  {
+    "id": 437,
+    "year": 2007,
+    "topic": "General",
+    "question": "Make L the subjects of the formula if d=√(42w/5l)",
+    "options": [
+      "√(42w/5d)",
+      "42W/(5d<sup>2</sup> )",
+      "42/5dW",
+      "1/d √(42w/5)"
+    ],
+    "answer": 1,
+    "explanation": "d = √(42w/5l).   square both side of the equation    d<sup>2</sup>=〖(√(42W/5l))〗<sup>2</sup> d<sup>2</sup>=42W/5l 5ld<sup>2</sup>=42W.    l=42W/(5d<sup>2</sup> )"
+  },
+  {
+    "id": 989,
+    "year": 2019,
+    "topic": "General",
+    "question": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n.",
+    "options": [
+      "m = 0, n = 4",
+      "m = 4, n = 0",
+      "m = 2, n = 2",
+      "m = -2, n = 4"
+    ],
+    "answer": 0,
+    "explanation": "Q(m, n) and R(n, -4)\n\nMidpoint : P(2, m)\n\n⟹ (m+n/2,n − 4/2 )= (2,m)\nm + n = 2 × 2 ⟹ m + n = 4...(i)\nn − 4 = 2 × m ⟹ n − 4 =2m...(ii)\nSolving (i) and (ii) simultaneously,\n\nm = 0 and n = 4."
+  },
+  {
+    "id": 86,
+    "year": 2000,
+    "topic": "General",
+    "question": "A trader realizes 10x - x<sup>2</sup>\n naira profit from the sale of x bags on corn. How many bags will give him the desired profit?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "y = 10x - x<sup>2</sup>\ndy/dx = 10 - 2x\nAs dy/dx = 0,\n10 - 2x = 0\n2x = 10\nx = 5"
+  },
+  {
+    "id": 886,
+    "year": 2017,
+    "topic": "General",
+    "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "2x + x = 180°\n\n3x = 180°\n\nx = 60° (exterior angle of the polygon)\n\nangle = total angle/number of sides\n\n\n60 = 360/n\n\n\nn = 360/60\n\n\nn = 6 sides"
+  },
+  {
+    "id": 1135,
+    "year": 2022,
+    "topic": "General",
+    "question": "The number line represented by the inequality",
+    "options": [
+      "x≤2",
+      "x<2",
+      "x≥2",
+      "x>2"
+    ],
+    "answer": 2,
+    "explanation": "x ≥ 2 is represented by an arrow with an filled-in dot above the 2.\n\nThe arrow points in the direction of all the numbers that are greater than 2."
+  },
+  {
+    "id": 378,
+    "year": 2006,
+    "topic": "General",
+    "question": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
+    "options": [
+      "N 28 000",
+      "N 25 500",
+      "N15 000s",
+      "N 12 500s"
+    ],
+    "answer": 3,
+    "explanation": "Expenditure on housing = x\nExpenditure on food = 2x\nExpenditure on school fees = 90o\nExpenditure on transport = 45o\nx + 2x + 90 + 45 = 360o\n3x + 135 = 360o\n3x = 360 - 135\n3x = 225\nx = 225/3 = 75o\n∴∠ for food = 2x = 2 * 75\n= 150\n360o = N30,000\n1o = ?\n1o = 30,000/360\n150o = (30000/360) * (150/1)\n= N12500"
+  },
+  {
+    "id": 1094,
+    "year": 2021,
+    "topic": "General",
+    "question": "List all integers satisfying the inequality in -2 < 2x-6 < 4",
+    "options": [
+      "2,3,4 and 5",
+      "2,3",
+      "2,5",
+      "3,4"
+    ],
+    "answer": 3,
+    "explanation": "-2 < 2x - 6   AND  2x - 6 < 4\n\n-2 + 6 <2x  AND  2x < 4 + 6\n\n4 <2x  AND  2x < 10\n\n: 2 <x  AND x <5\n\n2 < x < 5 \n\nAs 3 and 4"
+  },
+  {
+    "id": 750,
+    "year": 2012,
+    "topic": "General",
+    "question": "Evaluate ∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx",
+    "options": [
+      "11/3",
+      "3/11",
+      "-3/11",
+      "-11/3"
+    ],
+    "answer": 3,
+    "explanation": "∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx\n\n\n(x<sup>3</sup>/3 − 4x<sup>2</sup>/2)\n\n\nsubstituting integrate values\n\n[8/3 − 4 × 4/2] − [1/2 − 2]\n\n\n= −11/3"
+  },
+  {
+    "id": 748,
+    "year": 2012,
+    "topic": "General",
+    "question": "If angle θ is 135°, evaluate cosθ",
+    "options": [
+      "1/2",
+      "√2/2",
+      "−√2/2",
+      "−1/2"
+    ],
+    "answer": 2,
+    "explanation": "θ  = 135°\n\nCos 135o = Cos(90 + 45)o\n\n= cos90ocos45° - sin90osin45°\n\n= 0cos45° - (1 x √2/2)\n\n= −√2/2"
+  },
+  {
+    "id": 250,
+    "year": 2003,
+    "topic": "General",
+    "question": "Triangle OPQ is the solution of the inequalities",
+    "options": [
+      "x - 1 < 0, y + ≥  0, y - x ≥  0",
+      "x + 1 ≤ 0, y + x ≥  0, y - x ≤ 0",
+      "x - 1 ≥  0, y - x ≥ 0, y + x ≥ 0",
+      "y + x ≥ 0, y - x ≤ 0"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: x + 1 ≤ 0, y + x ≥  0, y - x ≤ 0"
+  },
+  {
+    "id": 432,
+    "year": 2007,
+    "topic": "General",
+    "question": "If y = x cos x, find dy/dx",
+    "options": [
+      "sin x - x cos x",
+      "sin x + x cos x",
+      "cos x + x sin x",
+      "cos x - x sin x"
+    ],
+    "answer": 3,
+    "explanation": "y = x cos x\ndy/dx = 1. cos x + x (-sin x)\n= cos x - x sin x"
+  },
+  {
+    "id": 530,
+    "year": 2009,
+    "topic": "General",
+    "question": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true?",
+    "options": [
+      "I and II",
+      "I and III",
+      "II and III",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "If S ⊂ T ⊂ W,\n\nS ∩ T ∩ W = S is true since S ∩ T = S and S ∩ W = S.\n\nS ∪ T ∪ W = W is also true. S ∪ T = T and T ∪ W = W.\n\nHowever, to say that T ∩ W = S is not very true mathematically. Instead, it is safe to say S ⊂ (T ∩ W)."
+  },
+  {
+    "id": 234,
+    "year": 2003,
+    "topic": "General",
+    "question": "Find the range of the value of x satisfying the inequalities 5 + x ≤ 8 and 13 + x ≥ 7",
+    "options": [
+      "-3 ≤ x ≤ 3",
+      "3 ≤ x ≤ 6",
+      "-6 ≤ x ≤ 3",
+      "-6 ≤ x ≤ -3"
+    ],
+    "answer": 2,
+    "explanation": "5 + x ≤ 8 and 13 + x ≥ 7\n5 + x ≤ 8\nX ≤ 8 – 5\nX ≤ 3\nAnd 13 + x ≥ 7\nX ≥ 7 – 15\nX ≥ -7\nCombining the two together\n-6 ≤ x ≤ 3"
+  },
+  {
+    "id": 804,
+    "year": 2013,
+    "topic": "General",
+    "question": "The bar chart above shows the allotment of time(in minutes) per week for selected subjects in a certain school. What is the total time allocated to the six subjects per week?",
+    "options": [
+      "460mins",
+      "720mins",
+      "960mins",
+      "200mins"
+    ],
+    "answer": 1,
+    "explanation": "80 + 160 + 200 + 80 + 128 + 72 = 720minutes"
+  },
+  {
+    "id": 802,
+    "year": 2013,
+    "topic": "General",
+    "question": "In the diagram given, find the value of x.",
+    "options": [
+      "30°",
+      "40°",
+      "45°",
+      "15°"
+    ],
+    "answer": 1,
+    "explanation": "In the diagram above, < CDE = < CED = 15°\n\n(base < s of isos. △)\n\n< ECD = 180° - (15 + 15)°\n\n= 180° - 30° = 150°\n\nBut x + 110° = 150°\n\n(Sum of opp. interior < s of a△\n = opp. exterior < )\n\nx = 150° - 110° = 40°"
+  },
+  {
+    "id": 347,
+    "year": 2005,
+    "topic": "General",
+    "question": "Find the equation of the perpendicular at the point (4,3) to the line y + 2x = 5",
+    "options": [
+      "2y - x = 4",
+      "y + 2x = 3",
+      "y + 2x = 5",
+      "2y - x = 2"
+    ],
+    "answer": 3,
+    "explanation": "Gradient of the line y + 2x = 5 = -2\nGradient of the line perpendicular to\ny + 2x + 5 = 1/2\nequation of a line perpendicular to\ny + 2x = 5 at the point (4, 3)\ny - y1 = m(x - x1)\ny - 3 = 1/2(x - 4)\n2y - 6 = x -4\n2y - x = 2"
+  },
+  {
+    "id": 938,
+    "year": 2018,
+    "topic": "General",
+    "question": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3",
+    "options": [
+      "1/11",
+      "5/22",
+      "7/22",
+      "6/11"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 6/11"
+  },
+  {
+    "id": 853,
+    "year": 2016,
+    "topic": "General",
+    "question": "Simplify 1 - (1/7 x 3(1/2) ÷\n 3/4",
+    "options": [
+      "2",
+      "1/3",
+      "1",
+      "2/3"
+    ],
+    "answer": 1,
+    "explanation": "1 - (1/7 x 3(1/2) ÷ 3/4\n\n\n1 - (1/7 x 7/2) x 4/3\n\n\n1 - 1/2 x 4/3\n\n\n1 - 2/3 = 1/3"
+  },
+  {
+    "id": 816,
+    "year": 2013,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>0</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mi>&#x03C0;<!-- π --></mi>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msubsup>\n  <mi>sin</mi>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mi>x</mi>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "question": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗",
+    "options": [
+      "-2",
+      "2",
+      "1",
+      "-1"
+    ],
+    "answer": 2,
+    "explanation": "∫<sub>0</sub>  <sup>(π/2)</sup>〖sin⁡xdx〗\n\n= −cos(π/2) − (−cos0)\n= 0 + 1\n= 1"
+  },
+  {
+    "id": 1224,
+    "year": 2014,
+    "topic": "SOLUTION:                                                             <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none none none none solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>x</mi>\n      </mtd>\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <msup>\n          <mi>d</mi>\n          <mn>2</mn>\n        </msup>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd />\n      <mtd>\n        <mo>&#x2211;<!-- ∑ --></mo>\n        <msup>\n          <mi>d</mi>\n          <mn>2</mn>\n        </msup>\n        <mo>+</mo>\n        <mn>10</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "question": "Find the standard deviation of 5, 4, 3, 2, 1",
+    "options": [
+      "√2",
+      "√3",
+      "√6",
+      "√10"
+    ],
+    "answer": 0,
+    "explanation": "Mean x = ∑x/n\n\n\n= (5+4+3+2+1)/5\n\n\n=15/5\n\n\n= 3"
+  },
+  {
+    "id": 514,
+    "year": 2008,
+    "topic": "General",
+    "question": "Find the number of ways of selecting 6 out of 10 subjects for an examination",
+    "options": [
+      "128",
+      "216",
+      "215",
+      "210"
+    ],
+    "answer": 3,
+    "explanation": "〖<sup>10</sup> 〗C<sub>6</sub> =10!/((10-6)!6!)=10!/4!6!=(10×9×8×7×6!)/(4×3×2×1×6!)=210"
+  },
+  {
+    "id": 974,
+    "year": 2019,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n      <mo>+</mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+    "question": "Rationalize  (√2+√3)/(√2-√3)",
+    "options": [
+      "−5−2√6",
+      "−5 + 3√2",
+      "5 − 2√3",
+      "5 + 2√6"
+    ],
+    "answer": 0,
+    "explanation": "(√2+√3)/(√2-√3) = ((√2+√3)/(√2-√3))((√2+√3)/(√2+√3)) = (2+√6+√6+3)/(2-√6+√6-3) = 5 + 2√6/−1 = = −5 − 2√6"
+  },
+  {
+    "id": 242,
+    "year": 2003,
+    "topic": "General",
+    "question": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides",
+    "options": [
+      "3 cm",
+      "4 cm",
+      "6 cm",
+      "7 cm"
+    ],
+    "answer": 0,
+    "explanation": "Area of Trapezium = 1/2(sum of parralel sides) * ht\n21 = 1/2(5 + 9)h\n42 = 14h\nh = 42/14\nh = 3cm"
+  },
+  {
+    "id": 837,
+    "year": 2016,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>M</mi>\n        <mi>a</mi>\n        <mi>r</mi>\n        <mi>k</mi>\n        <mi>s</mi>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>F</mi>\n        <mi>r</mi>\n        <mi>e</mi>\n        <mi>q</mi>\n        <mi>u</mi>\n        <mi>e</mi>\n        <mi>n</mi>\n        <mi>c</mi>\n        <mi>y</mi>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mi>y</mi>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "question": "The table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y.",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "(2 x 4) + (3 x 4) + (4 x y) = 48\n8 + 12 + 4y = 48\n4y = 48 - 20\n4y/4 = 28/4\ny = 7"
+  },
+  {
+    "id": 491,
+    "year": 2008,
+    "topic": "General",
+    "question": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is?",
+    "options": [
+      "commutative and close on the set of positive integers",
+      "neither commutative nor closed on the set of positive integers",
+      "commutative but not closed on the set of positive integers",
+      "not cummutative but closed on the set of positive integers"
+    ],
+    "answer": 1,
+    "explanation": "X * Y = 2X - 3Y + 2\n2*3 = 2(2) - 3(3) + 2\n=4-9+2\n= -3\nBut -3 does not belong to positive integer"
+  },
+  {
+    "id": 962,
+    "year": 2018,
+    "topic": "General",
+    "question": "Given that Sin (5x − 28)° = Cos(3x − 50)°, 0 < x < 90°\n\nFind the value °f x",
+    "options": [
+      "14°",
+      "21°",
+      "32°",
+      "39°"
+    ],
+    "answer": 1,
+    "explanation": "Sin(5x - 28) = Cos(3x - 50)………..i\n\n  But Sinα = Cos(90 - α)\n\n  So Sin(5x - 28) = Cos(90 - [5x - 28])\n\n  Sin(5x - 28) = Cos(90 - 5x + 28)\n\n  Sin(5x - 28) = Cos(118 - 5x)………ii\n\n  Combining i and ii\n\n  Cos(3x - 50) = Cos(118 - 5x)\n\n  3x - 50 = 118 - 5x\n\n  Collecting the like terms\n\n  3x + 5x = 118 + 50\n\n  8x = 168\n\n  x = 168/8\n  x = 21°"
+  },
+  {
+    "id": 1217,
+    "year": 2014,
+    "topic": "General",
+    "question": "Find the minimum value of y = x<sup>2</sup>  - 2x - 3",
+    "options": [
+      "4",
+      "1",
+      "-1",
+      "-4"
+    ],
+    "answer": 3,
+    "explanation": "y = x<sup>2</sup>  - 2x - 3,\n\nThen δy/δx = 2x − 2\n\n\nBut at minimum point,δy/δx = 0\n,\n\nWhich means 2x - 2 = 0\n\n2x = 2\n\nx = 1.\n\nHence the minimum value of y = x<sup>2</sup>  - 2x - 3 is;\n\ny<sub>min</sub> = (1)<sup>2</sup>  - 2(1) - 3\n\ny<sub>min</sub> = 1 - 2 - 3\n\ny<sub>min</sub>= -4"
+  },
+  {
+    "id": 324,
+    "year": 2005,
+    "topic": "General",
+    "question": "Simplify 3(1/2) - (2(1/3) * 1(1/4) + 3/5",
+    "options": [
+      "2(11/60)",
+      "2(1/60)",
+      "1(11/60)",
+      "1(1/60)"
+    ],
+    "answer": 2,
+    "explanation": "3(1/2) - (2(1/3) * 1(1/4)) + 3/5\n= 7/2 - (7/3 * 5/4) + 3/5\n= 7/2 - 35/12 + 3/5\n= L.C.M = 60\n= (210 - 175 + 36)/60\n= 71/60\n= 1(11/60)"
+  },
+  {
+    "id": 577,
+    "year": 2010,
+    "topic": "General",
+    "question": "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64",
+    "options": [
+      "12",
+      "6",
+      "3",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "y ∝ √x\ny = K√x\nK = y/√x = 3/√16\n= 3/4\ny = 3/4√x\n= 3/4√64 when x = 64\n= 3/4 x 8/1\n= 6"
+  },
+  {
+    "id": 208,
+    "year": 2002,
+    "topic": "General",
+    "question": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?",
+    "options": [
+      "108°",
+      "180°",
+      "36°",
+      "60°"
+    ],
+    "answer": 2,
+    "explanation": "Total: 2 + 5 + 3 + 11 + 9 = 30\n\nCassava: 330×360°=36°"
+  },
+  {
+    "id": 77,
+    "year": 2000,
+    "topic": "General",
+    "question": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?",
+    "options": [
+      "N112,000.50",
+      "N96,000.00",
+      "N85,714.28",
+      "N76,800.00"
+    ],
+    "answer": 3,
+    "explanation": "Amount A = P(1+r)n;\nA = N150,000, r = 25%, n = 3.\n150,000 = P(1+0.25)3 = P(1.25)3\nP = 150,000/1.253 =N76,800.00"
+  },
+  {
+    "id": 376,
+    "year": 2006,
+    "topic": "General",
+    "question": "Find the variance of 2x, 2x-1 and 2x+1",
+    "options": [
+      "2/3",
+      "2",
+      "√(2/3)",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "∑x=6x∑(x-¯x )<sup>2</sup> =2¯x=(∑x)/n=6x/3=2xVariance=(∑(x-¯x )<sup>2</sup> )/n=2/3"
+  },
+  {
+    "id": 271,
+    "year": 2003,
+    "topic": "General",
+    "question": "Find the value of p, if the line of which passes through \n(-1, -p) and (-2, 2) is parallel to the line 2y + 8x – 17\n= 0",
+    "options": [
+      "–2/7",
+      "7/6",
+      "–6/7",
+      "6/7"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: –2/7"
+  },
+  {
+    "id": 173,
+    "year": 2002,
+    "topic": "General",
+    "question": "In a school, 220 students offer Biology or Mathematics or both. 125 offer Biology and 110 mathematics. How many offer Biology but not Mathematics?",
+    "options": [
+      "95",
+      "80",
+      "125",
+      "110"
+    ],
+    "answer": 3,
+    "explanation": "Hint: Represent the question in a venn diagram, such that\nn(B ∩ M) = x\nn(B) only = 125-x\nn(M) only = 110-x\n=> 125-x + 110-x + x = 220\n=> x = 15.\n\nn(B) only = 125 - 15 = 110"
+  },
+  {
+    "id": 222,
+    "year": 2003,
+    "topic": "General",
+    "question": "Evaluate log<sub>√2</sub>4 + log1/2 16 − log<sub>4</sub>32",
+    "options": [
+      "-5.5",
+      "-2.5",
+      "2.5",
+      "5.5"
+    ],
+    "answer": 1,
+    "explanation": "Note that if we set log<sub>(√2)</sub>4 = x<sub>1</sub>, solving gives x<sub>1</sub> =4 if log <sub>1/2</sub>16= x<sub>2</sub>, ⇒ x<sub>2</sub> = −4 Also for log<sub>4</sub> 32= x<sub>3</sub> =2.5 Combining results, x<sub>1</sub> + x<sub>2</sub> +x<sub>3 </sub> = 4+ (−4) −2.5 = −2.5\n\nNote that the solution has been separated to simplify solving difficulty due to different bases."
+  },
+  {
+    "id": 169,
+    "year": 2001,
+    "topic": "General",
+    "question": "The bar chart shows different colours of cars passing a particular point of a certain street in two minutes. What fraction of the cars is yellow",
+    "options": [
+      "1/5",
+      "2/25",
+      "4/15",
+      "3/25"
+    ],
+    "answer": 3,
+    "explanation": "yellow (Color of Cars) = 3 (Number (frequency). white (Color of Cars) = 4 (Number (frequency). Red (Color of Cars) = 8 (Number (frequency). Green (Color of Cars) = 2 (Number (frequency). Blue (Color of Cars) = 6 (Number (frequency). Black (Color of Cars) = 2 (Number (frequency). TOTAL  = 25                                                           Thus, the fraction of the total numbers that are yellow is 3/25"
+  },
+  {
+    "id": 129,
+    "year": 2001,
+    "topic": "General",
+    "question": "Divide: ax<sup>3x</sup> - 26x<sup>2x</sup> + 156a<sup>x</sup> - 216 by a<sup>2x</sup> - 24a<sup>x</sup> + 108",
+    "options": [
+      "a<sup>x</sup> - 2",
+      "a<sup>x</sup> + 2",
+      "a<sup>x</sup> - 8",
+      "a<sup>x</sup> - 6"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a<sup>x</sup> - 2"
+  },
+  {
+    "id": 185,
+    "year": 2002,
+    "topic": "General",
+    "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men",
+    "options": [
+      "15 days",
+      "12 days",
+      "5 days",
+      "9 days"
+    ],
+    "answer": 3,
+    "explanation": "T~1/M.\n\nT=k/M.\n\nK=TM.\n\nM=45; T=5.\n\nK=45 x 5.= 225=k.\n\nWhen M= 25. T=?\n\n225/25= T = 9. Ans."
+  },
+  {
+    "id": 747,
+    "year": 2012,
+    "topic": "General",
+    "question": "Find the equation of the line through the points (-2, 1) and (-1/2, 4)",
+    "options": [
+      "y = 2x - 3",
+      "y = 2x + 5",
+      "y = 3x - 2",
+      "y = 2x + 1"
+    ],
+    "answer": 1,
+    "explanation": "y − y<sub>1</sub>/x−x<sub>1</sub>\n = y<sub>2</sub> − y<sub>1</sub>/x<sub>2</sub> − x<sub>1</sub>\n\n\ny−1/(x−−2) = 4−1/(−1/2 + 2)\n\n\n= y − 1/x + 2\n = 3/(3/2)\n\n\ny = 2x + 5"
+  },
+  {
+    "id": 1261,
+    "year": 2015,
+    "topic": "General",
+    "question": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
+    "options": [
+      "{}",
+      "{⅓, 1, 2}",
+      "{3, 4, ⅓}",
+      "{1, 3, ⅓}"
+    ],
+    "answer": 2,
+    "explanation": "A ∩ B = {3, 4, ⅓}"
+  },
+  {
+    "id": 1183,
+    "year": 2023,
+    "topic": "General",
+    "question": "Find the area, to the nearest cm<sup>2</sup>, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm.",
+    "options": [
+      "1162 cm<sup>2</sup>",
+      "1163 cm<sup>2</sup>",
+      "1160 cm<sup>2</sup>",
+      "1161 cm<sup>2</sup>"
+    ],
+    "answer": 0,
+    "explanation": "Let the length of the sides of triangle be 2x, 3x and 4x.\n\nPerimeter of triangle = 180cm\n\n⇒ 2x + 3x + 4x = 180\n⇒ 9x = 180\n⇒ x=180/9\n = 20 cm\n\nThen the sides of the triangle are:\n\n2x = 2 × 20 = 40 cm; 3x = 3 × 20 = 60cm and 4x = 4 × 20 = 80cm\n\nUsing Heron's formula\n\nArea of triangle = s√(s−a)(s−b)(s−c)\nWhere s = (a + b + c)/2\nLet a = 40cm, b = 60cm, c = 80cm and s = (40 + 60 + 80)/2 =180/2 = 90cm\n\n⇒ A = √90(90−40)(90−60)(90−80)=√90×50×30×10=√(1350000)\n∴ A =1162cm<sup>2</sup> (to the nearest cm<sup>2</sup>)"
+  },
+  {
+    "id": 341,
+    "year": 2005,
+    "topic": "General",
+    "question": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52° and ∠LOH = 85°, calculate the size of ∠EOG.",
+    "options": [
+      "26°",
+      "43°",
+      "52°",
+      "85°"
+    ],
+    "answer": 1,
+    "explanation": "∠GOK = 85° (vertical opposite angle ∠s)\n∠EOG + ∠GOK + ∠KOF = 180 (∠s on a straight line)\n∠EOg + 85° + 52° = 180°\n∠EOG + 137° = 180°\n∠EOG = 43°"
+  },
+  {
+    "id": 388,
+    "year": 2006,
+    "topic": "General",
+    "question": "Calculate the logarithm to base 9 of 3<sup>-4</sup> * 9<sup>2</sup> * (81)<sup>-1</sup>",
+    "options": [
+      "2",
+      "0",
+      "-2",
+      "-4"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: -2"
+  },
+  {
+    "id": 75,
+    "year": 2000,
+    "topic": "General",
+    "question": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?",
+    "options": [
+      "8",
+      "24",
+      "62",
+      "86"
+    ],
+    "answer": 2,
+    "explanation": "Use a venn diagram:\n60-3x+3x+50-3x = 94-x.\n110-3x+x = 94\n-2x = 94-110\n=>-2x = -16, this x = 8.\nMembers that like only one game:\n= 60 - 3x + 50 - 3x\n= 60 - 3x8 + 50 - 3x8\n= 60 - 24 + 50 - 24\n= 36 + 26 = 62"
+  },
+  {
+    "id": 813,
+    "year": 2013,
+    "topic": "General",
+    "question": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
+    "options": [
+      "√108 cm",
+      "9 cm",
+      "√92 cm",
+      "10 cm"
+    ],
+    "answer": 2,
+    "explanation": "Using the cosine rule, we have\n\np<sup>2</sup> = q<sup>2</sup> + r<sup>2</sup> − 2qrcosP\np<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> − 2(8)(6)(1/12)\n= 64 + 36 − 8\np<sup>2</sup> = 92∴ p = √9cm"
+  },
+  {
+    "id": 1084,
+    "year": 2021,
+    "topic": "General",
+    "question": "Simplify 2log 2/5 -log72/125 + log 9",
+    "options": [
+      "1 - 4 log3",
+      "-1 + 2 log 3",
+      "-1 + 5 log2",
+      "1 - 2log 2"
+    ],
+    "answer": 3,
+    "explanation": "2log 2/5 - log72/125 + log 9\n\n[2/5)2 x 9] = log 4/25 x 9/1 x 125/72\n\n= log 72/125\n\n= log 5/2= log 10/4\n\n= log 10 - log 4\n\n= log10  - log2<sup>2</sup>\n\n= 1 - 2 log2"
+  },
+  {
+    "id": 1142,
+    "year": 2023,
+    "topic": "General",
+    "question": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
+    "options": [
+      "dodecagon",
+      "enneadecagon",
+      "icosagon",
+      "hendecagon"
+    ],
+    "answer": 0,
+    "explanation": "An interior angle of a regular polygon = ((2n−4)×90)/n\n\n\nAn exterior angle of a regular polygon = 360/n\n\n\n((2n−4)×90)/n = 5 ×  360/n (Given)\n= (2n-4) x 90 = 5 x 360\n= 180n - 360 = 1800\n= 180n = 1800 + 360\n= 180n = 2160\n= n = 2160/180 = 12\nThe polygon has 12 sides which is dodecagon"
+  },
+  {
+    "id": 239,
+    "year": 2003,
+    "topic": "General",
+    "question": "Triangle OPQ above is the solution of the inequalities",
+    "options": [
+      "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+      "y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
+      "x - 1 ≤ 0, y - x ≥ o, y + x ≥ 0",
+      "x - 1 ≤ 0, y + x ≤ 0, y - x ≤ 0"
+    ],
+    "answer": 0,
+    "explanation": "Lines bounding Δ OPQ\nOQ; y - x = 0\ny - x ≥ 0\nPQ; x + 1 = 0\nx + 1 ≥ = 0\nPO; y + x = 0\ny + x ≤ 0\n∴ x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0"
+  },
+  {
+    "id": 877,
+    "year": 2017,
+    "topic": "General",
+    "question": "Evaluate 1 - (1/5 x 2/3) + ( 5 + 2/3)",
+    "options": [
+      "4",
+      "3",
+      "2(2/3)",
+      "98/15"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 98/15"
+  },
+  {
+    "id": 1215,
+    "year": 2014,
+    "topic": "General",
+    "question": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, find δy/δx",
+    "options": [
+      "8x<sup>2</sup> - 2x + 1",
+      "8x<sup>2</sup> - 4x + 1",
+      "12x<sup>2</sup> - 2x + 1",
+      "12x<sup>2</sup> - 4x + 1"
+    ],
+    "answer": 3,
+    "explanation": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, then;\n\nδy/δx\n = 3(4x<sup>2</sup>) - 2(2x) + 1\n\n= 12x<sup>2</sup> - 4x + 1"
+  },
+  {
+    "id": 419,
+    "year": 2006,
+    "topic": "General",
+    "question": "Find the roots of x<sup>3</sup> - 2x<sup>2</sup> - 5x + 6 = 0",
+    "options": [
+      "1, -2, 3",
+      "1, 2, -3,",
+      "-1, -2, 3",
+      "-1, 2, -3"
+    ],
+    "answer": 0,
+    "explanation": "Equation: x<sup>3</sup>\n - 2x<sup>2</sup>\n - 5x + 6 = 0.\n\nFirst, bring out a<sub>n</sub>\n which is the coefficient of x<sup>3</sup>\n = 1.\n\nThen, aa<sub>0</sub>\n which is the coefficient void of x = 6.\n\nThe factors of aa<sub>n</sub>\n = 1; The factors of aa<sub>0</sub>\n = 1, 2, 3 and 6.\n\nThe numbers to test for the roots are ±(a<sub>n0/sub>/aa<sub>n</sub>)\n. = ±(1,2,3,6).                                              \nTest for +1: 1<sup>3</sup\n - 2(1<sup>2</sup\n) - 5(1) + 6 = 1 - 2 - 5 + 6 = 0.\n\nTherefore x = 1 is a root of the equation.\n\nUsing long division method, x<sup>3</sup−2x<sup>2</sup−5x+6/(x−1)\n = x<sup>2</sup - x - 6.\n\nx<sup>2</sup - x - 6 = (x - 3)(x + 2).\n\nx = -2, 3.\n\n∴\n The roots of the equation = 1, -2 and 3."
+  },
+  {
+    "id": 301,
+    "year": 2004,
+    "topic": "General",
+    "question": "The nth term of two sequences are Q<sub>n</sub> = 3 . 2<sup>n - 2</sup> and U<sub>m</sub> = 3 . 2<sup>2m - 3</sup>. Find the product of Q<sub>2</sub> and U<sub>2</sub>.",
+    "options": [
+      "18",
+      "12",
+      "6",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Q<sub>n</sub> = 3  = 3 * 2<sup>n - 2</sup>\nU<sub>m</sub> = 3 * 2<sup>2m - 3</sup>\nQ<sub>2</sub> * U<sub>2</sub> = (3 * 2<sup>2 - 2</sup>) * (3 * 2<sup>2(2) - 3</sup>)\n= 3 * 2sup>0</sup> * 3 * 2sup>1</sup>\n= 3 * 1 * 3 * 2\n= 18"
+  },
+  {
+    "id": 960,
+    "year": 2018,
+    "topic": "General",
+    "question": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "A = (p, q, r, t, u, v)\n\nB = (r, s, t, u)\n\nA U B = Elements in both A and B = (p, q, r, s, t, u, v)\n\n(A U B)1 = elements in the universal set E but not in (A U B)= (w, x, y, z)\n\nn(A U B) 1 = number of the elements in (A U B)1 = 4"
+  },
+  {
+    "id": 131,
+    "year": 2001,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>&#x2264;</mo>\n</math>",
+    "question": "Find the integral values of x and y satisfying the inequality 3y + 5x( less than equal to)\n 15, given that y > 0, y < 3 and x > 0.",
+    "options": [
+      "(1,1), (1,2), (1,3)",
+      "(1,1), (2,1), (1,3)",
+      "(1,1), (3,1), (2,2)",
+      "(1,1), (1,2), (2,1)"
+    ],
+    "answer": 3,
+    "explanation": "Hint: Sketch the inequality graph for the 3 conditions given and read out your points from the co-ordinates."
+  },
+  {
+    "id": 733,
+    "year": 2012,
+    "topic": "General",
+    "question": "If y varies directly as √n\n and y = 4 when n = 4, find y when n = 1(7/9)",
+    "options": [
+      "√17",
+      "4/3",
+      "8/3",
+      "2/3"
+    ],
+    "answer": 2,
+    "explanation": "y ∝√n\n\n\ny = k√n\n\n\nwhen y = 4, n = 4\n4 = k√4\n\n\n4 = 2k\n\nk = 2\n\nTherefore,\n\ny = 2√n\n\ny = 2√(16/9)\n\n\ny = 2(4/3)\n\n\ny = 8/3"
+  },
+  {
+    "id": 1076,
+    "year": 2021,
+    "topic": "General",
+    "question": "Each of the interior angles of a regular polygon is 140°. How many sides has the polygon?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Each interior angle = ((n−2)180)/n\n140 = ((n−2)180)/n\nCross multiply:\n\n140n = 180n - 360\n\n40n = 360\n\nn = 9 sides ( A Nonagon)"
+  },
+  {
+    "id": 848,
+    "year": 2016,
+    "topic": "General",
+    "question": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle.",
+    "options": [
+      "24cm",
+      "28cm",
+      "36cm",
+      "32cm"
+    ],
+    "answer": 2,
+    "explanation": "L = θ/360 x 2πr\n16π = 80/360 x 2πr\n\n(16π × 360)/(80 × 2π) = r\n\nr = 36cm"
+  },
+  {
+    "id": 1004,
+    "year": 2019,
+    "topic": "General",
+    "question": "The angles of a polygon are given by 2x, 5x, x and 4x respectively. The value of x is",
+    "options": [
+      "31°",
+      "30°",
+      "26°",
+      "48°"
+    ],
+    "answer": 1,
+    "explanation": "Since there are 4 angles given, the polygon is a quadrilateral.\n\nSum of angle in a quadrilateral = 360°\n\n∴\n 2x + 5x + x + 4x = 360°\n\n12x = 360°\n\nx = 30°"
+  },
+  {
+    "id": 440,
+    "year": 2007,
+    "topic": "General",
+    "question": "Solve the inequalities -3(x - 2) < -2(x + 3)",
+    "options": [
+      "x > 12",
+      "x < 12",
+      "x > -12",
+      "x < - 12"
+    ],
+    "answer": 0,
+    "explanation": "-3(x-3) < -2(x+3) = -3x + 6 < -2x - 6\n-3x + 2x < -6 - 6\n-x < - 12\nx > -12/-1\nx > 12"
+  },
+  {
+    "id": 147,
+    "year": 2001,
+    "topic": "General",
+    "question": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k.",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "y = 2kx<sup>2</sup> + x + 1\nGradient function dy/dx = 4kx + 1\nat dy/dx = 9, => 9 = 4kx + 1\n=> 8 = 4kx, and k = 8/4x.\n\nAt x = 1, k = 8/4 = 2"
+  },
+  {
+    "id": 460,
+    "year": 2007,
+    "topic": "General",
+    "question": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k",
+    "options": [
+      "-4",
+      "-3",
+      "-2",
+      "-1"
+    ],
+    "answer": 2,
+    "explanation": "If the point of intersection is (1, -2), it implies that x = 1 and y = -2 when the two equation are solved simultaneously.\n∴ substitute x = 1 and y = -2 in any of the equations\n2y - k x + 2 = 0\n2(-2) - k(1) + 2 = 0\n-4 - k + 2 = 0\n-4 + 2 = k\n-2 = k"
+  },
+  {
+    "id": 183,
+    "year": 2002,
+    "topic": "General",
+    "question": "If y=x<sup>2</sup>−1x. find dy/dx",
+    "options": [
+      "2x - (1/x<sup>2</sup>)",
+      "2x + x<sup>2</sup>",
+      "2x - x<sup>2</sup>",
+      "2x + (1/x<sup>2</sup>)"
+    ],
+    "answer": 3,
+    "explanation": "y=x<sup>2</sup>−1/x = x2− x<sup>-1</sup>\n \ndy/dx = 2x − ( −x<sup>-2</sup>)\n= 2x + 1/x<sup>2</sup>"
+  },
+  {
+    "id": 1118,
+    "year": 2022,
+    "topic": "General",
+    "question": "If sec<sup>2</sup>θ + tan<sup>2</sup>θ = 3, then the angle θ is equal to?",
+    "options": [
+      "90°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "answer": 2,
+    "explanation": "Given that sec<sup>2</sup>θ + tan<sup>2</sup> θ = 3\n\nWhere sec<sup>2</sup>θ = 1  + tan<sup>2</sup>θ\n\n: 1 + tan<sup>2</sup> θ + tan<sup>2</sup> θ = 3\n\n2tan<sup>2</sup>θ = 3 - 1\n\n2tan<sup>2</sup>θ = 2\n\ndivide both sides by 2\n\ntan<sup>2</sup>θ = 1\n\ntanθ =  √1\n\ntanθ = 1\n\nθ = tan<sup>−1</sup>(1)\n\nθ = 45°"
+  },
+  {
+    "id": 149,
+    "year": 2001,
+    "topic": "General",
+    "question": "Differentiate (2x+5)<sup>2</sup>(x-4) with respect to x.",
+    "options": [
+      "4(2x+5)(x-4)",
+      "4(2x+5)(4x-3)",
+      "(2x+5)(2x-13)",
+      "(2x+5)(6x-11)"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: (2x+5)(6x-11)"
+  },
+  {
+    "id": 486,
+    "year": 2008,
+    "topic": "General",
+    "question": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
+    "options": [
+      "30",
+      "21",
+      "16",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "(x – 3) ∝ y<sup>2</sup>\nX-3 = Ky<sup>2</sup>\nK = X-3 / y<sup>2</sup>\n= 5-2/2<sup>2</sup>\n= 2/4\n= 1/2\n∴X-3 = 1/2y<sup>2</sup>\nX-3 = 1/2 (6)<sup>2</sup>\nX-3 = 1/2 x 36/1\nX-3 = 18\nX = 21"
+  },
+  {
+    "id": 894,
+    "year": 2017,
+    "topic": "General",
+    "question": "Evaluate 0.00000231/0.007\n and leave the answer in standard form",
+    "options": [
+      "3.3 x 10<sup>-4</sup>",
+      "3.3 x 10<sup>-3</sup>",
+      "3.3 x 10<sup>-5</sup>",
+      "3.3 x 10<sup>-8</sup>"
+    ],
+    "answer": 0,
+    "explanation": "0.00000231/0.007 to standard form\n\n= 231×10<sup>-8</sup>/7×10<sup>-3</sup>\n\n\n= 33 × 10<sup>−8−(−3)</sup>\n\n\n= 33 × 10<sup>−8 + 3</sup>\n\n\n= 33 × 10<sup>-5</sup>\n\n= 3.3 x 10<sup>-4</sup>"
+  },
+  {
+    "id": 797,
+    "year": 2013,
+    "topic": "General",
+    "question": "In how many ways can a student select 2 subjects from 5 subjects?",
+    "options": [
+      "5!/3!",
+      "5!/2!2!",
+      "5!/2!3!",
+      "5!/2!"
+    ],
+    "answer": 2,
+    "explanation": "A student can select 2 subjects from 5 subjects in;\n\n<sup>5</sup>C<sub>3</sub> ways, i.e. = 5!/2!(5−2)!\n\n\n= 5!/2!3!"
+  },
+  {
+    "id": 557,
+    "year": 2009,
+    "topic": "General",
+    "question": "The distance traveled by a particle from a fixed point is given as s = (t<sup>3</sup> - t<sup>2</sup> - t + 5)cm. Find the minimum distance that the particle can cover from the fixed point?",
+    "options": [
+      "2.3 cm",
+      "4.0 cm",
+      "5.2 cm",
+      "6.0 cm"
+    ],
+    "answer": 1,
+    "explanation": "S = t<sup>3</sup> - t<sup>2</sup> - t + 5\nds/dt = 3t<sup>2</sup> - 2t - 1\nAs ds = 0\n3t<sup>2</sup> - 2t - 1 = 0\n(3t+1)(t-1) = 0\n∴ t = 1 or -1/3\nAt min pt t = 1\nS = t<sup>3</sup> - t<sup>2</sup> - t + 5\n\nput t = 1\n= 1<sup>3</sup> - 1<sup>2</sup> - 1 + 5\n= 1 - 1 - 1 + 5\n\n= 4"
+  },
+  {
+    "id": 845,
+    "year": 2016,
+    "topic": "General",
+    "question": "Evaluate (0.8×0.43×0.031)/(0.05×0.72×0.021)\n. Correct to four significant figures.",
+    "options": [
+      "14.09",
+      "14.1",
+      "14.12",
+      "14.11"
+    ],
+    "answer": 3,
+    "explanation": "(0.8 × 0.43 × 0.031)/(0.05 × 0.72 × 0.021)  x 10/10\n= 14.11"
+  },
+  {
+    "id": 145,
+    "year": 2001,
+    "topic": "General",
+    "question": "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k.",
+    "options": [
+      "y = k + or - 4",
+      "y = 4 + or - k",
+      "y = 4 + k",
+      "y = k - 4"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: y = k + or - 4"
+  },
+  {
+    "id": 1248,
+    "year": 2015,
+    "topic": "General",
+    "question": "Find the equation of a line which is form origin and passes through the point (−3, −4)",
+    "options": [
+      "y = 3x/4",
+      "y = 4x/3",
+      "y = 2x/3",
+      "y = x/2"
+    ],
+    "answer": 1,
+    "explanation": "The slope of the line from (0, 0) passing through (-3, -4) = (−4−0)/(−3−0) = 4/3\nEquation of a line is given as y=mx+b, where m = slope and b = intercept.\n\nTo get the value of b, we use a point on the line, say (0, 0).\n\ny=4/3x+b\n0=4/3(0)+b\nb = 0\nThe equation of the line is y = 4/3x"
+  },
+  {
+    "id": 270,
+    "year": 2003,
+    "topic": "General",
+    "question": "If π/≤ 2π, find the maximum value of f(θ) = 4/6 + 2 \ncos θ",
+    "options": [
+      "1",
+      "1/2",
+      "4",
+      "2/3"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 2/3"
+  },
+  {
+    "id": 895,
+    "year": 2017,
+    "topic": "General",
+    "question": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error",
+    "options": [
+      "5%",
+      "10%",
+      "8%",
+      "7%"
+    ],
+    "answer": 0,
+    "explanation": "Actual measurement = 10cm\n\napproximated value of measurement = 10.5cm\n\n% error = (Actual measurement − Approximated/Actual measure) × 100\n\n= (10−10.5)/10 × 100\n\n= −0.5/10 × 100\n\nignore -sign i.e take absolute value\n\n= 0.5/10 × 100\n\n= 5 %"
+  },
+  {
+    "id": 901,
+    "year": 2017,
+    "topic": "General",
+    "question": "Find the equation of the locus of a point p (x, y) such that pv = pw, where v= (1, 1) and w = (3, 5)",
+    "options": [
+      "2x + 2y = 9",
+      "2x + 3y = 8",
+      "2x + y = 9",
+      "x + 2y = 8"
+    ],
+    "answer": 3,
+    "explanation": "The locus of a point p(x, y) such that pv = pw where v = (1, 1)\n\nand w = (3, 5). This means that the point p moves so that its distance from v and w are equidistance\n√(x−x<sub>1</sub>)<sup>2</sup> +(y−y<sub>1</sub>)<sup>2</sup> \n = √(x−x<sub>2</sub>)<sup>2</sup> + (y−y<sub>2</sub>)<sup>2</sup> \n\n\n√(x−1)<sup>2</sup> +(y−1)<sup>2</sup> \n = √(x−3)<sup>2</sup> +(y−5)<sup>2</sup> \n\n\nsquare both sides\n(x - 1)<sup>2</sup>  + (y - 1)<sup>2</sup>  = (x - 3)<sup>2</sup>  + (y - 5)<sup>2</sup> \n\nx<sup>2</sup>  - 2x + 1 + y<sup>2</sup>  - 2y + 1 = x<sup>2</sup>  - 6x + 9 + y<sup>2</sup>  - 10y + 25\n\nx<sup>2</sup>  + y<sup>2</sup>  -2x -2y + 2 = x<sup>2</sup>  + y<sup>2</sup>  - 6x - 10y + 34\n\nCollecting like terms\nx<sup>2</sup>  - x<sup>2</sup>  + y<sup>2</sup>  - y<sup>2</sup>  - 2x + 6x -2y + 10y = 34 - 2\n\n4x + 8y = 32\n\nDivide through by 4\n\nx + 2y = 8"
+  },
+  {
+    "id": 1159,
+    "year": 2023,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mroot>\n    <msup>\n      <mi>x</mi>\n      <mn>2</mn>\n    </msup>\n    <mn>3</mn>\n  </mroot>\n  <mo stretchy=\"false\">(</mo>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo stretchy=\"false\">)</mo>\n</math>",
+    "question": "Differentiate the function y = <sup>3</sup>√x<sup>2</sup>(2x − x<sup>2</sup>)",
+    "options": [
+      "dy/dx=10x<sup>5/3</sup>/3−8x<sup>2/3</sup>/3",
+      "dy/dx=10x<sup>2/3</sup>/3−8x<sup>5/3</sup>/3",
+      "dy/dx=10x<sup>5/3</sup>/3−8x<sup>5/3</sup>/3",
+      "dy/dx=10x<sup>2/3</sup>/3−8x<sup>5/3</sup>/3"
+    ],
+    "answer": 1,
+    "explanation": "y = <sup>3</sup>√x<sup>2</sup>(2x−x<sup>2</sup>) = x<sup>(2/3)</sup>(2x − x<sup>2</sup>)\n= 2x<sup>(5/3)</sup> − x<sup>(8/3)</sup> Now, we can differentiate the function\n\n∴dy/dx = (10x<sup>(2/3)</sup>)/3 − (8x<sup>(5/3)</sup>/3"
+  },
+  {
+    "id": 626,
+    "year": 2011,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>16</mn>\n    <mn>81</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00F7;<!-- ÷ --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>9</mn>\n    <mn>16</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n</math>",
+    "question": "Simplify (16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>",
+    "options": [
+      "2/3",
+      "1/2",
+      "8/9",
+      "1/3"
+    ],
+    "answer": 1,
+    "explanation": "(16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>                       (16/81))<sup>(1/4)</sup> ÷ (16/9)1/2\n\n\n(2<sup>4</sup>/3<sup>4</sup>))<sup>(1/4)</sup> ÷ (4<sup>2</sup>/3<sup>2</sup>)<sup>1/2</sup>\n\n\n2)<sup>4 x (1/4)</sup>/3<sup>4 x (1/4)</sup> ÷ 4<sup>2 x 1/2</sup> 3<sup>2 x 1/2</sup> \n\n2/3 ÷ 4/3\n\n\n2/3 × 3/4\n\n\n2/4\n\n\n1/2"
+  },
+  {
+    "id": 943,
+    "year": 2018,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.00256</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.0064</mn>\n    </mrow>\n    <mrow>\n      <mn>0.025</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.08</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "question": "(0.00256×0.0064)/(0.025 × 0.08)",
+    "options": [
+      "8.8 x 10<sup>-1</sup>",
+      "8.8 x 10<sup>-2</sup>",
+      "8.2 x 10<sup>-3</sup>",
+      "8.8 x 10<sup>3</sup>"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 8.2 x 10<sup>-3</sup>"
+  },
+  {
+    "id": 310,
+    "year": 2004,
+    "topic": "General",
+    "question": "The shaded region in the Venn diagram above is",
+    "options": [
+      "Pc ∪ (Q ∩ R)",
+      "Pc ∩ (Q ∪ R)",
+      "P ∩ Q",
+      "Pc ∩ (Q ∩ R)"
+    ],
+    "answer": 3,
+    "explanation": "The shaded portion shows the elements in Q and R, but not in P, Q n R n P'"
+  },
+  {
+    "id": 545,
+    "year": 2009,
+    "topic": "General",
+    "question": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
+    "options": [
+      "47°",
+      "52°",
+      "56°",
+      "99°"
+    ],
+    "answer": 1,
+    "explanation": "In Δ TYX\nXY = TY ∴y =47° base ∠s of ISCΔ\nBut y+x+34+47 = 180 interior\nopposite ∠s are supplementary\n47 + x + 34 + 47 = 180\nx + 128= 180\nx = 180- 128\nx = 52°"
+  },
+  {
+    "id": 124,
+    "year": 2001,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>p</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>+</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mspace width=\"1mm\"></mspace>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mi>q</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>&#x2212;</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>,</mo>\n  <mspace width=\"1mm\"></mspace>\n  <mi>e</mi>\n  <mi>v</mi>\n  <mi>a</mi>\n  <mi>l</mi>\n  <mi>u</mi>\n  <mi>a</mi>\n  <mi>t</mi>\n  <mi>e</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mi>p</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;</mo>\n      <msup>\n        <mi>q</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>p</mi>\n      <mi>q</mi>\n    </mrow>\n  </mfrac>\n</math>",
+    "question": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
+    "options": [
+      "2(2+√2)",
+      "-2(2+√2)",
+      "2√2",
+      "-2√2"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: -2√2"
+  },
+  {
+    "id": 330,
+    "year": 2005,
+    "topic": "General",
+    "question": "The venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
+    "options": [
+      "19",
+      "16",
+      "15",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Two games played only = 5 + 7 + 3\n= 15"
+  },
+  {
+    "id": 527,
+    "year": 2009,
+    "topic": "General",
+    "question": "If log<sub>10</sub>2 = 0.3010 and log<sub>10</sub>7 = 0.8451, evaluate log<sub>10</sub>280",
+    "options": [
+      "3.4471",
+      "2.4471",
+      "1.4471",
+      "1.4071"
+    ],
+    "answer": 1,
+    "explanation": "Log 2 = 0.3010, Log 7 = 0.8451\n∴Log 280 = Log 28 x 10\n= Log 7x4x10\n=Log7 + Log4 + Log10\n= Log7 + Log2<sup>2</sup> + Log10\n= Log7 + 2Log2 + Log10\n= 0.8451 + 2(0.3010) + 1\n= 0.8451 + 0.6020 + 1\n= 2.4471"
+  },
+  {
+    "id": 286,
+    "year": 2004,
+    "topic": "General",
+    "question": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?",
+    "options": [
+      "12",
+      "21",
+      "28",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Number of white balls = x\nNumber of red balls = 12\nNumber of black balls = 16\nTotal number of balls        = 28 + x\nP(white balls) = 3/7\nBut P(white balls)               = x/(28+x)=3/7=x/(28+x) 3(28+x)=7x84+3x=7x7x-3x=844x=84x=21"
+  },
+  {
+    "id": 1211,
+    "year": 2014,
+    "topic": "General",
+    "question": "Find the mid point of S(-5, 4) and T(-3, -2)",
+    "options": [
+      "-4, 2",
+      "4, -2",
+      "-4, 1",
+      "4, -1"
+    ],
+    "answer": 2,
+    "explanation": "Mid point of S(-5, 4) and T(-3, -2) is\n\n[1/2(-5+-3),1/2(4+(-2))]\n\n\n[1/2(x_1+x_2),1/2(y<sub>1</sub> +y<sub>2</sub> )]\n\n\n[1/2(−8), 1/2(2)]\n\n\n[−4,1]"
+  },
+  {
+    "id": 305,
+    "year": 2004,
+    "topic": "General",
+    "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
+    "options": [
+      "8/15",
+      "11/25",
+      "12/25",
+      "13/25"
+    ],
+    "answer": 3,
+    "explanation": "First teacher received 2/5\n ∴Remainder =1−2/5=3/5\n\n2nd teacher received; 2/15 of 3/5 = 2/15 × 3/5 = 2/25\n\n3rd teacher will receive; 1−2/5 – 2/25 = (25−10−2)/15 = 13/25"
+  },
+  {
+    "id": 665,
+    "year": 2011,
+    "topic": "General",
+    "question": "From the venn diagram above, the complement of the set P∩\nQ is given by",
+    "options": [
+      "{a, b, d, e}",
+      "{b, d}",
+      "{a, e}",
+      "{c}"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: {a, b, d, e}"
+  },
+  {
+    "id": 771,
+    "year": 2013,
+    "topic": "General",
+    "question": "3 girls share a number of apples in the ration 5:3:2. If the highest share is 40 apples, find the smallest share",
+    "options": [
+      "36",
+      "24",
+      "16",
+      "38"
+    ],
+    "answer": 2,
+    "explanation": "The sum, S of ratio is S = 5 + 3 + 2 = 10.\n\nBut highest share = 5/10× T\n, where T is the total number of apples.\n\nThus, 40=5/10 × T,\n\ngiven 40 x 10 = 5T,\n\nT= (40×10)/5=80\n\n\nHence the smallest share = 2/10 × 80\n\n\n= 16 apples"
+  },
+  {
+    "id": 758,
+    "year": 2012,
+    "topic": "General",
+    "question": "The probability that a student passes a physics test is 2/3. If he takes three physics tests, what is the probability that he passes two of the tests?",
+    "options": [
+      "2/27",
+      "3/27",
+      "4/27",
+      "5/3"
+    ],
+    "answer": 2,
+    "explanation": "Pass(P) = 2/3\n, Fail(F) = 1/3\n\n\nT = P.P.F ==> 2/3 × 2/3 × 1/3\n = 4/27"
+  },
+  {
+    "id": 670,
+    "year": 2011,
+    "topic": "General",
+    "question": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry?",
+    "options": [
+      "1/2",
+      "1/6",
+      "1/4",
+      "1/3"
+    ],
+    "answer": 1,
+    "explanation": "60 = 30 – x + x + 40 – x\n\n60 = 70 – x\n\nx = 10\n\nn(P∩C)=10\nProb(P∩C)=10/60=1/6"
+  },
+  {
+    "id": 862,
+    "year": 2016,
+    "topic": "General",
+    "question": "In the cyclic quadrilateral above . Find < PRO",
+    "options": [
+      "70°",
+      "20°",
+      "50°",
+      "30°"
+    ],
+    "answer": 1,
+    "explanation": "< PRO = 180° - (110 + 50)°\n= 180 - 160 = 20°"
+  },
+  {
+    "id": 1192,
+    "year": 2014,
+    "topic": "General",
+    "question": "Solve for x in 8x<sup>-2</sup> = 2/25",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "8x<sup>-2</sup> = 2/25\n\nx<sup>-2</sup> = 2/25 x 1/8\n\nx<sup>-2</sup> = 2/200\n\nx<sup>-2</sup> = 1/100\n\n1/x<sup>2</sup> = 1/100\n\nx<sup>2</sup> = 100\n\nx = 10"
+  },
+  {
+    "id": 946,
+    "year": 2018,
+    "topic": "General",
+    "question": "Divide the L.C.M of 48, 64 and 80 by their H.C.F",
+    "options": [
+      "20",
+      "30",
+      "48",
+      "60"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 60"
+  },
+  {
+    "id": 584,
+    "year": 2010,
+    "topic": "General",
+    "question": "An arc subtends an angle of 50o at the center of circle of radius 6cm. Calculate the area of the sector formed",
+    "options": [
+      "100/7",
+      "80/7",
+      "110/7",
+      "90/7"
+    ],
+    "answer": 2,
+    "explanation": "Area of a sector = θ/360 x πr<sup>2</sup>\n\n\n= 50/360 x 22/7 x 36/1\n= 110/7"
+  },
+  {
+    "id": 191,
+    "year": 2002,
+    "topic": "General",
+    "question": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c.",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "-2 in the solution implies x = -2.\n\n2x + 1 - 3c = 2c + 3x - 7\n\n2(-2) + 1 - 3c = 2c + 3(-2) - 7\n\n-4 + 1 - 3c = 2c - 6 - 7\n\n-3 + 13 = 2c + 3c ⟹\n c = 2."
+  },
+  {
+    "id": 536,
+    "year": 2009,
+    "topic": "General",
+    "question": "Find the range of values of x for which 3x - 7 ≤ 0 and x + 5 > 0?",
+    "options": [
+      "-5 < x < 7/3",
+      "-5 ≤ x ≤ 7/3",
+      "-5 < x ≤ 7/3",
+      "-5 ≤ x < 7/3"
+    ],
+    "answer": 2,
+    "explanation": "3x - 7 ≤ 0 and x + 5 > 0\n3x ≤ 7 and x > -5\nx ≤ 7/3\n∴ Range -5 < x ≤ 7/3"
+  },
+  {
+    "id": 121,
+    "year": 2000,
+    "topic": "General",
+    "question": "An equilateral triangle of side √3 cm is inscribed in \na circle. Find the radius of the circle",
+    "options": [
+      "2/3cm",
+      "2cm",
+      "1cm",
+      "3cm"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 1cm"
+  },
+  {
+    "id": 761,
+    "year": 2012,
+    "topic": "General",
+    "question": "In diagram above, QR//TU, < PQR = 80° and < PSU = 95°. Calculate < SUT.",
+    "options": [
+      "15°",
+      "25°",
+      "30°",
+      "80°"
+    ],
+    "answer": 0,
+    "explanation": "< PQR = < PTU = 80°\n\n< TSU = 85°\n\nx = 180° - (80° + 85°)\n\n= 15°"
+  },
+  {
+    "id": 841,
+    "year": 2016,
+    "topic": "General",
+    "question": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o.",
+    "options": [
+      "18cm",
+      "(18 + 9π/5)cm",
+      "(9 + 9π/5)cm",
+      "9π/5cm"
+    ],
+    "answer": 1,
+    "explanation": "Perimeter = 2r + θ/360\n x 2πr\n2(9) + 36/360 x 2 x π x 9 = 18 + 9π/5"
+  },
+  {
+    "id": 931,
+    "year": 2018,
+    "topic": "General",
+    "question": "An arc of a circle of radius 14cm subtends angle 300° at the centre. Find the perimeter of the sector formed by the arc (take π = 22/7)",
+    "options": [
+      "14.67 cm",
+      "73.33 cm",
+      "101.33 cm",
+      "513.33 cm"
+    ],
+    "answer": 2,
+    "explanation": "Length of the arc = θ/360 × 2πr\n= 300/360 × 2 × 22/7 × 14\n= 220/3\n= 73.33 cm\n\nPerimeter of the sector = Length of the arc + 2r\n\n= 73.33 + 2(14)\n\n= 101.33 cm"
+  },
+  {
+    "id": 852,
+    "year": 2016,
+    "topic": "General",
+    "question": "The nth term of the sequence 3, 9, 27, 81.....is",
+    "options": [
+      "3 x 3n-2",
+      "3 x 3n-1",
+      "3 x 3n+2",
+      "3 x 3n+1"
+    ],
+    "answer": 1,
+    "explanation": "3,9,27,81,.....\nr = 9/8 = 3\nT<sup>n</sup> = ar<sup>n-1</sup>\n\nT<sup>n</sup> = 3(3<sup>n-1</sup> = 3(3<sup>2</sup>)/3"
+  },
+  {
+    "id": 983,
+    "year": 2019,
+    "topic": "General",
+    "question": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the",
+    "options": [
+      "bisector of the two lines",
+      "line parallel to the two lines",
+      "angle bisector of the two lines",
+      "perpendicular bisector of the two lines"
+    ],
+    "answer": 2,
+    "explanation": "The locus of a points equidistant from two intersecting straight lines is a pair of bisectors that bisect the angles formed by the two intersecting lines."
+  },
+  {
+    "id": 1126,
+    "year": 2022,
+    "topic": "General",
+    "question": "Given that S = 3t<sup>2</sup> + 5t - 10 is displacement of a particle in metres, calculate it initial velocity.",
+    "options": [
+      "10m/s",
+      "2m/s",
+      "5m/s",
+      "6m/s"
+    ],
+    "answer": 2,
+    "explanation": "The initial velocity (v) is obtained by differentiating the displacement (S) with respect to time, which gives:\n\nv = dS/dt=  d/dt(3t<sup>2</sup>+ 5t - 10) = 6t + 5\n\nThe initial velocity is the velocity of the particle at time t = 0. Substituting t = 0 into the velocity equation:\n\nv(0) = 6(0) + 5 = 5\n\nTherefore, the initial velocity of the particle is 5 m/s."
+  },
+  {
+    "id": 780,
+    "year": 2013,
+    "topic": "General",
+    "question": "The remainder when 6p3 - p<sup>2</sup> - 47p + 30 is divided by p - 3 is",
+    "options": [
+      "21",
+      "42",
+      "63",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Let f(p) = 6p<sup>3</sup> - p<sup>2</sup> - 47p + 30\n\nThen by the remainder theorem,\n\n(p - 3): f(3) = remainder R,\n\ni.e. f(3) = 6(3)<sup>3</sup> - (3)2 - 47(3) + 30 = R\n\n162 - 9 - 141 + 30 = R\n\n192 - 150 = R\n\nR = 42"
+  },
+  {
+    "id": 435,
+    "year": 2007,
+    "topic": "General",
+    "question": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
+    "options": [
+      "3/4",
+      "-9/2",
+      "45/4",
+      "-3/4"
+    ],
+    "answer": 0,
+    "explanation": "x⊕y = xy + x + y\n= -3/4 (6) + (-3/4) + 6\n= -9/2 - 3/4 + 6\n= (-18-3+3+24) / 4\n= 3/4"
+  },
+  {
+    "id": 503,
+    "year": 2008,
+    "topic": "General",
+    "question": "Differentiate sin x - x cos x",
+    "options": [
+      "x cos x",
+      "x sin x",
+      "-x cos x",
+      "-x sin x"
+    ],
+    "answer": 1,
+    "explanation": "sin x - x cos x\ndy/dx = cos x - [1.cos x + x -sin x]\n= co x - [cos x - x sin x]\n= cos x - cos x + x sin x\n= x sin x"
+  },
+  {
+    "id": 462,
+    "year": 2007,
+    "topic": "General",
+    "question": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0",
+    "options": [
+      "y - 2 = 0",
+      "y - 4 = 0",
+      "y - 1 = 0",
+      "y - 3 = 0"
+    ],
+    "answer": 1,
+    "explanation": "Locus of point P equidistant from y - 5 = 0 and y - 3 = 0 is y = 4 i.e y - 4 = 0"
+  },
+  {
+    "id": 1190,
+    "year": 2014,
+    "topic": "General",
+    "question": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income?",
+    "options": [
+      "N40,500",
+      "N45,000",
+      "N52,500",
+      "N62,000"
+    ],
+    "answer": 1,
+    "explanation": "Let;\nM = Man monthly net earnings\n\nThen;\n\nN4500 = 10%/100%× M\n\n\nM = (N4500 × 100%)/10%\n\n\nM = N45,000"
+  },
+  {
+    "id": 468,
+    "year": 2007,
+    "topic": "General",
+    "question": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal?",
+    "options": [
+      "14 years",
+      "20 years",
+      "12 years",
+      "16 years"
+    ],
+    "answer": 3,
+    "explanation": "M + L = 28,\n\nM : L = 600 : 800\n\n= 3 : 4\n\nM/L = 34 → M = 3/4L\n\n3/4L + L = 28\n\n7L/4 = 28\n\nL = 4×28/7\n\n\n= 16"
+  },
+  {
+    "id": 1254,
+    "year": 2015,
+    "topic": "General",
+    "question": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s.",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Let the extension be E and the tension be T.\n\nThen E∝T\nE=kT\nwhen T = 8N, E = 2cm\n\n2=k × 8\nk = 2/8 = 0.25\n∴ E = 0.25T\nwhen T = 12N, E = 0.25 × 12 =3 cm"
+  },
+  {
+    "id": 756,
+    "year": 2012,
+    "topic": "General",
+    "question": "Evaluate <sup>n+1</sup>C<sub>n-2</sub> If n =15",
+    "options": [
+      "3630",
+      "3360",
+      "1120",
+      "560"
+    ],
+    "answer": 3,
+    "explanation": "n+1(n−2)/(n+1)!\n\n\n(n+1)+(n−2)!(n−2)!/(n+1)!\n\n\n(n+1)(n+1−1)(n+1−2)(n+1−3)/!3!(n−2)!\n\n\n(n+1)(n)(n−1)(n−2)/!3!(n−2)!\n\n\n(n+1)(n)(n−1/)3!\n\n\nSince n = 15\n\n(15+1)(15)(15−1)/3!\n\n\n16×15×14/3×2×1\n\n\n= 560"
+  },
+  {
+    "id": 1059,
+    "year": 2021,
+    "topic": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>I</mi>\n  <mi>n</mi>\n  <msup>\n    <mspace width=\"1mm\" />\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>5</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msub>\n  <mspace width=\"1mm\" />\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n  <mspace width=\"1mm\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>2</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>3</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>10</mn>\n  <mspace width=\"1mm\" />\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n</math>",
+    "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "options": [
+      "25 ways",
+      "10 ways",
+      "15 ways",
+      "20 ways"
+    ],
+    "answer": 1,
+    "explanation": "In〖<sup>5</sup>〗C<sub>2</sub> ways =5!/((5-2)!2!) = 5!/3!2! = (5 × 4 × 3!)/(3! × 2 × 1) = 10 ways"
+  },
+  {
+    "id": 806,
+    "year": 2013,
+    "topic": "General",
+    "question": "If the angles of a quadrilateral are (3y + 10)°, (2y + 30)°, (y + 20)° and 4y°. Find the value of y.",
+    "options": [
+      "66°",
+      "12°",
+      "30°",
+      "42°"
+    ],
+    "answer": 2,
+    "explanation": "Sum of angles in a quadrilateral = 360°\n\n∴\n (3y + 10) + (2y + 30) + (y + 20) + 4y = 360\n\n10y + 60 = 360 ⟹\n 10y = 300\n\ny = 30°"
+  },
+  {
+    "id": 621,
+    "year": 2010,
+    "topic": "General",
+    "question": "Find the sum to infinity of the following series. 0.5 + 0.05 + 0.005 + 0.0005 + .....",
+    "options": [
+      "5/8",
+      "5/7",
+      "5/11",
+      "5/9"
+    ],
+    "answer": 3,
+    "explanation": "Using S∞ = a/1−r\n\nr = 0.05/0.5 = 1/10\n\nS∞ = 0.5/(1/10)\n\n\n= 0.5/(9/10)\n\n= 0.5×10/9\n\n= 5/9"
+  },
+  {
+    "id": 543,
+    "year": 2009,
+    "topic": "General",
+    "question": "Find the acute angle between the straight lines y = x and y = √3x",
+    "options": [
+      "15°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "answer": 0,
+    "explanation": "y = x, Gradient (m1) = 1\ny = √3x gradient (m2) = √3                       tanθ = (m<sub>2</sub> -m<sub>1</sub> )/(1+m<sub>2</sub>  m<sub>1</sub> ).  tanθ = (√3-1)/(1+√3×1)=(1.73-1)/(1+1.73)=0.73/2.73 = 0.268.   θ = Tan<sup>-1</sup> (0.268)\n= 15°"
+  },
+  {
+    "id": 380,
+    "year": 2006,
+    "topic": "General",
+    "question": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
+    "options": [
+      "y = x<sup>2</sup> + 7x + 9",
+      "y = x<sup>2</sup> + 7x - 18",
+      "y = x<sup>2</sup> + 7x + 18",
+      "y = x<sup>2</sup> + 14x + 11"
+    ],
+    "answer": 1,
+    "explanation": "dy/dx = 2x + 7\ny = ∫2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n∴ The equation is y = x<sup>2</sup> + 7x - 18"
+  },
+  {
+    "id": 999,
+    "year": 2019,
+    "topic": "General",
+    "question": "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss.",
+    "options": [
+      "43.6% loss",
+      "35% profit",
+      "63.2% profit",
+      "28% loss"
+    ],
+    "answer": 2,
+    "explanation": "200 mangoes at 4 for N2.50\n\n⟹\n Total cost price = 200/4 × N2.50\n= N 125.00\n\nSince 30 mangoes got spoilt ⟹\n Left over = 200 - 30\n\n= 170 mangoes \n\n170 mangoes at 2 for N 2.40\n\n⟹\n Total selling point = 170/2×N2.40\n= N 204.00\n\nProfit : N (204.00 - 125.00) = N 79.00\n\n% profit = 79/125×100\n= 63.2% profit."
+  },
+  {
+    "id": 227,
+    "year": 2003,
+    "topic": "General",
+    "question": "Simplify 1 - (7/3 x 5/4) + 3/5",
+    "options": [
+      "-16/15",
+      "-79/60",
+      "-37/15",
+      "-151/60"
+    ],
+    "answer": 1,
+    "explanation": "1−(7/3 × 5/4) + 3/5\n \n= 1 − 35/12 + 3/5\n= (60−175+36)/60\n= −79/60"
+  },
+  {
+    "id": 549,
+    "year": 2009,
+    "topic": "General",
+    "question": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
+    "options": [
+      "x + y = 0",
+      "x - y = 0",
+      "x + y + k = 0",
+      "x - y - k = 0"
+    ],
+    "answer": 1,
+    "explanation": "Locus of a particle which moves in the first quadrant so that it is equidistant from the lines\nX = 0 and Y = 0 are the x and y axes as the lines bisecting the angle between x and y axes."
+  },
+  {
+    "id": 225,
+    "year": 2003,
+    "topic": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mn>1</mn>\n    <mn>0.06</mn>\n  </mfrac>\n  <mo>&#x00F7;<!-- ÷ --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>0.042</mn>\n  </mfrac>\n</math>",
+    "question": "Find (1/0.06 ÷ 1/0.042\n)<sup>=1</sup> , correct to two decimal \nplaces",
+    "options": [
+      "1.43",
+      "1.53",
+      "3.14",
+      "4.42"
+    ],
+    "answer": 0,
+    "explanation": "(1/0.06 ÷ 1/0.042)<sup>-1</sup>\n= (100/6 ÷ 1000/42) <sup>-1</sup>\n= (1006×421000)<sup>-1</sup>\n= (7/10)<sup>-1</sup>\n= 10/7\n= 1.4285 ≊ 1.43."
+  },
+  {
+    "id": 857,
+    "year": 2016,
+    "topic": "General",
+    "question": "If N = p/2((T<sub>1</sub> −T<sub>2</sub> )/T<sub>1</sub> ). Find P when N = 12, T<sub>1</sub>  = 27 and T<sub>2</sub>  = 24.",
+    "options": [
+      "48",
+      "108",
+      "54",
+      "216"
+    ],
+    "answer": 3,
+    "explanation": "N = p/2(T<sub>1</sub> −T<sub>2</sub> /T<sub>1</sub> )\n12 = p/2((27−24)/27)\n24 = P(3/27)\n\nP = 24 x 9 = 216"
+  },
+  {
+    "id": 725,
+    "year": 2012,
+    "topic": "General",
+    "question": "If 27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>, find x.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>,\n \n3<sup>3(x+2)</sup> ÷ 3<sup>2(x+1)</sup> =3<sup>2x</sup> \n3<sup>3x+6</sup> ÷ 3<sup>2x+2</sup> = 3<sup>2x</sup> \n∴ (3x + 6) − (2x + 2) = 2x\nx + 4 = 2x ⟹ x = 4"
+  },
+  {
+    "id": 235,
+    "year": 2003,
+    "topic": "General",
+    "question": "The graph of the function y = x<sup>2</sup> + 4 and a straight line PQ are drawn to solve the equation x<sup>2</sup>\n - 3x + 2 = 0. What is the equation of PQ?",
+    "options": [
+      "y = 3x - 2",
+      "y = 3x + 2",
+      "y = 3x - 4",
+      "y = 3x + 4"
+    ],
+    "answer": 1,
+    "explanation": "x<sup>2</sup> + 4 = x<sup>2</sup>\n - 3x + 2\n3x + 2 = y"
+  },
+  {
+    "id": 140,
+    "year": 2001,
+    "topic": "General",
+    "question": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).",
+    "options": [
+      "4",
+      "6",
+      "3",
+      "0"
+    ],
+    "answer": 3,
+    "explanation": "Hint: If two lines a perpendicular, the gradient of one is equal to minus the reciprocal of the other (P, 4) and (6, -2)"
+  },
+  {
+    "id": 777,
+    "year": 2013,
+    "topic": "General",
+    "question": "if P = {x:x is odd, −1<x≤20\n} and Q is {y:y is prime, −2 < y ≤ 25, find P ∩ Q",
+    "options": [
+      "{3,5,7,11,17,19}",
+      "{3,5,11,13,17,19}",
+      "{3,5,7,11,13,17,19}",
+      "{2,3,5,7,11,13,17,19}"
+    ],
+    "answer": 2,
+    "explanation": "P = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19}\n\nQ = {-1, 3, 5, 7, 11, 13, 17, 19, 23}\n\nP ∩\n Q = {3, 5, 7, 11, 13, 17, 19}"
+  },
+  {
+    "id": 914,
+    "year": 2017,
+    "topic": "General",
+    "question": "A card is picked at random from a pack of 52 well shuffled playing cards. Find the probability of NOT picking a red cards in the pack. If there are 13 red card in the pack",
+    "options": [
+      "3/4",
+      "2/3",
+      "1/3",
+      "1/4"
+    ],
+    "answer": 0,
+    "explanation": "There are 52 cards in a pack of cards. The probability of NOT picking red card is the probability of picking other cards. Which is Prob(R1)=1−13/52 = 1 − 1/4 = 3/4"
+  },
+  {
+    "id": 193,
+    "year": 2002,
+    "topic": "General",
+    "question": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... Is",
+    "options": [
+      "11/3",
+      "10/3",
+      "5/2",
+      "3/2"
+    ],
+    "answer": 3,
+    "explanation": "S<sub>∞</sub> = a/1−r\n \n= 1/(1−1/3)\n= 1/(2/3)\n= 3/2"
+  },
+  {
+    "id": 1163,
+    "year": 2023,
+    "topic": "General",
+    "question": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5",
+    "options": [
+      "y = ±5",
+      "y = ±10",
+      "y = ±17",
+      "y = ±13"
+    ],
+    "answer": 2,
+    "explanation": "log (y + 8) + log (y - 8) = 2log 3 + 2log 5\n\n⇒ log (y + 8)(y - 8) = 2log 3 + 2log 5 (log ab = log a + log b)\n\n⇒ log (y<sup>2</sup> -8y + 8y - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 9 + log 25\n\n⇒ log (y<sup>2</sup> - 64) = log (9 × 25)\n\n⇒ log(y<sup>2</sup> - 64) = log 225\n\n⇒ y<sup>2</sup> - 64 = 225\n\n⇒ y<sup>2</sup> = 225 + 64\n\n⇒ y<sup>2</sup> = 289\n\n⇒ y = ±√289\n\n∴ y = ±17"
+  },
+  {
+    "id": 604,
+    "year": 2010,
+    "topic": "General",
+    "question": "For what range of values of x is 1/2x + 1/4 > 1/3x + 1/2?",
+    "options": [
+      "x < 3/2",
+      "x > 3/2",
+      "x < -3/2",
+      "x > -3/2"
+    ],
+    "answer": 1,
+    "explanation": "1/2x + 1/4 > 1/3x + 1/2\n\nMultiply through by through by the LCM of 2, 3 and 4\n\n12 x 1/2x + 12 x 1/4 > 12 x 1/3x + 12 x 1/2\n\n6x + 3 > 4x + 6\n\n6x - 4x > 6 - 3\n\n2x > 3\n\n2x/2 > 3/2\n\nx > 3/2"
+  },
+  {
+    "id": 542,
+    "year": 2009,
+    "topic": "General",
+    "question": "If P = []  evaluate x if |P| = -10",
+    "options": [
+      "-5",
+      "-2",
+      "2",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "(x+3)(x-1) - {(x+1)(x+2)} = -10\nx<sup>2</sup>  - x + 3x - 3 - {x2 + 2x + x + 2} = -10\nx<sup>2</sup>  + 2x - 3 - {x<sup>2</sup>  + 3x + 2} = -10\n-x - 5 = -10\n-5 + 10 = x\n5 = x\n∴x = 5"
+  },
+  {
+    "id": 1184,
+    "year": 2023,
+    "topic": "General",
+    "question": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually.",
+    "options": [
+      "₦6,212.48",
+      "₦2,834.48",
+      "₦18,312.48",
+      "₦2,612.48"
+    ],
+    "answer": 3,
+    "explanation": "Principal (P) = ₦15,700\n\nRate (R) = 8\n\nNumber of years (t) = 2\n\nA = P (1 + R/100)<sup>t</sup>\n⇒ A = 15700 (1 + 8/100)<sup>2</sup>\n⇒ A = 15700 (1 + 0.08)<sup>2</sup>\n⇒ A = 15700 (1.08)<sup>2</sup>\n⇒ A = 15700  x 1.1664\n\n⇒ A = ₦18,312.48\n\nTotal amount, A = ₦18,312.48\n\nA = P + CI\n\n⇒ CI = A - P\n\n⇒ CI = 18,312.48 - 15,700\n\n∴ CI = ₦2,612.48"
+  },
+  {
+    "id": 602,
+    "year": 2010,
+    "topic": "General",
+    "question": "Solve for x and y if x - y = 2 and x<sup>2</sup>  - y<sup>2</sup>  = 8",
+    "options": [
+      "(-1, 3)",
+      "(3, 1)",
+      "(-3, 1)",
+      "(1, 3)"
+    ],
+    "answer": 1,
+    "explanation": "x - y = 2 ...........(1)\n\nx2 - y2 = 8 ........... (2)\n\nx - 2 = y ............ (3)\n\nPut y = x -2 in (2)\n\nx2 - (x - 2)2 = 8\n\nx2 - (x2 - 4x + 4) = 8\n\nx2 - x2 + 4x - 4 = 8\n\n4x = 8 + 4 = 12\n\nx = 12/4\n\n= 3\n\nfrom (3), y = 3 - 2 = 1\n\ntherefore, x = 3, y = 1"
+  }
+]

@@ -1,0 +1,3138 @@
+[
+  {
+    "id": 612,
+    "year": 2007,
+    "topic": "General",
+    "question": "One characteristic of labour is that it is",
+    "options": [
+      "fixed in demand",
+      "fixed in supply",
+      "mobile",
+      "untrainable"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: mobile"
+  },
+  {
+    "id": 508,
+    "year": 2004,
+    "topic": "General",
+    "question": "The economic Community of West African States (ECOWAS) has been slow in achieving its objectives because of",
+    "options": [
+      "political instability in member state",
+      "the activities of multi-national",
+      "inadequate personnel at the secretariat",
+      "inadequate international support"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: political instability in member state"
+  },
+  {
+    "id": 527,
+    "year": 2005,
+    "topic": "General",
+    "question": "lf the government fixed a price of a commodity above the equilibrium price, the quantity supplied will be",
+    "options": [
+      "less than quantity demanded",
+      "equal to the quantity demanded",
+      "greater than quantity demanded",
+      "equal to zero"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: greater than quantity demanded"
+  },
+  {
+    "id": 220,
+    "year": 2001,
+    "topic": "General",
+    "question": "The situation in which there is a persistent fall in the general price level is referred to as",
+    "options": [
+      "devaluation",
+      "depreciation",
+      "deflation",
+      "inflation"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: deflation"
+  },
+  {
+    "id": 596,
+    "year": 2006,
+    "topic": "General",
+    "question": "The economic system in which the state takes the",
+    "options": [
+      "economic decisions through details planning is",
+      "capitalism",
+      "socialism",
+      "traditional economic system"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: capitalism"
+  },
+  {
+    "id": 618,
+    "year": 2007,
+    "topic": "General",
+    "question": "The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’",
+    "options": [
+      "income is diminished",
+      "income remains the same",
+      "utility is diminished",
+      "population is high"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: income remains the same"
+  },
+  {
+    "id": 254,
+    "year": 2010,
+    "topic": "General",
+    "question": "An efficient weapon used in resolving disputes between employers and employees is",
+    "options": [
+      "co – operation",
+      "collective bargaining",
+      "display of placards",
+      "legal action"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: collective bargaining"
+  },
+  {
+    "id": 270,
+    "year": 2010,
+    "topic": "General",
+    "question": "One disadvantage of direct taxes is that they",
+    "options": [
+      "allocate scarce resources",
+      "are not rigid",
+      "can be progressive.",
+      "can be evaded"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: can be evaded"
+  },
+  {
+    "id": 586,
+    "year": 2006,
+    "topic": "General",
+    "question": ".\n\nWhich of the following is a legal tender in West Africa?",
+    "options": [
+      "Treasury bill",
+      "Share",
+      "Credit card",
+      "Currency"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Currency"
+  },
+  {
+    "id": 257,
+    "year": 2010,
+    "topic": "General",
+    "question": "The following are advantages of large scale agriculture except",
+    "options": [
+      "use of simple implements",
+      "use of sophisticated implements",
+      "increase in employment",
+      "integration of crop and animal farming"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: use of simple implements"
+  },
+  {
+    "id": 288,
+    "year": 2012,
+    "topic": "General",
+    "question": "The resources used in production are called",
+    "options": [
+      "variable inputs",
+      "factors of production",
+      "capital for production",
+      "fixed inputs"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: factors of production"
+  },
+  {
+    "id": 512,
+    "year": 2005,
+    "topic": "General",
+    "question": "A list of consumers’ wants arranged in order of priority is known as",
+    "options": [
+      "a budget",
+      "an opportunity cost",
+      "a scale of preference",
+      "choice"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: a scale of preference"
+  },
+  {
+    "id": 192,
+    "year": 2001,
+    "topic": "General",
+    "question": "In which of the following economic systems is the consumer referred to as King?",
+    "options": [
+      "Capitalist economy",
+      "Socialist economy",
+      "Communist economy",
+      "Mixed Economy"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Capitalist economy"
+  },
+  {
+    "id": 500,
+    "year": 2004,
+    "topic": "General",
+    "question": "International trade is an application of the principle of",
+    "options": [
+      "industrial production",
+      "mass production",
+      "regional co-operation",
+      "comparative costs advantage"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: comparative costs advantage"
+  },
+  {
+    "id": 235,
+    "year": 2010,
+    "topic": "General",
+    "question": "Find the median of the following set of scores: 8, 9, 6, 5, 10",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 8"
+  },
+  {
+    "id": 613,
+    "year": 2007,
+    "topic": "General",
+    "question": "A country where labour is not sufficient to make proper use of the natural resources is said to have an",
+    "options": [
+      "active population",
+      "optimum population",
+      "over-population",
+      "under-population"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: under-population"
+  },
+  {
+    "id": 483,
+    "year": 2004,
+    "topic": "General",
+    "question": "The market structure in which the operators are many and none of them can influence the price is",
+    "options": [
+      "imperfect market",
+      "perfect market",
+      "oligopolistic market",
+      "stock market"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: perfect market"
+  },
+  {
+    "id": 202,
+    "year": 2001,
+    "topic": "General",
+    "question": "The demand for a commodity not directly for immediate consumption but for the production of another commodity is",
+    "options": [
+      "competitive demand",
+      "derived demand",
+      "composite demand",
+      "joint demand"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: derived demand"
+  },
+  {
+    "id": 488,
+    "year": 2004,
+    "topic": "General",
+    "question": "Government can control inflation by",
+    "options": [
+      "printing more money",
+      "reducing the rate of taxes",
+      "reducing the level of expenditure",
+      "establishing more banks"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: reducing the level of expenditure"
+  },
+  {
+    "id": 207,
+    "year": 2001,
+    "topic": "General",
+    "question": "Monoculture agriculture means",
+    "options": [
+      "the cultivation of seasonal crops",
+      "the cultivation of one major crop",
+      "plantation agriculture",
+      "shifting cultivation!"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: the cultivation of one major crop"
+  },
+  {
+    "id": 224,
+    "year": 2001,
+    "topic": "General",
+    "question": "If there is an increase in wages and salaries without a corresponding increase in the supply of goods and services, the situation will lead to",
+    "options": [
+      "a reduction in aggregate demand",
+      "inflation",
+      "depression",
+      "budget surplus"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: inflation"
+  },
+  {
+    "id": 426,
+    "year": 2003,
+    "topic": "General",
+    "question": "When the total product is at its maximum, marginal \n\tproduct is",
+    "options": [
+      "increasing",
+      "positive",
+      "negative",
+      "zero"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: zero"
+  },
+  {
+    "id": 462,
+    "year": 2003,
+    "topic": "General",
+    "question": "It is necessary to estimate the national income of a country because it",
+    "options": [
+      "indicates the overall performance of the economy",
+      "ensures equitable distribution of wealth",
+      "assists investors in identifying profitable ventures",
+      "enables governments to conserve national resources"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: indicates the overall performance of the economy"
+  },
+  {
+    "id": 576,
+    "year": 2006,
+    "topic": "General",
+    "question": "The market price of a commodity is normally determined by the",
+    "options": [
+      "law of demand",
+      "interaction of the forces of demand and supply.",
+      "total number of people in the market",
+      "total quantity of the commodity in the market."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: interaction of the forces of demand and supply."
+  },
+  {
+    "id": 298,
+    "year": 2012,
+    "topic": "General",
+    "question": "The grouping of population according to the economic activities people engage in is",
+    "options": [
+      "age distribution",
+      "sex distribution",
+      "geographical distribution",
+      "occupational distribution"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: occupational distribution"
+  },
+  {
+    "id": 623,
+    "year": 2007,
+    "topic": "General",
+    "question": "Patents are examples of",
+    "options": [
+      "natural barriers to entry",
+      "legal barriers to entry",
+      "illegal barriers to entry",
+      "unnatural barriers to entry"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: legal barriers to entry"
+  },
+  {
+    "id": 269,
+    "year": 2010,
+    "topic": "General",
+    "question": "The function of the Central Bank as a lender of last resort means that when all other sources fail",
+    "options": [
+      "the consumer can always borrow money from the Central Bank",
+      "the government can ask the Central Bank to print more money",
+      "commercial banks can raise loans from the Central Bank",
+      "commercial banks can deposit money with the Central Bank"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: commercial banks can raise loans from the Central Bank"
+  },
+  {
+    "id": 502,
+    "year": 2004,
+    "topic": "General",
+    "question": "A policy by which governments restrict the amount of \n\tforeign currencies bought and sold is known as",
+    "options": [
+      "devaluation",
+      "credit creation",
+      "exchange control",
+      "export promotion"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: exchange control"
+  },
+  {
+    "id": 522,
+    "year": 2005,
+    "topic": "General",
+    "question": "To achieve an equilibrium position, the consumer must buy so much of each commodity whose price is equal its",
+    "options": [
+      "marginal utility",
+      "total utility",
+      "average utility",
+      "variable utility"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: marginal utility"
+  },
+  {
+    "id": 580,
+    "year": 2006,
+    "topic": "General",
+    "question": "The total amount of money raised by a company through insurance of shares to the public is",
+    "options": [
+      "debentures",
+      "nominal capital",
+      "ordinary shares",
+      "paid-up capital"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: nominal capital"
+  },
+  {
+    "id": 561,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following tools of economic analysis is used when data contains more than one category?",
+    "options": [
+      "Bars charts",
+      "Component bar charts",
+      "Graphs",
+      "Symbolical statement"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Component bar charts"
+  },
+  {
+    "id": 457,
+    "year": 2003,
+    "topic": "General",
+    "question": "The tax whose rate increases as the level of income increases is known as",
+    "options": [
+      "regressive tax",
+      "proportional tax",
+      "progressive tax",
+      "company tax"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: progressive tax"
+  },
+  {
+    "id": 266,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following is a legal tender?",
+    "options": [
+      "Bank notes",
+      "Bank overdrafts",
+      "Bills of exchange",
+      "Money order"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Bank notes"
+  },
+  {
+    "id": 510,
+    "year": 2005,
+    "topic": "General",
+    "question": "Economic activities are undertaken to solve the problem of",
+    "options": [
+      "consumption",
+      "opportunity cost",
+      "production",
+      "scarcity"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: opportunity cost"
+  },
+  {
+    "id": 597,
+    "year": 2006,
+    "topic": "General",
+    "question": "A mixed economy combines the characteristics of both",
+    "options": [
+      "planned  and capitalist economics",
+      "exchange subsistence economies",
+      "subsistence and planned economies",
+      "capitalist and exchange economics"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: planned  and capitalist economics"
+  },
+  {
+    "id": 482,
+    "year": 2004,
+    "topic": "General",
+    "question": "For both the monopolist and the perfectly competitive firm, profit maximizing output occurs at the point where the",
+    "options": [
+      "marginal cost curve cuts the marginal revenue curve from below",
+      "marginal revenue curve cuts the marginal output from above",
+      "marginal cost curve intersects the X-axis",
+      "marginal revenue curve intersects the Y-axis"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: marginal cost curve cuts the marginal revenue curve from below"
+  },
+  {
+    "id": 448,
+    "year": 2003,
+    "topic": "General",
+    "question": "Cost-push inflation is likely to arise when",
+    "options": [
+      "there is an increase in government spending",
+      "there is an increase in direct taxes",
+      "demand for higher wages is granted",
+      "there is a decrease in bank lending"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: demand for higher wages is granted"
+  },
+  {
+    "id": 287,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following does not change in the short run?",
+    "options": [
+      "Variable cost",
+      "Marginal cost",
+      "Total cost",
+      "Fixed cost"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Fixed cost"
+  },
+  {
+    "id": 432,
+    "year": 2003,
+    "topic": "General",
+    "question": "Which of the following could be  used  to  measure  the efficiency of labour?",
+    "options": [
+      "Education and training",
+      "Rate of inflation",
+      "Level of unemployment",
+      "Input-Output ratio"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Input-Output ratio"
+  },
+  {
+    "id": 243,
+    "year": 2010,
+    "topic": "General",
+    "question": "Greater inter-dependence among workers in production is associated with",
+    "options": [
+      "utility",
+      "manufacturing",
+      "division of labour",
+      "factory workers"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: division of labour"
+  },
+  {
+    "id": 651,
+    "year": 2007,
+    "topic": "General",
+    "question": "International trade depends on the concept of",
+    "options": [
+      "marginal cost advantage",
+      "comparative cost disadvantage",
+      "Comparative cost advantage",
+      "absolute cost"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Comparative cost advantage"
+  },
+  {
+    "id": 484,
+    "year": 2004,
+    "topic": "General",
+    "question": "One main benefit of partnerships is",
+    "options": [
+      "the possibility of raising funds on the stock exchange",
+      "the possibility of attracting twenty one or more members",
+      "that members can specialize in various functions",
+      "that it enjoys its own separate legal entity."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: that members can specialize in various functions"
+  },
+  {
+    "id": 204,
+    "year": 2001,
+    "topic": "General",
+    "question": "If the quantity demanded of a particular commodity is represented by the function Qd = 30 - 2p. What is the quantity demanded at a price of twelve Naira?",
+    "options": [
+      "6 units",
+      "8 units",
+      "10 units",
+      "12 units"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: 6 units"
+  },
+  {
+    "id": 536,
+    "year": 2005,
+    "topic": "General",
+    "question": "The direct exchange of one good for another without the use of money is known as",
+    "options": [
+      "foreign exchange",
+      "exchange rate",
+      "expenditure",
+      "barter"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: barter"
+  },
+  {
+    "id": 583,
+    "year": 2006,
+    "topic": "General",
+    "question": "For a monopolist, the average revenue (AR) curve is  above",
+    "options": [
+      "the total cost curve",
+      "the same as the marginal cost curve",
+      "above the marginal revenue curve",
+      "the same at that of the perfect competitor."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: above the marginal revenue curve"
+  },
+  {
+    "id": 219,
+    "year": 2001,
+    "topic": "General",
+    "question": "Which of the following is the most liquid asset?",
+    "options": [
+      "Bank notes",
+      "Silver",
+      "Bank deposit",
+      "Cheques"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Silver"
+  },
+  {
+    "id": 579,
+    "year": 2006,
+    "topic": "General",
+    "question": "The main difference between a private and a public \n\tenterprise is the",
+    "options": [
+      "amount of profit realized",
+      "mode of operation",
+      "objective of the business",
+      "ownership structure"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: ownership structure"
+  },
+  {
+    "id": 518,
+    "year": 2005,
+    "topic": "General",
+    "question": "Which of the following determines the sizes of a country’s population?    (l) Birth rate    (ll) Death rate     \n\t(lll) Migration rate     (lV) lmportation rate    (V) Unemployment",
+    "options": [
+      "l), (ll) and (V)",
+      "(ll) and (lV)",
+      "(I), (II) and (lll)",
+      "(I) and (V)"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: (I), (II) and (lll)"
+  },
+  {
+    "id": 605,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following is an objective of economic integration?",
+    "options": [
+      "Harmonization of cultural practices",
+      "Free movement of persons, goods and services",
+      "Payment of high tariffs",
+      "Dumping of goods in less developed countries"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Free movement of persons, goods and services"
+  },
+  {
+    "id": 443,
+    "year": 2003,
+    "topic": "General",
+    "question": "Efficient distribution of goods in West Africa will be \n\tfacilitated by",
+    "options": [
+      "poor storage facilities",
+      "adequate transportation system",
+      "high standard of living",
+      "high cost of living"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: adequate transportation system"
+  },
+  {
+    "id": 578,
+    "year": 2006,
+    "topic": "General",
+    "question": "A debenture holder is entitled to payments in the form of",
+    "options": [
+      "allowance",
+      "interest",
+      "salary",
+      "donation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: interest"
+  },
+  {
+    "id": 218,
+    "year": 2001,
+    "topic": "General",
+    "question": "The Quantity Theory of money states that a reduction in the quantity of money in circulation would bring about",
+    "options": [
+      "a geometrical fall in prices",
+      "a proprotionate fall in price",
+      "a rise in prices",
+      "an unequal fall in prices"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a proprotionate fall in price"
+  },
+  {
+    "id": 489,
+    "year": 2004,
+    "topic": "General",
+    "question": "The market consisting  of  a  network  of  dealers  where \tcurrencies can be bought and sold is known as",
+    "options": [
+      "capital market",
+      "foreign exchange market",
+      "commodity market",
+      "the stock market"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: foreign exchange market"
+  },
+  {
+    "id": 418,
+    "year": 2003,
+    "topic": "General",
+    "question": "The reward for labour is",
+    "options": [
+      "wages",
+      "profit",
+      "rend",
+      "dividends"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: wages"
+  },
+  {
+    "id": 423,
+    "year": 2003,
+    "topic": "General",
+    "question": "Which of the following is  an  advantage of localization of \n\tindustry?",
+    "options": [
+      "Development of subsidiary firms",
+      "Creation of parallel markets",
+      "Development of slums",
+      "Attraction of foreign capital"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Development of subsidiary firms"
+  },
+  {
+    "id": 577,
+    "year": 2006,
+    "topic": "General",
+    "question": "The mechanism which allows the price of a commodity to be fixed either above or below the equilibrium is known as",
+    "options": [
+      "monopolistic competition",
+      "price discrimination",
+      "perfect competitive market",
+      "price control"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: price control"
+  },
+  {
+    "id": 217,
+    "year": 2001,
+    "topic": "General",
+    "question": "Money is demanded for which of the following reasons?",
+    "options": [
+      "To meet unforeseen contingencies",
+      "To solve the problem of inflation",
+      "It is easily divisible",
+      "It is portable"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: To meet unforeseen contingencies"
+  },
+  {
+    "id": 525,
+    "year": 2005,
+    "topic": "General",
+    "question": "Amount of goods offered to the market at respective prices and presented in a table is called",
+    "options": [
+      "price schedule",
+      "supply schedule",
+      "scale of preference",
+      "demand schedule"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: supply schedule"
+  },
+  {
+    "id": 567,
+    "year": 2006,
+    "topic": "General",
+    "question": "A movement along the same demand curve either upwards \tor downwards as a result of changes in price implies",
+    "options": [
+      "a change in demand",
+      "a change in quantity demanded.",
+      "an increase in demand",
+      "a shift in the demand curve to the right."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a change in quantity demanded."
+  },
+  {
+    "id": 648,
+    "year": 2007,
+    "topic": "General",
+    "question": "The population of a country in a certain year was fifty million and the per capita income was $2050. What was the national income?",
+    "options": [
+      "$ 750,000 million",
+      "$100,250 million",
+      "$ 102,500 million",
+      "125,050 million"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: $ 102,500 million"
+  },
+  {
+    "id": 531,
+    "year": 2005,
+    "topic": "General",
+    "question": "One-man businesses are popular in West Africa because of all the following except the",
+    "options": [
+      "ease of entry",
+      "small capital required",
+      "limited entrepreneurial skill needed",
+      "tendency to become joint-stock companies."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: tendency to become joint-stock companies."
+  },
+  {
+    "id": 603,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following is an invisible item?",
+    "options": [
+      "Banking services",
+      "Petroleum products",
+      "Processed rice",
+      "Processed milk"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Banking services"
+  },
+  {
+    "id": 193,
+    "year": 2001,
+    "topic": "General",
+    "question": "The dispersal of people in a country is called",
+    "options": [
+      "mobility of people",
+      "geographical distribution",
+      "occupational distribution",
+      "state distribution"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: mobility of people"
+  },
+  {
+    "id": 307,
+    "year": 2012,
+    "topic": "General",
+    "question": "When a country’s net income from abroad is added to its total \toutput, the result is",
+    "options": [
+      "gross domestic product",
+      "net national product",
+      "gross national product",
+      "net domestic product"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: gross national product"
+  },
+  {
+    "id": 535,
+    "year": 2005,
+    "topic": "General",
+    "question": "The profit of the producer can be calculated as",
+    "options": [
+      "total cost less total revenue",
+      "average revenue less average cost",
+      "total revenue less total cost",
+      "marginal revenue less marginal cost"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: total revenue less total cost"
+  },
+  {
+    "id": 521,
+    "year": 2005,
+    "topic": "General",
+    "question": "A factor that has slowed down the rate of industrial development in West Africa is",
+    "options": [
+      "inadequate technology",
+      "increasing rate of manpower production",
+      "increased demand for local goods",
+      "intervention of the government in business activities."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: inadequate technology"
+  },
+  {
+    "id": 547,
+    "year": 2005,
+    "topic": "General",
+    "question": "The theory of comparative cost advantage is associated with",
+    "options": [
+      "Alfred Marshal",
+      "Adam Smith",
+      "David Ricardo",
+      "J.B. Say"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: David Ricardo"
+  },
+  {
+    "id": 191,
+    "year": 2001,
+    "topic": "General",
+    "question": "The difference between the highest and lowest in a set of data is the",
+    "options": [
+      "Range",
+      "median",
+      "variance",
+      "mode"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Range"
+  },
+  {
+    "id": 442,
+    "year": 2003,
+    "topic": "General",
+    "question": "One of the factors responsible for low agricultural \n\tproduction in West Africa is",
+    "options": [
+      "inadequate labour",
+      "shortage of land",
+      "inadequate implements",
+      "inadequate research"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: inadequate implements"
+  },
+  {
+    "id": 610,
+    "year": 2007,
+    "topic": "General",
+    "question": "The reward which accrues to labour for participating in production is",
+    "options": [
+      "interest",
+      "wage",
+      "bonus",
+      "profit"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: wage"
+  },
+  {
+    "id": 297,
+    "year": 2012,
+    "topic": "General",
+    "question": "If the labour force of a country is 2.5 million and 2 million are employed, what is the unemployment rate?",
+    "options": [
+      "0.2%",
+      "20%",
+      "200%",
+      "250%"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 20%"
+  },
+  {
+    "id": 276,
+    "year": 2012,
+    "topic": "General",
+    "question": "The co-efficient of income elasticity of demand for inferior goods is",
+    "options": [
+      "Positive",
+      "equal to one",
+      "less than one",
+      "negative"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: negative"
+  },
+  {
+    "id": 249,
+    "year": 2010,
+    "topic": "General",
+    "question": "One advantage of the Sole Proprietorship over other forms of business organizations is that it can",
+    "options": [
+      "make very high profits",
+      "employ many workers",
+      "keep its affairs private",
+      "produce on a very large scale"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: keep its affairs private"
+  },
+  {
+    "id": 468,
+    "year": 2004,
+    "topic": "General",
+    "question": "In a capitalist system, the means of production is owned and controlled by",
+    "options": [
+      "the government",
+      "politicians",
+      "private individuals",
+      "the workers"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: private individuals"
+  },
+  {
+    "id": 637,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following is true under rapid inflation? People",
+    "options": [
+      "demand less foreign exchange",
+      "set up businesses",
+      "to pay their taxes",
+      "hardly want to lend money"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: hardly want to lend money"
+  },
+  {
+    "id": 639,
+    "year": 2007,
+    "topic": "General",
+    "question": "A non-bank financial intermediary which is regarded as a pool of risks is the",
+    "options": [
+      "cooperative society",
+      "stock exchange",
+      "insurance company",
+      "post office"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: insurance company"
+  },
+  {
+    "id": 456,
+    "year": 2003,
+    "topic": "General",
+    "question": "Which of the following is a direct tax?",
+    "options": [
+      "Import duties",
+      "Purchase tax",
+      "Export duties",
+      "Personal income tax"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Personal income tax"
+  },
+  {
+    "id": 440,
+    "year": 2003,
+    "topic": "General",
+    "question": "The shares which do not carry any fixed rate of dividend are known as",
+    "options": [
+      "debentures",
+      "cumulative preference shares",
+      "ordinary shares",
+      "participating preference shares"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: ordinary shares"
+  },
+  {
+    "id": 472,
+    "year": 2004,
+    "topic": "General",
+    "question": "As a firm expands, it enjoys some advantages called",
+    "options": [
+      "variable proportions",
+      "diminishing marginal returns",
+      "internal economics of scale",
+      "decreasing returns to scale"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: internal economics of scale"
+  },
+  {
+    "id": 417,
+    "year": 2003,
+    "topic": "General",
+    "question": "The problem of scarcity is reduced by",
+    "options": [
+      "controlling consumption of goods and services",
+      "producing everything needed by consumers",
+      "ensuring efficient allocation of resources",
+      "restricting consumer choices and tastes"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: ensuring efficient allocation of resources"
+  },
+  {
+    "id": 498,
+    "year": 2004,
+    "topic": "General",
+    "question": "Taxes levied on commodities are",
+    "options": [
+      "direct taxes",
+      "indirect taxes",
+      "poll taxes",
+      "investment taxes"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: indirect taxes"
+  },
+  {
+    "id": 436,
+    "year": 2003,
+    "topic": "General",
+    "question": "Price elasticity of supply measures the responsiveness of",
+    "options": [
+      "quantity supplied to   changes in suppliers’ income",
+      "changes in prices of other commodities",
+      "a change in the prices of the commodity",
+      "a change in the demand for the product"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: a change in the prices of the commodity"
+  },
+  {
+    "id": 594,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following agricultural systems is mainly for the",
+    "options": [
+      "cultivation of food crops for family consumption?",
+      "Co-operative farming",
+      "Commercial farming",
+      "Subsistence farming"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Commercial farming"
+  },
+  {
+    "id": 524,
+    "year": 2005,
+    "topic": "General",
+    "question": "The desire for goods without the ability to pay is called",
+    "options": [
+      "choice",
+      "effective demand",
+      "joint demand",
+      "wants"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: wants"
+  },
+  {
+    "id": 608,
+    "year": 2007,
+    "topic": "General",
+    "question": "The three principal economic units in any system are",
+    "options": [
+      "trade, industry and banking",
+      "workers, consumers and shareholder",
+      "households, firms and government",
+      "companies, industry and plants"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: households, firms and government"
+  },
+  {
+    "id": 626,
+    "year": 2007,
+    "topic": "General",
+    "question": "The practice whereby a business is owned by two or more independent firms is termed",
+    "options": [
+      "indigenization",
+      "joint venture",
+      "commercialization",
+      "foreign investment"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: joint venture"
+  },
+  {
+    "id": 584,
+    "year": 2006,
+    "topic": "General",
+    "question": "Advertising expenses would not be necessary under perfect competition because",
+    "options": [
+      "consumers would have complete knowledge of goods",
+      "cost of production would be at the maximum level",
+      ".  \n\tevery firm  would enjoy the benefits of large scale production",
+      "incomes of the consumers in the community would be high."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: consumers would have complete knowledge of goods"
+  },
+  {
+    "id": 209,
+    "year": 2001,
+    "topic": "General",
+    "question": "Which of the following business units can issue shares?",
+    "options": [
+      "Sole trader",
+      "Private limited company",
+      "Central Bank",
+      "Supermarket"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Private limited company"
+  },
+  {
+    "id": 642,
+    "year": 2007,
+    "topic": "General",
+    "question": "If tax takes a larger proportion of the income of people with \tlower income, the tax is",
+    "options": [
+      "progressive",
+      "proportional",
+      "regressive",
+      "ad-valorem"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: regressive"
+  },
+  {
+    "id": 622,
+    "year": 2007,
+    "topic": "General",
+    "question": "In a situation where demand is perfectly elastic, imposition of a tax on a commodity to raise its price will result in",
+    "options": [
+      "consumers increasing their demand for the product",
+      "consumers demand for the product remaining unchanged",
+      "consumers shifting completely to substitute products",
+      "suppliers increases the supply of the product"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: consumers shifting completely to substitute products"
+  },
+  {
+    "id": 283,
+    "year": 2012,
+    "topic": "General",
+    "question": "When total utility is constant, it means marginal utility is",
+    "options": [
+      "Increasing",
+      "zero",
+      "decreasing",
+      "one"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: zero"
+  },
+  {
+    "id": 497,
+    "year": 2004,
+    "topic": "General",
+    "question": "The act of selling goods in foreign markets at prices below those charged at home markets is called",
+    "options": [
+      "exchange",
+      "specialization",
+      "dumping",
+      "exporting"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: dumping"
+  },
+  {
+    "id": 433,
+    "year": 2003,
+    "topic": "General",
+    "question": "Which of the following is necessary for the survival of small firms in West Africa?",
+    "options": [
+      "Access to land for development",
+      "Inadequate collaterals for bank loans",
+      "Government assistance in the form of loans and tax holidays",
+      "High transportation costs."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Government assistance in the form of loans and tax holidays"
+  },
+  {
+    "id": 479,
+    "year": 2004,
+    "topic": "General",
+    "question": "The gap between demand and  supply  curves  below the equilibrium price indicates",
+    "options": [
+      "excess demand",
+      "excess supply",
+      "equilibrium quantity",
+      "equilibrium price"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: excess demand"
+  },
+  {
+    "id": 653,
+    "year": 2007,
+    "topic": "General",
+    "question": "The practice of selling goods overseas and often below the cost of production is known as",
+    "options": [
+      "retailing",
+      "dumping",
+      "internal trade",
+      "advertising"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: dumping"
+  },
+  {
+    "id": 242,
+    "year": 2010,
+    "topic": "General",
+    "question": "The law of diminishing marginal utility states that, the more a commodity is consumed the",
+    "options": [
+      "higher the satisfaction derived from an additional unit",
+      "higher the price to be paid",
+      "lower the quantity supplied",
+      "lower the rate of increase in the total utility derived"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: lower the rate of increase in the total utility derived"
+  },
+  {
+    "id": 427,
+    "year": 2003,
+    "topic": "General",
+    "question": "Marginal cost can be derived from the",
+    "options": [
+      "total product",
+      "total revenue",
+      "total cost",
+      "average fixed cost"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: average fixed cost"
+  },
+  {
+    "id": 635,
+    "year": 2007,
+    "topic": "General",
+    "question": "Long-term loans can be secured from",
+    "options": [
+      "commercial banks",
+      "discount houses",
+      "development banks",
+      "acceptance houses"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: development banks"
+  },
+  {
+    "id": 241,
+    "year": 2010,
+    "topic": "General",
+    "question": "At the highest level of total utility, marginal utility is",
+    "options": [
+      "Negative",
+      "positive and falling",
+      "positive and rising",
+      "zero"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: zero"
+  },
+  {
+    "id": 261,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following over estimates the value of national income?",
+    "options": [
+      "Incomplete statistical data",
+      "Wrong timing of computation",
+      "Changes in prices of goods within the year",
+      "Double counting"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Double counting"
+  },
+  {
+    "id": 435,
+    "year": 2003,
+    "topic": "General",
+    "question": "If the quantity demanded of a commodity increases from 20 to 30 units when there is an increase in price from 4 naira to 5 naira, the elasticity of demand is",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 2"
+  },
+  {
+    "id": 552,
+    "year": 2005,
+    "topic": "General",
+    "question": "Mono-product economies are those that",
+    "options": [
+      "produce one main commodity",
+      "produce only raw materials",
+      "depend on the export of their raw materials",
+      "specialize in agricultural industries"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: produce one main commodity"
+  },
+  {
+    "id": 629,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following is a middlemen in the chain of distribution?",
+    "options": [
+      "An entrepreneur",
+      "A producer",
+      "A banker",
+      "A retailer"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: A retailer"
+  },
+  {
+    "id": 556,
+    "year": 2005,
+    "topic": "General",
+    "question": "ln calculating the national income of a country x, the cost of both raw materials and the finished products \t\twere included. This is a case of",
+    "options": [
+      "double counting",
+      "price fluctuations",
+      "price differentiation",
+      "price discrimination"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: double counting"
+  },
+  {
+    "id": 206,
+    "year": 2001,
+    "topic": "General",
+    "question": "The upward sloping of the supply curve indicates that",
+    "options": [
+      "more will be supplied as price rises",
+      "less will be supplied as price rises",
+      "supply is not a function of price",
+      "supply is static and demand is dynamic"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: more will be supplied as price rises"
+  },
+  {
+    "id": 420,
+    "year": 2003,
+    "topic": "General",
+    "question": "One major function of the entrepreneur is",
+    "options": [
+      "bearing of risk",
+      "maximizing profits",
+      "taking charge of day to day management",
+      "determining the selling price of his products"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: taking charge of day to day management"
+  },
+  {
+    "id": 526,
+    "year": 2005,
+    "topic": "General",
+    "question": "At the equilibrium price, quantity demanded is",
+    "options": [
+      "greater than quantity supplied",
+      "equal to quantity supplied",
+      "less than quantity supplied",
+      "equal to excess supply"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: equal to quantity supplied"
+  },
+  {
+    "id": 490,
+    "year": 2004,
+    "topic": "General",
+    "question": "Open Market Operation (OMO) means the",
+    "options": [
+      "provision of credit facilities by commercial banks",
+      "provision of credit facilities by the mortgage banks",
+      "buying and selling of government securities by the central bank",
+      "procedure for the establishment of commercial banks"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: buying and selling of government securities by the central bank"
+  },
+  {
+    "id": 284,
+    "year": 2012,
+    "topic": "General",
+    "question": "A rational consumer is one who",
+    "options": [
+      "spends his income to maximize satisfaction",
+      "is not influenced by advertisement",
+      "behaves in a particular way all the time",
+      "knows the prices of all goods and buys the cheapest"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: spends his income to maximize satisfaction"
+  },
+  {
+    "id": 312,
+    "year": 2012,
+    "topic": "General",
+    "question": "One profitable form of business undertaken by the commercial banks is",
+    "options": [
+      "the issuing of cheques",
+      "the payment of standing order",
+      "lending money to borrowers",
+      "accepting cheques from customers"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: lending money to borrowers"
+  },
+  {
+    "id": 425,
+    "year": 2003,
+    "topic": "General",
+    "question": "West  African   countries  have  low  levels  of  economic \tdevelopment due to",
+    "options": [
+      "underpopulation",
+      "inadequate labour",
+      "failure to plan",
+      "ineffective plan implementation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: inadequate labour"
+  },
+  {
+    "id": 601,
+    "year": 2006,
+    "topic": "General",
+    "question": "An increase in the quantity of goods and services produced \tin a country which raises her national income is known as",
+    "options": [
+      "economic development",
+      "economic growth",
+      "domestic investment",
+      "productivity."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: economic growth"
+  },
+  {
+    "id": 544,
+    "year": 2005,
+    "topic": "General",
+    "question": "Among the principles of taxation propounded by Adam Smith was that",
+    "options": [
+      "a tax should be impossible to evade",
+      "a tax should be convenient to pay",
+      "no tax should be levied on food",
+      "there should be no taxation without representation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a tax should be convenient to pay"
+  },
+  {
+    "id": 265,
+    "year": 2010,
+    "topic": "General",
+    "question": "In which of the following ways has",
+    "options": [
+      "Increase in money supply",
+      "A fall in real income",
+      "Appreciation in the value of money",
+      "Increased employment"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: A fall in real income"
+  },
+  {
+    "id": 511,
+    "year": 2005,
+    "topic": "General",
+    "question": "Farming, mining and fishing are",
+    "options": [
+      "primary production",
+      "secondary production",
+      "tertiary production",
+      "intermediate production"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: primary production"
+  },
+  {
+    "id": 628,
+    "year": 2007,
+    "topic": "General",
+    "question": "The return on investment that is just sufficient to satisfy the owner of a business is called",
+    "options": [
+      "economic profit",
+      "business profit",
+      "normal profit",
+      "excess profit"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: normal profit"
+  },
+  {
+    "id": 532,
+    "year": 2005,
+    "topic": "General",
+    "question": "Wholesalers are often criticized because they",
+    "options": [
+      "help to break the bulk",
+      "finance producers",
+      "increase prices",
+      "provide after-scale services"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: increase prices"
+  },
+  {
+    "id": 255,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following does not explain why a school principal earns more salary than a school messenger?",
+    "options": [
+      "Length of training",
+      "Demand and Supply",
+      "Cost of training",
+      "The messenger is a non-teaching staff"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Demand and Supply"
+  },
+  {
+    "id": 450,
+    "year": 2003,
+    "topic": "General",
+    "question": "Precautionary motive relates to",
+    "options": [
+      "demand for money",
+      "demand for goods",
+      "supply of money",
+      "supply of goods"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: demand for money"
+  },
+  {
+    "id": 215,
+    "year": 2001,
+    "topic": "General",
+    "question": "In a public corporation, the risks of business are borne by the",
+    "options": [
+      "workers",
+      "tax payers",
+      "board members",
+      "treasury"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: tax payers"
+  },
+  {
+    "id": 633,
+    "year": 2007,
+    "topic": "General",
+    "question": "The most important quality of money is that it must be",
+    "options": [
+      "relatively scarce",
+      "generally acceptable",
+      "portable",
+      "durable"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: generally acceptable"
+  },
+  {
+    "id": 588,
+    "year": 2006,
+    "topic": "General",
+    "question": "The tendency for prices to rise while the value of money falls is known as",
+    "options": [
+      "bills of exchange",
+      "inflation",
+      "depreciation",
+      "deflation."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: inflation"
+  },
+  {
+    "id": 445,
+    "year": 2003,
+    "topic": "General",
+    "question": "Money becomes a very poor store of value in a period of",
+    "options": [
+      "deflation",
+      "depression",
+      "recession",
+      "inflation"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: inflation"
+  },
+  {
+    "id": 227,
+    "year": 2001,
+    "topic": "General",
+    "question": "Tax evasions means",
+    "options": [
+      "postponing payment of tax",
+      "tax payment according to ability to pay",
+      "making false declaration of taxable income",
+      "paying little amount of money as tax"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: making false declaration of taxable income"
+  },
+  {
+    "id": 210,
+    "year": 2001,
+    "topic": "General",
+    "question": "When the government initiates measures to make an organization in which it has substantial interest more profit \toriented, such a business is described as being",
+    "options": [
+      "indigenized",
+      "restructured",
+      "Privatized",
+      "commercialized"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: commercialized"
+  },
+  {
+    "id": 587,
+    "year": 2006,
+    "topic": "General",
+    "question": "The policy of government to increase the supply of money to meet its own expenditure plans is likely to be",
+    "options": [
+      "speculative",
+      "deflationary",
+      "inflationary",
+      "contractionary"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: inflationary"
+  },
+  {
+    "id": 554,
+    "year": 2005,
+    "topic": "General",
+    "question": "ln a capitalist system, goods are produced for those who",
+    "options": [
+      "want them most but cannot pay for them",
+      "can pay for them but do not want them",
+      "want them and can also pay for them",
+      "are dependent on the labour force"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: want them and can also pay for them"
+  },
+  {
+    "id": 487,
+    "year": 2004,
+    "topic": "General",
+    "question": "Which of the following will be an effect of inflation?",
+    "options": [
+      "Wages earners will gain",
+      "Borrowing of money will be restricted",
+      "Money lenders will gain",
+      "Borrowers of money will gain"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Borrowers of money will gain"
+  },
+  {
+    "id": 421,
+    "year": 2003,
+    "topic": "General",
+    "question": "A major limiting factor of mass production is",
+    "options": [
+      "efficient management",
+      "adequate labour supply",
+      "small size of the market",
+      "adequate  supply of raw materials"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: small size of the market"
+  },
+  {
+    "id": 470,
+    "year": 2004,
+    "topic": "General",
+    "question": "An economic good is described as a good which",
+    "options": [
+      "yield utility and commands a price",
+      "is useful and occupies a space",
+      "is in high demand and transferable",
+      "has unlimited supply"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: yield utility and commands a price"
+  },
+  {
+    "id": 467,
+    "year": 2004,
+    "topic": "General",
+    "question": "A carpenter’s consumer good include:  I.  a kilogram of rice II.  3 pairs of shoes    III.  4 pairs of socks   IV. 3 screw-drivers",
+    "options": [
+      "I and IV only",
+      "I, II, III and IV",
+      "I, II and IV only",
+      "I, II and III only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: I and IV only"
+  },
+  {
+    "id": 611,
+    "year": 2007,
+    "topic": "General",
+    "question": "The Malthusian theory of population does not concern itself with",
+    "options": [
+      "growth of food production in arithmetical progression",
+      "growth of population in geometric progression",
+      "positive checks to population growth",
+      "development and growth of manpower"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: development and growth of manpower"
+  },
+  {
+    "id": 214,
+    "year": 2001,
+    "topic": "General",
+    "question": "The reward for shareholdership of a company is",
+    "options": [
+      "Wages",
+      "interest",
+      "dividends",
+      "profit"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: dividends"
+  },
+  {
+    "id": 465,
+    "year": 2004,
+    "topic": "General",
+    "question": "The reward for land as a factor of production is",
+    "options": [
+      "interest",
+      "rent",
+      "dividend",
+      "wages"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: rent"
+  },
+  {
+    "id": 624,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following is a characteristic of monopoly?",
+    "options": [
+      "Many sellers",
+      "Homogeneous commodity.",
+      "A single seller",
+      "Perfect knowledge"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: A single seller"
+  },
+  {
+    "id": 277,
+    "year": 2012,
+    "topic": "General",
+    "question": "If a 20% rise in the price of  Whisky leads to a 30% increase in quantity demanded of Schnapps, the cross elasticity of demand is",
+    "options": [
+      "3.0",
+      "2.5",
+      "2.3",
+      "1.5"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 1.5"
+  },
+  {
+    "id": 520,
+    "year": 2005,
+    "topic": "General",
+    "question": "A group of firms producing similar commodities for the same market constitute",
+    "options": [
+      "a cartel",
+      "an industry",
+      "a co-operative",
+      "wholesalers"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: an industry"
+  },
+  {
+    "id": 415,
+    "year": 2003,
+    "topic": "General",
+    "question": "The three major agents of an economic system are the",
+    "options": [
+      "consumers, workers and producers",
+      "markets, telecommunication and banks",
+      "schools, hospitals and universities",
+      "individuals, firms and government"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: individuals, firms and government"
+  },
+  {
+    "id": 431,
+    "year": 2003,
+    "topic": "General",
+    "question": "West African countries experience rapid population growth due to",
+    "options": [
+      "existence of birth control clinics",
+      "early marriages",
+      "adequate sex education in schools",
+      "late marriages"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: early marriages"
+  },
+  {
+    "id": 517,
+    "year": 2005,
+    "topic": "General",
+    "question": "When a worker changes from one type of job to another, it is called",
+    "options": [
+      "geographical mobility of labour",
+      "occupational mobility of labour",
+      "immobility of labour",
+      "rural-urban migration."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: occupational mobility of labour"
+  },
+  {
+    "id": 222,
+    "year": 2001,
+    "topic": "General",
+    "question": "One disadvantage of inflation is that",
+    "options": [
+      "fixed income earners gain",
+      "fixed income earners lose",
+      "businessmen lose",
+      "standard of living rises"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: fixed income earners lose"
+  },
+  {
+    "id": 292,
+    "year": 2012,
+    "topic": "General",
+    "question": "If there arc no barriers to entering a market, it means that",
+    "options": [
+      "anyone can become a buyer or seller",
+      "unwanted goods can always enter the market",
+      "the market becomes a dumping ground",
+      "the goods are not inspected"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: anyone can become a buyer or seller"
+  },
+  {
+    "id": 475,
+    "year": 2004,
+    "topic": "General",
+    "question": "Natural growth rate is",
+    "options": [
+      "birth rate less death rate",
+      "death rate less migration",
+      "death rate plus birth rate",
+      "birth rate plus migration"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: birth rate less death rate"
+  },
+  {
+    "id": 646,
+    "year": 2007,
+    "topic": "General",
+    "question": "The Net National Product (NNP) is Gross National Product (GNP) less",
+    "options": [
+      "domestic product",
+      "foreign product",
+      "depreciation",
+      "investment"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: depreciation"
+  },
+  {
+    "id": 652,
+    "year": 2007,
+    "topic": "General",
+    "question": "One advantage of international trade is that",
+    "options": [
+      "countries depend on each other",
+      "it introduces variation in prices",
+      "it increases demand for foreign goods",
+      "it makes variety of goods available"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: it makes variety of goods available"
+  },
+  {
+    "id": 533,
+    "year": 2005,
+    "topic": "General",
+    "question": "ln which of the following business units are the owners mostly the customers?",
+    "options": [
+      "Co-operatives",
+      "Limited liability companies",
+      "Partnerships",
+      "Public corporations"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Co-operatives"
+  },
+  {
+    "id": 289,
+    "year": 2012,
+    "topic": "General",
+    "question": "A firm will shut down in the long run if its earning is",
+    "options": [
+      "less than normal profit",
+      "greater than normal profit",
+      "equal to super normal profit",
+      "less than super normal profit"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: less than normal profit"
+  },
+  {
+    "id": 302,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not true of small companies?",
+    "options": [
+      "The cannot benefit from economics of scale",
+      "are a good source of new jobs",
+      "can satisfy demand in specialist markets",
+      "have a good record of technical innovations"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: have a good record of technical innovations"
+  },
+  {
+    "id": 549,
+    "year": 2005,
+    "topic": "General",
+    "question": "To improve the balance of payments position of West African countries, there must be",
+    "options": [
+      "removal of barriers to importation of goods and services",
+      "increased rate of exportation of goods and services",
+      "increased domestic consumption of foreign produced goods",
+      "the development of the local market."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: increased rate of exportation of goods and services"
+  },
+  {
+    "id": 480,
+    "year": 2004,
+    "topic": "General",
+    "question": "Demand for inferior good is an example of",
+    "options": [
+      "expansion of demand",
+      "contraction of demand",
+      "individual demand",
+      "abnormal demand"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: abnormal demand"
+  },
+  {
+    "id": 253,
+    "year": 2010,
+    "topic": "General",
+    "question": "A country whose population size is too small relative to its resources is",
+    "options": [
+      "over populated",
+      "optimally populated",
+      "under populated",
+      "producing the optimum output"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: under populated"
+  },
+  {
+    "id": 279,
+    "year": 2012,
+    "topic": "General",
+    "question": "A supply curve which is vertical has an elasticity co-efficient of",
+    "options": [
+      "0",
+      "0.5",
+      "1.5",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: 0"
+  },
+  {
+    "id": 537,
+    "year": 2005,
+    "topic": "General",
+    "question": "Acceptability, durability, homogeneity and portability are all \tattributes of good",
+    "options": [
+      "markets",
+      "money",
+      "banks",
+      "government"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: money"
+  },
+  {
+    "id": 428,
+    "year": 2003,
+    "topic": "General",
+    "question": "The market supply curve slopes upwards from left to right indicating that",
+    "options": [
+      "at a lower price, more is supplied",
+      "two commodities can be supplied at the same time",
+      "at a lower price, less is supplied",
+      "producers pay high taxes"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: at a lower price, less is supplied"
+  },
+  {
+    "id": 570,
+    "year": 2006,
+    "topic": "General",
+    "question": "Standardization of products or services is a feature of",
+    "options": [
+      "large firms",
+      "retailers",
+      "small firms",
+      "wholesalers."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: large firms"
+  },
+  {
+    "id": 195,
+    "year": 2001,
+    "topic": "General",
+    "question": "Population growth can be controlled by all the following except",
+    "options": [
+      "legalizing abortion",
+      "incentives on immigration",
+      "family planning",
+      "limiting number of children per family"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: incentives on immigration"
+  },
+  {
+    "id": 591,
+    "year": 2006,
+    "topic": "General",
+    "question": "A cheque book is issued to customers of a bank operating a",
+    "options": [
+      "savings account",
+      "time deposit account",
+      "current account",
+      "fixed deposit account"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: current account"
+  },
+  {
+    "id": 291,
+    "year": 2012,
+    "topic": "General",
+    "question": "In which of the following markets does a firm have power to \tmake super normal profits both in the short run and long run?",
+    "options": [
+      "Monopol",
+      "Duopoly",
+      "Oligopoly",
+      "Monopsony"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Monopol"
+  },
+  {
+    "id": 491,
+    "year": 2004,
+    "topic": "General",
+    "question": "Which of the following is an advantage of  localization of industry?",
+    "options": [
+      "Development of subsidiary firms",
+      "Creation of parallel markets",
+      "Development of slums",
+      "Attraction of foreign capital"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Development of subsidiary firms"
+  },
+  {
+    "id": 311,
+    "year": 2012,
+    "topic": "General",
+    "question": "Deposits held in a commercial bank are part of",
+    "options": [
+      "money supply",
+      "transfer payments",
+      "ordinary shares",
+      "treasury bills"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: money supply"
+  },
+  {
+    "id": 188,
+    "year": 2001,
+    "topic": "General",
+    "question": "Quasi-rent refers to",
+    "options": [
+      "Payment made on acquisition of firm’s premises",
+      "Payment  made  for  the  procurement  of  tools  and equipment",
+      "Returns on investment",
+      "Payment made on  any  factor  of  production  that  is temporarily fixed in supply"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Payment made on  any  factor  of  production  that  is temporarily fixed in supply"
+  },
+  {
+    "id": 299,
+    "year": 2012,
+    "topic": "General",
+    "question": "Natural growth rate of population can be defined as the",
+    "options": [
+      "difference between birth rate and death rate",
+      "number of births in a year",
+      "increase in the population growth in a year",
+      "difference between the total population and the death rate"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: difference between birth rate and death rate"
+  },
+  {
+    "id": 630,
+    "year": 2007,
+    "topic": "General",
+    "question": "A negative effect of the presence of a large number of middlemen in the distributive network is",
+    "options": [
+      "greater variety of goods",
+      "greater quality of goods",
+      "lower price of goods",
+      "higher price of goods"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: higher price of goods"
+  },
+  {
+    "id": 300,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not a consequence of increased unemployment?",
+    "options": [
+      "A fall in tax revenue for the government",
+      "A reduction in trade union’s influence",
+      "A fall in the death rate",
+      "An increase in the labour force"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: A fall in the death rate"
+  },
+  {
+    "id": 216,
+    "year": 2001,
+    "topic": "General",
+    "question": "One of the functions of money is",
+    "options": [
+      "double coincidence of wants",
+      "unit of account",
+      "indivisibility",
+      "making payments through banks only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: unit of account"
+  },
+  {
+    "id": 259,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following is not a concept in National income accounting?",
+    "options": [
+      "Domestic National Product (DNP)",
+      "Gross National Product (GNP)",
+      "Gross Domestic Product (GDP)",
+      "Net Domestic Product (NDP)"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Domestic National Product (DNP)"
+  },
+  {
+    "id": 438,
+    "year": 2003,
+    "topic": "General",
+    "question": "Which of the following is a type of business organization?",
+    "options": [
+      "Stock exchange",
+      "Insurance company",
+      "Chain stores",
+      "Co-operative"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Insurance company"
+  },
+  {
+    "id": 460,
+    "year": 2003,
+    "topic": "General",
+    "question": "A major problem facing the Economic Community of West African States (ECOWAS) as an economic integration, is the",
+    "options": [
+      "increasing population",
+      "willingness of member to co-operate",
+      "geographical contiguity",
+      "weak trade relations"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: weak trade relations"
+  },
+  {
+    "id": 452,
+    "year": 2003,
+    "topic": "General",
+    "question": "When the demand for foreign exchange exceeds its supply, the value of the domestic currency",
+    "options": [
+      "appreciates",
+      "depreciates",
+      "inflates",
+      "expands"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: depreciates"
+  },
+  {
+    "id": 550,
+    "year": 2005,
+    "topic": "General",
+    "question": "The Economic Community of West African State (ECOWAS) is an example of",
+    "options": [
+      "bilateral trade",
+      "economic integration",
+      "regional marketing board",
+      "international competition"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: economic integration"
+  },
+  {
+    "id": 564,
+    "year": 2006,
+    "topic": "General",
+    "question": "An owner-manager of a firm can also be called",
+    "options": [
+      "shareholder",
+      "an entrepreneur",
+      "an employer",
+      "a chairman"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: an entrepreneur"
+  },
+  {
+    "id": 538,
+    "year": 2005,
+    "topic": "General",
+    "question": "The term demand for money means",
+    "options": [
+      "desire to borrow money from people",
+      "desire of an individual to invest all his money in  projects",
+      "willingness of people to hold money",
+      "willingness of people to keep all their resources in  assets."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: willingness of people to hold money"
+  },
+  {
+    "id": 240,
+    "year": 2010,
+    "topic": "General",
+    "question": "A decrease in supply with demand remaining unchanged will cause the equilibrium price for a good to",
+    "options": [
+      "be unchanged",
+      "remain elastic",
+      "remain inelastic",
+      "rise"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: rise"
+  },
+  {
+    "id": 463,
+    "year": 2003,
+    "topic": "General",
+    "question": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
+    "options": [
+      "perfect competition",
+      "monopsony",
+      "duopoly",
+      "cartel"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: cartel"
+  },
+  {
+    "id": 275,
+    "year": 2012,
+    "topic": "General",
+    "question": "A normal demand curve slopes",
+    "options": [
+      "downwards from left to right",
+      "upwards from right to left",
+      "downwards from right to left",
+      "upwards from left to right"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: downwards from left to right"
+  },
+  {
+    "id": 419,
+    "year": 2003,
+    "topic": "General",
+    "question": "Which of the following factors of production consists of man made goods?",
+    "options": [
+      "Land",
+      "Labour",
+      "Capital",
+      "Entrepreneur"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Capital"
+  },
+  {
+    "id": 226,
+    "year": 2001,
+    "topic": "General",
+    "question": "Which of the following is a direct tax?",
+    "options": [
+      "Import duty",
+      "Export duty",
+      "Capital gain tax",
+      "Sales tax"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Capital gain tax"
+  },
+  {
+    "id": 309,
+    "year": 2012,
+    "topic": "General",
+    "question": "The demand for money to take advantage of changes in bond \tprices is the",
+    "options": [
+      "unforeseen motive",
+      "transaction motive",
+      "speculative motive",
+      "precautionary motive"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: precautionary motive"
+  },
+  {
+    "id": 545,
+    "year": 2005,
+    "topic": "General",
+    "question": "Mr. Bala’s income is $800.00 per month while that of Mr. Jatau is $1,200.00. lf Messrs Bala and Jatau pay $80.00 and $120.00 respectively as taxes, the tax system is",
+    "options": [
+      "progressive",
+      "regressive",
+      "proportional",
+      "ad-valorem"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: proportional"
+  },
+  {
+    "id": 614,
+    "year": 2007,
+    "topic": "General",
+    "question": "When population is classified according to professions, it is called",
+    "options": [
+      "geographical distribution of population",
+      "age distribution of population",
+      "sex distribution of population",
+      "occupational distribution of population"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: occupational distribution of population"
+  },
+  {
+    "id": 458,
+    "year": 2003,
+    "topic": "General",
+    "question": "Public expenditure on education and health is known as expenditure on",
+    "options": [
+      "general services",
+      "social services",
+      "commercial services",
+      "economic services"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: social services"
+  },
+  {
+    "id": 495,
+    "year": 2004,
+    "topic": "General",
+    "question": "Which of the following is not a direct effort to increase agricultural production?",
+    "options": [
+      "Operation feed the nation",
+      "Use of improved seedlings",
+      "Increased loans to farmer and co-operative societies",
+      "National Youth Service Corps"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: National Youth Service Corps"
+  },
+  {
+    "id": 582,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following is not reason for establishing public \tenterprises?",
+    "options": [
+      "Discouraging investors",
+      "Opening up neglected parts of the country",
+      "Effective control of a natural monopoly",
+      "Rapid economic development"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Discouraging investors"
+  },
+  {
+    "id": 225,
+    "year": 2001,
+    "topic": "General",
+    "question": "Public expenditure can be financed from all the following sources except",
+    "options": [
+      "borrowing",
+      "grant-in-aid",
+      "royalties and rents",
+      "Mobilization fees"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: borrowing"
+  },
+  {
+    "id": 252,
+    "year": 2010,
+    "topic": "General",
+    "question": "Age Group\t[0 -15\t\t30%], [16 - 40\t\t27%], [41 - 60\t\t25%], [61 and above\t18%] The data shows the age distribution of a country \n\tin 1983. Using the data, calculate the percentage of working population in 1983.",
+    "options": [
+      "48%",
+      "52%",
+      "57%",
+      "70%"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 52%"
+  },
+  {
+    "id": 589,
+    "year": 2006,
+    "topic": "General",
+    "question": "One way to solve the economic problem of inflation in a country is by increasing the",
+    "options": [
+      "supply of commodities",
+      "supply of currency",
+      "salaries of workers",
+      "demand for commodities."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: supply of commodities"
+  },
+  {
+    "id": 515,
+    "year": 2005,
+    "topic": "General",
+    "question": "The production factor, whose entire world supply is fixed is",
+    "options": [
+      "land",
+      "skilled labour",
+      "capital goods",
+      "entrepreneurship"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: land"
+  },
+  {
+    "id": 190,
+    "year": 2001,
+    "topic": "General",
+    "question": "Which of the following is function of an entrepreneur?",
+    "options": [
+      "Avoidance of risks",
+      "Decision making",
+      "Employment control",
+      "Organizing unions"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Decision making"
+  },
+  {
+    "id": 473,
+    "year": 2004,
+    "topic": "General",
+    "question": "Division of labour is limited by",
+    "options": [
+      "the size of the market",
+      "the productivity of capital",
+      "cost of production",
+      "factors of production"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: the size of the market"
+  },
+  {
+    "id": 239,
+    "year": 2010,
+    "topic": "General",
+    "question": "Equilibrium price is the price at which quantity",
+    "options": [
+      "demanded is greater than quantity supplied",
+      "supplied is greater than quantity demanded",
+      "demanded is equal to quantity supplied",
+      "supplied equals quantity produced"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: demanded is equal to quantity supplied"
+  },
+  {
+    "id": 571,
+    "year": 2006,
+    "topic": "General",
+    "question": "The amount of satisfaction obtained from the consumption of a commodity at a particular time is called",
+    "options": [
+      "marginal utility",
+      "diminishing utility",
+      "total utility",
+      "average utility"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: total utility"
+  },
+  {
+    "id": 294,
+    "year": 2012,
+    "topic": "General",
+    "question": "One good reason for the elimination of middlemen is that they",
+    "options": [
+      "cause increase in price",
+      "help in price stability",
+      "grade and blend goods",
+      "are too many"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cause increase in price"
+  },
+  {
+    "id": 573,
+    "year": 2006,
+    "topic": "General",
+    "question": "In the analysis of utility theory, the basis of demand is",
+    "options": [
+      "marginal utility",
+      "average utility",
+      "fixed utility",
+      "diminishing utility"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: marginal utility"
+  },
+  {
+    "id": 657,
+    "year": 2007,
+    "topic": "General",
+    "question": "ECA means",
+    "options": [
+      "Economic Commission for Africa",
+      "Economic Community of Africa",
+      "Exporting Countries of Africa",
+      "Economic Conference on Africa"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Economic Commission for Africa"
+  },
+  {
+    "id": 274,
+    "year": 2012,
+    "topic": "General",
+    "question": "An arrangement of data in rows and columns is referred to as a",
+    "options": [
+      "Graph",
+      "bar chart",
+      "pie chart",
+      "Table"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Table"
+  },
+  {
+    "id": 461,
+    "year": 2003,
+    "topic": "General",
+    "question": "In a socialist economy, the means of production is owned and controlled by the",
+    "options": [
+      "state",
+      "rich",
+      "Entrepreneur",
+      "traders"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: state"
+  },
+  {
+    "id": 560,
+    "year": 2006,
+    "topic": "General",
+    "question": "Most of the problems of economies arise as a result of",
+    "options": [
+      "demands for scarce resource",
+      "increase in  the demand for more goods and services.",
+      "the desire of producers to supply more goods and services.",
+      "the need to reduce the level of poverty."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: demands for scarce resource"
+  },
+  {
+    "id": 238,
+    "year": 2010,
+    "topic": "General",
+    "question": "The slope of a supply curve is",
+    "options": [
+      "Horizontal",
+      "uniform",
+      "positive",
+      "vertical"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: positive"
+  },
+  {
+    "id": 439,
+    "year": 2003,
+    "topic": "General",
+    "question": "One advantage of the sole proprietorship is that",
+    "options": [
+      "control and supervision is under one man",
+      "accounts must be publicized",
+      "it is always successful",
+      "funds are easy to obtain"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: control and supervision is under one man"
+  },
+  {
+    "id": 229,
+    "year": 2001,
+    "topic": "General",
+    "question": "An ad valorem tax refers to a tax",
+    "options": [
+      "imposed on exports",
+      "on goods manufactured in the country",
+      "based on the value of the commodity",
+      "levied on income"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: based on the value of the commodity"
+  },
+  {
+    "id": 486,
+    "year": 2004,
+    "topic": "General",
+    "question": "The value of money is best determined by",
+    "options": [
+      "input-output ratio",
+      "the purchasing power",
+      "the importance people attach to it",
+      "economics of scale"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: the purchasing power"
+  },
+  {
+    "id": 656,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following are examples of transfer payments?",
+    "options": [
+      "Gifts and donations",
+      "Rents and rates",
+      "Profits and dividends",
+      "Internal and external debts"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Gifts and donations"
+  },
+  {
+    "id": 437,
+    "year": 2003,
+    "topic": "General",
+    "question": "The most common type of business in West African countries is",
+    "options": [
+      "joint stock companies",
+      "sole proprietorships",
+      "partnerships",
+      "public enterprises"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: sole proprietorships"
+  },
+  {
+    "id": 598,
+    "year": 2006,
+    "topic": "General",
+    "question": "In a rapidly growing economy, a change in technology which is labour saving is likely to cause",
+    "options": [
+      "residual unemployment",
+      "structure unemployment",
+      "disguised unemployment",
+      "frictional unemployment"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: frictional unemployment"
+  },
+  {
+    "id": 638,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following financial institutions was originally known as a Building Society?",
+    "options": [
+      "Development bank",
+      "Insurance company",
+      "Mortgage bank",
+      "Merchant bank"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Mortgage bank"
+  },
+  {
+    "id": 223,
+    "year": 2001,
+    "topic": "General",
+    "question": "Short-term loans can be sourced from",
+    "options": [
+      "the central bank",
+      "development banks",
+      "mortgage banks",
+      "commercial banks"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: commercial banks"
+  },
+  {
+    "id": 519,
+    "year": 2005,
+    "topic": "General",
+    "question": "Age distribution is important because it helps the \tgovernment to",
+    "options": [
+      "check rural-urban drift",
+      "determine the number of foreigners",
+      "determine the number of factories",
+      "undertake effective planning"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: undertake effective planning"
+  },
+  {
+    "id": 264,
+    "year": 2010,
+    "topic": "General",
+    "question": "The best way of combating demand-pull inflation is to",
+    "options": [
+      "increase income taxes",
+      "reduce income taxes",
+      "increase import duties",
+      "increase salaries and wages"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: increase income taxes"
+  },
+  {
+    "id": 313,
+    "year": 2012,
+    "topic": "General",
+    "question": "When governments want to discourage consumption, they \ttax goods whose demand",
+    "options": [
+      "price inelastic",
+      "abnormal in nature",
+      "price elastic",
+      "normal in nature"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: price elastic"
+  },
+  {
+    "id": 625,
+    "year": 2007,
+    "topic": "General",
+    "question": "When a firm is nationalized",
+    "options": [
+      "former owners are removed without compensation",
+      "it has the right to draw on state funds for capital investment",
+      "it must break even within a specified period",
+      "workers take control of the firm"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: it has the right to draw on state funds for capital investment"
+  },
+  {
+    "id": 553,
+    "year": 2005,
+    "topic": "General",
+    "question": ".\n\n\tAn essential characteristics of a market economy is",
+    "options": [
+      "government control",
+      "producer surplus",
+      "consumer surplus",
+      "consumer sovereignty"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: consumer sovereignty"
+  },
+  {
+    "id": 640,
+    "year": 2007,
+    "topic": "General",
+    "question": "A foreign exchange market deals in",
+    "options": [
+      "treasury bills",
+      "currencies",
+      "government bonds",
+      "commodities"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: currencies"
+  },
+  {
+    "id": 280,
+    "year": 2012,
+    "topic": "General",
+    "question": "If the current price of an apple is twice that of last year, it implies that the value of money is",
+    "options": [
+      "Stable",
+      "falling",
+      "rising",
+      "getting stronger"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: falling"
+  },
+  {
+    "id": 599,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following is a form of tax evasion?",
+    "options": [
+      "Wrong declaration of earnings",
+      "Payments of flat rate tax",
+      "constant employment",
+      "Low capacity utilization"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Wrong declaration of earnings"
+  },
+  {
+    "id": 271,
+    "year": 2012,
+    "topic": "General",
+    "question": "Human wants are",
+    "options": [
+      "Limited",
+      "scarce",
+      "unlimited",
+      "in grades"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: unlimited"
+  },
+  {
+    "id": 477,
+    "year": 2004,
+    "topic": "General",
+    "question": "One of the problems associated with the middleman in the distribution of goods is that he",
+    "options": [
+      "buys in large quantities",
+      "hoards goods",
+      "grants credit to the retailer",
+      "sells varieties of goods"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: hoards goods"
+  },
+  {
+    "id": 643,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of Ike following is an example of direct tax?",
+    "options": [
+      "Import duties",
+      "Income tax",
+      "Export duties",
+      "Purchase tax"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Income tax"
+  },
+  {
+    "id": 507,
+    "year": 2004,
+    "topic": "General",
+    "question": "Which of the following is excluded when estimating national income?",
+    "options": [
+      "Dividends",
+      "Wages and salaries",
+      "Transfer payment",
+      "Profits"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Transfer payment"
+  },
+  {
+    "id": 559,
+    "year": 2006,
+    "topic": "General",
+    "question": "The study of Economics enables individuals to",
+    "options": [
+      "change jobs.",
+      "evade taxes.",
+      "accumulate huge wealth",
+      "make national decision"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: make national decision"
+  },
+  {
+    "id": 459,
+    "year": 2003,
+    "topic": "General",
+    "question": "Budget deficit can be financed by",
+    "options": [
+      "reducing the level of taxation",
+      "printing more money",
+      "lending to financial institutions",
+      "employing more workers"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: printing more money"
+  },
+  {
+    "id": 503,
+    "year": 2004,
+    "topic": "General",
+    "question": "Which of the following items is under the capital account of a balance of payments",
+    "options": [
+      "Repayments of foreign loans",
+      "Visible imports",
+      "Invisible exports",
+      "Cocoa export"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Repayments of foreign loans"
+  },
+  {
+    "id": 454,
+    "year": 2003,
+    "topic": "General",
+    "question": "The most common index for measuring development is",
+    "options": [
+      "the level of illiteracy",
+      "the per capital income",
+      "nutritional levels",
+      "population growth rate"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: the per capital income"
+  },
+  {
+    "id": 481,
+    "year": 2004,
+    "topic": "General",
+    "question": "When a change in price does not affect the quantity demanded of a commodity, the price elasticity of demand is",
+    "options": [
+      "fairly inelastic",
+      "infinitely elastic",
+      "perfectly inelastic",
+      "unitary elastic"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: perfectly inelastic"
+  },
+  {
+    "id": 213,
+    "year": 2001,
+    "topic": "General",
+    "question": "Which of the following is not a condition for a perfect market?",
+    "options": [
+      "Homogenous commodity",
+      "Ignorance of consumers",
+      "Perfect information",
+      "Free entry and exit"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Ignorance of consumers"
+  }
+]

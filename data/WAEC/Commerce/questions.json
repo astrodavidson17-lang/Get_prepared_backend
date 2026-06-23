@@ -1,0 +1,1332 @@
+[
+  {
+    "id": 642,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is not required in a Memorandum of Association? The",
+    "options": [
+      "name of the company",
+      "location of the company",
+      "names of the Board of Directors",
+      "limitation of member’s liability"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: names of the Board of Directors"
+  },
+  {
+    "id": 620,
+    "year": 1990,
+    "topic": "General",
+    "question": "Auctions and Tenders become binding when they are",
+    "options": [
+      "accepted",
+      "offered",
+      "received",
+      "advertised"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: accepted"
+  },
+  {
+    "id": 603,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following does not belong to the extractive industry?",
+    "options": [
+      "Farming",
+      "Insuring",
+      "Mining",
+      "Drilling"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Insuring"
+  },
+  {
+    "id": 628,
+    "year": 1990,
+    "topic": "General",
+    "question": "One advantage of personal selling is",
+    "options": [
+      "low cost",
+      "immediate feedback",
+      "the appeal to many people at a time",
+      "self service"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: immediate feedback"
+  },
+  {
+    "id": 617,
+    "year": 1990,
+    "topic": "General",
+    "question": "A business is in existence primarily to",
+    "options": [
+      "make profit",
+      "provide goods and services",
+      "provide employment",
+      "compete with others in business"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: make profit"
+  },
+  {
+    "id": 613,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is a form of sales promotion?",
+    "options": [
+      "Promotion through radio",
+      "Advertising by television",
+      "Distributing printed sales literature",
+      "Offering free samples to customers"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Offering free samples to customers"
+  },
+  {
+    "id": 500,
+    "year": 2000,
+    "topic": "General",
+    "question": "A consignment note is used when",
+    "options": [
+      "goods are wrapped and labeled for easy identification",
+      "goods are dispatched to agents through transporters",
+      "damaged goods are being returned",
+      "there is over-invoicing"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: goods are dispatched to agents through transporters"
+  },
+  {
+    "id": 505,
+    "year": 2000,
+    "topic": "General",
+    "question": "A merchant who wishes to order goods from a foreign country sends",
+    "options": [
+      "an invoice",
+      "an indent",
+      "an advice note",
+      "a credit note"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: an indent"
+  },
+  {
+    "id": 513,
+    "year": 2000,
+    "topic": "General",
+    "question": "When a customer writes a cheque in his own name and withdraws cash with it from his account he is both the",
+    "options": [
+      "drawee and the payee",
+      "drawer and the payer",
+      "drawee and the drawer",
+      "drawer and the payee"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: drawee and the drawer"
+  },
+  {
+    "id": 510,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is not a means of payment in foreign trade?",
+    "options": [
+      "Telegraphic money order",
+      "Specially crossed cheque",
+      "Letters of credit",
+      "Debit transfer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Specially crossed cheque"
+  },
+  {
+    "id": 621,
+    "year": 1990,
+    "topic": "General",
+    "question": "The organized efforts of consumers to protect themselves against the unfair practices of businessmen is called",
+    "options": [
+      "strike",
+      "consumerism",
+      "amalgamation",
+      "propaganda"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: propaganda"
+  },
+  {
+    "id": 624,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is the safest means of sending a postal order from Lagos to a friend in Jos?",
+    "options": [
+      "Special delivery",
+      "Recorded delivery",
+      "Registered letter",
+      "First class mail"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Recorded delivery"
+  },
+  {
+    "id": 511,
+    "year": 2000,
+    "topic": "General",
+    "question": "A bill of exchange on maturity is allowed",
+    "options": [
+      "seven days of grace",
+      "five days of grace",
+      "four days of grace",
+      "three days of grace"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: seven days of grace"
+  },
+  {
+    "id": 509,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following refers to a price reduction based on the size of order?",
+    "options": [
+      "Cash discount",
+      "Trade discount",
+      "Seasonal discount",
+      "Cash on delivery"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Trade discount"
+  },
+  {
+    "id": 529,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is a method of sales promotion?",
+    "options": [
+      "Radio giggles",
+      "Poster display",
+      "Trade fair",
+      "Television broadcast"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Trade fair"
+  },
+  {
+    "id": 612,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following advertising media combines the advantages of sound and motion?",
+    "options": [
+      "Radio",
+      "Neon signs",
+      "Press",
+      "Television"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Television"
+  },
+  {
+    "id": 535,
+    "year": 2000,
+    "topic": "General",
+    "question": "A counter-offer in a contract is regarded as",
+    "options": [
+      "an acceptance",
+      "an invitation to treat",
+      "a rejection",
+      "a consideration"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: a rejection"
+  },
+  {
+    "id": 497,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is true about cumulative preference shares?",
+    "options": [
+      "Unpaid dividends are carried forward",
+      "Shareholders can secure capital refund on demand",
+      "Shareholders are entitled to further share of profit",
+      "Dividends are paid into a special account"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Unpaid dividends are carried forward"
+  },
+  {
+    "id": 524,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is used for moving only goods from one seaport to another?",
+    "options": [
+      "Ocean liner",
+      "Cargo liner",
+      "Ferry",
+      "Coaster"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Cargo liner"
+  },
+  {
+    "id": 607,
+    "year": 1990,
+    "topic": "General",
+    "question": "If a retailer Mr. Aigbojie buys goods manufactured by Adefila Limited from wholesaler Mrs. Jumai, who will prepare the delivery note?",
+    "options": [
+      "Mr. Aigbojie",
+      "Adefila Limited",
+      "Mr. Jumai",
+      "Mr. Aigbojie and Adefila Limited"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Mr. Jumai"
+  },
+  {
+    "id": 627,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is not an essential of a contract?",
+    "options": [
+      "Offer and acceptance",
+      "Intention to create legal relations",
+      "All contracts written out",
+      "Legality of object"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: All contracts written out"
+  },
+  {
+    "id": 637,
+    "year": 1990,
+    "topic": "General",
+    "question": "In insurance the term Uberrimaefidei stands for",
+    "options": [
+      "utmost good faith",
+      "subrogation",
+      "insurable interest",
+      "indemnity against loss"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: utmost good faith"
+  },
+  {
+    "id": 615,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is sent as a reply to an inquiry?",
+    "options": [
+      "Tender",
+      "Estimate",
+      "Statement",
+      "Quotation"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Quotation"
+  },
+  {
+    "id": 502,
+    "year": 2000,
+    "topic": "General",
+    "question": "A refund of the duty collected on goods imported and processed for re- export is",
+    "options": [
+      "excise duty",
+      "excise draw back",
+      "preferential duty",
+      "value added tax"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: excise draw back"
+  },
+  {
+    "id": 537,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is an agreement to transport goods but not a document of title?",
+    "options": [
+      "Air-waybill",
+      "Bill of lading",
+      "Charter party",
+      "Freight note"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Charter party"
+  },
+  {
+    "id": 512,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is not a financial institution?",
+    "options": [
+      "Commodity Board",
+      "Insurance company",
+      "Clearing house",
+      "Stock exchange"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Commodity Board"
+  },
+  {
+    "id": 525,
+    "year": 2000,
+    "topic": "General",
+    "question": "The marketing activity that stimulates immediate demand for a product is",
+    "options": [
+      "sales promotion",
+      "publicity",
+      "consumer relations",
+      "personal selling"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: sales promotion"
+  },
+  {
+    "id": 623,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is the quickest and accurate means of communication?",
+    "options": [
+      "Telegram",
+      "Express mail",
+      "Courier services",
+      "Telex"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Telex"
+  },
+  {
+    "id": 632,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is not part of the facilities provided by the Nigerian Ports Authority?",
+    "options": [
+      "Dredging",
+      "Warehousing",
+      "Collection of customs duties",
+      "Loading and off-loading of cargoes"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Collection of customs duties"
+  },
+  {
+    "id": 601,
+    "year": 1990,
+    "topic": "General",
+    "question": "The three main divisions of production include industrial",
+    "options": [
+      "commercial and banking services",
+      "commercial and services",
+      "transportation and services",
+      "manufacturing and services"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: commercial and services"
+  },
+  {
+    "id": 626,
+    "year": 1990,
+    "topic": "General",
+    "question": "The law which stipulates that labels should give an accurate account of a product is the",
+    "options": [
+      "price control act",
+      "consumer credit act",
+      "trade description act",
+      "hire purchase act"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: trade description act"
+  },
+  {
+    "id": 640,
+    "year": 1990,
+    "topic": "General",
+    "question": "The word Ltd written after the name of a company means that",
+    "options": [
+      "the individual member’s capital is limited",
+      "the total sum of the company’s capital is limited",
+      "members are liable to the extent of their holding",
+      "company’s location is limited"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: members are liable to the extent of their holding"
+  },
+  {
+    "id": 609,
+    "year": 1990,
+    "topic": "General",
+    "question": "In which class of occupation would you place a taxi-driver?",
+    "options": [
+      "Extractive",
+      "Indirect services",
+      "Personal services",
+      "Commercial services"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Commercial services"
+  },
+  {
+    "id": 606,
+    "year": 1990,
+    "topic": "General",
+    "question": "The oldest and commonest form of business in Nigeria is",
+    "options": [
+      "partnership",
+      "the co-operative society",
+      "sole proprietorship",
+      "joint stock venture"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: sole proprietorship"
+  },
+  {
+    "id": 602,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is one of the functions of commerce?",
+    "options": [
+      "Manufacturing",
+      "Growing of tomatoes",
+      "Storage of goods",
+      "Construction of Roads"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Storage of goods"
+  },
+  {
+    "id": 641,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is a public corporation? The",
+    "options": [
+      "Nigeria Breweries Limited",
+      "Nigerian Ports Authority",
+      "Lagos Chamber of Commerce",
+      "Nigerian Bottling Company"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Nigerian Ports Authority"
+  },
+  {
+    "id": 521,
+    "year": 2000,
+    "topic": "General",
+    "question": "The method of sending messages by the teleprinter is",
+    "options": [
+      "telephone",
+      "cablegram",
+      "telex",
+      "railex"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: telex"
+  },
+  {
+    "id": 522,
+    "year": 2000,
+    "topic": "General",
+    "question": "The information on terms of carriage of mails is found in",
+    "options": [
+      "business journal",
+      "post office guide",
+      "trade directory",
+      "service manual"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: post office guide"
+  },
+  {
+    "id": 630,
+    "year": 1990,
+    "topic": "General",
+    "question": "Entrepot Trade refers to",
+    "options": [
+      "importing for domestic consumption",
+      "importing for industrial use",
+      "importing for government concerns",
+      "importing for re-export"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: importing for re-export"
+  },
+  {
+    "id": 493,
+    "year": 2000,
+    "topic": "General",
+    "question": "The coming together of two or more firms at different stages of production is",
+    "options": [
+      "horizontal merger",
+      "vertical merger",
+      "amalgamation",
+      "cartel"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: vertical merger"
+  },
+  {
+    "id": 491,
+    "year": 2000,
+    "topic": "General",
+    "question": "Partners who allow their names to be used in a partnership but do not take part in the management of the business are",
+    "options": [
+      "active partners",
+      "limited partners",
+      "general partners",
+      "nominal partners"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: nominal partners"
+  },
+  {
+    "id": 520,
+    "year": 2000,
+    "topic": "General",
+    "question": "In Public Limited Liability Companies, equities are referred to as",
+    "options": [
+      "preference shares",
+      "authorized capital",
+      "ordinary shares",
+      "called-up capital"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: ordinary shares"
+  },
+  {
+    "id": 528,
+    "year": 2000,
+    "topic": "General",
+    "question": "Firms wishing to defend established products as well as launch new ones will make use of",
+    "options": [
+      "franchising",
+      "product differentiation",
+      "branding",
+      "advertising"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: advertising"
+  },
+  {
+    "id": 618,
+    "year": 1990,
+    "topic": "General",
+    "question": "A number of shops under one roof is the feature of a",
+    "options": [
+      "supermarket",
+      "chain store",
+      "department store",
+      "mail order business"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: department store"
+  },
+  {
+    "id": 605,
+    "year": 1990,
+    "topic": "Use the information given  to answer question: Opening stock  [ N=1,000], Closing stock  [ N=9,000 ], Purchases  [N=14,000]",
+    "question": "The cost of goods sold is",
+    "options": [
+      "N=6000",
+      "N=10000",
+      "N=42000",
+      "N=16000"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: N=6000"
+  },
+  {
+    "id": 625,
+    "year": 1990,
+    "topic": "General",
+    "question": "One of the objectives of the indigenization programme of the Federal Government of Nigeria is to",
+    "options": [
+      "encourage the use of local raw materials",
+      "expel all foreigners from Nigeria",
+      "make Nigerian businessmen very rich",
+      "maximize local retention of profits"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: maximize local retention of profits"
+  },
+  {
+    "id": 610,
+    "year": 1990,
+    "topic": "General",
+    "question": "The purpose of issuing a credit note is to",
+    "options": [
+      "correct errors of overcharging",
+      "correct errors of undercharging",
+      "write off  bad debts",
+      "encourage immediate payment"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: correct errors of overcharging"
+  },
+  {
+    "id": 489,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following can be defined as trade and aids to trade?",
+    "options": [
+      "Advertising",
+      "Commerce",
+      "Wholesaling",
+      "Retailing"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Commerce"
+  },
+  {
+    "id": 515,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following encourages people to save towards owning a house?",
+    "options": [
+      "Merchant bank",
+      "Development bank",
+      "Mortgage bank",
+      "Commercial bank"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Mortgage bank"
+  },
+  {
+    "id": 604,
+    "year": 1990,
+    "topic": "Use the information given  to answer question: Opening stock  [ N=1,000], Closing stock  [ N=9,000 ], Purchases  [N=14,000]",
+    "question": "The average stock is",
+    "options": [
+      "N=2000",
+      "N=3000",
+      "N=5000",
+      "N=6000"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: N=5000"
+  },
+  {
+    "id": 619,
+    "year": 1990,
+    "topic": "General",
+    "question": "An agreement between two parties which will give rise to enforceable rights and obligation is known as",
+    "options": [
+      "a warrant",
+      "a contract",
+      "a consideration",
+      "an offer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a contract"
+  },
+  {
+    "id": 516,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following services is not rendered by commercial banks?",
+    "options": [
+      "Business advice",
+      "Currency notes issue",
+      "Accepting deposits",
+      "Credit transfer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Currency notes issue"
+  },
+  {
+    "id": 635,
+    "year": 1990,
+    "topic": "General",
+    "question": "The Organization of Petroleum Exporting Countries (OPEC) is an example of a",
+    "options": [
+      "cartel",
+      "trust",
+      "holding company",
+      "consortium"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cartel"
+  },
+  {
+    "id": 645,
+    "year": 1990,
+    "topic": "General",
+    "question": "With the exception of life assurance and personal accident insurance, contracts of insurance are contracts of",
+    "options": [
+      "premium",
+      "indemnity",
+      "proximate cause",
+      "utmost good faith"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: indemnity"
+  },
+  {
+    "id": 608,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is not a factor of production?",
+    "options": [
+      "Capital",
+      "land",
+      "Labour",
+      "Staffing"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Staffing"
+  },
+  {
+    "id": 503,
+    "year": 2000,
+    "topic": "General",
+    "question": "When a country’s total visible and invisible exports are more than its visible and invisible imports, it has",
+    "options": [
+      "favourable balance of payments",
+      "favourable balance of trade",
+      "unfavourable balance of trade",
+      "unfavourable balance of payments"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: favourable balance of payments"
+  },
+  {
+    "id": 536,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is not a right of the consumer?",
+    "options": [
+      "Safety",
+      "Choice",
+      "Discount",
+      "Value"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Discount"
+  },
+  {
+    "id": 532,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following agents guarantees payment transactions entered into on behalf of the principal?",
+    "options": [
+      "Auctioneer",
+      "Factor",
+      "Broker",
+      "Del credere"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Del credere"
+  },
+  {
+    "id": 495,
+    "year": 2000,
+    "topic": "Use the following equation to answer question   Gross Profit=(Closing stock + P) less (Opening stock + G)",
+    "question": "What is P in the above equation?",
+    "options": [
+      "Purchases returns",
+      "Net Profit",
+      "Sales",
+      "Carriage outwards"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Sales"
+  },
+  {
+    "id": 622,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is the most suitable means of \ttransporting bulky goods from Lagos to Kaduna? By",
+    "options": [
+      "Train",
+      "Airplane",
+      "Ship",
+      "Lorry"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Train"
+  },
+  {
+    "id": 616,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following statements best describes net profit? The excess of",
+    "options": [
+      "total revenue over total expenditure",
+      "total capital income over expenditure",
+      "sales over purchases",
+      "total capital formation over capital consumption"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: total revenue over total expenditure"
+  },
+  {
+    "id": 508,
+    "year": 2000,
+    "topic": "General",
+    "question": "The abbreviated phrase E & OE is usually printed on",
+    "options": [
+      "an invoice",
+      "a cheque",
+      "a delivery note",
+      "a debit note"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: an invoice"
+  },
+  {
+    "id": 517,
+    "year": 2000,
+    "topic": "General",
+    "question": "A retirement insurance policy which enables the assured to receive income for a specific period is",
+    "options": [
+      "annuity",
+      "endowment",
+      "whole life",
+      "fidelity guarantee"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: annuity"
+  },
+  {
+    "id": 633,
+    "year": 1990,
+    "topic": "General",
+    "question": "The main purpose of branding is to",
+    "options": [
+      "increase the quantity of goods demanded",
+      "differentiate goods from other similar goods made by other producers",
+      "increase the selling price of goods",
+      "enhance turnover of goods"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: differentiate goods from other similar goods made by other producers"
+  },
+  {
+    "id": 644,
+    "year": 1990,
+    "topic": "General",
+    "question": "The amount paid by the assured to the insurer is called",
+    "options": [
+      "interest",
+      "premium",
+      "dividend",
+      "indemnity"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: premium"
+  },
+  {
+    "id": 629,
+    "year": 1990,
+    "topic": "General",
+    "question": "Charges paid by a ship for staying at a port beyond agreed sailing time is called",
+    "options": [
+      "profit",
+      "interest",
+      "holding",
+      "demurrage"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: demurrage"
+  },
+  {
+    "id": 492,
+    "year": 2000,
+    "topic": "General",
+    "question": "A private company is one which",
+    "options": [
+      "must publish its audited account",
+      "floats its shares on the stock exchange market",
+      "restricts the rights to transfer its shares",
+      "is owned by a maximum of twenty members merger"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: restricts the rights to transfer its shares"
+  },
+  {
+    "id": 530,
+    "year": 2000,
+    "topic": "General",
+    "question": "The deliberate and sustained efforts to maintain a good image of a company is known as",
+    "options": [
+      "personal relations",
+      "public relations",
+      "professional relations",
+      "industrial relations"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: public relations"
+  },
+  {
+    "id": 600,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following statements is not true?",
+    "options": [
+      "Commercial services are the life blood of a country economic system",
+      "There cannot occur commercial services until goods have been produced.",
+      "Without commercial services most goods and services will not be produced",
+      "There is no stage of production that does not employ commercial services."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: There cannot occur commercial services until goods have been produced."
+  },
+  {
+    "id": 533,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is not a means of consumer protection?",
+    "options": [
+      "Price control",
+      "Sale of Goods Act",
+      "Trade Description Act",
+      "Tax laws"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Tax laws"
+  },
+  {
+    "id": 611,
+    "year": 1990,
+    "topic": "General",
+    "question": "The exchange of goods for other goods in home trade is known as",
+    "options": [
+      "entrepot trade",
+      "home trade",
+      "barter trade",
+      "foreign trade"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: barter trade"
+  },
+  {
+    "id": 631,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following could account for a favourable balance of payment?",
+    "options": [
+      "High capital repayments",
+      "high debt service repayment",
+      "higher imports than exports",
+      "Higher exports than imports"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Higher exports than imports"
+  },
+  {
+    "id": 504,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is not a function of a retailer?",
+    "options": [
+      "Supplying goods to final consumers",
+      "Bulk breaking",
+      "Giving information to the wholesaler",
+      "Branding and packaging of goods"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Branding and packaging of goods"
+  },
+  {
+    "id": 634,
+    "year": 1990,
+    "topic": "General",
+    "question": "An individual who makes the final use of goods and services provided by a firm is the",
+    "options": [
+      "manufacturer",
+      "wholesaler",
+      "consumer",
+      "retailer"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: consumer"
+  },
+  {
+    "id": 519,
+    "year": 2000,
+    "topic": "General",
+    "question": "When an insurance company indemnifies the insured and takes over his rights, this is known as",
+    "options": [
+      "abandonment",
+      "subrogation",
+      "proximate cause",
+      "contribution"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: subrogation"
+  },
+  {
+    "id": 494,
+    "year": 2000,
+    "topic": "General",
+    "question": "The total value of fixed and current assets is?",
+    "options": [
+      "working capital",
+      "capital employed",
+      "Fixed capital",
+      "capital owned"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: capital employed"
+  },
+  {
+    "id": 639,
+    "year": 1990,
+    "topic": "General",
+    "question": "Which of the following is a type of marine insurance?",
+    "options": [
+      "Endowment",
+      "Freight",
+      "Accident",
+      "Fidelity"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Freight"
+  },
+  {
+    "id": 646,
+    "year": 1990,
+    "topic": "General",
+    "question": "An author’s exclusive right to published and unpublished works is known as",
+    "options": [
+      "patent right",
+      "fundamental human right",
+      "copyright",
+      "authorship"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: copyright"
+  },
+  {
+    "id": 496,
+    "year": 2000,
+    "topic": "Use the following equation to answer question  Gross Profit=(Closing stock + P) less (Opening stock + G)",
+    "question": "What is G in the above equation?",
+    "options": [
+      "Sales returns",
+      "Carriage inwards",
+      "Purchases",
+      "Sales"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Purchases"
+  },
+  {
+    "id": 518,
+    "year": 2000,
+    "topic": "General",
+    "question": "A house worth  N50.000 was insured against fire for  N30,000. Fire destroyed and caused damages worth N20.000 on the house. Under which insurance principle will the owner be entitled to a compensation of  N20,000?",
+    "options": [
+      "Contribution",
+      "Subrogation",
+      "Indemnity",
+      "Uberrimaefidei"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Indemnity"
+  },
+  {
+    "id": 507,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is sent in reply to a letter of enquiry?",
+    "options": [
+      "Quotation",
+      "Order",
+      "Consumer invoice",
+      "Advice note"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Order"
+  },
+  {
+    "id": 526,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of these is not a basic marketing function?",
+    "options": [
+      "Exchange",
+      "Production",
+      "Facilitation",
+      "Information"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Production"
+  },
+  {
+    "id": 531,
+    "year": 2000,
+    "topic": "General",
+    "question": "A contract of sale where ownership passes to the buyer on the payment of the first instalment is known as",
+    "options": [
+      "hire purchase",
+      "lease",
+      "cash on delivery",
+      "credit sale"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: credit sale"
+  },
+  {
+    "id": 643,
+    "year": 1990,
+    "topic": "General",
+    "question": "The amount paid by the insurance company to the insured upon giving up his policy is called",
+    "options": [
+      "Surrender value",
+      "cash bonus",
+      "assured sum",
+      "dividend"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Surrender value"
+  },
+  {
+    "id": 506,
+    "year": 2000,
+    "topic": "General",
+    "question": "The production of goods in anticipation of demand is \tpossible because of the existence of",
+    "options": [
+      "Packaging",
+      "advertising",
+      "warehousing",
+      "branding"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: warehousing"
+  },
+  {
+    "id": 534,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is a basic requirement for a valid contract?",
+    "options": [
+      "Representation",
+      "Consideration",
+      "Interest",
+      "Performance"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Consideration"
+  },
+  {
+    "id": 636,
+    "year": 1990,
+    "topic": "General",
+    "question": "When a business is insolvent it may result in",
+    "options": [
+      "incorporation",
+      "recuperation",
+      "liquidation",
+      "restoration"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: liquidation"
+  },
+  {
+    "id": 498,
+    "year": 2000,
+    "topic": "General",
+    "question": "A debenture is mortgaged when it is",
+    "options": [
+      "not secured on the assets of a company",
+      "secured on the assets of a company",
+      "irredeemable",
+      "redeemable"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: secured on the assets of a company"
+  },
+  {
+    "id": 527,
+    "year": 2000,
+    "topic": "General",
+    "question": "Branding is a tool for",
+    "options": [
+      "competitive advertising",
+      "consumerism",
+      "marketing research",
+      "pricing policy"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: competitive advertising"
+  },
+  {
+    "id": 514,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is a means of payment through the post office?",
+    "options": [
+      "Standing Order",
+      "Promissory note",
+      "Money order",
+      "Telegraphic transfer"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Money order"
+  },
+  {
+    "id": 490,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is not a source of finance to a sole proprietor?",
+    "options": [
+      "Trade Credit",
+      "Overdrafts",
+      "Debentures",
+      "Leasing of equipment"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Leasing of equipment"
+  },
+  {
+    "id": 538,
+    "year": 2000,
+    "topic": "General",
+    "question": "In which of the following classes of occupation would you place a doctor?",
+    "options": [
+      "Extractive",
+      "Commercial",
+      "Direct services",
+      "Indirect services"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Direct services"
+  },
+  {
+    "id": 638,
+    "year": 1990,
+    "topic": "General",
+    "question": "Fidelity guarantee is an insurance cover against loss arising from",
+    "options": [
+      "trade debts",
+      "personal accidents",
+      "dishonest staff",
+      "fire disaster"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: dishonest staff"
+  },
+  {
+    "id": 523,
+    "year": 2000,
+    "topic": "General",
+    "question": "Rail transport is less flexible than road transport because",
+    "options": [
+      "rail lines run between specific terminals",
+      "train is slow over long distances",
+      "only bulky goods are carried by rail",
+      "road transport is suitable for short distances"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: rail lines run between specific terminals"
+  },
+  {
+    "id": 501,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is not contained in an advice note?",
+    "options": [
+      "Type of goods",
+      "Price of goods",
+      "Date of dispatch",
+      "Means of dispatch"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Means of dispatch"
+  }
+]

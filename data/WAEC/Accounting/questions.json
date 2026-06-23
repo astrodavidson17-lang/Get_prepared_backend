@@ -1,0 +1,2368 @@
+[
+  {
+    "id": 96,
+    "year": 2013,
+    "topic": "General",
+    "question": "The accumulated fund of a not-for-profit making organization is",
+    "options": [
+      "a fixed asset.",
+      "a current asset.",
+      "a liability.",
+      "capital."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: capital."
+  },
+  {
+    "id": 236,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following is not used in solving problems of incomplete records?",
+    "options": [
+      "Control Accounts",
+      "Statement of affairs",
+      "Cash book",
+      "Balance sheet"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Balance sheet"
+  },
+  {
+    "id": 280,
+    "year": 2012,
+    "topic": "General",
+    "question": "The term used to denote the capital of a not-for-profit making \torganization is",
+    "options": [
+      "annuity fund.",
+      "nominal capital.",
+      "circulating capital.",
+      "cumulated fund"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: cumulated fund"
+  },
+  {
+    "id": 111,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following is not an item on the credit side of the purchases ledger control account?",
+    "options": [
+      "Cash received",
+      "Cash payment",
+      "Contra settlement",
+      "Cheque payment"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Cash received"
+  },
+  {
+    "id": 230,
+    "year": 2006,
+    "topic": "General",
+    "question": "Whatever is fed into the computer is exactly what would be processed and produced as output. This is the concept of",
+    "options": [
+      "sorting out",
+      "last in, first out",
+      "first in, first out",
+      "garbage in, garbage out."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: garbage in, garbage out."
+  },
+  {
+    "id": 330,
+    "year": 2015,
+    "topic": "General",
+    "question": "Goodwill is recognized in partnership accounts when",
+    "options": [
+      "the business makes a huge profit",
+      "the business has good customer relationship",
+      "a partner is dormant",
+      "a new partner is admitted"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a new partner is admitted"
+  },
+  {
+    "id": 306,
+    "year": 2015,
+    "topic": "General",
+    "question": "Purchase invoice is first entered in the",
+    "options": [
+      "purchases account",
+      "cash book",
+      "sales journal",
+      "purchase journal"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: purchase journal"
+  },
+  {
+    "id": 249,
+    "year": 2006,
+    "topic": "General",
+    "question": "The amount allowed off the cost price of an article to stimulate patronage is",
+    "options": [
+      "cash discount",
+      "trade discount",
+      "discount on debt",
+      "discount on bills."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: trade discount"
+  },
+  {
+    "id": 275,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is component of prime cost?",
+    "options": [
+      "Depreciation",
+      "Royalty",
+      "Factory rent",
+      "Factory electricity"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Factory electricity"
+  },
+  {
+    "id": 176,
+    "year": 1997,
+    "topic": "General",
+    "question": "A Sales Day Book is used to record",
+    "options": [
+      "cash sales of stock",
+      "credit sales of stock",
+      "cash and credit sales of stock",
+      "cash sales of fixed assets"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: credit sales of stock"
+  },
+  {
+    "id": 311,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following is not a book of original entry?",
+    "options": [
+      "Sales journal",
+      "Purchases account",
+      "Cash account",
+      "Return inwards journal"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Cash account"
+  },
+  {
+    "id": 117,
+    "year": 2013,
+    "topic": "Use the following information to answer question:  Stock of raw materials 1/1/09  [ 5,000 ], Stock of raw materials 31/12/09   [ 5,500], Purchase of raw materials [ 50,000], Carriage inwards [3,000], Direct labour [ 12,000], Factory overhead [17,500]",
+    "question": "The cost of raw materials consumed is",
+    "options": [
+      "GHc 58,000.",
+      "GHc 52,500.",
+      "GHc 52,000.",
+      "GHc 50,000."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: GHc 52,500."
+  },
+  {
+    "id": 355,
+    "year": 2014,
+    "topic": "Use the following information to answer question:\tCost of motor vehicle-1/1/12 [ 85,000 ];  Residual value [ 5,000 ]; Estimated useful lifespan 10 years . The business makes use of the straight line method for \tproviding depreciation.",
+    "question": "The annual depreciation is",
+    "options": [
+      "N9,000",
+      "N8,500",
+      "N8,000",
+      "N6,500"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: N8,000"
+  },
+  {
+    "id": 329,
+    "year": 2015,
+    "topic": "General",
+    "question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
+    "options": [
+      "business entity",
+      "going concern",
+      "consistency",
+      "duality"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: business entity"
+  },
+  {
+    "id": 114,
+    "year": 2013,
+    "topic": "General",
+    "question": "The process of detecting, tracing and eliminating errors in a computer program is",
+    "options": [
+      "reproduction.",
+      "debugging.",
+      "sorting.",
+      "retrieving."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: debugging."
+  },
+  {
+    "id": 89,
+    "year": 2013,
+    "topic": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000]",
+    "question": "The current ratio is",
+    "options": [
+      "1.87 : 1.",
+      "1 : 1.87.",
+      "1 : 2.",
+      "2 : 1."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: 1.87 : 1."
+  },
+  {
+    "id": 364,
+    "year": 2014,
+    "topic": "General",
+    "question": "An example of a self-balancing account is the",
+    "options": [
+      "suspense account",
+      "creditor’s account",
+      "control account",
+      "debtor’s accoun"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: control account"
+  },
+  {
+    "id": 389,
+    "year": 2014,
+    "topic": "General",
+    "question": "Which of the following is not a factory overhead cost?",
+    "options": [
+      "Manufacturing wages",
+      "Factory rent",
+      "Depreciation of machinery",
+      "Salary of factory guard"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Manufacturing wages"
+  },
+  {
+    "id": 205,
+    "year": 1997,
+    "topic": "General",
+    "question": "Where there are no proper books of account, the capital at the commencement of a period is ascertained by preparing",
+    "options": [
+      "Total Debtors and Creditors Accounts",
+      "Bank Reconciliation Statement",
+      "Statement of Affairs",
+      "Trading, Profit and Loss Accounts"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Statement of Affairs"
+  },
+  {
+    "id": 112,
+    "year": 2013,
+    "topic": "General",
+    "question": "When a business is purchased from a sole trader, the excess of the purchase price over the net assets is",
+    "options": [
+      "reserve.",
+      "goodwill.",
+      "freehold.",
+      "valuation price."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: goodwill."
+  },
+  {
+    "id": 252,
+    "year": 2006,
+    "topic": "Balance as per cash book [8,400], Bank charges [300], Standing order paid [2,500 ], Unpresented cheques [2,800]",
+    "question": "The adjusted cash book balance is",
+    "options": [
+      "D11,200",
+      "D8,400",
+      "D6,200",
+      "D5,600"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: D5,600"
+  },
+  {
+    "id": 242,
+    "year": 2006,
+    "topic": "General",
+    "question": "Control accounts are also known as",
+    "options": [
+      "contra accounts",
+      "total accounts",
+      "ledger accounts",
+      "integral accounts."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: total accounts"
+  },
+  {
+    "id": 316,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following expresses the accounting equating?",
+    "options": [
+      "Capital + Assets = Liabilities",
+      "Assets - Liabilities = Capital",
+      "Liabilities + Current Assets = Fixed Assets",
+      "Liabilities - Capital = Current Assets"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Assets - Liabilities = Capital"
+  },
+  {
+    "id": 226,
+    "year": 2006,
+    "topic": "General",
+    "question": "A customer who returns goods to the supplier because they are defective is issued a",
+    "options": [
+      "debit note",
+      "credit note",
+      "delivery note",
+      "bank note."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: credit note"
+  },
+  {
+    "id": 216,
+    "year": 2006,
+    "topic": "General",
+    "question": "Public sector accounting is practiced in",
+    "options": [
+      "public limited companies",
+      "government organizations",
+      "profit making organizations",
+      "public trading companies."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: government organizations"
+  },
+  {
+    "id": 223,
+    "year": 2006,
+    "topic": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
+    "question": "If  no profit is to be retained, proposed preference shares dividend is",
+    "options": [
+      "N  28,000",
+      "N  16,000",
+      "N  12,000.",
+      "N  4,000"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: N  16,000"
+  },
+  {
+    "id": 366,
+    "year": 2014,
+    "topic": "Use the following information to answer question: The total sales of a business was GHc/ 2,160,000. The average mark-up for the year was 50%.",
+    "question": "The cost of sales is",
+    "options": [
+      "GHc/  2,160,000t",
+      "GHc/ 1440,000",
+      "GHc/ 1,080,000",
+      "GHc/  720,000"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: GHc/ 1,080,000"
+  },
+  {
+    "id": 294,
+    "year": 2012,
+    "topic": "General",
+    "question": "The double entry to record the proceeds on disposal of assets is debit",
+    "options": [
+      "Bank Account; credit Asset Disposal Account.",
+      "Asset Disposal Account; credit Bank Account.",
+      "Provision for Depreciation Account; credit Asset Disposal Account",
+      "Asset Disposal Account; credit Provision for Depreciation Account."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Bank Account; credit Asset Disposal Account."
+  },
+  {
+    "id": 295,
+    "year": 2012,
+    "topic": "General",
+    "question": "An underwriter for a company’s share is paid",
+    "options": [
+      "Interest.",
+      "commission.",
+      "dividend.",
+      "salary."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: commission."
+  },
+  {
+    "id": 119,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following relates to the essence of partnership? To",
+    "options": [
+      "run a charity organization.",
+      "pursue a social objective.",
+      "form a business for profit.",
+      "run a religious objective."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: form a business for profit."
+  },
+  {
+    "id": 282,
+    "year": 2012,
+    "topic": "General",
+    "question": "Partners whose liabilities are restricted to their financial contribution to the partnership in the event of winding up are",
+    "options": [
+      "ordinary partners",
+      "limited partners",
+      "dormant partners",
+      "sleeping partners"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: limited partners"
+  },
+  {
+    "id": 217,
+    "year": 2006,
+    "topic": "General",
+    "question": "A book that contains the accounts for the financial transactions of an organization is the",
+    "options": [
+      "journal",
+      "ledger",
+      "folio",
+      "register"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: ledger"
+  },
+  {
+    "id": 293,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not part of the Central Processing Unit of a computer?",
+    "options": [
+      "Arithmetical and Logical unit",
+      "Memory unit",
+      "Input unit",
+      "Control unit"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Input unit"
+  },
+  {
+    "id": 232,
+    "year": 2006,
+    "topic": "General",
+    "question": "The unit which keeps government’s books of accounts is the",
+    "options": [
+      "Central Bank",
+      "Internal Audit Department",
+      "Treasury Department",
+      "Accountant General’s Department."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Treasury Department"
+  },
+  {
+    "id": 197,
+    "year": 1997,
+    "topic": "General",
+    "question": "A cash discount is a",
+    "options": [
+      "Trading Account item",
+      "Profit and Loss Account item",
+      "Appropriation Account item",
+      "Receipts and Payments Account item"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Profit and Loss Account item"
+  },
+  {
+    "id": 95,
+    "year": 2013,
+    "topic": "General",
+    "question": "An advantage of control account is",
+    "options": [
+      "locating figures.",
+      "adding figures.",
+      "changing figures.",
+      "locating errors."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: locating errors."
+  },
+  {
+    "id": 213,
+    "year": 2006,
+    "topic": "General",
+    "question": "The art of collecting, recording, presenting and interpreting accounting data is",
+    "options": [
+      "cost accounting",
+      "management accounting",
+      "financial accounting",
+      "data processing."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: financial accounting"
+  },
+  {
+    "id": 288,
+    "year": 2012,
+    "topic": "General",
+    "question": "An increase in the provision for doubtful debts results in a/an",
+    "options": [
+      "increase in the gross profit.",
+      "decrease in the gross profit.",
+      "decrease in the net profit.",
+      "increase in the net profit."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: decrease in the net profit."
+  },
+  {
+    "id": 377,
+    "year": 2014,
+    "topic": "General",
+    "question": "When the purchase consideration exceeds the value of business, the difference is",
+    "options": [
+      "profit",
+      "discount",
+      "goodwill",
+      "reserve"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: goodwill"
+  },
+  {
+    "id": 262,
+    "year": 2012,
+    "topic": "General",
+    "question": "A fixed asset fully written-down by a trader is now considered to be worth N5,000. The double entry required to effect       this is: debit",
+    "options": [
+      "Asset Account; credit Purchases Account.",
+      "Asset Account; credit Capital Account.",
+      "Capital Account; credit Asset Account.",
+      "Capital Account; credit Profit and Loss Account."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Asset Account; credit Capital Account."
+  },
+  {
+    "id": 85,
+    "year": 2013,
+    "topic": "General",
+    "question": "The order of financial accounting process involves: (I) recording; (II) presenting; (III) collecting; (IV) analyzing.",
+    "options": [
+      "I, II. Ill and IV",
+      "II, III, I and IV",
+      "Ill, I, II and IV",
+      "IV, III, II and I"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Ill, I, II and IV"
+  },
+  {
+    "id": 274,
+    "year": 2012,
+    "topic": "General",
+    "question": "A partner who only makes capital contribution but does not take part in the management of the partnership business is a/an",
+    "options": [
+      "ordinary partner",
+      "limited partner",
+      "dormant partner",
+      "nominal partner"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: nominal partner"
+  },
+  {
+    "id": 244,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following is not a debit item in a creditor’s control \taccount?",
+    "options": [
+      "Cash paid",
+      "Returns outwards",
+      "Purchases",
+      "Discounts received"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Purchases"
+  },
+  {
+    "id": 340,
+    "year": 2015,
+    "topic": "General",
+    "question": "The instrument used to release fund which the minister of finance had earlier withheld is",
+    "options": [
+      "reserve expenditure warrant",
+      "supplementary general warrant",
+      "provisional general warrant",
+      "supplementary statutory warrant"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: supplementary general warrant"
+  },
+  {
+    "id": 173,
+    "year": 1997,
+    "topic": "General",
+    "question": "A suspense account is used to",
+    "options": [
+      "agree the trial balance",
+      "record sales",
+      "record purchases",
+      "correct errors"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: agree the trial balance"
+  },
+  {
+    "id": 343,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following is a spreadsheet application?",
+    "options": [
+      "Excel",
+      "Word",
+      "Internet",
+      "Windows"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Excel"
+  },
+  {
+    "id": 303,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following describes a trial balance?",
+    "options": [
+      "It is a special account",
+      "It is a list of balances in the books",
+      "It reveals the financial position of a business",
+      "It shows all the entries in the books of a business"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: It is a list of balances in the books"
+  },
+  {
+    "id": 344,
+    "year": 2015,
+    "topic": "General",
+    "question": "The quality of output information depends on the",
+    "options": [
+      "quality of input data",
+      "time of processing",
+      "speed of processing",
+      "quantity of output device"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: quality of input data"
+  },
+  {
+    "id": 116,
+    "year": 2013,
+    "topic": "General",
+    "question": "When the going concern concept is no longer applicable, the fixed assets are recorded at their",
+    "options": [
+      "net book value.",
+      "realizable value.",
+      "gross value.",
+      "revalued amount."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: realizable value."
+  },
+  {
+    "id": 122,
+    "year": 2013,
+    "topic": "General",
+    "question": "Stock account is a type of",
+    "options": [
+      "nominal account.",
+      "personal account.",
+      "real account.",
+      "fixed assets account."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: real account."
+  },
+  {
+    "id": 269,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is an example of factory overheads?",
+    "options": [
+      "Salary of marketing officer",
+      "Salary of production officer",
+      "Salary of accounting officer",
+      "Wages of machine operator"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Wages of machine operator"
+  },
+  {
+    "id": 183,
+    "year": 1997,
+    "topic": "An asset was bought on 1st January, 1992 for N= 20,000. Depreciation was provided for annually at 20% on cost. It was sold for N= 7,000 on 1st July, 1995.",
+    "question": "Accumulated depreciation at the time of sale was",
+    "options": [
+      "N= 16,000",
+      "N=  14,000",
+      "N=  12,000",
+      "N=  8,000"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: N=  14,000"
+  },
+  {
+    "id": 307,
+    "year": 2015,
+    "topic": "General",
+    "question": "Assets acquired is recorded by debiting",
+    "options": [
+      "Asset Account, crediting Cash Account",
+      "Cash Account, crediting Asset Account",
+      "Purchase of Business Account, crediting Sale of Business Account",
+      "Asset Account, crediting Purchase of business Account"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Asset Account, crediting Cash Account"
+  },
+  {
+    "id": 113,
+    "year": 2013,
+    "topic": "General",
+    "question": "A set of instructions or programs which controls the operation of a computer is",
+    "options": [
+      "software.",
+      "hardware.",
+      "monitor.",
+      "keyboard."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: software."
+  },
+  {
+    "id": 235,
+    "year": 2006,
+    "topic": "General",
+    "question": "“A business unit is assumed to operate into foreseeable future and earn reasonable net income”. This statement is emphasized by the concept of",
+    "options": [
+      "business entity",
+      "going concern",
+      "realization",
+      "accrual."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: going concern"
+  },
+  {
+    "id": 98,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following is recorded on the debit side of the Trial Balance?",
+    "options": [
+      "Bank overdraft",
+      "Returns outwards",
+      "Purchases",
+      "Capital"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Purchases"
+  },
+  {
+    "id": 373,
+    "year": 2014,
+    "topic": "General",
+    "question": "The concept that states that a business should not lay claim to any profits before it is earned with reasonable certainty is",
+    "options": [
+      "consistency concept",
+      "prudence concept",
+      "accrual concept",
+      "going concern concept"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: prudence concept"
+  },
+  {
+    "id": 362,
+    "year": 2014,
+    "topic": "General",
+    "question": "The sum of direct cost in a manufacturing account is",
+    "options": [
+      "production cost",
+      "prime cost",
+      "total cost",
+      "finance cost"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: prime cost"
+  },
+  {
+    "id": 345,
+    "year": 2014,
+    "topic": "General",
+    "question": "The source document used to make entries in the purchases day book is",
+    "options": [
+      "debit note",
+      "credit note",
+      "invoice",
+      "receipt"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: debit note"
+  },
+  {
+    "id": 356,
+    "year": 2014,
+    "topic": "Use the following information to answer question:\tCost of motor vehicle-1/1/12 [ 85,000 ];  Residual value [ 5,000 ]; Estimated useful lifespan 10 years . The business makes use of the straight line method for \tproviding depreciation.",
+    "question": "The accumulated depreciation as at 31/12/2013 is",
+    "options": [
+      "N18,500",
+      "N17,000",
+      "N16,000",
+      "N8,000"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: N16,000"
+  },
+  {
+    "id": 333,
+    "year": 2015,
+    "topic": "Use the following information to answer questions: Mr. White acquired Mr. Black’s business for GHc/ 410,000. The total assets were GHc/ 670,000 and liabilities amounted to GHc/ 320,000",
+    "question": "How much was paid for goodwill?",
+    "options": [
+      "GHc/ 350,000",
+      "GHc/ 260,000",
+      "GHc/  90,000",
+      "GHc/ 60,000"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: GHc/ 60,000"
+  },
+  {
+    "id": 87,
+    "year": 2013,
+    "topic": "General",
+    "question": "A petty cashier received a float of GHc 120 and spent GHc 84. The imprest is",
+    "options": [
+      "GHc 204.",
+      "GHc 120.",
+      "GHc 84.",
+      "GHc 36."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: GHc 36."
+  },
+  {
+    "id": 278,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not an input device?",
+    "options": [
+      "Card reader",
+      "Paper top reader",
+      "Alpha-numeric keyboard",
+      "Line printer"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Line printer"
+  },
+  {
+    "id": 257,
+    "year": 2006,
+    "topic": "General",
+    "question": "Which of the following is not classified as an overhead?",
+    "options": [
+      "Factory rates",
+      "Factory power",
+      "Factory building extension",
+      "Factory depreciation."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Factory building extension"
+  },
+  {
+    "id": 310,
+    "year": 2015,
+    "topic": "General",
+    "question": "The accounting ledger for goods sold on credit are debit",
+    "options": [
+      "Debtors Account, credit Sales Account",
+      "Creditors Account, credit Sales Account",
+      "Sales Account, credit Debtors Account",
+      "Sales Account, credit Creditors Account"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Debtors Account, credit Sales Account"
+  },
+  {
+    "id": 125,
+    "year": 2013,
+    "topic": "General",
+    "question": "Excess of current assets over current liabilities is",
+    "options": [
+      "deferred capital.",
+      "nominal capital.",
+      "working capital",
+      "authorized capital."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: working capital"
+  },
+  {
+    "id": 347,
+    "year": 2014,
+    "topic": "General",
+    "question": "In the operation of an imprest system of petty cash, the",
+    "options": [
+      "petty cashier pays all expenses",
+      "petty cashier pays money to the accountant",
+      "petty cashier regularly begins each period with the same amount of money",
+      "main cashier accounts to the petty cashier for some expenses made by him"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: petty cashier regularly begins each period with the same amount of money"
+  },
+  {
+    "id": 208,
+    "year": 1997,
+    "topic": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
+    "question": "The purchase consideration was",
+    "options": [
+      "N  24,000",
+      "N 23,000",
+      "N  20,000",
+      "N 15,000"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: N  24,000"
+  },
+  {
+    "id": 271,
+    "year": 2012,
+    "topic": "General",
+    "question": "Branch Stock Account is used to determine the",
+    "options": [
+      "net value of goods sent to branch.",
+      "gross profit of the branch.",
+      "branch credit sales.",
+      "branch net profit or loss."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: gross profit of the branch."
+  },
+  {
+    "id": 341,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following relates to cash basis of accounting?",
+    "options": [
+      "Accruals and prepayments are considered",
+      "Debtors and creditors are recorded",
+      "Fixed assets are written off in the year of purchase",
+      "Profits are maximized"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Profits are maximized"
+  },
+  {
+    "id": 273,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not prepared by a partnership?",
+    "options": [
+      "Trading Account",
+      "Profit and Loss Account",
+      "Income and Expenditure Account",
+      "Profit and Loss Appropriation Account"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Income and Expenditure Account"
+  },
+  {
+    "id": 240,
+    "year": 2006,
+    "topic": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "question": "Cost of goods manufactured is",
+    "options": [
+      "D138,000",
+      "D131,800",
+      "D130,500",
+      "D123,000."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: D138,000"
+  },
+  {
+    "id": 317,
+    "year": 2015,
+    "topic": "General",
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "options": [
+      "cheque",
+      "payment voucher",
+      "debit note",
+      "credit note"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: credit note"
+  },
+  {
+    "id": 245,
+    "year": 2006,
+    "topic": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "question": "Using the straight line method, the depreciation charged for year 2002 was",
+    "options": [
+      "N 160,000",
+      "N  130.000",
+      "N  100,000",
+      "N  60,000"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: N 160,000"
+  },
+  {
+    "id": 279,
+    "year": 2012,
+    "topic": "General",
+    "question": "The equivalent of Income and Expenditure Account in a trading concern is",
+    "options": [
+      "Trading Account.",
+      "Profit and Loss Account.",
+      "Appropriation Account.",
+      "Balance Sheet."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Profit and Loss Account."
+  },
+  {
+    "id": 239,
+    "year": 2006,
+    "topic": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "question": "Prime cost is",
+    "options": [
+      "D120,500",
+      "D117,700",
+      "D114,900",
+      "D114,300."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: D117,700"
+  },
+  {
+    "id": 290,
+    "year": 2012,
+    "topic": "General",
+    "question": "The excess of the value of assets over the purchase \tconsideration on acquisition of a business is credited to",
+    "options": [
+      "share capital account.",
+      "goodwill account.",
+      "capital reserve account",
+      "general reserve account."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: capital reserve account"
+  },
+  {
+    "id": 81,
+    "year": 2013,
+    "topic": "General",
+    "question": "The lodgment of business cash into the business bank account is an example of",
+    "options": [
+      "contra entry",
+      "bank reconciliation",
+      "self balancing ledger",
+      "reversal entry"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: bank reconciliation"
+  },
+  {
+    "id": 270,
+    "year": 2012,
+    "topic": "General",
+    "question": "Osa started business with Le40,000 cash. The accounting entry is debit",
+    "options": [
+      "Cash Account; credit Capital Account.",
+      "Capital Account; credit Cash Account.",
+      "Purchases Account; credit Cash Account.",
+      "Expenses Account; credit Capital Account."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Cash Account; credit Capital Account."
+  },
+  {
+    "id": 299,
+    "year": 2012,
+    "topic": "Use the following information to answer questions:: Cash in hand\t[D 1,440]; Cash at Bank [D 2,440]; Stock [D 2,500]; Furniture and fittings [D 2,200]; Creditors [D 1,000]",
+    "question": "The capital is",
+    "options": [
+      "D7,580",
+      "D6,580",
+      "D5,380",
+      "D1,000"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: D7,580"
+  },
+  {
+    "id": 127,
+    "year": 2013,
+    "topic": "General",
+    "question": "A trading account is prepared to disclose the",
+    "options": [
+      "net profit or loss for the year.",
+      "gross profit or loss for the year.",
+      "accumulated fund for the year.",
+      "gross profit on manufacturing."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: gross profit or loss for the year."
+  },
+  {
+    "id": 276,
+    "year": 2012,
+    "topic": "General",
+    "question": "The concept which establishes the rule for the periodic recognition of revenue as soon as it is capable of objective measurement is",
+    "options": [
+      "going concern.",
+      "entity.",
+      "consistency.",
+      "realization."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: realization."
+  },
+  {
+    "id": 99,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following is determined in the Trading Account?",
+    "options": [
+      "Factory overheads",
+      "Cost of goods sold",
+      "Prime cost",
+      "Net profit"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Cost of goods sold"
+  },
+  {
+    "id": 308,
+    "year": 2015,
+    "topic": "General",
+    "question": "Goods returned to a supplier is",
+    "options": [
+      "debited to Returns outwards account",
+      "credited to Returns outwards account",
+      "debited to Returns inwards account",
+      "credited to Returns inwards account"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: credited to Returns outwards account"
+  },
+  {
+    "id": 305,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following is the equation for determining net profit or loss from the records of a firm?",
+    "options": [
+      "Closing Capital - Drawings - Capital Introduced",
+      "Opening Capital + Drawings - Closing Capital",
+      "Closing Capital + Opening Capital - Drawings",
+      "Closing Capital + Drawings - Opening Capital"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Closing Capital + Drawings - Opening Capital"
+  },
+  {
+    "id": 382,
+    "year": 2014,
+    "topic": "General",
+    "question": "Which of the following information is recorded in the returns outwards book?",
+    "options": [
+      "Goods purchased on credit and subsequently returned to supplier",
+      "Fixed asset bought on credit and subsequently returned to supplier",
+      "Cash payment received from a customer and subsequently returned to supplier",
+      "Goods sold to a customer and subsequently returned to the business."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Goods purchased on credit and subsequently returned to supplier"
+  },
+  {
+    "id": 110,
+    "year": 2013,
+    "topic": "Aminn local Government prepared its receipts and payments account from the following: Fines [ 20,000 ] Market rates [120,000], Salaries [ 60,000] Maintenance of vehicles [49,000 ], Park collections [ 100,000]",
+    "question": "The total expenditure for the period is",
+    "options": [
+      "319,000.",
+      "270,000",
+      "139,000.",
+      "109,000."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 109,000."
+  },
+  {
+    "id": 353,
+    "year": 2014,
+    "topic": "General",
+    "question": "Purchases Account is overcast by N200, while Wages Account is under cast by N200. This is",
+    "options": [
+      "an error of omission",
+      "a compensating error",
+      "an error of commission",
+      "an error of principle"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a compensating error"
+  },
+  {
+    "id": 123,
+    "year": 2013,
+    "topic": "General",
+    "question": "At the end of a trading period, cost of goods sold is debited to the trading account while cost of services is        debited to the",
+    "options": [
+      "balance sheet.",
+      "manufacturing account.",
+      "trading account.",
+      "profit and loss account."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: profit and loss account."
+  },
+  {
+    "id": 189,
+    "year": 1997,
+    "topic": "General",
+    "question": "Which of the following is not a source document for recording sales?",
+    "options": [
+      "Debit note",
+      "Credit note",
+      "Receipt",
+      "Sales journal"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Sales journal"
+  },
+  {
+    "id": 186,
+    "year": 1997,
+    "topic": "General",
+    "question": "Which of the following is an advantage of the imprest system?",
+    "options": [
+      "Making high profits in the business",
+      "Rewarding the imprest holder",
+      "Easy preparation of the final accounts",
+      "Meeting small items of expenditure"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Meeting small items of expenditure"
+  },
+  {
+    "id": 337,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following expenses is allocated according to the floor \tarea?",
+    "options": [
+      "Wages and Salaries",
+      "Rent and rates",
+      "Canteen expenses",
+      "Discount allowed"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Rent and rates"
+  },
+  {
+    "id": 352,
+    "year": 2014,
+    "topic": "General",
+    "question": "Which of the following transactions will result in disagreement between the cash book and the bank statement?",
+    "options": [
+      "Selling of goods on credit to a customer",
+      "Withdrawal of goods by the proprietor for his personal use",
+      "Cheque paid directly into the bank account by a customer",
+      "Omission of purchases received from a supplier on credit"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Cheque paid directly into the bank account by a customer"
+  },
+  {
+    "id": 178,
+    "year": 1997,
+    "topic": "General",
+    "question": "A Receipt and Payments Account reveals",
+    "options": [
+      "net profit",
+      "surplus",
+      "cash in hand",
+      "gross profit"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: cash in hand"
+  },
+  {
+    "id": 354,
+    "year": 2014,
+    "topic": "General",
+    "question": "Which of the following is used to record the disposal of a fixed asset?",
+    "options": [
+      "Journal  Proper",
+      "Petty  Cash  Book",
+      "Sales Day Book",
+      "Purchases Day Book"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Journal  Proper"
+  },
+  {
+    "id": 225,
+    "year": 2006,
+    "topic": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
+    "question": "The dividend per ordinary share for the year is",
+    "options": [
+      "N  0.88 kobo",
+      "N  0.40 kobo",
+      "N  0.20 kobo",
+      "N  0.17 kobo"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: N  0.40 kobo"
+  },
+  {
+    "id": 191,
+    "year": 1997,
+    "topic": "A company charges out goods to a branch at cost plus 25 percent.  It invoiced  N 12,000 worth of goods",
+    "question": "The double entry required for the mark-up is debit Branch",
+    "options": [
+      "Sales Account, credit Branch Adjustment Account",
+      "Adjustment Account, credit Branch Stock Account",
+      "Stock Account, credit Branch Adjustment Account",
+      "Profit and Loss Account, credit Branch Stock Account,"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Stock Account, credit Branch Adjustment Account"
+  },
+  {
+    "id": 313,
+    "year": 2015,
+    "topic": "General",
+    "question": "Discount Received Account is a",
+    "options": [
+      "real account",
+      "personal account",
+      "nominal account",
+      "profit and loss account"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: nominal account"
+  },
+  {
+    "id": 298,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not a revenue to a local government?",
+    "options": [
+      "Fines",
+      "Licenses",
+      "Personal income tax",
+      "Tenement rates"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Personal income tax"
+  },
+  {
+    "id": 231,
+    "year": 2006,
+    "topic": "General",
+    "question": "Bank reconciliation statement reconciles",
+    "options": [
+      "bank and cash balances in the cash book",
+      "bank balance in the cash book and bank statement balance",
+      "cash balance in the cash book and bank statement balance",
+      "bank balance brought down and bank balance carried down in the cash bcok."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: bank balance in the cash book and bank statement balance"
+  },
+  {
+    "id": 224,
+    "year": 2006,
+    "topic": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
+    "question": "If  no profit is to be retained, proposed ordinary shares dividend is",
+    "options": [
+      "N   48,000",
+      "N  44,000",
+      "N  40,000",
+      "N  28,000"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: N  40,000"
+  },
+  {
+    "id": 88,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following is not a book of original entry?",
+    "options": [
+      "Cash Book",
+      "Purchases Ledger",
+      "Returns Outwards Journal",
+      "General Journal"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Purchases Ledger"
+  },
+  {
+    "id": 102,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following accounts has a credit balance?",
+    "options": [
+      "Returns Inwards Account",
+      "Machinery Account",
+      "Sales Account",
+      "Cash Account"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Sales Account"
+  },
+  {
+    "id": 82,
+    "year": 2013,
+    "topic": "General",
+    "question": "credit balance is",
+    "options": [
+      "a liability or an expense.",
+      "a liability or an income.",
+      "an expenditure or an income.",
+      "an asset or an expense."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a liability or an income."
+  },
+  {
+    "id": 292,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not the purpose of control account?",
+    "options": [
+      "Check on errors of addition",
+      "Locate errors",
+      "Locate missing figures",
+      "Monitor the cash book"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Monitor the cash book"
+  },
+  {
+    "id": 363,
+    "year": 2014,
+    "topic": "General",
+    "question": "Net profit in a business is",
+    "options": [
+      "the amount of money taken out of the business by the owner",
+      "the cash in the business bank account",
+      "the difference between sales and cost of sales",
+      "sale revenue less cost of sales and expenses"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: sale revenue less cost of sales and expenses"
+  },
+  {
+    "id": 339,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following is a source of revenue for a local government?",
+    "options": [
+      "Personal income tax",
+      "Company registration fees",
+      "Royalties",
+      "Market tolls"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Market tolls"
+  },
+  {
+    "id": 315,
+    "year": 2015,
+    "topic": "General",
+    "question": "The accounting entry to correct sales day book overcast is",
+    "options": [
+      "debit Sales Account and credit Debtors Account",
+      "debit Suspense Account and credit Sales Account",
+      "debit Debtors Account and credit Suspense Account",
+      "debit Sales Account and credit Suspense Account"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: debit Sales Account and credit Suspense Account"
+  },
+  {
+    "id": 375,
+    "year": 2014,
+    "topic": "General",
+    "question": "Shares issued below nominal value are referred to as shares at",
+    "options": [
+      "premium",
+      "discount",
+      "face value",
+      "cumulative value"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: discount"
+  },
+  {
+    "id": 105,
+    "year": 2013,
+    "topic": "General",
+    "question": "A low current ratio in a business indicates that the business is",
+    "options": [
+      "faced with long term loan repayment problem.",
+      "efficient in the utilization of its resources.",
+      "unable to pay its bills on time.",
+      "growing its net asset effectively."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: unable to pay its bills on time."
+  },
+  {
+    "id": 198,
+    "year": 1997,
+    "topic": "Kudi Local Government Council incurred the following expenditure in 1995: Payment of salaries [ 140,000], Purchase of drugs for dispensaries [ 80,000 ], Purchase of books for Library [ 30,000], \tSinking of wells [ 70,000 ], Extension of Council offices [ 160,000]",
+    "question": "The amount of capital expenditure for 1995 was",
+    "options": [
+      "N  260,000",
+      "N  230,000",
+      "N  220,000",
+      "N  160,000"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: N  230,000"
+  },
+  {
+    "id": 370,
+    "year": 2014,
+    "topic": "General",
+    "question": "In a not - for - profit making organization, when the total income \tis less than the total expenditure, the difference is a",
+    "options": [
+      "surplus",
+      "shortfall",
+      "loss",
+      "deficit"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: deficit"
+  },
+  {
+    "id": 180,
+    "year": 1997,
+    "topic": "General",
+    "question": "In a partnership goodwill is recognized when",
+    "options": [
+      "a new partner is admitted",
+      "a partner is dormant",
+      "the business is making huge profit",
+      "the business has good customer relations"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a new partner is admitted"
+  },
+  {
+    "id": 385,
+    "year": 2014,
+    "topic": "General",
+    "question": "Subscriptions in advance is classified in the balance sheet as",
+    "options": [
+      "an asset",
+      "a liability",
+      "a deficit",
+      "a surplus"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a liability"
+  },
+  {
+    "id": 281,
+    "year": 2012,
+    "topic": "General",
+    "question": "The portion of authorized capital that has been allotted to subscribers is",
+    "options": [
+      "called up capital",
+      "paid up capital.",
+      "issued capital",
+      "nominal capital."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: issued capital"
+  },
+  {
+    "id": 264,
+    "year": 2012,
+    "topic": "General",
+    "question": "A Balance Sheet shows only",
+    "options": [
+      "fixed assets and current assets",
+      "assets and long term liabilities.",
+      "assets and liabilities",
+      "assets and capital"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: assets and liabilities"
+  },
+  {
+    "id": 97,
+    "year": 2013,
+    "topic": "General",
+    "question": "A business is treated as being separate from the owners. This statement is emphasized by",
+    "options": [
+      "consistency concept.",
+      "realization concept.",
+      "going concern concept.",
+      "business entity concept."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: business entity concept."
+  },
+  {
+    "id": 258,
+    "year": 2012,
+    "topic": "General",
+    "question": "The objective of accounting information is to enable users to",
+    "options": [
+      "prepare the financial statements.",
+      "value stock",
+      "make decisions",
+      "prepare budgets"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: make decisions"
+  },
+  {
+    "id": 212,
+    "year": 1997,
+    "topic": "General",
+    "question": "Which of the following is not a revenue receipt?",
+    "options": [
+      "Receipt from sales of goods",
+      "Rent from premises sublet",
+      "Interest on savings account",
+      "cash on sale of fixed asset"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: cash on sale of fixed asset"
+  },
+  {
+    "id": 301,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not an item in the profit and loss account?",
+    "options": [
+      "Drawings",
+      "Interest",
+      "Balances",
+      "Bad debts"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Drawings"
+  },
+  {
+    "id": 90,
+    "year": 2013,
+    "topic": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000]",
+    "question": "The capital employed is",
+    "options": [
+      "N=740,000.",
+      "N=580,000.",
+      "N=370,000.",
+      "N=280,000."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: N=370,000."
+  },
+  {
+    "id": 284,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is not found in the personal ledger?",
+    "options": [
+      "Debtors Account",
+      "Creditors Account",
+      "Capital Account",
+      "Nominal Account"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Capital Account"
+  },
+  {
+    "id": 259,
+    "year": 2012,
+    "topic": "General",
+    "question": "Trade discounts are given for",
+    "options": [
+      "bulk purchases",
+      "prompt payment",
+      "quick delivery",
+      "cash payment"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: bulk purchases"
+  },
+  {
+    "id": 93,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following is a nominal account?",
+    "options": [
+      "Machinery Account",
+      "Drawings Account",
+      "Debtors Account",
+      "Wages Account"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Wages Account"
+  },
+  {
+    "id": 302,
+    "year": 2012,
+    "topic": "General",
+    "question": "A loss made on the disposal of a fixed asset is debited to",
+    "options": [
+      "Sales Account.",
+      "Purchases Account.",
+      "Profit and Loss Account.",
+      "Capital Account."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Profit and Loss Account."
+  },
+  {
+    "id": 374,
+    "year": 2014,
+    "topic": "General",
+    "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
+    "options": [
+      "credited to Profit and Loss Account",
+      "debited to Share Premium Account",
+      "credited to Share Capital Account",
+      "credited to share Premium Account"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: credited to share Premium Account"
+  },
+  {
+    "id": 202,
+    "year": 1997,
+    "topic": "General",
+    "question": "The person, who is responsible for the formation of a company is called the",
+    "options": [
+      "promoter",
+      "sponsor",
+      "shareholder",
+      "director"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: promoter"
+  },
+  {
+    "id": 179,
+    "year": 1997,
+    "topic": "General",
+    "question": "An example of appropriation of profit in a company is",
+    "options": [
+      "salaries",
+      "rent income",
+      "debenture interest",
+      "dividend."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: dividend."
+  },
+  {
+    "id": 300,
+    "year": 2012,
+    "topic": "Use the following information to answer questions:: Cash in hand\t[D 1,440]; Cash at Bank [D 2,440]; Stock [D 2,500]; Furniture and fittings [D 2,200]; Creditors [D 1,000]",
+    "question": "The liability is",
+    "options": [
+      "D7,580",
+      "D6,580",
+      "D5,380",
+      "D1,000"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: D1,000"
+  },
+  {
+    "id": 331,
+    "year": 2015,
+    "topic": "General",
+    "question": "In which of the following accounts is interest on partners capital found?",
+    "options": [
+      "Profit and loss",
+      "Trading",
+      "Income surplus",
+      "Profit and loss appropriation."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Profit and loss appropriation."
+  },
+  {
+    "id": 211,
+    "year": 1997,
+    "topic": "General",
+    "question": "Which of the following serves the same purpose as a Trading Account?",
+    "options": [
+      "Branch Adjustment Account",
+      "Goods sent to Branch Account",
+      "Branch Stock Account",
+      "Branch Debtors Account"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Branch Stock Account"
+  },
+  {
+    "id": 326,
+    "year": 2015,
+    "topic": "General",
+    "question": "In the balance sheet of a social club, subscription owing is treated as a",
+    "options": [
+      "current liability",
+      "current asset",
+      "tangible asset",
+      "long-term liability"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: current asset"
+  },
+  {
+    "id": 312,
+    "year": 2015,
+    "topic": "General",
+    "question": "What is the ledger entry for the sale of plant and machinery on credit to Wilson?",
+    "options": [
+      "Credit Sales Account and debit Cash Account",
+      "Credit Plant and Machinery Account and debit Wilson’s Account",
+      "Credit Sales Account and debit Wilson’s Account",
+      "Credit Plant and Machinery Account and debit Cash Account"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Credit Plant and Machinery Account and debit Wilson’s Account"
+  },
+  {
+    "id": 387,
+    "year": 2014,
+    "topic": "General",
+    "question": "The document prepared by a local/district government to present its annual estimates for a planning period is",
+    "options": [
+      "a balance sheet",
+      "budget",
+      "an income and expenditure account",
+      "a cash book"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: budget"
+  },
+  {
+    "id": 204,
+    "year": 1997,
+    "topic": "General",
+    "question": "Which of the following best describes the path of a transaction?",
+    "options": [
+      "Source documents to Journal to Ledger",
+      "Source documents to Ledger to Journal",
+      "Journal to Ledger to source documents",
+      "Journal to source documents to Ledger"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Source documents to Journal to Ledger"
+  },
+  {
+    "id": 309,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following is a real account?",
+    "options": [
+      "Plant account",
+      "Salaries account",
+      "Creditors account",
+      "Trading account"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Plant account"
+  },
+  {
+    "id": 118,
+    "year": 2013,
+    "topic": "Use the following information to answer question:  Stock of raw materials 1/1/09  [ 5,000 ], Stock of raw materials 31/12/09   [ 5,500], Purchase of raw materials [ 50,000], Carriage inwards [3,000], Direct labour [ 12,000], Factory overhead [17,500]",
+    "question": "The prime cost is",
+    "options": [
+      "GHc 64,500.",
+      "GHc 64,000.",
+      "GHc 58,500.",
+      "GHc 52,500."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: GHc 64,500."
+  },
+  {
+    "id": 323,
+    "year": 2015,
+    "topic": "General",
+    "question": "The process of using sales ledger balance to cancel off purchases ledger balance is",
+    "options": [
+      "balancing",
+      "set off",
+      "reconciliation",
+      "cancelling"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: set off"
+  },
+  {
+    "id": 221,
+    "year": 2006,
+    "topic": "General",
+    "question": "The basis of accounting which eliminates debtors and creditors is",
+    "options": [
+      "cash basis",
+      "accrual basis",
+      "fund basis",
+      "commitment basis."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cash basis"
+  },
+  {
+    "id": 378,
+    "year": 2014,
+    "topic": "General",
+    "question": "The primary classification of government expenditure is based on",
+    "options": [
+      "Programs",
+      "funds",
+      "activity",
+      "project"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: funds"
+  },
+  {
+    "id": 268,
+    "year": 2012,
+    "topic": "General",
+    "question": "Capital receipt is collected",
+    "options": [
+      "on sales of motor vehicle.",
+      "on sales of stock in trade.",
+      "from trade debtor",
+      "from trading activities."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: on sales of motor vehicle."
+  },
+  {
+    "id": 351,
+    "year": 2014,
+    "topic": "General",
+    "question": "Net turnover is referred to as",
+    "options": [
+      "purchases",
+      "assets",
+      "sales",
+      "profits"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: sales"
+  },
+  {
+    "id": 210,
+    "year": 1997,
+    "topic": "General",
+    "question": "When a share is sold for less than its nominal value, the difference is called",
+    "options": [
+      "discount",
+      "reserve",
+      "premium",
+      "loss"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: discount"
+  },
+  {
+    "id": 218,
+    "year": 2006,
+    "topic": "General",
+    "question": "A sales ledger contains",
+    "options": [
+      "creditors’ accounts",
+      "nominal accounts",
+      "real accounts",
+      "debtors’ accounts."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: debtors’ accounts."
+  },
+  {
+    "id": 86,
+    "year": 2013,
+    "topic": "General",
+    "question": "A dishonoured cheque is",
+    "options": [
+      "debited in the cash book.",
+      "credited in the cash book.",
+      "double entry in the cash book.",
+      "credited in the bank book."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: double entry in the cash book."
+  },
+  {
+    "id": 247,
+    "year": 2006,
+    "topic": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "question": "Using the reducing balance method, the depreciation charged for year 2003 was",
+    "options": [
+      "N  160,000",
+      "N  150,000",
+      "N   130,000",
+      "N  120,000"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: N  150,000"
+  },
+  {
+    "id": 314,
+    "year": 2015,
+    "topic": "General",
+    "question": "Which of the following accounts has a credit balance?",
+    "options": [
+      "Capital",
+      "Cash",
+      "Drawings",
+      "Premises"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Capital"
+  },
+  {
+    "id": 391,
+    "year": 2014,
+    "topic": "General",
+    "question": "The principle of double entry book - keeping states that",
+    "options": [
+      "every debtor must have a creditor",
+      "every account debited must be immediately credited",
+      "for every debit entry, there must be a corresponding credit entry",
+      "for every double debit, there must be a double credit."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: for every debit entry, there must be a corresponding credit entry"
+  },
+  {
+    "id": 181,
+    "year": 1997,
+    "topic": "General",
+    "question": "Which of the following is a normal account?",
+    "options": [
+      "Machinery",
+      "Debtors",
+      "Creditors",
+      "Salaries"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Salaries"
+  },
+  {
+    "id": 321,
+    "year": 2015,
+    "topic": "General",
+    "question": "In preparing a profit and loss account, a decrease in provision for doubtful debts accounts is treated as",
+    "options": [
+      "Currentability",
+      "expenses",
+      "Income",
+      "Current asset"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Income"
+  },
+  {
+    "id": 361,
+    "year": 2014,
+    "topic": "General",
+    "question": "Which of the following accounts would appear in the nominal ledger?  (I)  Sanison’s account (a debtor)  ( II) Motor vehicle account (III) Sales account  (IV)  Rent and rates account",
+    "options": [
+      "I, II and III only",
+      "I, III and IV only",
+      "II, III and IV only",
+      "Ill and IV only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: I, III and IV only"
+  },
+  {
+    "id": 358,
+    "year": 2014,
+    "topic": "General",
+    "question": "Which of the following is entered in the general journal?",
+    "options": [
+      "Purchase of goods",
+      "Sale of goods on credit",
+      "Returns inwards",
+      "Acquisition of fixed assets"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Acquisition of fixed assets"
+  },
+  {
+    "id": 109,
+    "year": 2013,
+    "topic": "Aminn local Government prepared its receipts and payments account from the following: Fines [ 20,000 ] Market rates [120,000], Salaries [ 60,000] Maintenance of vehicles [49,000 ], Park collections [ 100,000]",
+    "question": "The balance at the end of the period is",
+    "options": [
+      "270,000.",
+      "139,000.",
+      "131,000.",
+      "120,000."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 131,000."
+  },
+  {
+    "id": 380,
+    "year": 2014,
+    "topic": "General",
+    "question": "The accounting concept which states that expenditure involving insignificant amounts should be regarded as expenses and not assets is",
+    "options": [
+      "business entity",
+      "materiality",
+      "dual aspect",
+      "realization"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: materiality"
+  },
+  {
+    "id": 296,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is found in a Memorandum of \tAssociation?",
+    "options": [
+      "Names of directors",
+      "Appointment of directors",
+      "Object of the business",
+      "Payment of dividend"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Object of the business"
+  },
+  {
+    "id": 91,
+    "year": 2013,
+    "topic": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000]",
+    "question": "The returns on capital employed is",
+    "options": [
+      "17.2%",
+      "16.2%.",
+      "15.2%.",
+      "11.2%."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: 17.2%"
+  },
+  {
+    "id": 336,
+    "year": 2015,
+    "topic": "General",
+    "question": "A person who has applied to purchase shares in a company is referred to as",
+    "options": [
+      "a promoter",
+      "a subscriber",
+      "an allottee",
+      "an underwriter"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a subscriber"
+  },
+  {
+    "id": 220,
+    "year": 2006,
+    "topic": "General",
+    "question": "The amount set aside out of profits earned by a company which are not meant for liability or contingency are",
+    "options": [
+      "dividends",
+      "provisions",
+      "retained profits",
+      "reserves"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: reserves"
+  },
+  {
+    "id": 182,
+    "year": 1997,
+    "topic": "An asset was bought on 1st January, 1992 for N= 20,000. Depreciation was provided for annually at 20% on cost. It was sold for N= 7,000 on 1st July, 1995.",
+    "question": "The net book value at the time of sale was",
+    "options": [
+      "N=  16,000",
+      "N=  14,000",
+      "N=  12,000",
+      "N= 6,000."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: N= 6,000."
+  },
+  {
+    "id": 185,
+    "year": 1997,
+    "topic": "General",
+    "question": "In Manufacturing Account, prime cost plus factory overhead is known as",
+    "options": [
+      "conversion cost",
+      "cost of raw materials consumed",
+      "total cost",
+      "production cost"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: production cost"
+  },
+  {
+    "id": 188,
+    "year": 1997,
+    "topic": "General",
+    "question": "A financial plan of action expressed in monetary terms is known as",
+    "options": [
+      "imprest",
+      "consolidated fund",
+      "warrant",
+      "budget"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: budget"
+  },
+  {
+    "id": 234,
+    "year": 2006,
+    "topic": "General",
+    "question": "Revenue is recognized in the profit and loss account as soon as a",
+    "options": [
+      "debtor pays what is due from him",
+      "sale of goods takes place and money is received",
+      "sale of goods takes place whether or not money is received",
+      "sale of a fixed asset takes place."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: sale of goods takes place whether or not money is received"
+  },
+  {
+    "id": 381,
+    "year": 2014,
+    "topic": "General",
+    "question": "A company made a net profit of N2,000,000 for the year and its net profit percentage is 25%. What is the total sales   for the year?",
+    "options": [
+      "N8,000,000",
+      "N6,000,000",
+      "N800,000",
+      "N500,000"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: N8,000,000"
+  },
+  {
+    "id": 297,
+    "year": 2012,
+    "topic": "General",
+    "question": "Administrative, selling and distribution expenses in a \tmanufacturing firm are recorded in",
+    "options": [
+      "Trading Account.",
+      "Manufacturing Account.",
+      "Profit and Loss Account.",
+      "Balance Sheet."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Profit and Loss Account."
+  },
+  {
+    "id": 193,
+    "year": 1997,
+    "topic": "General",
+    "question": "A real account is the account of",
+    "options": [
+      "expenses or losses",
+      "gains or income",
+      "physical tangible items",
+      "fictitious items"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: physical tangible items"
+  },
+  {
+    "id": 359,
+    "year": 2014,
+    "topic": "General",
+    "question": "The cost of carriage outward is classified as",
+    "options": [
+      "a selling and distribution expense",
+      "an administrative expense",
+      "a trading expense",
+      "a finance expense"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a selling and distribution expense"
+  },
+  {
+    "id": 115,
+    "year": 2013,
+    "topic": "General",
+    "question": "In a not-for-profit making organization, the cash book is referred to as",
+    "options": [
+      "income and expenditure account.",
+      "receipts and payments account.",
+      "two column cash book.",
+      "petty cash book."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: receipts and payments account."
+  },
+  {
+    "id": 324,
+    "year": 2015,
+    "topic": "General",
+    "question": "The total of the returns outwards journal is posted to the",
+    "options": [
+      "credit side of the returns outwards book",
+      "debit side of the returns outwards account",
+      "debit side of the purchases returns book",
+      "credit side of the returns outwards account"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: credit side of the returns outwards account"
+  },
+  {
+    "id": 256,
+    "year": 2006,
+    "topic": "Rent accrued 1st January, 2005 [600], Rent paid in 2005 [11,300], Rent prepaid 31st December, 2005 [500]",
+    "question": "Rent expenses for the year 2005 is",
+    "options": [
+      "N 11,400",
+      "N  11,300",
+      "N  11,200",
+      "N  10,200."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: N  11,200"
+  }
+]

@@ -1,0 +1,2648 @@
+[
+  {
+    "id": 351,
+    "year": 1999,
+    "topic": "General",
+    "question": "The major strategy used by OPEC to influence oil price is by",
+    "options": [
+      "allocating production quotas to members",
+      "influencing buyers at the international market to buyer at high prices",
+      "allowing member countries to produce at their discretion",
+      "increasing the supply of the commodity"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: allocating production quotas to members"
+  },
+  {
+    "id": 210,
+    "year": 2000,
+    "topic": "General",
+    "question": "Mussolini’s fascism and Hitler’s Nazism are good examples of",
+    "options": [
+      "anarchy",
+      "feudalism",
+      "totalitarianism",
+      "oligarchy"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: totalitarianism"
+  },
+  {
+    "id": 606,
+    "year": 1988,
+    "topic": "General",
+    "question": "Unwritten constitution means that the constitution is",
+    "options": [
+      "not written down",
+      "based only on conventions.",
+      "not contained in any single book",
+      "in draft"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: not contained in any single book"
+  },
+  {
+    "id": 352,
+    "year": 1999,
+    "topic": "General",
+    "question": "Nigeria’s was suspended from the Commonwealth because of her",
+    "options": [
+      "tacit approval of military dictatorship",
+      "negative position towards other nations",
+      "complete negligence of freedom of the press",
+      "violation of fundamental human rights"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: violation of fundamental human rights"
+  },
+  {
+    "id": 654,
+    "year": 1988,
+    "topic": "General",
+    "question": "The controversy over the 1979 Presidential election result was",
+    "options": [
+      "over the dispute on the conduct of the election",
+      "because educated Nigerians did not approve who received the number of votes",
+      "due to the interpretation of ¼   of the vote cast in 2/3 of all the states in the Federation.",
+      "because the winning candidate did not pay his taxes as and when due in the past three years."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: due to the interpretation of ¼   of the vote cast in 2/3 of all the states in the Federation."
+  },
+  {
+    "id": 243,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following groups had the best egalitarian traditional political system?",
+    "options": [
+      "Hausa/Fulani",
+      "Yoruba",
+      "lgbo",
+      "Edo"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: lgbo"
+  },
+  {
+    "id": 703,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not an objective in foreign policy?",
+    "options": [
+      "Prestige",
+      "Large population",
+      "Territorial integrity",
+      "Survival"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Large population"
+  },
+  {
+    "id": 617,
+    "year": 1988,
+    "topic": "General",
+    "question": "A state is a special form of human association because it",
+    "options": [
+      "has a legitimate monopoly of life and death penalties over its citizens",
+      "is the richest association in society.",
+      "has a constitution approved by the citizens",
+      "can punish law breakers"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: has a legitimate monopoly of life and death penalties over its citizens"
+  },
+  {
+    "id": 208,
+    "year": 2000,
+    "topic": "General",
+    "question": "Veto power in a presidential system lies with the",
+    "options": [
+      "Attorney General",
+      "Chief of Army Staff",
+      "Executive President",
+      "Prime Minister."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Executive President"
+  },
+  {
+    "id": 619,
+    "year": 1988,
+    "topic": "General",
+    "question": "A Nigeria citizen can only be deprived of his citizenship if he is",
+    "options": [
+      "condemned to death.",
+      "convicted by a Court of law",
+      "married to a foreigner",
+      "holding a dual citizenship."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: holding a dual citizenship."
+  },
+  {
+    "id": 233,
+    "year": 2000,
+    "topic": "General",
+    "question": "Nigeria’s first constitution was the",
+    "options": [
+      "Lyttleton Constitution",
+      "Clifford Constitution",
+      "Macpherson constitution",
+      "Independence Constitution"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Clifford Constitution"
+  },
+  {
+    "id": 204,
+    "year": 2000,
+    "topic": "General",
+    "question": "The extent to which the citizens regard the institutions, officials and activities of government as right and acceptable is known as",
+    "options": [
+      "power",
+      "legitimacy",
+      "influence",
+      "authority."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: legitimacy"
+  },
+  {
+    "id": 230,
+    "year": 2000,
+    "topic": "General",
+    "question": "The powers allocated to the central government in a federation are contained in the",
+    "options": [
+      "central legislative list",
+      "exclusive legislative list",
+      "residual legislative list",
+      "concurrent legislative list."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: exclusive legislative list"
+  },
+  {
+    "id": 627,
+    "year": 1988,
+    "topic": "General",
+    "question": "The membership of the Council of States in Nigeria is made up of",
+    "options": [
+      "Federal Ministers",
+      "State commissioners",
+      "State governors",
+      "the State Governors and the Head of State."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the State Governors and the Head of State."
+  },
+  {
+    "id": 235,
+    "year": 2000,
+    "topic": "General",
+    "question": "The concept of regionalism in Nigeria was first introduced by the",
+    "options": [
+      "Independence Constitution",
+      "Macpherson Constitution",
+      "Richard’s Constitution",
+      "Lyttleton Constitution"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Richard’s Constitution"
+  },
+  {
+    "id": 610,
+    "year": 1988,
+    "topic": "General",
+    "question": "Which one of the following countries has an unwritten constitution?",
+    "options": [
+      "Great Britain",
+      "France",
+      "United States of America",
+      "Federal Republic of Germany"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Great Britain"
+  },
+  {
+    "id": 334,
+    "year": 1999,
+    "topic": "General",
+    "question": "The Independence constitution can be described as",
+    "options": [
+      "monarchical and presidential",
+      "republican and parliamentary",
+      "monarchical and parliamentary",
+      "federal and republican"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: monarchical and parliamentary"
+  },
+  {
+    "id": 353,
+    "year": 1999,
+    "topic": "General",
+    "question": "Nigeria’s non-aligned policy means that she will",
+    "options": [
+      "have nothing to do with the super-powers",
+      "not take sides in international issues based on ideological considerations",
+      "avoid having any dealing with any country with Ideological",
+      "relate only with member countries of the Non-Aligned Movement"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: not take sides in international issues based on ideological considerations"
+  },
+  {
+    "id": 717,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not a function of the Secretary-General of the United Nations Organization?",
+    "options": [
+      "Supervising the Secretariat",
+      "Interpreting the treaties",
+      "Alerting the Security Council on any matter that may threaten international peace",
+      "Making annual report"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Interpreting the treaties"
+  },
+  {
+    "id": 326,
+    "year": 1999,
+    "topic": "General",
+    "question": "A constitution is classified as unwritten when it",
+    "options": [
+      "does not emanate from the legislature",
+      "provides for separation of powers",
+      "originates from Britain",
+      "is not contained in any single document"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: is not contained in any single document"
+  },
+  {
+    "id": 308,
+    "year": 1999,
+    "topic": "General",
+    "question": "In a federal state, power is shared",
+    "options": [
+      "between the center government and the local authorities",
+      "among the state of the federation",
+      "among the major regions of the country",
+      "between the center government and other co-ordinate units."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: between the center government and other co-ordinate units."
+  },
+  {
+    "id": 215,
+    "year": 2000,
+    "topic": "General",
+    "question": "The system of voting on behalf of another person is known as",
+    "options": [
+      "voting by lot",
+      "casting votes.",
+      "voting by proxy",
+      "preference voting"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: voting by proxy"
+  },
+  {
+    "id": 356,
+    "year": 1999,
+    "topic": "General",
+    "question": "Which of the following international organizations was in existence before the outbreak of the Second World War?",
+    "options": [
+      "The OAU",
+      "The League of Nations",
+      "The UNO",
+      "The ECOWAS"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: The League of Nations"
+  },
+  {
+    "id": 673,
+    "year": 1989,
+    "topic": "General",
+    "question": "The study of Government offers an individual all the following, except a",
+    "options": [
+      "knowledge of his rights and duties",
+      "training in good citizenship",
+      "knowledge of the processes of government",
+      "training to become a judge"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: training to become a judge"
+  },
+  {
+    "id": 681,
+    "year": 1989,
+    "topic": "General",
+    "question": "Bicameralism refers to",
+    "options": [
+      "a one chamber legislature",
+      "the process of voting in the legislature",
+      "the upper chamber in a legislature",
+      "a two-chamber legislature"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a two-chamber legislature"
+  },
+  {
+    "id": 242,
+    "year": 2000,
+    "topic": "General",
+    "question": "Checks and balances was a feature of pre-colonial political administration of the",
+    "options": [
+      "Hausa",
+      "Yoruba",
+      "1gbo",
+      "Fulani"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Yoruba"
+  },
+  {
+    "id": 692,
+    "year": 1989,
+    "topic": "General",
+    "question": "The head of the Oyomesi in the old Oyo Empire was",
+    "options": [
+      "Aremo",
+      "Are Onakakanfo",
+      "Olowo",
+      "Bashorun"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Bashorun"
+  },
+  {
+    "id": 676,
+    "year": 1989,
+    "topic": "General",
+    "question": "A unified - local government system was adopted in Nigeria under the",
+    "options": [
+      "Tafawa Balewa administration",
+      "Yakubu Gowon administration",
+      "Shehu Shagari administration",
+      "Murtala / Obasanjo administration"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Murtala / Obasanjo administration"
+  },
+  {
+    "id": 635,
+    "year": 1988,
+    "topic": "General",
+    "question": "Which of the following is not a function of a party secretariat?",
+    "options": [
+      "Electing the leader of the party",
+      "Organizing party conferences",
+      "Publishing the party’s manifesto",
+      "Planning party strategy to win election"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Electing the leader of the party"
+  },
+  {
+    "id": 344,
+    "year": 1999,
+    "topic": "General",
+    "question": "Decree No.34 of May 1966 is also known as the",
+    "options": [
+      "State Security Decree",
+      "Suspension and Modification Decree",
+      "Public Order Decree",
+      "Unification Decree"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Unification Decree"
+  },
+  {
+    "id": 312,
+    "year": 1999,
+    "topic": "General",
+    "question": "A government controlled by a few people for their own interests is said to be",
+    "options": [
+      "an autocracy",
+      "a tyranny",
+      "an oligarchy",
+      "a meritocracy"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: an oligarchy"
+  },
+  {
+    "id": 320,
+    "year": 1999,
+    "topic": "General",
+    "question": "The process of learning the norms and values associated with a political system is referred to as political",
+    "options": [
+      "socialization",
+      "indoctrination",
+      "culture",
+      "participation"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: socialization"
+  },
+  {
+    "id": 642,
+    "year": 1988,
+    "topic": "General",
+    "question": "Nigeria became a federation of 19 states in",
+    "options": [
+      "1875",
+      "1976",
+      "1967",
+      "1978"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 1976"
+  },
+  {
+    "id": 655,
+    "year": 1988,
+    "topic": "General",
+    "question": "All the following were frontline fighters for Nigeria’s Independence except",
+    "options": [
+      "Obafemi Awolowo",
+      "Nnamdi Azikiwe",
+      "Lateef Jakande",
+      "Amino Kano"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Lateef Jakande"
+  },
+  {
+    "id": 348,
+    "year": 1999,
+    "topic": "General",
+    "question": "Based on its objectives, the Organization of African Unity can primarily be classified as",
+    "options": [
+      "a social organization",
+      "a political organization",
+      "a cultural organization",
+      "an economic organization"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a political organization"
+  },
+  {
+    "id": 649,
+    "year": 1988,
+    "topic": "General",
+    "question": "Which of the following concepts is out of place?",
+    "options": [
+      "Fascism",
+      "Welfarism",
+      "Totalitarianism",
+      "Authoritarianism"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Welfarism"
+  },
+  {
+    "id": 318,
+    "year": 1999,
+    "topic": "General",
+    "question": "In a federal constitution, legislative powers that are shared by two levels of government are referred to as",
+    "options": [
+      "exclusive",
+      "extra-ordinary",
+      "residual",
+      "concurrent."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: concurrent."
+  },
+  {
+    "id": 637,
+    "year": 1988,
+    "topic": "General",
+    "question": "The following factors favoured the introduction of indirect rule in Nigeria except the",
+    "options": [
+      "Shortage of manpower",
+      "Shortage of funds",
+      "Existence of a system of taxation",
+      "Existence of educated elites"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Existence of educated elites"
+  },
+  {
+    "id": 647,
+    "year": 1988,
+    "topic": "General",
+    "question": "Which of the following is not an aim of the Organization of African Unity (O.A.U)",
+    "options": [
+      "Promotion of unity and solidarity among African states",
+      "Co-operation of efforts to achieve a better life for the African people",
+      "Defense of the sovereignty and independence of African state",
+      "Enthronement of democratic governments in Africa."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Enthronement of democratic governments in Africa."
+  },
+  {
+    "id": 626,
+    "year": 1988,
+    "topic": "General",
+    "question": "Which of the following is not an accepted way of resolving international conflict",
+    "options": [
+      "Diplomacy.",
+      "Non-military use of force.",
+      "Propaganda",
+      "Nuclear war."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Nuclear war."
+  },
+  {
+    "id": 244,
+    "year": 2000,
+    "topic": "General",
+    "question": "In the pre-colonial Hausa/Fulani system, the appointment of an Emir in the Caliphate was approved by the",
+    "options": [
+      "Sardauna of Sokoto and the Alkali",
+      "Galadima and the Waziri",
+      "Shehu of Bomo and the Galadima",
+      "Sultan of Sokoto and the Emir of Gwandu"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Sultan of Sokoto and the Emir of Gwandu"
+  },
+  {
+    "id": 711,
+    "year": 1989,
+    "topic": "General",
+    "question": "With which country did Nigeria break diplomatic relations in 1963 for exploding a nuclear device in the Sahara?",
+    "options": [
+      "The Soviet Union",
+      "The U.S.A",
+      "China",
+      "France"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: France"
+  },
+  {
+    "id": 214,
+    "year": 2000,
+    "topic": "General",
+    "question": "All undesirable feature of capitalism is",
+    "options": [
+      "exploitation",
+      "market economy",
+      "profit motive",
+      "free competition"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: exploitation"
+  },
+  {
+    "id": 615,
+    "year": 1988,
+    "topic": "General",
+    "question": "The United Nations Organization [UNO] has its headquarters in",
+    "options": [
+      "Britain",
+      "USSR",
+      "USA",
+      "China"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: USA"
+  },
+  {
+    "id": 707,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not a public corporation? The",
+    "options": [
+      "Nigerian Ports Authority",
+      "National Sports Commission",
+      "National Youth Service Corps",
+      "Nigerian Railway Corporation"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: National Youth Service Corps"
+  },
+  {
+    "id": 718,
+    "year": 1989,
+    "topic": "General",
+    "question": "Capitalism often encourages",
+    "options": [
+      "Private ownership of the means of production",
+      "Deconcentration of political and economic powers in the same hands",
+      "A centrally planned economy",
+      "Public ownership of all forms enterprises"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Private ownership of the means of production"
+  },
+  {
+    "id": 607,
+    "year": 1988,
+    "topic": "General",
+    "question": "The delegation of Administrative Powers to the local units with the central supervision and control is called.",
+    "options": [
+      "devolution",
+      "decentralization",
+      "deconcentration",
+      "centralization"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: devolution"
+  },
+  {
+    "id": 657,
+    "year": 1988,
+    "topic": "General",
+    "question": "The first political party in Nigeria was",
+    "options": [
+      "National Council of Nigerian Citizens (N.C.N.C)",
+      "Nigerian National Democratic Party (N.N.D.P)",
+      "Action group (A. G)",
+      "Northern Peoples Congress (N.P.C)"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Nigerian National Democratic Party (N.N.D.P)"
+  },
+  {
+    "id": 238,
+    "year": 2000,
+    "topic": "General",
+    "question": "Traditional rulers appointed by the British to implement indirect rule in Eastern Nigeria were called",
+    "options": [
+      "palace chiefs",
+      "village chiefs",
+      "warrant chiefs",
+      "crown chiefs"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: warrant chiefs"
+  },
+  {
+    "id": 660,
+    "year": 1988,
+    "topic": "General",
+    "question": "The ultimate aim of a communist system of government is \tthe distribution of goods and services according to",
+    "options": [
+      "age",
+      "qualification",
+      "party loyalty",
+      "need, want and ability"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: need, want and ability"
+  },
+  {
+    "id": 232,
+    "year": 2000,
+    "topic": "General",
+    "question": "Delegated legislation has the advantage of",
+    "options": [
+      "enlightening the public about law making procedure",
+      "saving parliamentary time",
+      "reducing the expenses of the legislature",
+      "preventing the executive from becoming too powerful."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: saving parliamentary time"
+  },
+  {
+    "id": 322,
+    "year": 1999,
+    "topic": "General",
+    "question": "One instrument for safeguarding the rights of citizens is",
+    "options": [
+      "judicial interpretation",
+      "presidential pardon",
+      "legislative intervention",
+      "writ of habeas corpus"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: writ of habeas corpus"
+  },
+  {
+    "id": 659,
+    "year": 1988,
+    "topic": "General",
+    "question": "In the federation, the purpose of enumerating the powers of the central government is to",
+    "options": [
+      "ensure efficient administration",
+      "ensure greater unity",
+      "reduce the financial burden of the units",
+      "limit its powers against those of the units"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: limit its powers against those of the units"
+  },
+  {
+    "id": 683,
+    "year": 1989,
+    "topic": "General",
+    "question": "The principle of separation of powers implies that the three main organs of government work",
+    "options": [
+      "separately",
+      "independently but co-operatively",
+      "against one another",
+      "reluctantly and gradually for the executive"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: independently but co-operatively"
+  },
+  {
+    "id": 661,
+    "year": 1988,
+    "topic": "General",
+    "question": "Under what system of government does the state require ownership and control of the means of production for its use in benefiting the population?",
+    "options": [
+      "Capitalism",
+      "Socialism",
+      "Feudalism",
+      "Welfarism"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Socialism"
+  },
+  {
+    "id": 240,
+    "year": 2000,
+    "topic": "General",
+    "question": "In the federation of Nigeria, states are equally represented in the",
+    "options": [
+      "Senate",
+      "House of Representatives",
+      "Judiciary",
+      "National Population Commission"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Senate"
+  },
+  {
+    "id": 328,
+    "year": 1999,
+    "topic": "General",
+    "question": "A dominant two-party system is operated in",
+    "options": [
+      "the United Kingdom and the United States",
+      "India and Pakistan",
+      "France and Germany",
+      "South Africa and Senegal"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: the United Kingdom and the United States"
+  },
+  {
+    "id": 715,
+    "year": 1989,
+    "topic": "General",
+    "question": "Nigeria hosted the meeting of Commonwealth Heads of State in",
+    "options": [
+      "1965",
+      "1966",
+      "1967",
+      "1968"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 1966"
+  },
+  {
+    "id": 212,
+    "year": 2000,
+    "topic": "General",
+    "question": "An order directing a detainee to be brought before the court is called",
+    "options": [
+      "habeas corpus",
+      "an appearance",
+      "an injunction",
+      "a referendum"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: habeas corpus"
+  },
+  {
+    "id": 716,
+    "year": 1989,
+    "topic": "General",
+    "question": "A fascist regime is both",
+    "options": [
+      "representative and accountable",
+      "responsive and responsible",
+      "fair and legitimate",
+      "authoritarian and totalitarian"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: authoritarian and totalitarian"
+  },
+  {
+    "id": 202,
+    "year": 2000,
+    "topic": "General",
+    "question": "Freedom of speech is a fundamental human right enjoyed by citizens but it may be limited if",
+    "options": [
+      "loyalty is not shown to the ruling party",
+      "it exposes the wrong doings of the government",
+      "it endangers the security of the state.",
+      "it is used to cause embarrassment to the judiciary."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: it endangers the security of the state."
+  },
+  {
+    "id": 640,
+    "year": 1988,
+    "topic": "General",
+    "question": "Residual powers under the Nigerian independence constitution were the powers exercised by",
+    "options": [
+      "the Federal Government",
+      "the Regional Governments",
+      "the Local Government",
+      "both the Federal and Regional Governments"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: the Regional Governments"
+  },
+  {
+    "id": 223,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following best describes the relationship between the central and the component government in a confederation?",
+    "options": [
+      "The central government collects revenue for component government",
+      "The central and component governments have equal powers",
+      "The central government legislates for the component governments.",
+      "The central government is weaker than the component government."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: The central government is weaker than the component government."
+  },
+  {
+    "id": 696,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following countries does not operate a federal constitution?",
+    "options": [
+      "USA",
+      "Canada",
+      "Nigeria",
+      "France"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: France"
+  },
+  {
+    "id": 613,
+    "year": 1988,
+    "topic": "General",
+    "question": "The two components of sovereignty are",
+    "options": [
+      "the rule of law and fundamental human rights.",
+      "political power and political authority",
+      "political culture and political socialization.",
+      "political independence and supreme authority of the state within its territory."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: political independence and supreme authority of the state within its territory."
+  },
+  {
+    "id": 315,
+    "year": 1999,
+    "topic": "General",
+    "question": "A hereditary system of government is",
+    "options": [
+      "an oligarchy",
+      "a gerontocracy",
+      "an aristocracy",
+      "a monarchy"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a monarchy"
+  },
+  {
+    "id": 714,
+    "year": 1989,
+    "topic": "General",
+    "question": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the",
+    "options": [
+      "Federal laws would prevail",
+      "Federal laws would be declared null and void",
+      "regional laws would prevail",
+      "Head of State would settle the conflict"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Federal laws would prevail"
+  },
+  {
+    "id": 694,
+    "year": 1989,
+    "topic": "General",
+    "question": "While political parties aim at forming a government, pressure groups aim at",
+    "options": [
+      "imposing a military rule",
+      "causing social unrest",
+      "influencing government decisions",
+      "controlling a nation’s economy"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: influencing government decisions"
+  },
+  {
+    "id": 618,
+    "year": 1988,
+    "topic": "General",
+    "question": "Which of the following is not relevant to communism",
+    "options": [
+      "Democracy",
+      "Violent revolution",
+      "Friedrich Engels",
+      "Private Enterprise."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Private Enterprise."
+  },
+  {
+    "id": 357,
+    "year": 1999,
+    "topic": "General",
+    "question": "The organ of the United Nations Organization responsible for the former colonies of defeated World War II power is the",
+    "options": [
+      "General Assembly",
+      "Security Council",
+      "Economic and Social Council",
+      "Trusteeship Council"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Trusteeship Council"
+  },
+  {
+    "id": 207,
+    "year": 2000,
+    "topic": "General",
+    "question": "In which of the following party systems are all shades of opinions and interests adequately represented?",
+    "options": [
+      "Zero-party",
+      "One-party",
+      "Two-party",
+      "Multi-party"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Multi-party"
+  },
+  {
+    "id": 354,
+    "year": 1999,
+    "topic": "General",
+    "question": "One of the underlying principles of Nigerian foreign policy is",
+    "options": [
+      "encouragement of peace-keeping operations in Africa",
+      "interference in the internal activities of other countries",
+      "non-commitment towards Africa unity",
+      "respect for sovereign equality of all states."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: respect for sovereign equality of all states."
+  },
+  {
+    "id": 335,
+    "year": 1999,
+    "topic": "General",
+    "question": "Which of the following parties formed the opposition in the House of Representatives during Nigeria’s First Republic?",
+    "options": [
+      "AG and UMBC",
+      "NCNC AND NEPU",
+      "NPC and NNDP",
+      "NCNC and AG"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: AG and UMBC"
+  },
+  {
+    "id": 677,
+    "year": 1989,
+    "topic": "General",
+    "question": "The two parties which formed the coalition government in 1959 were the",
+    "options": [
+      "NPC and the NCNC",
+      "NCNC and the AG",
+      "NPC and the NNA",
+      "PRP and the UPGA"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: NPC and the NCNC"
+  },
+  {
+    "id": 239,
+    "year": 2000,
+    "topic": "General",
+    "question": "The bill introduced by a member of the legislature is known as",
+    "options": [
+      "a-private member’s bill",
+      "an executive bill",
+      "a state bill",
+      "a political party’s bill"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a-private member’s bill"
+  },
+  {
+    "id": 666,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is a false description of the first Nigeria Prime Minister? He",
+    "options": [
+      "was first among equals",
+      "presided over the cabinet",
+      "was the Head of Government",
+      "exercised the prerogative of mercy"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: exercised the prerogative of mercy"
+  },
+  {
+    "id": 220,
+    "year": 2000,
+    "topic": "General",
+    "question": "The acquisition of political power through hereditary means is a feature of",
+    "options": [
+      "Communalism",
+      "Capitalism",
+      "Oligarchy",
+      "Monarch"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Monarch"
+  },
+  {
+    "id": 231,
+    "year": 2000,
+    "topic": "General",
+    "question": "The Nigerian federal legislature is called the",
+    "options": [
+      "Senate",
+      "Congress",
+      "National Assembly",
+      "House of Representatives"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: National Assembly"
+  },
+  {
+    "id": 316,
+    "year": 1999,
+    "topic": "General",
+    "question": "The separation of judicial, legislative and executive function is designed to",
+    "options": [
+      "promote freedom",
+      "prevent tyranny",
+      "promote peace",
+      "prevent anarchy"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: prevent tyranny"
+  },
+  {
+    "id": 236,
+    "year": 2000,
+    "topic": "General",
+    "question": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on",
+    "options": [
+      "rejuvenation, resettlement and reconstruction",
+      "reconciliation, rehabilitation and reconstruction",
+      "rebuilding, rejuvenation and rehabilitation",
+      "rehabilitation, renaissance and repression."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: reconciliation, rehabilitation and reconstruction"
+  },
+  {
+    "id": 712,
+    "year": 1989,
+    "topic": "General",
+    "question": "The first political party in Nigeria was formed after the introduction of the",
+    "options": [
+      "Richard constitution",
+      "Clifford constitution",
+      "Bourdillon constitution",
+      "Macpherson constitution"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Clifford constitution"
+  },
+  {
+    "id": 668,
+    "year": 1989,
+    "topic": "General",
+    "question": "The laws which the state legislators make normally pass through",
+    "options": [
+      "the commissioner",
+      "the process of deliberations",
+      "the judiciary",
+      "some committees in the civil service"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: the process of deliberations"
+  },
+  {
+    "id": 345,
+    "year": 1999,
+    "topic": "General",
+    "question": "In 1979, the Unity Party of Nigeria contested and won gubernatorial elections in",
+    "options": [
+      "Lagos, Ogun, imo, Oyo and Bendel",
+      "Lagos, Kwara,Oyo,Ogun, and Benue",
+      "Lagos, Ogun,Oyo,Ondo and Bendel",
+      "Lagos, Kwara,Ogun,Oyo,Ondo"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Lagos, Ogun,Oyo,Ondo and Bendel"
+  },
+  {
+    "id": 698,
+    "year": 1989,
+    "topic": "General",
+    "question": "The major advantage of the secret ballot is that",
+    "options": [
+      "it is faster than other systems",
+      "nobody can be prevented from voting",
+      "it ensures the anonymity of each voter",
+      "losers can ask for another secret vote"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: it ensures the anonymity of each voter"
+  },
+  {
+    "id": 630,
+    "year": 1988,
+    "topic": "General",
+    "question": "The declaration of a state of emergency in Western Nigeria was protected by the constitution of",
+    "options": [
+      "1954",
+      "1951",
+      "1960",
+      "1963"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 1963"
+  },
+  {
+    "id": 241,
+    "year": 2000,
+    "topic": "General",
+    "question": "In pre-colonial Igboland, administrative meetings were presided over by the",
+    "options": [
+      "Mazi",
+      "Ogbuefi",
+      "Ozo title holder",
+      "Okpara"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Ozo title holder"
+  },
+  {
+    "id": 330,
+    "year": 1999,
+    "topic": "General",
+    "question": "Naturalization is a process of acquiring citizenship by",
+    "options": [
+      "persons of dual nationality",
+      "foreign visitors to a country",
+      "resident foreigners of good character",
+      "persons born abroad."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: resident foreigners of good character"
+  },
+  {
+    "id": 719,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following African countries has diplomatic relations with South Africa?",
+    "options": [
+      "Malawi",
+      "Zambia",
+      "Gabon",
+      "Tanzania"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Malawi"
+  },
+  {
+    "id": 675,
+    "year": 1989,
+    "topic": "General",
+    "question": "The organ of the UNO which can impose mandatory sanctions on any of its members is the",
+    "options": [
+      "International Court of Justice",
+      "Economic and Social Council",
+      "General Assembly",
+      "Security Council"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Security Council"
+  },
+  {
+    "id": 697,
+    "year": 1989,
+    "topic": "General",
+    "question": "Socialism developed as a protest against the evils of",
+    "options": [
+      "monarchy",
+      "oligarchy",
+      "feudalism",
+      "capitalism"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: capitalism"
+  },
+  {
+    "id": 211,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is supreme in a federal system?",
+    "options": [
+      "Judiciary",
+      "legislature",
+      "Constitution",
+      "Executive."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Constitution"
+  },
+  {
+    "id": 608,
+    "year": 1988,
+    "topic": "General",
+    "question": "Which of the following is not the function of the government?",
+    "options": [
+      "Building of roads, bridges, canals, etc.",
+      "Provision of education.",
+      "Maintenance of relations with other states.",
+      "Provision of all the material needs of all citizens."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Provision of all the material needs of all citizens."
+  },
+  {
+    "id": 609,
+    "year": 1988,
+    "topic": "General",
+    "question": "A flexible constitution can only be amended by",
+    "options": [
+      "two-third (2/3) majority vote in the legislature.",
+      "referendum.",
+      "three-quarter (3/4) majority vote in the legislature.",
+      "simple majority vote in the legislature."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: simple majority vote in the legislature."
+  },
+  {
+    "id": 674,
+    "year": 1989,
+    "topic": "General",
+    "question": "Voting started in Nigeria in 1923 because the Clifford Constitution of 1922 granted",
+    "options": [
+      "decolonization",
+      "independence",
+      "an elective principle",
+      "self-government"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: an elective principle"
+  },
+  {
+    "id": 646,
+    "year": 1988,
+    "topic": "General",
+    "question": "The Economic community of West Africa state (E.C.O.W.A.S) is",
+    "options": [
+      "an economic association",
+      "a political association",
+      "a cultural association",
+      "a social association"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: an economic association"
+  },
+  {
+    "id": 682,
+    "year": 1989,
+    "topic": "General",
+    "question": "The head of state under the independence constitution of Nigeria was",
+    "options": [
+      "an absolute monarch",
+      "a constitution monarch",
+      "imposed by the British",
+      "invested with executive power"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a constitution monarch"
+  },
+  {
+    "id": 684,
+    "year": 1989,
+    "topic": "General",
+    "question": "The emergency powers conferred on the Federal Government under the independence constitution was first exercised in the",
+    "options": [
+      "Western Region",
+      "Mid-Western Region",
+      "Eastern Region",
+      "Northern Region"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Western Region"
+  },
+  {
+    "id": 638,
+    "year": 1988,
+    "topic": "General",
+    "question": "The psychological support a regime gets from its citizens. If they believe the regime is right and ought to be obeyed is known as",
+    "options": [
+      "Sovereignty",
+      "power",
+      "authority",
+      "legitimacy"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: legitimacy"
+  },
+  {
+    "id": 201,
+    "year": 2000,
+    "topic": "General",
+    "question": "The rule of law refers to the principle of",
+    "options": [
+      "legality and impartiality",
+      "the supreme power of rulers.",
+      "the immunity of judges from legal actions.",
+      "the orderly execution of government policies."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: legality and impartiality"
+  },
+  {
+    "id": 710,
+    "year": 1989,
+    "topic": "General",
+    "question": "Local government reforms were carried out by the Federal Military Government in",
+    "options": [
+      "1966",
+      "1967",
+      "1970",
+      "1976"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 1976"
+  },
+  {
+    "id": 349,
+    "year": 1999,
+    "topic": "General",
+    "question": "Nigeria’s role in ECOMOG is essentially informed by her",
+    "options": [
+      "desire for peace and stability",
+      "chairmanship of ECOWAS.",
+      "desire to establish democracy",
+      "member ship of ECOWAS."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: desire for peace and stability"
+  },
+  {
+    "id": 624,
+    "year": 1988,
+    "topic": "General",
+    "question": "The following are the key factors which influence Nigeria’s foreign relations except",
+    "options": [
+      "peaceful co-existence",
+      "economic dependence.",
+      "non-interference",
+      "respect for territorial integrity."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: economic dependence."
+  },
+  {
+    "id": 612,
+    "year": 1988,
+    "topic": "General",
+    "question": "Federal Election were held in Nigeria in",
+    "options": [
+      "1946, 1951, 1954, 1979 and 1983",
+      "1954, 1959, 1964, 1979 and 1983.",
+      "1923, 1946, 1951, 1979 and 1983",
+      "1954, 1960, 1964, 1979 and 1983"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 1954, 1959, 1964, 1979 and 1983."
+  },
+  {
+    "id": 339,
+    "year": 1999,
+    "topic": "General",
+    "question": "During the 1957 constitutional conference, the Willink Commission was set up to",
+    "options": [
+      "recommend a date for independence",
+      "suggest an equitable revenue allocation  \tformula",
+      "create new regions in Nigeria",
+      "recommend solutions to the problem of the minorities"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: recommend solutions to the problem of the minorities"
+  },
+  {
+    "id": 721,
+    "year": 1989,
+    "topic": "General",
+    "question": "Election among candidates from the same party before the final elections are called",
+    "options": [
+      "Primaries",
+      "Running Mates",
+      "Second ballots",
+      "Party conventions"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Primaries"
+  },
+  {
+    "id": 688,
+    "year": 1989,
+    "topic": "General",
+    "question": "The ratification of the appointment and dismissal of an Emir in the pre-colonial Fulani Empire was done by the",
+    "options": [
+      "Empire of Lafiagi and the Etsu of pategi",
+      "Emirs of Kano and Katsina",
+      "Emirs of Gwandu and Sokoto",
+      "Emir of llorin"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Emirs of Gwandu and Sokoto"
+  },
+  {
+    "id": 634,
+    "year": 1988,
+    "topic": "General",
+    "question": "The creation of the office of the Prime Minister in Nigeria was accomplished in",
+    "options": [
+      "1951",
+      "1954",
+      "1957",
+      "1959"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 1957"
+  },
+  {
+    "id": 234,
+    "year": 2000,
+    "topic": "General",
+    "question": "The Nigerian Macpherson Constitution of 1951 was significant for",
+    "options": [
+      "the introduction of Electoral College",
+      "providing for the office of the Prime Minister",
+      "the creation of states.",
+      "establishing the Supreme Court"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: the introduction of Electoral College"
+  },
+  {
+    "id": 213,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is a feature of an elite party?",
+    "options": [
+      "Members are recruited from the working class.",
+      "The leadership is composed of aristocrats and wealthy merchants.",
+      "It usually consists of existing associations, clubs and trade unions.",
+      "Its leadership has certain techniques which attract supporters."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: The leadership is composed of aristocrats and wealthy merchants."
+  },
+  {
+    "id": 648,
+    "year": 1988,
+    "topic": "General",
+    "question": "It is the duty of a government to perform all the following functions, except",
+    "options": [
+      "Preventing internal disorder",
+      "Ensuring security of life and property",
+      "Providing basic welfare services",
+      "Providing all the needs of its citizens"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Providing all the needs of its citizens"
+  },
+  {
+    "id": 227,
+    "year": 2000,
+    "topic": "General",
+    "question": "The grant of the right to vote is called",
+    "options": [
+      "enfranchisement",
+      "disqualification",
+      "prohibition",
+      "participation"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: enfranchisement"
+  },
+  {
+    "id": 338,
+    "year": 1999,
+    "topic": "General",
+    "question": "The Lagos Colony and Protectorate was amalgamated with The Protectorate of Southern",
+    "options": [
+      "1886",
+      "1893",
+      "1906",
+      "1922"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 1906"
+  },
+  {
+    "id": 632,
+    "year": 1988,
+    "topic": "General",
+    "question": "The Armed Forces Ruling Council came into existence under the",
+    "options": [
+      "Buhari Administration",
+      "Gowon  Administration",
+      "Ironsi Administration",
+      "Babangida Administration"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Babangida Administration"
+  },
+  {
+    "id": 246,
+    "year": 2000,
+    "topic": "General",
+    "question": "One of the problems facing the Economic Community of West African States (ECOWAS) is that",
+    "options": [
+      "member states do not attend meetings regularly",
+      "member states do not have a common currency",
+      "some members states want to contribute larger funds to the community",
+      "it is a rival to the Organization of African Unity"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: member states do not have a common currency"
+  },
+  {
+    "id": 616,
+    "year": 1988,
+    "topic": "General",
+    "question": "The state is different from the government because",
+    "options": [
+      "The state unlike the government is permanent",
+      ".\nThe government is made up of powerful people.",
+      "Members of the government are elected.",
+      "The state is created by God."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: The state unlike the government is permanent"
+  },
+  {
+    "id": 706,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not a pressure group? The",
+    "options": [
+      "Nigerian Farmers’ Council",
+      "Nigerian Union of Teachers",
+      "National Party of Nigeria",
+      "Academic Staff Union of Universities"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: National Party of Nigeria"
+  },
+  {
+    "id": 669,
+    "year": 1989,
+    "topic": "General",
+    "question": "In the parliamentary system of government, ministers are",
+    "options": [
+      "chosen from the House as well as outside",
+      "collectively responsible to parliament",
+      "representatives of various interests in the country",
+      "not members of the legislature"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: collectively responsible to parliament"
+  },
+  {
+    "id": 652,
+    "year": 1988,
+    "topic": "General",
+    "question": "Military Governors were members of the Supreme Military Council under the",
+    "options": [
+      "Murtala Mohammed Regime",
+      "Yakubu Gowon Regime",
+      "Ibrahim Babangida Regime",
+      "Olusegun Obasanjo Regime"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Yakubu Gowon Regime"
+  },
+  {
+    "id": 248,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following bodies is the most representative organ of the United Nations organization (UNO)?",
+    "options": [
+      "The Economic and Social Council",
+      "The Trusteeship Council",
+      "The Security Council",
+      "The General Assembly."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: The General Assembly."
+  },
+  {
+    "id": 325,
+    "year": 1999,
+    "topic": "General",
+    "question": "The notion of equality before the law is the same as the principle of",
+    "options": [
+      "supremacy of the constitution",
+      "rule of law",
+      "independence of the judiciary",
+      "nominate ministers"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: rule of law"
+  },
+  {
+    "id": 604,
+    "year": 1988,
+    "topic": "General",
+    "question": "Government refers to all the following, except",
+    "options": [
+      "an institution of the state",
+      "the process of ruling a political community",
+      "the exercise of power and authority",
+      "the act of civil disobedience."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the act of civil disobedience."
+  },
+  {
+    "id": 708,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not an academic discipline in which a student of Government can specialize",
+    "options": [
+      "Public Administration",
+      "Local Government",
+      "Political Territory",
+      "Public Education"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Public Education"
+  },
+  {
+    "id": 226,
+    "year": 2000,
+    "topic": "General",
+    "question": "Red tapism in the civil service refers to",
+    "options": [
+      "The use of red tapes on legal documents.",
+      "Sloness of action",
+      "Prevent entrance",
+      "the co-operation between civil servant s and politicians"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Sloness of action"
+  },
+  {
+    "id": 347,
+    "year": 1999,
+    "topic": "General",
+    "question": "One of the main reasons for the creation of more local governments in Nigeria is to",
+    "options": [
+      "make them more responsive to people’s needs",
+      "weaken the powers of traditional authorities",
+      "make them more receptive to traditional rule",
+      "establish them as the third tier in the federal structure"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: make them more responsive to people’s needs"
+  },
+  {
+    "id": 229,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following factors may work against a representative system of government?",
+    "options": [
+      "High literacy of the electorate",
+      "The introduction of universal adult suffrage",
+      "Independent electoral commission",
+      "Rigging of elections"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Rigging of elections"
+  },
+  {
+    "id": 323,
+    "year": 1999,
+    "topic": "General",
+    "question": "Legislative control over delegated legislation can be performed through",
+    "options": [
+      "withdrawal of delegated powers by the judiciary",
+      "nullification of unconstitutional legislation",
+      "investigation into the exercise of delegated powers",
+      "approval of legislation by the Chief Justice."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: investigation into the exercise of delegated powers"
+  },
+  {
+    "id": 623,
+    "year": 1988,
+    "topic": "General",
+    "question": "The major problem that arose from the 1979 election centred around the",
+    "options": [
+      "inability of many voters to find their names on the voters register",
+      "cancellation of election results in many constituencies because of alleged irregularities",
+      "inability of some dissatisfied candidates to seek redress in the Court of law.",
+      "controversy over the presidential election result."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: controversy over the presidential election result."
+  },
+  {
+    "id": 341,
+    "year": 1999,
+    "topic": "General",
+    "question": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in",
+    "options": [
+      "1956",
+      "1953",
+      "1956",
+      "1958"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: 1953"
+  },
+  {
+    "id": 342,
+    "year": 1999,
+    "topic": "General",
+    "question": "The legislative functions of the government of Benin Kingdom were performed by the",
+    "options": [
+      "Esama",
+      "Ndichie",
+      "Uzama",
+      "Enigie"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Uzama"
+  },
+  {
+    "id": 203,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is an obligation of a citizen?",
+    "options": [
+      "Attending political rallies",
+      "Taking part in Independence Day celebrations",
+      "Contesting elections",
+      "Paying respect to the national flag."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Paying respect to the national flag."
+  },
+  {
+    "id": 333,
+    "year": 1999,
+    "topic": "General",
+    "question": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in",
+    "options": [
+      "1861",
+      "1861",
+      "1900",
+      "1914"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 1900"
+  },
+  {
+    "id": 332,
+    "year": 1999,
+    "topic": "General",
+    "question": "The Code of Conduct Bureau was established essentiality to",
+    "options": [
+      "ensure the independence of the public service",
+      "enhance probity and accountability in public service",
+      "probe public office holders",
+      "reduce corruption in public life."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: enhance probity and accountability in public service"
+  },
+  {
+    "id": 679,
+    "year": 1989,
+    "topic": "General",
+    "question": "The process of depriving persons of the right of voting is known as",
+    "options": [
+      "enfranchisement",
+      "disqualification",
+      "dismissal",
+      "disenfranchisement"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: disenfranchisement"
+  },
+  {
+    "id": 331,
+    "year": 1999,
+    "topic": "General",
+    "question": "The ideology which states that each person is the best judge of what is in his self-interest is",
+    "options": [
+      "liberalism",
+      "socialism",
+      "fascism",
+      "feudalism"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: liberalism"
+  },
+  {
+    "id": 343,
+    "year": 1999,
+    "topic": "General",
+    "question": "The highest ruling body under the Murtala Obasanjo regime differed remarkably from that of the Gowon",
+    "options": [
+      "administration because of the",
+      "inclusion of civilians as members",
+      "exclusion of military governors from the council",
+      "inclusion of the Chief justice as member"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: inclusion of civilians as members"
+  },
+  {
+    "id": 653,
+    "year": 1988,
+    "topic": "General",
+    "question": "The use of forced labour was one of the features of",
+    "options": [
+      "British colonial policy",
+      "French colonial policy",
+      "American colonial policy",
+      "Divide and rule policy"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: French colonial policy"
+  },
+  {
+    "id": 621,
+    "year": 1988,
+    "topic": "General",
+    "question": "Another word for red-tapism is",
+    "options": [
+      "democracy",
+      "autocracy",
+      "idiosyncrasy.",
+      "bureaucracy"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: bureaucracy"
+  },
+  {
+    "id": 631,
+    "year": 1988,
+    "topic": "General",
+    "question": "The primary purpose of the state is to",
+    "options": [
+      "establish a system of law and order",
+      "train people to become good citizens",
+      "cater for all the needs of the citizens",
+      "ensure the self sufficiency of its people"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: establish a system of law and order"
+  },
+  {
+    "id": 245,
+    "year": 2000,
+    "topic": "General",
+    "question": "The French policy of Assimilation in West Africa was a form of",
+    "options": [
+      "indirect rule",
+      "direct rule",
+      "democratic rule",
+      "monarchy"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: direct rule"
+  },
+  {
+    "id": 629,
+    "year": 1988,
+    "topic": "General",
+    "question": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known as the",
+    "options": [
+      "Bales",
+      "Obas",
+      "Ogboni",
+      "Oyomesi."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Oyomesi."
+  },
+  {
+    "id": 219,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following is a source of a country’s constitution",
+    "options": [
+      "Mandamus",
+      "Judicial precedents",
+      "Injunctions",
+      "Political decisions"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Judicial precedents"
+  },
+  {
+    "id": 665,
+    "year": 1989,
+    "topic": "General",
+    "question": "The judicial organ of government is the body which",
+    "options": [
+      "implements the law",
+      "makes the law",
+      "punishes lawmakers",
+      "interprets the law"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: interprets the law"
+  },
+  {
+    "id": 667,
+    "year": 1989,
+    "topic": "General",
+    "question": "The twelve state structure was created in Nigeria in",
+    "options": [
+      "1965",
+      "1966",
+      "1967",
+      "1974"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 1967"
+  },
+  {
+    "id": 200,
+    "year": 2000,
+    "topic": "General",
+    "question": "Political authority is the",
+    "options": [
+      "legitimate right to exercise political power.",
+      "ability to control political behaviour.",
+      "right to participate in political campaigns.",
+      "right to form political parties."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: legitimate right to exercise political power."
+  },
+  {
+    "id": 225,
+    "year": 2000,
+    "topic": "General",
+    "question": "The appointment, promotion and discipline of civil servants are the responsibility of the",
+    "options": [
+      "Civil Service Union",
+      "Judicial Service Commission",
+      "Civil Service Commission",
+      "Electoral Commission."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Civil Service Commission"
+  },
+  {
+    "id": 324,
+    "year": 1999,
+    "topic": "General",
+    "question": "The feature which best differentiates pressure group from political parties is that they do not",
+    "options": [
+      "have interest in politics",
+      "seek to influences public opinion",
+      "have permanent organization",
+      "nominate ministers"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: nominate ministers"
+  },
+  {
+    "id": 645,
+    "year": 1988,
+    "topic": "General",
+    "question": "flexible constitution is advantageous because it",
+    "options": [
+      "guarantees political stability",
+      "prevents the passing of hasty bills by the legislature",
+      "can cope with emergency periods",
+      "allows for continuity"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: can cope with emergency periods"
+  },
+  {
+    "id": 670,
+    "year": 1989,
+    "topic": "General",
+    "question": "Any type of restricted franchise is a violation of principle of",
+    "options": [
+      "constitutionalism",
+      "sovereignty",
+      "political equally",
+      "popular election"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: political equally"
+  },
+  {
+    "id": 199,
+    "year": 2000,
+    "topic": "General",
+    "question": "Government as an institution of a state can best be defined as a body that",
+    "options": [
+      "recruits and trains political leaders",
+      "settles disputes and interprets laws for the state.",
+      "Legislates, executes and interprets laws for the state.",
+      "conducts elections for the state."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Legislates, executes and interprets laws for the state."
+  },
+  {
+    "id": 722,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following countries is not a member of the Economic Community of West African States (ECOWAS)?",
+    "options": [
+      "Nigeria",
+      "Cameroun",
+      "Ghana",
+      "Togo"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Cameroun"
+  },
+  {
+    "id": 337,
+    "year": 1999,
+    "topic": "General",
+    "question": "A feature common to the 1963, 1979 and 1989 constitutions of Nigeria was that they provided for a",
+    "options": [
+      "republican system",
+      "prime minister",
+      "ceremonial head of state",
+      "president as head of government"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: republican system"
+  },
+  {
+    "id": 355,
+    "year": 1999,
+    "topic": "General",
+    "question": "Before a new member is admitted to the United Nations Organization, its application must be approved by all",
+    "options": [
+      "permanent members of the Security Council",
+      "members of the General Assembly",
+      "members of the Economic and Social Council",
+      "members of the International Court of Justice"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: permanent members of the Security Council"
+  },
+  {
+    "id": 695,
+    "year": 1989,
+    "topic": "General",
+    "question": "Nigeria does not maintain diplomatic relations with South Africa because of the latter’s",
+    "options": [
+      "industrial policy",
+      "apartheid policy",
+      "foreign policy",
+      "agricultural policy"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: apartheid policy"
+  },
+  {
+    "id": 614,
+    "year": 1988,
+    "topic": "General",
+    "question": "Nigeria broke diplomatic relations with Israel in 1973 because of Israeli.",
+    "options": [
+      "recognition of Biafra.",
+      "occupation of Egyptian territory",
+      "refusal to give aid to Nigeria.",
+      "economic relations with South Africa."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: occupation of Egyptian territory"
+  },
+  {
+    "id": 693,
+    "year": 1989,
+    "topic": "General",
+    "question": "The head of the Nigerian Mission to the Commonwealth of Nations is",
+    "options": [
+      "an Ambassador",
+      "a Consular",
+      "the Minister of External Affairs",
+      "a High Commissioner"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a High Commissioner"
+  },
+  {
+    "id": 224,
+    "year": 2000,
+    "topic": "General",
+    "question": "The administrative head of a public corporation in Nigeria is the",
+    "options": [
+      "Managing Directors",
+      "Secretary",
+      "Board of Directors",
+      "Chairman"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Managing Directors"
+  },
+  {
+    "id": 237,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following military regimes in Nigeria played a prominent role in the liberation of colonized African states?",
+    "options": [
+      "Aguiyi Ironsi",
+      "Murtala / Obasanjo",
+      "Muhammadu Buhari",
+      "Ibrahim Babangida"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Murtala / Obasanjo"
+  },
+  {
+    "id": 685,
+    "year": 1989,
+    "topic": "General",
+    "question": "A sovereign state in one",
+    "options": [
+      "whose constitution can only be changed by a military government",
+      "where its citizens can speak without fear or favour",
+      "in which sovereignty is invested in the military",
+      "whose government decisions are made independent of foreign interference"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: whose government decisions are made independent of foreign interference"
+  },
+  {
+    "id": 622,
+    "year": 1988,
+    "topic": "General",
+    "question": "Rule adjudication is the main function of the",
+    "options": [
+      "Executive",
+      "President",
+      "legislature",
+      "judiciary"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: judiciary"
+  },
+  {
+    "id": 221,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of the following factors limits the expression of public opinion?",
+    "options": [
+      "The type of government in a state",
+      "The establishment of private media organizations.",
+      "The high literacy rate of the citizens",
+      "Religious belief of the citizens."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: The type of government in a state"
+  },
+  {
+    "id": 656,
+    "year": 1988,
+    "topic": "General",
+    "question": "It is argued that most of the new States of Africa cannot remain faithful to the doctrines of non-alignment mainly because of",
+    "options": [
+      "corruption",
+      "ethnic problems",
+      "bad leadership",
+      "poor economy"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: poor economy"
+  },
+  {
+    "id": 206,
+    "year": 2000,
+    "topic": "General",
+    "question": "A federal state is always expensive to run because",
+    "options": [
+      "every parliamentarian wants to become rich",
+      "government departments are duplicated",
+      "judges are highly paid from the consolidated fund.",
+      "maintenance of the army involves high expenditure."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: government departments are duplicated"
+  },
+  {
+    "id": 625,
+    "year": 1988,
+    "topic": "General",
+    "question": "The independent of Nigeria was in 1945 with the coming to power in Britain of",
+    "options": [
+      "Conservative party",
+      "Tory party",
+      "Liberal party",
+      "Labour party"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Labour party"
+  },
+  {
+    "id": 687,
+    "year": 1989,
+    "topic": "General",
+    "question": "Representative democracy is characterized by",
+    "options": [
+      "free election and proper register of voters",
+      "unlimited expenditure of political parties",
+      "a politically educated electorate",
+      "representation of the poor only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: free election and proper register of voters"
+  },
+  {
+    "id": 350,
+    "year": 1999,
+    "topic": "General",
+    "question": "The annual budget of the OAU is approved by the",
+    "options": [
+      "Council of Ministers",
+      "Secretary General",
+      "Assembly of Heads of State and Government",
+      "General Assembly"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Assembly of Heads of State and Government"
+  },
+  {
+    "id": 644,
+    "year": 1988,
+    "topic": "General",
+    "question": "A political concept that is composed of the attitudes, beliefs, emotions and values of a society is called political",
+    "options": [
+      "culture",
+      "single transferable vote",
+      "authority",
+      "socialization"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: culture"
+  },
+  {
+    "id": 340,
+    "year": 1999,
+    "topic": "General",
+    "question": "The duty of an Alkali under the Hausa-Fulan political system is to",
+    "options": [
+      "adjudicate under Islamic laws",
+      "make Islamic laws",
+      "execute Islamic laws",
+      "make treaties under Islamic laws"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: adjudicate under Islamic laws"
+  },
+  {
+    "id": 662,
+    "year": 1988,
+    "topic": "General",
+    "question": "The question of civil war was raised for the first time at the \tmeeting of the O.A.U in September 1967 in",
+    "options": [
+      "Kampala",
+      "Addis Ababa",
+      "Lagos",
+      "Kinshasa"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Kinshasa"
+  },
+  {
+    "id": 216,
+    "year": 2000,
+    "topic": "General",
+    "question": "Authoritarianism is least Inherent in",
+    "options": [
+      "feudalism",
+      "fascism",
+      "democracy",
+      "monarchy"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: democracy"
+  },
+  {
+    "id": 327,
+    "year": 1999,
+    "topic": "General",
+    "question": ".\n\nA state is said to be fascist when",
+    "options": [
+      "its leader is patriotic but the citizens are not",
+      "all rights and liberties are subordinated to state interest",
+      "its citizens are fanatically in love with their leader",
+      "all rights and liberties are placed above state interests."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: all rights and liberties are subordinated to state interest"
+  },
+  {
+    "id": 700,
+    "year": 1989,
+    "topic": "General",
+    "question": "A parliamentary-cabinet system of government is practiced in",
+    "options": [
+      "Canada",
+      "Nigeria",
+      "the Soviet Union",
+      "all European countries"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Canada"
+  },
+  {
+    "id": 658,
+    "year": 1988,
+    "topic": "General",
+    "question": "To which of these countries did Nigeria send peacekeeping force?",
+    "options": [
+      "South Africa",
+      "Angola",
+      "Chad",
+      "Namibia"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Chad"
+  },
+  {
+    "id": 720,
+    "year": 1989,
+    "topic": "General",
+    "question": "Citizens who are legally qualified to vote form",
+    "options": [
+      "Political parties",
+      "A Trade Union Congress",
+      "Members of the House of House Assembly",
+      "The electorate"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: The electorate"
+  },
+  {
+    "id": 311,
+    "year": 1999,
+    "topic": "General",
+    "question": "The principle of collectively responsibility implies that",
+    "options": [
+      "individual views cannot be expressed",
+      "decisions taken are defended in spite of individual opinions",
+      "those who hold different views must acquiesce",
+      "government cannot be personalized"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: decisions taken are defended in spite of individual opinions"
+  },
+  {
+    "id": 680,
+    "year": 1989,
+    "topic": "General",
+    "question": "The predominant influence of Northern Nigeria in the First Republic violated the federal principle of",
+    "options": [
+      "effective co-operation among the constituent units",
+      "geographical contiguity",
+      "unity",
+      "absence of marked inequalities among the component units"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: absence of marked inequalities among the component units"
+  },
+  {
+    "id": 217,
+    "year": 2000,
+    "topic": "General",
+    "question": "In which of the following systems of government are ceremonial and executive powers usually fused?",
+    "options": [
+      "Parliamentary",
+      "Presidential",
+      "Collegial",
+      "Confederal."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Presidential"
+  },
+  {
+    "id": 639,
+    "year": 1988,
+    "topic": "General",
+    "question": "The voluntary activities of members of a society in the selection of rulers is known as",
+    "options": [
+      "political participation",
+      "political socialization",
+      "political decision",
+      "political culture"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: political participation"
+  },
+  {
+    "id": 628,
+    "year": 1988,
+    "topic": "General",
+    "question": "The common wealth is",
+    "options": [
+      "an economic organization",
+      "made up of all independent ex-colonies of Britain",
+      "made up of all countries who are friendly with Britain.",
+      "made up of independent European countries."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: made up of all independent ex-colonies of Britain"
+  },
+  {
+    "id": 672,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not civic obligation of a citizen?",
+    "options": [
+      "Obedience to law",
+      "payment of taxes",
+      "voting during elections",
+      "freedom of conscience and religion"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: freedom of conscience and religion"
+  },
+  {
+    "id": 709,
+    "year": 1989,
+    "topic": "General",
+    "question": "The Republican Constitution of 1963 was indigenous because it was approved by",
+    "options": [
+      "a referendum",
+      "the representatives of the people in parliament",
+      "the British parliament",
+      "the colonial government"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: the representatives of the people in parliament"
+  },
+  {
+    "id": 678,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not written into independence constitution of 1960?",
+    "options": [
+      "Fundamental human rights",
+      "Exclusive powers",
+      "Concurrent list",
+      "Role of political parties"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Role of political parties"
+  },
+  {
+    "id": 686,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not a component of political culture?",
+    "options": [
+      "Attitudes",
+      "Beliefs",
+      "Emotions",
+      "Age"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Age"
+  },
+  {
+    "id": 701,
+    "year": 1989,
+    "topic": "General",
+    "question": "Foreign policy refers to",
+    "options": [
+      "a policy made by a foreign country",
+      "a policy made by a country for foreigners",
+      "a policy made by a country when it is at war",
+      "the general principles which govern a state’s international behaviour"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the general principles which govern a state’s international behaviour"
+  },
+  {
+    "id": 620,
+    "year": 1988,
+    "topic": "General",
+    "question": "In the process of governing. OUTPUT refers to",
+    "options": [
+      "the influence of pressure group",
+      "demand of the political system",
+      "the decision of the government.",
+      "the opinion of the electorate"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the opinion of the electorate"
+  },
+  {
+    "id": 222,
+    "year": 2000,
+    "topic": "General",
+    "question": "If the federal government and the unit governments are to \tpreserve their autonomy, the",
+    "options": [
+      "Federal government must be supreme",
+      "Unit governments must be supreme",
+      "Judiciary must be supreme",
+      "Constitution must be supreme"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Constitution must be supreme"
+  },
+  {
+    "id": 702,
+    "year": 1989,
+    "topic": "General",
+    "question": "The constitution of the Federal Republic of Nigeria",
+    "options": [
+      "promotes unity in diversity",
+      "allows for the dominance of the minority ethnic groups",
+      "concentrates governmental power at one level of government",
+      "advances the interest of the rich"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: promotes unity in diversity"
+  },
+  {
+    "id": 671,
+    "year": 1989,
+    "topic": "General",
+    "question": "Which of the following is not the responsibility of the Electoral Commission in Nigeria?",
+    "options": [
+      "Swearing in of members of the House of Assembly",
+      "Counting and publication of election results",
+      "delimitation of constituencies",
+      "Compilation of electoral register"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Swearing in of members of the House of Assembly"
+  },
+  {
+    "id": 247,
+    "year": 2000,
+    "topic": "General",
+    "question": "The world organization which existed before the United Nations Organization was the",
+    "options": [
+      "League of Nations",
+      "European Economic Community",
+      "Organization of African Unity",
+      "Commonwealth of Nations."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: League of Nations"
+  },
+  {
+    "id": 691,
+    "year": 1989,
+    "topic": "General",
+    "question": "According to Marxist theory, those who own and control the means of production in a capitalist society are",
+    "options": [
+      "exploiters",
+      "colonialists",
+      "workers",
+      "bourgeoisie"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: bourgeoisie"
+  }
+]

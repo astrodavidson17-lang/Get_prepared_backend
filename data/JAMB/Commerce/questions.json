@@ -1,0 +1,4118 @@
+[
+  {
+    "id": 24,
+    "year": 2004,
+    "topic": "General",
+    "question": "The shares of a company listed on the stock exchange for sale are referred to as",
+    "options": [
+      "registered shares",
+      "deferred shares",
+      "issued shares",
+      "quoted shares"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: quoted shares"
+  },
+  {
+    "id": 795,
+    "year": 2002,
+    "topic": "General",
+    "question": "The agency that currently oversees the privatization and commercialization processes in Nigeria is the",
+    "options": [
+      "Securities and Exchange Commission",
+      "Technical Committee on Privatization and Commercialization",
+      "Nigerian Stock Exchange",
+      "Bureau of Public Enterprises."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Bureau of Public Enterprises."
+  },
+  {
+    "id": 182,
+    "year": 2007,
+    "topic": "General",
+    "question": "A major setback of international trade is",
+    "options": [
+      "inadequate exports",
+      "economic sanctions",
+      "devaluation of currency",
+      "exchange rate appreciation."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: economic sanctions"
+  },
+  {
+    "id": 100,
+    "year": 2005,
+    "topic": "General",
+    "question": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover",
+    "options": [
+      "3.50 times",
+      "3.00 times",
+      "2.00 times",
+      "2.18 times."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 2.18 times."
+  },
+  {
+    "id": 746,
+    "year": 2001,
+    "topic": "General",
+    "question": "The partner that only contributes part of the capital used in the formation and running of a business is known as",
+    "options": [
+      "a passive partner",
+      "an active partner",
+      "a dormant partner",
+      "a nominal partner."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: a dormant partner"
+  },
+  {
+    "id": 295,
+    "year": 2010,
+    "topic": "General",
+    "question": "The wealth of a nation depend on the volume of its",
+    "options": [
+      "bilateral trade activities",
+      "commercial activities",
+      "multilateral trade activities",
+      "stock market"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: commercial activities"
+  },
+  {
+    "id": 674,
+    "year": 2016,
+    "topic": "General",
+    "question": "Which of the following is a traditional medium of communication used to mark festivals?",
+    "options": [
+      "Palm frond.",
+      "Metal gong.",
+      "Talking drum.",
+      "Gun blast."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Talking drum."
+  },
+  {
+    "id": 248,
+    "year": 2009,
+    "topic": "General",
+    "question": "An aid to trade associated with communications is",
+    "options": [
+      "banking",
+      "transportation",
+      "warehousing",
+      "insurance"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: transportation"
+  },
+  {
+    "id": 8,
+    "year": 2004,
+    "topic": "General",
+    "question": "In business, the computer is very important  especially in",
+    "options": [
+      "financial management",
+      "marketing management",
+      "educational  management",
+      "information management"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: information management"
+  },
+  {
+    "id": 176,
+    "year": 2007,
+    "topic": "General",
+    "question": "A distinctive advantage of GSM is its",
+    "options": [
+      "mobility",
+      "cost",
+      "stability",
+      "coverage."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: mobility"
+  },
+  {
+    "id": 40,
+    "year": 2004,
+    "topic": "General",
+    "question": "Fluctuations in the supply of goods may be eliminated if the distribution system maintains",
+    "options": [
+      "modern technology",
+      "a team of retailers",
+      "warehouse services",
+      "sufficient middlemen"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: modern technology"
+  },
+  {
+    "id": 88,
+    "year": 2005,
+    "topic": "General",
+    "question": "In Nigeria the ministry in charge of registering trade associations is that of",
+    "options": [
+      "industries",
+      "commerce",
+      "culture and tourism",
+      "finance."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: commerce"
+  },
+  {
+    "id": 240,
+    "year": 2008,
+    "topic": "General",
+    "question": "When an employee incurs expenses while executing his normal duty, the employer is responsible for his",
+    "options": [
+      "safety",
+      "family’s security",
+      "family’s welfare",
+      "indemnification"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: indemnification"
+  },
+  {
+    "id": 401,
+    "year": 2012,
+    "topic": "General",
+    "question": "A document which serves as an order with details of goods required by an intending purchaser is",
+    "options": [
+      "a freight note",
+      "an indent",
+      "a bill of lading",
+      "a waybill"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: an indent"
+  },
+  {
+    "id": 404,
+    "year": 2012,
+    "topic": "General",
+    "question": "A bill of exchange paid before its due date at an amount less than its face value is said to have been",
+    "options": [
+      "accepted",
+      "rejected",
+      "discounted",
+      "dishonoured"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: discounted"
+  },
+  {
+    "id": 233,
+    "year": 2008,
+    "topic": "General",
+    "question": "The development of tourism in Nigeria  will enhance",
+    "options": [
+      "agriculture",
+      "revenue generation",
+      "export",
+      "labour mobility"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: revenue generation"
+  },
+  {
+    "id": 300,
+    "year": 2010,
+    "topic": "General",
+    "question": "The factor of production that is subject to depreciation is",
+    "options": [
+      "capital",
+      "land",
+      "labour",
+      "entrepreneur"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: capital"
+  },
+  {
+    "id": 385,
+    "year": 2011,
+    "topic": "General",
+    "question": "The physical components of a computer system refers to the",
+    "options": [
+      "system unit",
+      "hardware",
+      "software",
+      "compact disk"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: hardware"
+  },
+  {
+    "id": 188,
+    "year": 2007,
+    "topic": "General",
+    "question": "A major benefit a debtor can derive from using a credit facility is",
+    "options": [
+      "better service",
+      "goodwill",
+      "convenience",
+      "control."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: convenience"
+  },
+  {
+    "id": 469,
+    "year": 2013,
+    "topic": "General",
+    "question": "The initial function of a manager is",
+    "options": [
+      "setting up an organization",
+      "coordinating",
+      "planning",
+      "provision of welfare package"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: coordinating"
+  },
+  {
+    "id": 215,
+    "year": 2008,
+    "topic": "General",
+    "question": "A person who buys new issues with a view of reselling at a higher price in the near future is referred to as a",
+    "options": [
+      "bull",
+      "bear",
+      "dealer",
+      "stage"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: bull"
+  },
+  {
+    "id": 662,
+    "year": 2016,
+    "topic": "General",
+    "question": "The component of balance of payments which shows how the balance of both current and capital accounts are settled is \t\t\tknown as",
+    "options": [
+      "current account",
+      "monetary movement account",
+      "capital account.",
+      "social welfare account"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: monetary movement account"
+  },
+  {
+    "id": 81,
+    "year": 2005,
+    "topic": "General",
+    "question": "A cheque drawn by a bank official on the bank's deposits in another bank on a customer's instructions is known as",
+    "options": [
+      "promissary note",
+      "bankdraft",
+      "bankers' order",
+      "travellers cheque."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: bankers' order"
+  },
+  {
+    "id": 11,
+    "year": 2004,
+    "topic": "General",
+    "question": "The members of the Niger Basin Commission  include",
+    "options": [
+      "Guinea, Ghana and Niger Republic",
+      "Burkina Faso, Guinea and Nigeria",
+      "The Gambia, Benin Republic and Chad Republic",
+      "Nigeria, The Gambia and Cameroon"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Nigeria, The Gambia and Cameroon"
+  },
+  {
+    "id": 433,
+    "year": 2012,
+    "topic": "General",
+    "question": "Yahaya bought a piece of furniture on a credit sale agreement from Ahmed and resold it to Ali before all installments were made. The court upheld that Ahmed could not recover possession of the items from Ali. The reason for the judement was because",
+    "options": [
+      "ownership was transferred on completion of installment",
+      "ownership was transferred on delivery",
+      "Yahaya could not pass title to a third party",
+      "Ali was still indebted to Yahaya"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: ownership was transferred on delivery"
+  },
+  {
+    "id": 358,
+    "year": 2011,
+    "topic": "General",
+    "question": "The price quoted which includes the cost of insurance, freight and all delivery charges to the importer’s warehouse is",
+    "options": [
+      "Free Alongside Ship",
+      "Franco",
+      "Free on Board",
+      "Free on Rail"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Free on Board"
+  },
+  {
+    "id": 139,
+    "year": 2006,
+    "topic": "General",
+    "question": "Hire purchase is beneficial to the seller because",
+    "options": [
+      "it enhances his living standard",
+      "it increases his turnover",
+      "people pay instalmentally",
+      "of the patronage he enjoys."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: it increases his turnover"
+  },
+  {
+    "id": 451,
+    "year": 2013,
+    "topic": "General",
+    "question": "The two main forms of communication are",
+    "options": [
+      "oral and written",
+      "verbal and non-verbal",
+      "e-mail and fax",
+      "traditional and modern media"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: verbal and non-verbal"
+  },
+  {
+    "id": 27,
+    "year": 2004,
+    "topic": "General",
+    "question": "A specialized institution in Nigeria that deals in  capital investments in the form of stocks, shares, bonds and debentures is the",
+    "options": [
+      "Securities and Exchange Commission",
+      "commodity market",
+      "Nigerian Stock Exchange",
+      "Central Bank of Nigeria"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Securities and Exchange Commission"
+  },
+  {
+    "id": 761,
+    "year": 2001,
+    "topic": "General",
+    "question": "Bank Giro is a method of settling debt from a",
+    "options": [
+      "customer to a bank",
+      "bank to a customer",
+      "customer to another",
+      "bank to another."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: customer to a bank"
+  },
+  {
+    "id": 111,
+    "year": 2006,
+    "topic": "General",
+    "question": "The limit of functions, activities and personnel that a supervisor can effectively manage  in a business organization  is",
+    "options": [
+      "spun of control",
+      "delegation of authority",
+      "chain of command",
+      "authority and responsibility"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: spun of control"
+  },
+  {
+    "id": 410,
+    "year": 2012,
+    "topic": "General",
+    "question": "Assurance is different from insurance in that the former is based on",
+    "options": [
+      "probability",
+      "possibility",
+      "risk",
+      "uncertainty"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: possibility"
+  },
+  {
+    "id": 477,
+    "year": 2013,
+    "topic": "General",
+    "question": "An agent employed to sell goods delivered to him by the principal is referred to as a",
+    "options": [
+      "Special agent",
+      "del credere agent",
+      "factor",
+      "universal agent"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: del credere agent"
+  },
+  {
+    "id": 229,
+    "year": 2008,
+    "topic": "General",
+    "question": "Ships used for international transport are",
+    "options": [
+      "trawlers",
+      "yachts",
+      "ocean liners",
+      "launchers"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: ocean liners"
+  },
+  {
+    "id": 116,
+    "year": 2006,
+    "topic": "General",
+    "question": "What is the capital employed?",
+    "options": [
+      "N200 000",
+      "N340 000",
+      "N170 000",
+      "N300 000"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: N300 000"
+  },
+  {
+    "id": 287,
+    "year": 2009,
+    "topic": "General",
+    "question": "Market skimming is an example of",
+    "options": [
+      "market penetration",
+      "Sales promotion",
+      "pricing policy",
+      "advertising"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: market penetration"
+  },
+  {
+    "id": 223,
+    "year": 2008,
+    "topic": "General",
+    "question": "A crossed cheque with the inscription ‘not negotiable’ must be paid into the",
+    "options": [
+      "current account of the drawer",
+      "current account of the payee of the drawer",
+      "savings account of the payee",
+      "fixed account of the payee"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: current account of the payee of the drawer"
+  },
+  {
+    "id": 447,
+    "year": 2013,
+    "topic": "General",
+    "question": "The document lodged with the customs authorities before a ship can leave the port is a",
+    "options": [
+      "shipping note",
+      "ship report",
+      "ship manifest",
+      "dock warrant"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: ship manifest"
+  },
+  {
+    "id": 445,
+    "year": 2013,
+    "topic": "General",
+    "question": "Trading position of Nigeria is the same as her",
+    "options": [
+      "desire  to trade with many countries",
+      "willingness to grant credit to foreigners",
+      "balance of trade",
+      "terms of trade"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: desire  to trade with many countries"
+  },
+  {
+    "id": 781,
+    "year": 2001,
+    "topic": "General",
+    "question": "The maximum number of shareholders in a public liability company is",
+    "options": [
+      "twenty",
+      "fifty",
+      "one hundred",
+      "unlimited."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: unlimited."
+  },
+  {
+    "id": 876,
+    "year": 2003,
+    "topic": "General",
+    "question": "A major benefit derivable from the privatization and commercialization of public enterprises in Nigeria is",
+    "options": [
+      "increase in wages",
+      "employment generation",
+      "information technology",
+      "revenue generation"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: revenue generation"
+  },
+  {
+    "id": 842,
+    "year": 2003,
+    "topic": "General",
+    "question": "The right  of ownership with respect to goods or property is",
+    "options": [
+      "right of occupancy",
+      "proxy",
+      "title",
+      "certificate of occupancy"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: title"
+  },
+  {
+    "id": 61,
+    "year": 2005,
+    "topic": "General",
+    "question": "Commercialization of government corporations brings about an increase in the level of",
+    "options": [
+      "money supply in the economy",
+      "distrust among business operators",
+      "competition among business operators",
+      "social responsibility"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: competition among business operators"
+  },
+  {
+    "id": 793,
+    "year": 2002,
+    "topic": "General",
+    "question": "Which of the following best describes the scope of commerce?",
+    "options": [
+      "All forms of commercial exchanges and the manufacturing industry",
+      "Buying and selling and the construction industry",
+      "All occupational exchanges relating to industries and commercial activities",
+      "Buying and selling as well as the extraction of natural resources."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: All occupational exchanges relating to industries and commercial activities"
+  },
+  {
+    "id": 790,
+    "year": 2002,
+    "topic": "General",
+    "question": "The most important factor that delayed the development of commerce in Nigeria was",
+    "options": [
+      "the inefficient means of communication",
+      "that there were few entrepreneurs",
+      "the unavailability of infrastructure facilities",
+      "that there were few developed markets."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: the unavailability of infrastructure facilities"
+  },
+  {
+    "id": 866,
+    "year": 2003,
+    "topic": "General",
+    "question": "The location of a business is mostly influenced by",
+    "options": [
+      "market outlet",
+      "management decision",
+      "capital",
+      "environment"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: environment"
+  },
+  {
+    "id": 190,
+    "year": 2007,
+    "topic": "General",
+    "question": "The difference between the buying and selling price of shares is known as",
+    "options": [
+      "brokerage",
+      "margin",
+      "jobber's turn",
+      "gross profit."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: jobber's turn"
+  },
+  {
+    "id": 335,
+    "year": 2010,
+    "topic": "General",
+    "question": "An agency contract must involve",
+    "options": [
+      "a principal and a consumer",
+      "a principal  and a producer",
+      "a principal and a third party",
+      "a principal and a third party"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a principal and a third party"
+  },
+  {
+    "id": 349,
+    "year": 2011,
+    "topic": "General",
+    "question": "Which of the following is a limitation  of division of labour?",
+    "options": [
+      "decline in craftsmanship",
+      "monotony of work",
+      "reduction in output",
+      "reduction in labour force"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: reduction in labour force"
+  },
+  {
+    "id": 342,
+    "year": 2010,
+    "topic": "General",
+    "question": "In e-baking, ATM means",
+    "options": [
+      "authentic Teller Machine",
+      "Automatic Teller Machine",
+      "All-purpose Teller Machine",
+      "Automated Teller Machine"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Automated Teller Machine"
+  },
+  {
+    "id": 798,
+    "year": 2002,
+    "topic": "General",
+    "question": "A core investor in the current phase of privatization in Nigeria is one who",
+    "options": [
+      "can afford to buy most the shares of the enterprises",
+      "will be at the core of the enterprises",
+      "can mobilize foreign currency equivalent to the value of the enterprises",
+      "has the technical know-how of the enterprises"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: can afford to buy most the shares of the enterprises"
+  },
+  {
+    "id": 209,
+    "year": 2008,
+    "topic": "General",
+    "question": "The components of capital employed in a business are",
+    "options": [
+      "owners’ equity and long-term debts",
+      "total assets and current liabilities",
+      "share capital and long-term debts",
+      "share capital and current liabilities."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: total assets and current liabilities"
+  },
+  {
+    "id": 668,
+    "year": 2016,
+    "topic": "General",
+    "question": "A formal letter to a dealer to enquire details about certain items for sale is referred to as",
+    "options": [
+      "an inquiry",
+      "an invoice",
+      "an order",
+      "a quotation"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: an inquiry"
+  },
+  {
+    "id": 49,
+    "year": 2004,
+    "topic": "General",
+    "question": "Discounts offered by firms to middlemen for bulk purchases are",
+    "options": [
+      "A   trade discounts",
+      "sales  bonanza",
+      "cash discounts",
+      "seasonal"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: A   trade discounts"
+  },
+  {
+    "id": 324,
+    "year": 2010,
+    "topic": "General",
+    "question": "A characteristic of money which ensures that its value is not lost is",
+    "options": [
+      "homogeneity",
+      "easy portability",
+      "divisibility",
+      "relative scarcity"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: relative scarcity"
+  },
+  {
+    "id": 134,
+    "year": 2006,
+    "topic": "General",
+    "question": "‘Safeguarding the health of the nation' is the slogan used by",
+    "options": [
+      "NDLEA",
+      "NHIS",
+      "NAFDAC",
+      "EPI."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: NAFDAC"
+  },
+  {
+    "id": 39,
+    "year": 2004,
+    "topic": "General",
+    "question": "Factors of production can be described as the",
+    "options": [
+      "resources required for the provision of goods and services",
+      "skills involved in deciding and directing the flow of goods",
+      "monetary tools employed by government to ensure stable production",
+      "elements involved in the process of formulating policies' on production"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: resources required for the provision of goods and services"
+  },
+  {
+    "id": 420,
+    "year": 2012,
+    "topic": "General",
+    "question": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
+    "options": [
+      "it has been issued but not paid-up",
+      "it has been applied for but not issued",
+      "it is not paid up",
+      "it is not yet been issued"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: it is not yet been issued"
+  },
+  {
+    "id": 744,
+    "year": 2001,
+    "topic": "General",
+    "question": "Land as a factor of production does not vary in",
+    "options": [
+      "quantity",
+      "nature",
+      "quality \t\t\t\t.",
+      "cost."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: nature"
+  },
+  {
+    "id": 262,
+    "year": 2009,
+    "topic": "General",
+    "question": "The central bank differs from commercial banks  because it",
+    "options": [
+      "renders service to customers",
+      "carriers but foreign exchange transactions",
+      "issues currencies",
+      "discounts bills"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: issues currencies"
+  },
+  {
+    "id": 810,
+    "year": 2002,
+    "topic": "General",
+    "question": "The temporary insurance certificate issued to the insured before drawing up a policy is a",
+    "options": [
+      "cover  note",
+      "testimonial",
+      "time policy",
+      "proposal  form."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cover  note"
+  },
+  {
+    "id": 687,
+    "year": 2016,
+    "topic": "General",
+    "question": "Where a manufacturer collects money from wholesalers in exchange for goods produced is referred to as",
+    "options": [
+      "charge account.",
+      "trading checks.",
+      "trade credit.",
+      "I owe you."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: trade credit."
+  },
+  {
+    "id": 316,
+    "year": 2010,
+    "topic": "General",
+    "question": "An agent who brings a customer into business contact with his principal is known as",
+    "options": [
+      "a del credere agent",
+      "an auctioneer",
+      "a factor",
+      "a broker"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a broker"
+  },
+  {
+    "id": 768,
+    "year": 2001,
+    "topic": "General",
+    "question": "Which of the following best describes the classification of computers?",
+    "options": [
+      "Mini-computer, speed and size",
+      "Micro-computer, cost and abilities",
+      "Mini-computer, micro-computer and work station",
+      "Mini-computer, hybrid and digit"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Mini-computer, micro-computer and work station"
+  },
+  {
+    "id": 731,
+    "year": 2000,
+    "topic": "General",
+    "question": "An aspect of the law which allows an exclusive right for a limited number of years is a",
+    "options": [
+      "copyright",
+      "trade mark",
+      "ratification",
+      "patent"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: patent"
+  },
+  {
+    "id": 883,
+    "year": 2003,
+    "topic": "General",
+    "question": "The body charged with the responsibility to register shares for subscription on the stock market in Nigeria is the",
+    "options": [
+      "Securities and Exchange Commission",
+      "Nigerian Stock Exchange",
+      "Nigerian Deposit Insurance Company",
+      "Central Bank of Nigeria,"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Securities and Exchange Commission"
+  },
+  {
+    "id": 817,
+    "year": 2002,
+    "topic": "General",
+    "question": "Given:  I.Retail; II.Export; III.Transport; IV.Import; V.Insurance; VI.Banking and finance; VII. Wholesale; VIII. Communication. Which of the above are aids to trade?",
+    "options": [
+      "I, II,  III and VIII",
+      "III, V, VI and VIII",
+      "I, II, III and VI",
+      "II, V, VI and VII"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: III, V, VI and VIII"
+  },
+  {
+    "id": 97,
+    "year": 2005,
+    "topic": "General",
+    "question": "To increase the supply of money in a country, the central bank has to",
+    "options": [
+      "reduce cash ratio",
+      "sell securities in the open market",
+      "call on special deposits",
+      "raise cash ratio."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: reduce cash ratio"
+  },
+  {
+    "id": 717,
+    "year": 2000,
+    "topic": "General",
+    "question": "A console is a device used in",
+    "options": [
+      "moving an indicator on the screen",
+      "communicating between operator and programme",
+      "holding magnetic tape reel",
+      "forming characters by heating sensitive ribbon."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: moving an indicator on the screen"
+  },
+  {
+    "id": 155,
+    "year": 2007,
+    "topic": "General",
+    "question": "The macro-environmental forces and trends which are a constraint on business operations are  referred to as",
+    "options": [
+      "technological factors",
+      "economic factors",
+      "external factors",
+      "internal factors."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: external factors"
+  },
+  {
+    "id": 441,
+    "year": 2013,
+    "topic": "General",
+    "question": "The type of labour that makes use of physical effort in production processes is the",
+    "options": [
+      "unskilled labour",
+      "skilled labour",
+      "blue-collar job",
+      "white-collar job"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: unskilled labour"
+  },
+  {
+    "id": 432,
+    "year": 2012,
+    "topic": "General",
+    "question": "A person who in consideration for an extra commission, takes responsibility for goods sold on credit and in case of default is a",
+    "options": [
+      "commission agent",
+      "del credere agent",
+      "broker",
+      "factor"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: del credere agent"
+  },
+  {
+    "id": 485,
+    "year": 2013,
+    "topic": "General",
+    "question": "The type of computer application software used mainly for management information is",
+    "options": [
+      "Corel draw",
+      "AutoCAD",
+      "data base",
+      "word perfect"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: data base"
+  },
+  {
+    "id": 859,
+    "year": 2003,
+    "topic": "General",
+    "question": "Communication process involves the transmission of a message over a selected channel to the",
+    "options": [
+      "receiver",
+      "audience",
+      "sender",
+      "encoder"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: audience"
+  },
+  {
+    "id": 752,
+    "year": 2001,
+    "topic": "General",
+    "question": "I.   Personal Savings, II.   Retained Earnings, III. Accrued Taxes. Which of the items above constitute internal sources of financing for companies?",
+    "options": [
+      "I and II",
+      "I and III",
+      "II and III",
+      "I, II and III."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: II and III"
+  },
+  {
+    "id": 878,
+    "year": 2003,
+    "topic": "General",
+    "question": "The market structure, business conditions and financial systems in Nigeria constitute the",
+    "options": [
+      "economic environment",
+      "political environment",
+      "cultural environment",
+      "technological environment"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: economic environment"
+  },
+  {
+    "id": 212,
+    "year": 2008,
+    "topic": "General",
+    "question": "In order to prevent liquidity problems in commercial banks, the central bank uses.",
+    "options": [
+      "moral suasion",
+      "fiscal policy",
+      "reserve ratio",
+      "taxation"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: reserve ratio"
+  },
+  {
+    "id": 191,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following is a risk-free security?",
+    "options": [
+      "Preference share.",
+      "Ordinary share.",
+      "Treasury bill.",
+      "Debenture."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Treasury bill."
+  },
+  {
+    "id": 237,
+    "year": 2008,
+    "topic": "General",
+    "question": "The coordinating section of the central processing unit that manages the flow of data is the",
+    "options": [
+      "arithmetic logic unit",
+      "control unit",
+      "magnetic unit",
+      "register"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: control unit"
+  },
+  {
+    "id": 92,
+    "year": 2005,
+    "topic": "General",
+    "question": "From which of the following sources can partnerships increase their capital?",
+    "options": [
+      "Admission of a new partner",
+      "Sale of shares",
+      "Discharge of a mortgage",
+      "Grants from relations."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Admission of a new partner"
+  },
+  {
+    "id": 252,
+    "year": 2009,
+    "topic": "General",
+    "question": "The major components of modern retailing include",
+    "options": [
+      "branding, doorstep  selling and customer stimulation",
+      "branding, sales promotion and mail order",
+      "chain stores, customer stimulation and doorstep selling",
+      "branding, supermarkets and after-sales service"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: branding, supermarkets and after-sales service"
+  },
+  {
+    "id": 775,
+    "year": 2001,
+    "topic": "General",
+    "question": "The activities aimed at finding out customers’ needs and satisfaction can be described as",
+    "options": [
+      "socio-marketing",
+      "macro-marketing",
+      "micro-marketing",
+      "conceptual marketing."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: conceptual marketing."
+  },
+  {
+    "id": 667,
+    "year": 2016,
+    "topic": "General",
+    "question": "Funds used for paying wages, salaries and payments for raw materials are categorized under",
+    "options": [
+      "liquid capital",
+      "circulating capital",
+      "fixed capital",
+      "nominal capital."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: circulating capital"
+  },
+  {
+    "id": 658,
+    "year": 2016,
+    "topic": "General",
+    "question": "The type of wholesaler that combines selling, delivery and collection in one operation is",
+    "options": [
+      "specialist   wholesaler",
+      "rack jobber",
+      "drop shipment",
+      "truck. wholesaler"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: specialist   wholesaler"
+  },
+  {
+    "id": 683,
+    "year": 2016,
+    "topic": "General",
+    "question": "Discharging certain duties by an organization to the public to gain high patronage is a concern of financial responsibility",
+    "options": [
+      "economic responsibility.",
+      "legal responsibility.",
+      "financial responsibility.",
+      "social responsibility."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: social responsibility."
+  },
+  {
+    "id": 371,
+    "year": 2011,
+    "topic": "General",
+    "question": "A source of business financing which involves pledging of a specific asset is",
+    "options": [
+      "bond",
+      "mortgage",
+      "debentures",
+      "loan"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: mortgage"
+  },
+  {
+    "id": 269,
+    "year": 2009,
+    "topic": "General",
+    "question": "One major advantage of transportation to a business is to",
+    "options": [
+      "extend the firm’s market coverage",
+      "ensure that goods are produced faster",
+      "procure raw materials cheaply",
+      "ensure the quality of products"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: extend the firm’s market coverage"
+  },
+  {
+    "id": 102,
+    "year": 2006,
+    "topic": "General",
+    "question": "Tourism can be classified as",
+    "options": [
+      "tangible import",
+      "intangible import",
+      "visible export",
+      "invisible export"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: invisible export"
+  },
+  {
+    "id": 77,
+    "year": 2005,
+    "topic": "General",
+    "question": "The Nigerian Telecommunications Limited is a",
+    "options": [
+      "Jointly owned company",
+      "public corporation",
+      "privately owned company",
+      "public company."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: public corporation"
+  },
+  {
+    "id": 676,
+    "year": 2016,
+    "topic": "General",
+    "question": "One of the factors of determining the volume of production is",
+    "options": [
+      "availability of forex",
+      "availability of storage facilities.",
+      "the location of the business.",
+      "the number of skilled manpower."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: availability of storage facilities."
+  },
+  {
+    "id": 96,
+    "year": 2005,
+    "topic": "General",
+    "question": "The fixed and current assets of a business are called",
+    "options": [
+      "called-up capital",
+      "capital employed",
+      "paid-up capital",
+      "authorized capital."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: capital employed"
+  },
+  {
+    "id": 198,
+    "year": 2008,
+    "topic": "General",
+    "question": "An activity that involves derivation of raw materials from land and sea is",
+    "options": [
+      "construction",
+      "farming",
+      "agriculture",
+      "extraction"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: extraction"
+  },
+  {
+    "id": 257,
+    "year": 2009,
+    "topic": "General",
+    "question": "The term free on board means that the price includes",
+    "options": [
+      "costs and insurance only",
+      "costs and freight only",
+      "freight and insurance only",
+      "costs, insurance and freight"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: costs, insurance and freight"
+  },
+  {
+    "id": 807,
+    "year": 2002,
+    "topic": "General",
+    "question": "Which of the following is used to inform the addressee that a registered parcel is ready for collection?",
+    "options": [
+      "Express label",
+      "Counterfoil",
+      "Telegram",
+      "Slip."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Slip."
+  },
+  {
+    "id": 15,
+    "year": 2004,
+    "topic": "General",
+    "question": "In Nigeria, the body that ensures that its members operate according to their professional ethics is the",
+    "options": [
+      "SON",
+      "NPF",
+      "MAN",
+      "NAFDAC"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: SON"
+  },
+  {
+    "id": 46,
+    "year": 2004,
+    "topic": "General",
+    "question": "International fade takes place as a result of",
+    "options": [
+      "uniformity in costs of production",
+      "inequitable distribution of natural resources",
+      "parity in the level of industrialization",
+      "similarities in climatic conditions."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: inequitable distribution of natural resources"
+  },
+  {
+    "id": 699,
+    "year": 2000,
+    "topic": "General",
+    "question": "Which of these is both merit and demerit in partnership?",
+    "options": [
+      "The number of partners",
+      "Its unlimited nature",
+      "The bearing of risk",
+      "The withdrawal of a major partner."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: The number of partners"
+  },
+  {
+    "id": 468,
+    "year": 2013,
+    "topic": "General",
+    "question": "Gilt-edged securities are issued mainly by",
+    "options": [
+      "individuals",
+      "non-governmental organizations",
+      "government",
+      "multi-national companies"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: government"
+  },
+  {
+    "id": 189,
+    "year": 2007,
+    "topic": "General",
+    "question": "The function  of money that facilitates the comparison of the quality of goods as a basis of exchange is the",
+    "options": [
+      "unit of account",
+      "measure of value",
+      "store of value",
+      "medium of exchange"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: measure of value"
+  },
+  {
+    "id": 858,
+    "year": 2003,
+    "topic": "General",
+    "question": "The process of dividing tasks into jobs and departments and of delegating authority is known as",
+    "options": [
+      "staffing",
+      "leading",
+      "directing",
+      "organizing"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: organizing"
+  },
+  {
+    "id": 779,
+    "year": 2001,
+    "topic": "Musa rented a room to Adamu for N= 1, 500 and N= 1,000 part-payment was made. Adamu brought Audu and Jacob his friends to stay in the room. The two friends later paid the balance of N= 500 to Musa.",
+    "question": "Who are the parties to the contract of renting the room?",
+    "options": [
+      "Musa and Jacob",
+      "Musa and Audu",
+      "Adamu and Musa",
+      "Audu and Jocob."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Adamu and Musa"
+  },
+  {
+    "id": 346,
+    "year": 2011,
+    "topic": "General",
+    "question": "An oil exploration company is engaged in",
+    "options": [
+      "tertiary production",
+      "constructive occupation",
+      "extractive occupation",
+      "secondary production"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: extractive occupation"
+  },
+  {
+    "id": 69,
+    "year": 2005,
+    "topic": "General",
+    "question": "A business firm that is involved in conveying goods or people is known as a",
+    "options": [
+      "consignor",
+      "commercial firm",
+      "carrier",
+      "transporter"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: carrier"
+  },
+  {
+    "id": 388,
+    "year": 2011,
+    "topic": "General",
+    "question": "A software application which enables a user to display and interact with texts, images and videos is the",
+    "options": [
+      "web server",
+      "internet Protocol",
+      "coreldraw",
+      "web browser"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: coreldraw"
+  },
+  {
+    "id": 838,
+    "year": 2002,
+    "topic": "General",
+    "question": "An advantage of hire purchase to the consumer is the",
+    "options": [
+      "economies of scale in production",
+      "possession of goods before payment",
+      "increase in turnover and profits",
+      "low interest rate chargeable."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: possession of goods before payment"
+  },
+  {
+    "id": 161,
+    "year": 2007,
+    "topic": "General",
+    "question": "A Memorandum of Association is applicable to a",
+    "options": [
+      "sole trader",
+      "joint-stock company",
+      "partnership",
+      "public corporation."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: joint-stock company"
+  },
+  {
+    "id": 482,
+    "year": 2013,
+    "topic": "General",
+    "question": "The process of transferring data from one computer to another is referred to as",
+    "options": [
+      "down loading",
+      "faxing",
+      "browsing",
+      "decoding"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: down loading"
+  },
+  {
+    "id": 852,
+    "year": 2003,
+    "topic": "General",
+    "question": "The payment made periodically in respect of an insurance policy entered into is known as",
+    "options": [
+      "bond",
+      "commission",
+      "premium",
+      "surrender value"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: premium"
+  },
+  {
+    "id": 120,
+    "year": 2006,
+    "topic": "General",
+    "question": "A current account is beneficial to its holder as",
+    "options": [
+      "cheques can be issued to anybody",
+      "customers cannot withdraw frequently",
+      "it is only the holder that can make withdrawals",
+      "it allows customers the use of passbooks."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cheques can be issued to anybody"
+  },
+  {
+    "id": 66,
+    "year": 2005,
+    "topic": "General",
+    "question": "The   media    used   for   inter-departmental communication include.",
+    "options": [
+      "circulars, advertisement and notice boards",
+      "memoranda, circulars and the telephone",
+      "memoranda, advertising and face-to-face",
+      "memoranda, advertising and the grapevine"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: memoranda, circulars and the telephone"
+  },
+  {
+    "id": 158,
+    "year": 2007,
+    "topic": "General",
+    "question": "The controllable variables that a firm uses to achieve its marketing objectives are called",
+    "options": [
+      "marketing principles",
+      "marketing mix",
+      "marketing concepts",
+      "marketing functions."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: marketing concepts"
+  },
+  {
+    "id": 277,
+    "year": 2009,
+    "topic": "General",
+    "question": "If a firm has a turnover of N50 000 and the cost of goods sold is N40 000, what is the percentage of gross profit on sale?",
+    "options": [
+      "30.50%",
+      "20.50%",
+      "20.00%",
+      "D.10.0%"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: 20.00%"
+  },
+  {
+    "id": 821,
+    "year": 2002,
+    "topic": "General",
+    "question": "A company that is registered with the Corporate Affairs Commission only without being enlisted on the Stock Exchange is a",
+    "options": [
+      "public liability company",
+      "joint venture company",
+      "limited company",
+      "registered company."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: registered company."
+  },
+  {
+    "id": 169,
+    "year": 2007,
+    "topic": "General",
+    "question": "A major criticism of a cooperative society is",
+    "options": [
+      "limited capital",
+      "granting excessive loans to members",
+      "selling goods on credit to non- members",
+      "management incompetence."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: management incompetence."
+  },
+  {
+    "id": 329,
+    "year": 2010,
+    "topic": "General",
+    "question": "The conversion of raw materials into finished goods leads to the creation of",
+    "options": [
+      "form utility",
+      "product utility",
+      "possession utility",
+      "place utility"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: form utility"
+  },
+  {
+    "id": 391,
+    "year": 2011,
+    "topic": "General",
+    "question": "A business organization is said to be socially responsible when it",
+    "options": [
+      "gets involve in issues relating to the society",
+      "rewards its staff for long-term service",
+      "offers discounts to customers",
+      "invites the public to its annual general  meetings."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: gets involve in issues relating to the society"
+  },
+  {
+    "id": 647,
+    "year": 2016,
+    "topic": "General",
+    "question": "The cost which is incurred as a result of failure to load or unload a ship at the ports within a specified period is referred to as",
+    "options": [
+      "demurrage charges",
+      "premium charges",
+      "trade charges",
+      "excess charges"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: demurrage charges"
+  },
+  {
+    "id": 241,
+    "year": 2008,
+    "topic": "General",
+    "question": "The body charged with divesting government interests in public enterprises is",
+    "options": [
+      "SON",
+      "NPC",
+      "BPE",
+      "NDE"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: BPE"
+  },
+  {
+    "id": 289,
+    "year": 2009,
+    "topic": "General",
+    "question": "Unresolved disputes between the employer and employees are usually referred to the",
+    "options": [
+      "code of conduct bureau",
+      "personnel unit",
+      "disciplinary committee",
+      "industrial arbitration tribunal"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: industrial arbitration tribunal"
+  },
+  {
+    "id": 193,
+    "year": 2007,
+    "topic": "General",
+    "question": "The selling of new shares to existing shareholders is referred to as",
+    "options": [
+      "public issue",
+      "offer for sale",
+      "rights issue",
+      "bonus issue."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: rights issue"
+  },
+  {
+    "id": 411,
+    "year": 2012,
+    "topic": "General",
+    "question": "A person who undertakes a life insurance is said to be an",
+    "options": [
+      "Insurer",
+      "assurer",
+      "assured",
+      "insured"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: insured"
+  },
+  {
+    "id": 57,
+    "year": 2005,
+    "topic": "General",
+    "question": "The most dangerous pollution is",
+    "options": [
+      "water",
+      "noise pollution",
+      "soil pollution",
+      "air pollution."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: air pollution."
+  },
+  {
+    "id": 343,
+    "year": 2010,
+    "topic": "General",
+    "question": "One way by which a business can discharge its social responsibility to its community is to",
+    "options": [
+      "hold monthly meetings of its customers",
+      "build houses for its executives",
+      "award scholarship to staff children",
+      "build public health centres."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: build public health centres."
+  },
+  {
+    "id": 54,
+    "year": 2005,
+    "topic": "General",
+    "question": "The Lake Chad Basin Commission was formed in",
+    "options": [
+      "1974",
+      "1984",
+      "1954",
+      "1964"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 1964"
+  },
+  {
+    "id": 118,
+    "year": 2006,
+    "topic": "General",
+    "question": "Trading on the stock exchange in anticipation of  price change in the market value of shares is",
+    "options": [
+      "speculation",
+      "forecasting",
+      "expectation",
+      "projection."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: speculation"
+  },
+  {
+    "id": 654,
+    "year": 2016,
+    "topic": "General",
+    "question": "The  lumbering of trees by a furniture company is an example of",
+    "options": [
+      "primary production",
+      "secondary production",
+      "tertiary production",
+      "Indirect production"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: primary production"
+  },
+  {
+    "id": 290,
+    "year": 2009,
+    "topic": "General",
+    "question": "The process of eliminating a virus from a computer program is",
+    "options": [
+      "programming",
+      "debugging",
+      "formatting",
+      "looping"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: formatting"
+  },
+  {
+    "id": 757,
+    "year": 2001,
+    "topic": "General",
+    "question": "The balance of payments of countries is",
+    "options": [
+      "a record of imports and exports",
+      "a systematic record of transactions among countries at a given time",
+      "the current and the capital accounts and their payments",
+      "the trade relationships and payments among nations."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a record of imports and exports"
+  },
+  {
+    "id": 172,
+    "year": 2007,
+    "topic": "General",
+    "question": "An agreement by the insurer to compensate the insured for losses suffered is",
+    "options": [
+      "policy",
+      "surrender value",
+      "caveat emptor",
+      "indemnity."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: indemnity."
+  },
+  {
+    "id": 361,
+    "year": 2011,
+    "topic": "General",
+    "question": "A cheque that has been drawn but not presented for payment can still be honoured",
+    "options": [
+      "within 6 months",
+      "after 9 months",
+      "within 9 months",
+      "after 6 months"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: within 6 months"
+  },
+  {
+    "id": 402,
+    "year": 2012,
+    "topic": "General",
+    "question": "If a customer pays within nine days of receiving goods and takes advantage of 3% off the invoice price, this is stated as",
+    "options": [
+      "3/9; net 3.",
+      "9/27; net 30",
+      "30; net 9/3",
+      "9/30; net 3."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 9/30; net 3."
+  },
+  {
+    "id": 792,
+    "year": 2002,
+    "topic": "General",
+    "question": "The major responsibility of an entrepreneur is",
+    "options": [
+      "employing all factors of production in the business",
+      "coordinating and determining the proportion of what to produce",
+      "planning and organizing all activities in the business",
+      "directing and controlling all the affairs of the business."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: employing all factors of production in the business"
+  },
+  {
+    "id": 412,
+    "year": 2012,
+    "topic": "General",
+    "question": "Tourism serves the purpose of",
+    "options": [
+      "cross-cultural understanding and peaceful interaction",
+      "opening avenues for leaving the country",
+      "economic development and naturalization",
+      "exploiting the country’s natural endowment"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: exploiting the country’s natural endowment"
+  },
+  {
+    "id": 74,
+    "year": 2005,
+    "topic": "General",
+    "question": "The most important concept in production is",
+    "options": [
+      "utility",
+      "wealth creation",
+      "transformation",
+      "distribution."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: utility"
+  },
+  {
+    "id": 284,
+    "year": 2009,
+    "topic": "General",
+    "question": "An organizational structure that is military in nature is the",
+    "options": [
+      "line structure",
+      "staff structure",
+      "line and staff structure",
+      "functional structure"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: functional structure"
+  },
+  {
+    "id": 263,
+    "year": 2009,
+    "topic": "General",
+    "question": "One of he facilities enjoyed by a current account holder is",
+    "options": [
+      "a dividend",
+      "a bonus",
+      "an overdraft",
+      "interest on deposits"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: an overdraft"
+  },
+  {
+    "id": 672,
+    "year": 2016,
+    "topic": "General",
+    "question": "A supplier of flour who intends to sign a contract with a baker \tthrough post can establish a binding agreement only",
+    "options": [
+      "after the offeror has made an offer.",
+      "when the offeror’s letter has reached the offeree.",
+      "when the. Offeree’s letter has been posted.",
+      "after the offeree’s letter has been received by the offeror."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: after the offeree’s letter has been received by the offeror."
+  },
+  {
+    "id": 753,
+    "year": 2001,
+    "topic": "General",
+    "question": "The difference between total current assets and total current liabilities of a business is known as",
+    "options": [
+      "quick ratio",
+      "liquidity ratio",
+      "working capital",
+      "circulating capital."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: working capital"
+  },
+  {
+    "id": 440,
+    "year": 2012,
+    "topic": "General",
+    "question": "A business organization must always consider the overall effect of its actions on the",
+    "options": [
+      "competitor",
+      "product",
+      "profit",
+      "society"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: profit"
+  },
+  {
+    "id": 355,
+    "year": 2011,
+    "topic": "General",
+    "question": "The three components of a country’s balance of payment are",
+    "options": [
+      "Current account, capital account and monetary movement account",
+      "capital account, trade account and business record",
+      "sales account, profit and loss account and capital account",
+      "monetary movement account, trade account and ales ledger."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Current account, capital account and monetary movement account"
+  },
+  {
+    "id": 484,
+    "year": 2013,
+    "topic": "General",
+    "question": "A computer accessory through which information can be retrieved is the",
+    "options": [
+      "hard disk",
+      "input  device",
+      "control unit",
+      "floppy disk"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: floppy disk"
+  },
+  {
+    "id": 10,
+    "year": 2004,
+    "topic": "General",
+    "question": "The current highest decision-making body on  privatization and commercialization of public enterprises in Nigeria is the",
+    "options": [
+      "National Council on Privatization",
+      "Securities and Exchange Commission",
+      "Nigeria Investment Promotion Commission",
+      "Bureau of Public Enterprises"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Bureau of Public Enterprises"
+  },
+  {
+    "id": 231,
+    "year": 2008,
+    "topic": "General",
+    "question": "A major factor hindering effective communication process is",
+    "options": [
+      "climatic condition",
+      "social unrest",
+      "distance",
+      "noise"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: noise"
+  },
+  {
+    "id": 450,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following advertising medium appeals to only the literate it the society?",
+    "options": [
+      "Radio advertising",
+      "Print Media advertising",
+      "Television advertising",
+      "Cinema advertising"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Print Media advertising"
+  },
+  {
+    "id": 167,
+    "year": 2007,
+    "topic": "General",
+    "question": "The scope of economic activities can be enlarged by",
+    "options": [
+      "transportation and trading",
+      "business and its promotion",
+      "trading and aids to trade",
+      "insurance and banking."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: trading and aids to trade"
+  },
+  {
+    "id": 382,
+    "year": 2011,
+    "topic": "General",
+    "question": "The major parties to an agency relationship are the",
+    "options": [
+      "principal and the creditor",
+      "bailee and the bailor",
+      "principal and the agent",
+      "shareholder and the creditor"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: principal and the agent"
+  },
+  {
+    "id": 217,
+    "year": 2008,
+    "topic": "General",
+    "question": "A type of retail trade where a group of similar states which is owned by a firm operates in different locations is a",
+    "options": [
+      "conglomerate",
+      "chain store",
+      "departmental store",
+      "supermarket"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: chain store"
+  },
+  {
+    "id": 179,
+    "year": 2007,
+    "topic": "General",
+    "question": "The Internet is a system of telecommunications used for",
+    "options": [
+      "communicating long-distance messages",
+      "sending and receiving text messages",
+      "sending electronic messages .",
+      "communicating messages through telegrams."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: sending electronic messages ."
+  },
+  {
+    "id": 331,
+    "year": 2010,
+    "topic": "General",
+    "question": "The best pricing strategy for a company that produces warm clothing is",
+    "options": [
+      "target return pricing",
+      "bid pricing",
+      "variable pricing",
+      "product line pricing"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: product line pricing"
+  },
+  {
+    "id": 13,
+    "year": 2004,
+    "topic": "General",
+    "question": "Consumer rights include the right to",
+    "options": [
+      "credit",
+      "free samples of a product",
+      "redress",
+      "a share of profits"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: redress"
+  },
+  {
+    "id": 695,
+    "year": 2000,
+    "topic": "General",
+    "question": "The major factors that facilitate merchandising are",
+    "options": [
+      "communication, advertising and banking",
+      "trading, warehousing and production",
+      "management, insurance and advertising",
+      "banking, insurance and transportation."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: banking, insurance and transportation."
+  },
+  {
+    "id": 315,
+    "year": 2010,
+    "topic": "General",
+    "question": "A businessman who undertakes the hull insurance policy is aiming at",
+    "options": [
+      "covering losses on damages to the cargo",
+      "protecting injured crew in the ship",
+      "averting payment of the freight",
+      "covering damages to the body of the ship"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: covering losses on damages to the cargo"
+  },
+  {
+    "id": 336,
+    "year": 2010,
+    "topic": "General",
+    "question": "The difference between trademark and patent right is that the latter",
+    "options": [
+      "gives exclusive right to import a particular good",
+      "is conferred by the government",
+      "confers monopoly  on a product",
+      "confers exclusive right to publish literary works."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: confers monopoly  on a product"
+  },
+  {
+    "id": 749,
+    "year": 2001,
+    "topic": "General",
+    "question": "At the collapse of a business enterprise, the person appointed to dispose of the assets is called",
+    "options": [
+      "a broker",
+      "an auctioneer",
+      "a liquidator",
+      "an auditor."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: a liquidator"
+  },
+  {
+    "id": 44,
+    "year": 2004,
+    "topic": "General",
+    "question": "An order sent by an importer to an overseas supplier stating the details of goods required is known as",
+    "options": [
+      "A export invoice",
+      "ship's manifest",
+      "an indent",
+      "bill of lading"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: an indent"
+  },
+  {
+    "id": 26,
+    "year": 2004,
+    "topic": "General",
+    "question": "In international trade, documentary credit is also known as",
+    "options": [
+      "credit note",
+      "letters of credit",
+      "bankers' draft",
+      "letter of hypothecation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: letters of credit"
+  },
+  {
+    "id": 425,
+    "year": 2012,
+    "topic": "General",
+    "question": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized",
+    "options": [
+      "companies",
+      "brokers",
+      "investors",
+      "principals"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: brokers"
+  },
+  {
+    "id": 786,
+    "year": 2001,
+    "topic": "General",
+    "question": "In the line type of organizational structure",
+    "options": [
+      "the lines of authority are vertical",
+      "there is the application of division of labour",
+      "specialization is carried to a maximum degree",
+      "the lines of authority are horizontal."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: specialization is carried to a maximum degree"
+  },
+  {
+    "id": 688,
+    "year": 2016,
+    "topic": "General",
+    "question": "Quantity discount is offered mainly to persuade the buyer to",
+    "options": [
+      "defer payment.",
+      "make prompt purchases.",
+      "make advance payment.",
+      "purchase more"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: make prompt purchases."
+  },
+  {
+    "id": 337,
+    "year": 2010,
+    "topic": "General",
+    "question": "Which of the following is a function of consumerism?",
+    "options": [
+      "Protecting consumers’ rights",
+      "providing consumers’ choice",
+      "providing consumers’ needs",
+      "Making profiteering impossible"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Protecting consumers’ rights"
+  },
+  {
+    "id": 323,
+    "year": 2010,
+    "topic": "General",
+    "question": "One of the functions of NACCIMA is",
+    "options": [
+      "negotiating with labour unions in matters of wages and conditions of service",
+      "pooling of members’ resources for long-term investment",
+      "disseminating information to members on matters relating to tariffs",
+      "ensuring uniformity in labour matters and industrial relations."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: ensuring uniformity in labour matters and industrial relations."
+  },
+  {
+    "id": 136,
+    "year": 2006,
+    "topic": "General",
+    "question": "The members of ECOWAS include",
+    "options": [
+      "Nigeria, Chad, Gabon and Cape Verde",
+      "Burkina Faso, Nigeria, Niger and Mauritania",
+      "Guinea, Mali, Cameroon and Nigeria",
+      "Togo, Niger, Nigeria and Ghana."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Togo, Niger, Nigeria and Ghana."
+  },
+  {
+    "id": 17,
+    "year": 2004,
+    "topic": "General",
+    "question": "Poor sewage disposal, oil spill and indiscriminate refuse dumping all",
+    "options": [
+      "lead to  land pollution",
+      "water pollution",
+      "land and water pollution",
+      "air and water pollution"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: air and water pollution"
+  },
+  {
+    "id": 741,
+    "year": 2000,
+    "topic": "General",
+    "question": "One of the functions of the Niger Basin Commission is to",
+    "options": [
+      "ensure equal treatment of African nations",
+      "foster closer co-operation among West African nations",
+      "map out regulations that will guide all forms of navigation",
+      "guarantee freedom of navigation for all West African nations."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: map out regulations that will guide all forms of navigation"
+  },
+  {
+    "id": 885,
+    "year": 2003,
+    "topic": "General",
+    "question": "Money can simply be referred to as a",
+    "options": [
+      "medium of exchange",
+      "means for the settlement of debts",
+      "durable asset for doing business",
+      "stands of value"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: medium of exchange"
+  },
+  {
+    "id": 400,
+    "year": 2012,
+    "topic": "General",
+    "question": "The document a seller uses in dispatching goods to a customer by a carrier is",
+    "options": [
+      "a bill of lading",
+      "an invoice",
+      "an advice note",
+      "a delivery note"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: a delivery note"
+  },
+  {
+    "id": 272,
+    "year": 2009,
+    "topic": "General",
+    "question": "In a public limited liability company, planning is carried out by",
+    "options": [
+      "the chairman of the board",
+      "the board of directors",
+      "shareholders",
+      "employees"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: the board of directors"
+  },
+  {
+    "id": 232,
+    "year": 2008,
+    "topic": "General",
+    "question": "The fear of many communities concerning tourism development is the",
+    "options": [
+      "influence of foreign culture",
+      "fear of disease transmission",
+      "fear of pollution",
+      "religious intolerance"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: influence of foreign culture"
+  },
+  {
+    "id": 424,
+    "year": 2012,
+    "topic": "General",
+    "question": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of",
+    "options": [
+      "NACRDB",
+      "NACCIMA",
+      "the Consumer Protection Council",
+      "the Chamber of Commerce"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the Chamber of Commerce"
+  },
+  {
+    "id": 801,
+    "year": 2002,
+    "topic": "General",
+    "question": "The commercialization of public enterprises aimed at",
+    "options": [
+      "increasing efficiency and making the enterprises self-sufficient",
+      "advertising a promoting the goods and services of the enterprises",
+      "increased assistance and patronage of the enterprises by the public",
+      "selling the goods and services of the enterprises."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: increasing efficiency and making the enterprises self-sufficient"
+  },
+  {
+    "id": 700,
+    "year": 2000,
+    "topic": "General",
+    "question": "The measure of independence available to the individual business units that come together is the main difference between",
+    "options": [
+      "vertical and horizontal, integration",
+      "mergers and acquisitions",
+      "consortium and amalgamation",
+      "trust and cartel."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: mergers and acquisitions"
+  },
+  {
+    "id": 854,
+    "year": 2003,
+    "topic": "General",
+    "question": "The focal point of marketing is",
+    "options": [
+      "the competitor",
+      "the buyer",
+      "profit-making",
+      "sales"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: sales"
+  },
+  {
+    "id": 12,
+    "year": 2004,
+    "topic": "General",
+    "question": "Business environment refers to all elements that are",
+    "options": [
+      "outside an organization but relevant to its operations",
+      "inside an organization but irrelevant to its operations",
+      "internal to an organization and relevant to its operations",
+      "external to an organization but indirectly related to its  operations"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: external to an organization but indirectly related to its  operations"
+  },
+  {
+    "id": 270,
+    "year": 2009,
+    "topic": "General",
+    "question": "Warehousing is important to manufacturers because it helps to",
+    "options": [
+      "improve the quality of goods",
+      "produce goods in advance",
+      "meet the demand of customers",
+      "determine input requirements"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: produce goods in advance"
+  },
+  {
+    "id": 406,
+    "year": 2012,
+    "topic": "General",
+    "question": "A current account holder pays fees for services in form of",
+    "options": [
+      "bank charges",
+      "inertest rates",
+      "commission on turnover",
+      "minimum lending rate"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: bank charges"
+  },
+  {
+    "id": 423,
+    "year": 2012,
+    "topic": "General",
+    "question": "The main objective of a trade association is to",
+    "options": [
+      "protect is members against litigation",
+      "boost the trade of its members",
+      "secure credit for its members",
+      "protect its members against victimization"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: protect its members against victimization"
+  },
+  {
+    "id": 857,
+    "year": 2003,
+    "topic": "General",
+    "question": "One of the functions of seaports is the provision of",
+    "options": [
+      "berthing and landing facilities",
+      "loading and off-loading facilities",
+      "control room for relaying radio messages",
+      "warehouses for storage of cargo."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: loading and off-loading facilities"
+  },
+  {
+    "id": 830,
+    "year": 2002,
+    "topic": "General",
+    "question": "Securities on which the buyers are not issued with certificates are called",
+    "options": [
+      "authorized securities",
+      "inscribed securities",
+      "bearer securities",
+      "registered securities."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: inscribed securities"
+  },
+  {
+    "id": 159,
+    "year": 2007,
+    "topic": "General",
+    "question": "Public relations and advertising are similar in terms of",
+    "options": [
+      "communicating product information",
+      "customer education",
+      "the mode of operation",
+      "creating a favourable attitude."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: communicating product information"
+  },
+  {
+    "id": 326,
+    "year": 2010,
+    "topic": "General",
+    "question": "A pre-requisite for admission into the second-tier securities Market is for a company to",
+    "options": [
+      "make 20% of its equity share available to he public for subscription",
+      "have a minimum of 100 shareholders",
+      "have a maximum of 100 shareholders",
+      "make 10% of its equity share available to the public for subscription"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: make 10% of its equity share available to the public for subscription"
+  },
+  {
+    "id": 87,
+    "year": 2005,
+    "topic": "General",
+    "question": "Wholesalers can be divided into",
+    "options": [
+      "sales agents and brokers",
+      "full service wholesalers and merchant wholesalers",
+      "cooperative wholesale society and limited service wholesalers",
+      "merchant wholesalers and agent middlemen."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: full service wholesalers and merchant wholesalers"
+  },
+  {
+    "id": 184,
+    "year": 2007,
+    "topic": "General",
+    "question": "The traditional way of paying cooperative dividend is to distribute profit in proportion to members'",
+    "options": [
+      "subscriptions",
+      "total savings",
+      "volume of purchases",
+      "contributions."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: volume of purchases"
+  },
+  {
+    "id": 119,
+    "year": 2006,
+    "topic": "General",
+    "question": "A financial institution which uses its capital strength to acquire controlling interests in other firms can be regarded as a",
+    "options": [
+      "subsidiary company",
+      "holding company",
+      "trust",
+      "cartel."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: holding company"
+  },
+  {
+    "id": 652,
+    "year": 2016,
+    "topic": "General",
+    "question": "Which of the following is used for temporary storage of data on a computer?",
+    "options": [
+      "RAM.",
+      "ROM.",
+      "floppy disk.",
+      "flash disk."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: RAM."
+  },
+  {
+    "id": 76,
+    "year": 2005,
+    "topic": "General",
+    "question": "Occupations are classified into",
+    "options": [
+      "production, labour and economics",
+      "extraction, construction and manufacturing",
+      "industry, commerce and serves",
+      "trade, aids to trade and services."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: industry, commerce and serves"
+  },
+  {
+    "id": 299,
+    "year": 2010,
+    "topic": "General",
+    "question": "The reward of rent, wages, interest and profits accrue from",
+    "options": [
+      "capitals, labour, land, and entrepreneur respectively",
+      "land entrepreneur, labour and capital respectively",
+      "land, labour, capital, and entrepreneur respectively",
+      "labour, entrepreneur, land and capital respectively."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: land, labour, capital, and entrepreneur respectively"
+  },
+  {
+    "id": 863,
+    "year": 2003,
+    "topic": "General",
+    "question": "In the event of the liquidation of a company the first to be settled are",
+    "options": [
+      "debenture holders",
+      "members  of the  board",
+      "preference shareholders",
+      "ordinary shareholders."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: debenture holders"
+  },
+  {
+    "id": 142,
+    "year": 2006,
+    "topic": "General",
+    "question": "The Customs and Excise Department is responsible for the collection of",
+    "options": [
+      "royalties",
+      "tariffs",
+      "taxes",
+      "charges."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: tariffs"
+  },
+  {
+    "id": 224,
+    "year": 2008,
+    "topic": "General",
+    "question": "The pooling of business information for the benefit of members is a major function of a",
+    "options": [
+      "pressure group",
+      "trade association",
+      "cultural group",
+      "trade union"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: trade association"
+  },
+  {
+    "id": 397,
+    "year": 2012,
+    "topic": "General",
+    "question": "The main purpose of branding is to",
+    "options": [
+      "create identity for a product",
+      "make a product look attractive",
+      "create product awareness",
+      "increase sales volume"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: create identity for a product"
+  },
+  {
+    "id": 268,
+    "year": 2009,
+    "topic": "General",
+    "question": "The most important reason for the existence of insurance business is to",
+    "options": [
+      "prevent the occurrence of any loss",
+      "spread losses to all covered participants",
+      "provide for the replacement of facilities",
+      "encourage individuals to save"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: spread losses to all covered participants"
+  },
+  {
+    "id": 848,
+    "year": 2003,
+    "topic": "General",
+    "question": "The basic function of the Nigerian Ports Authority is to",
+    "options": [
+      "ensure that the right caliber of personnel is  employed at the ports",
+      "coordinate and regulate the activities of  shipping lines",
+      "facilitate and control the movement of goods and services into and out of the country",
+      "coordinate the activities of all the seaports in the country"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: coordinate the activities of all the seaports in the country"
+  },
+  {
+    "id": 234,
+    "year": 2008,
+    "topic": "General",
+    "question": "A historical building is a feature of",
+    "options": [
+      "cultural tourism",
+      "industrial tourism",
+      "agricultural  tourism",
+      "D. ecological   tourism"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: cultural tourism"
+  },
+  {
+    "id": 267,
+    "year": 2009,
+    "topic": "General",
+    "question": "A risk that can be estimated and calculated to be compensated is",
+    "options": [
+      "a delivery risk",
+      "an insurable risk",
+      "a credit risk",
+      "a systematic risk"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: an insurable risk"
+  },
+  {
+    "id": 208,
+    "year": 2008,
+    "topic": "General",
+    "question": "The cheapest source of funds available to a company is through",
+    "options": [
+      "the sale of shares",
+      "retained profits",
+      "the sale of bonds",
+      "lease financing"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: retained profits"
+  },
+  {
+    "id": 880,
+    "year": 2003,
+    "topic": "General",
+    "question": "The most widely used computer language that focuses on solving science-oriented problems is",
+    "options": [
+      "FORTRAN",
+      "BASIC",
+      "ADA",
+      "COBOL"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: FORTRAN"
+  },
+  {
+    "id": 881,
+    "year": 2003,
+    "topic": "General",
+    "question": "Banks are engaged in the business of buying and selling of",
+    "options": [
+      "bills of exchange",
+      "instruments of credit",
+      "intangible products",
+      "land"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: bills of exchange"
+  },
+  {
+    "id": 347,
+    "year": 2011,
+    "topic": "General",
+    "question": "Services rendered to the public is provided by",
+    "options": [
+      "Government",
+      "civil servants",
+      "professionals",
+      "domestic servants"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: civil servants"
+  },
+  {
+    "id": 104,
+    "year": 2006,
+    "topic": "General",
+    "question": "An employer insures against his employees' dishonesty by taking up",
+    "options": [
+      "fidelity guarantee insurance",
+      "accident insurance",
+      "group life assurance",
+      "endowment policy."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: fidelity guarantee insurance"
+  },
+  {
+    "id": 771,
+    "year": 2001,
+    "topic": "General",
+    "question": "One major characteristic of credit unions and thrift societies is that",
+    "options": [
+      "the legal processes involved in their formation are rigid",
+      "membership compulsory to people in the same line of  business",
+      "the contribution of every member depends the member’s ability",
+      "a minimum of ten people in the same line of business can form the union"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: the contribution of every member depends the member’s ability"
+  },
+  {
+    "id": 156,
+    "year": 2007,
+    "topic": "General",
+    "question": "Which of the following best describes inputs for any production activity?",
+    "options": [
+      "Natural resources.",
+      "Business resources.",
+      "Human resources.",
+      "Material resources."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Natural resources."
+  },
+  {
+    "id": 711,
+    "year": 2000,
+    "topic": "General",
+    "question": "The insurance principle that requires full disclosure of information on the insured is known as",
+    "options": [
+      "indemnity",
+      "uberrimaefidei",
+      "subrogation",
+      "caveat emptor."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: uberrimaefidei"
+  },
+  {
+    "id": 53,
+    "year": 2005,
+    "topic": "General",
+    "question": "Which part of the computer system does the keyboard device belong to?",
+    "options": [
+      "Output unit",
+      "Logic unit",
+      "Input unit",
+      "Control unit."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Input unit"
+  },
+  {
+    "id": 457,
+    "year": 2013,
+    "topic": "General",
+    "question": "In order to increase the capital owned, a sole trader may",
+    "options": [
+      "seek for bank loan",
+      "issue debentures",
+      "acquire extra shop fittings on credit",
+      "draw less of his profit for personal use"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: draw less of his profit for personal use"
+  },
+  {
+    "id": 886,
+    "year": 2003,
+    "topic": "General",
+    "question": "A type of  long-term loan granted to companies with fixed interest as well as with redeemable and irredeemable features is referred to as",
+    "options": [
+      "a debenture",
+      "a bond",
+      "a term loan",
+      "an overdraft"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a debenture"
+  },
+  {
+    "id": 692,
+    "year": 2016,
+    "topic": "General",
+    "question": "Petrol voucher is an example of a",
+    "options": [
+      "bank draft.",
+      "legal tender.",
+      "token money",
+      "partial money."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: partial money."
+  },
+  {
+    "id": 879,
+    "year": 2003,
+    "topic": "General",
+    "question": "The protection of consumers against exploitation by manufacturers is to ensure",
+    "options": [
+      "that there are varieties of products",
+      "that the right quality of goods and services is sold",
+      "increase in production capacity",
+      "increase in the level of consumer awareness."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: that the right quality of goods and services is sold"
+  },
+  {
+    "id": 251,
+    "year": 2009,
+    "topic": "General",
+    "question": "Primary production is associated with",
+    "options": [
+      "banking",
+      "manufacturing",
+      "agriculture",
+      "construction"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: agriculture"
+  },
+  {
+    "id": 415,
+    "year": 2012,
+    "topic": "General",
+    "question": "The most important business objective is to",
+    "options": [
+      "improve investments",
+      "provide quality  products",
+      "target consumers for satisfaction",
+      "carve a niche for the business"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: target consumers for satisfaction"
+  },
+  {
+    "id": 180,
+    "year": 2007,
+    "topic": "General",
+    "question": "A written  agreement for  hiring  a  ship for transporting goods is a",
+    "options": [
+      "consular invoice",
+      "bill of lading",
+      "charter party",
+      "certificate of origin."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: charter party"
+  },
+  {
+    "id": 458,
+    "year": 2013,
+    "topic": "General",
+    "question": "A business partner who provides capital but abstains from participation in administration of a firm is a",
+    "options": [
+      "general partner",
+      "nominal partner",
+      "secret partner",
+      "dormant partner"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: dormant partner"
+  },
+  {
+    "id": 743,
+    "year": 2001,
+    "topic": "General",
+    "question": "A distinguishing characteristic of labour is that it is",
+    "options": [
+      "constant",
+      "expensive",
+      "mobile",
+      "cheap"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: mobile"
+  },
+  {
+    "id": 732,
+    "year": 2000,
+    "topic": "General",
+    "question": "The first known legislation to protect consumer rights in Nigeria is the",
+    "options": [
+      "Usury Laws",
+      "Hire Purchase Act",
+      "Sale of Goods Act",
+      "Food and Drugs Act."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Sale of Goods Act"
+  },
+  {
+    "id": 195,
+    "year": 2007,
+    "topic": "General",
+    "question": "A credit instrument which also serves as a legal tender is",
+    "options": [
+      "cheque",
+      "paper money",
+      "voucher",
+      "money order."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: paper money"
+  },
+  {
+    "id": 399,
+    "year": 2012,
+    "topic": "General",
+    "question": "The major problem encountered in international trade is that of",
+    "options": [
+      "distance",
+      "differences in culture",
+      "politics",
+      "differences in currency"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: differences in currency"
+  },
+  {
+    "id": 185,
+    "year": 2007,
+    "topic": "General",
+    "question": "The abbreviation C & F indicates that the",
+    "options": [
+      "production cost excludes the cost of carriage",
+      "selling price includes the cost of carriage",
+      "cost of production includes delivery charges",
+      "cost price includes the cost of carriage."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: selling price includes the cost of carriage"
+  },
+  {
+    "id": 416,
+    "year": 2012,
+    "topic": "General",
+    "question": "In case of liquidation of a public limited liability company, those that are first paid are",
+    "options": [
+      "ordinary shareholders",
+      "preference shareholders",
+      "cumulative preference shareholders",
+      "debenture holders"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: debenture holders"
+  },
+  {
+    "id": 213,
+    "year": 2008,
+    "topic": "General",
+    "question": "An account maintained with a commercial bank for the purpose of foreign exchange transaction is the",
+    "options": [
+      "foreign account",
+      "International account",
+      "domiciliary account",
+      "foreign reserves account"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: domiciliary account"
+  },
+  {
+    "id": 52,
+    "year": 2005,
+    "topic": "General",
+    "question": "The most important benefit of insurance is that it Provides",
+    "options": [
+      "control over activities",
+      "the insured with a right to premium",
+      "the insured with a right to full compensation",
+      "protection against risks."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: protection against risks."
+  },
+  {
+    "id": 246,
+    "year": 2008,
+    "topic": "General",
+    "question": "Which software program can be used to generate",
+    "options": [
+      "MS Word",
+      "Database",
+      "MS Excel",
+      "Adobe"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: MS Excel"
+  },
+  {
+    "id": 804,
+    "year": 2002,
+    "topic": "General",
+    "question": "The machine used for sending telex messages is known as a",
+    "options": [
+      "radar",
+      "fax machine",
+      "Dictaphone",
+      "teleprinter."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: fax machine"
+  },
+  {
+    "id": 239,
+    "year": 2008,
+    "topic": "General",
+    "question": "The implied provisions in every sale of goods as contained in the ales of Goods Act of 1893 are conditions and",
+    "options": [
+      "consideration",
+      "sureties",
+      "warranties",
+      "guaranties"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: warranties"
+  },
+  {
+    "id": 822,
+    "year": 2002,
+    "topic": "General",
+    "question": "A contract for the sale of goods involves the",
+    "options": [
+      "producer, seller and the buyer of goods",
+      "offering of goods to customers",
+      "transfer of the title to goods for money",
+      "exchange of goods."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: transfer of the title to goods for money"
+  },
+  {
+    "id": 73,
+    "year": 2005,
+    "topic": "General",
+    "question": "One of the disadvantages of sole proprietorship is",
+    "options": [
+      "secrecy of annual reports",
+      "pride of ownership",
+      "limited liability",
+      "unlimited liability."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: unlimited liability."
+  },
+  {
+    "id": 782,
+    "year": 2001,
+    "topic": "General",
+    "question": "One way by which government reduces the repatriation of capital   is through",
+    "options": [
+      "nationalization",
+      "divestiture",
+      "indigenization",
+      "naturalization."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: indigenization"
+  },
+  {
+    "id": 327,
+    "year": 2010,
+    "topic": "General",
+    "question": "The tree components of staffing are",
+    "options": [
+      "recruitment, interview and appointment",
+      "recruitment, test and placement",
+      "recruitment, selection and appointment",
+      "recruitment, selection and placement"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: recruitment, selection and placement"
+  },
+  {
+    "id": 487,
+    "year": 2013,
+    "topic": "General",
+    "question": "A major factor that affects business operations is",
+    "options": [
+      "technology",
+      "supply",
+      "product",
+      "rivalry"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: technology"
+  },
+  {
+    "id": 129,
+    "year": 2006,
+    "topic": "General",
+    "question": "The safety and quality of products are the social responsibility of",
+    "options": [
+      "the Standards Organization of Nigeria",
+      "the Manufacturers Association of Nigeria",
+      "the Corporate Affairs Commission",
+      "business organizations."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: the Standards Organization of Nigeria"
+  },
+  {
+    "id": 829,
+    "year": 2002,
+    "topic": "General",
+    "question": "One of the most important function of marketing is",
+    "options": [
+      "encouraging research activities to meet needs",
+      "creating classes of merchants among businessmen",
+      "the extension of markets for businesses",
+      "providing finances to businesses"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: encouraging research activities to meet needs"
+  },
+  {
+    "id": 79,
+    "year": 2005,
+    "topic": "General",
+    "question": "The availability of goods and services is brought to the notice of consumers through",
+    "options": [
+      "personal selling",
+      "public relations",
+      "the telephone",
+      "advertising."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: advertising."
+  },
+  {
+    "id": 439,
+    "year": 2012,
+    "topic": "General",
+    "question": "The provision of quality and safe products which guarantee the health of consumers is an example of",
+    "options": [
+      "quality control",
+      "price control",
+      "civic responsibility",
+      "social responsibility"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: quality control"
+  },
+  {
+    "id": 730,
+    "year": 2000,
+    "topic": "General",
+    "question": "After registration, a certificate of trading is usually issued to a",
+    "options": [
+      "partnership",
+      "public company",
+      "private company",
+      "sole proprietorship."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: public company"
+  },
+  {
+    "id": 719,
+    "year": 2000,
+    "topic": "General",
+    "question": "The major condition for obtaining loan in thrift, credit and loans cooperative societies is",
+    "options": [
+      "provision of collateral security",
+      "a high level of education",
+      "possession of a large business",
+      "an approved project plan."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: provision of collateral security"
+  },
+  {
+    "id": 380,
+    "year": 2011,
+    "topic": "General",
+    "question": "The slogan, a wonderful world,  used by a communication network is a form of",
+    "options": [
+      "product differentiation",
+      "persuasive advertising",
+      "publicity",
+      "packaging"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: persuasive advertising"
+  },
+  {
+    "id": 681,
+    "year": 2016,
+    "topic": "General",
+    "question": "An association that acts as a watchdog between  entrepreneurs and government to protect trade from any unfavourable laws is said",
+    "options": [
+      "cartel",
+      "syndicate",
+      "Chamber of Commerce",
+      "Nigeria Bar Association."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Chamber of Commerce"
+  },
+  {
+    "id": 454,
+    "year": 2013,
+    "topic": "General",
+    "question": "If Mr. N takes a fire insurance policy with average clause, his compensation will be",
+    "options": [
+      "N5, 000",
+      "N7, 500",
+      "N70, 000",
+      "N75,000"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: N7, 500"
+  },
+  {
+    "id": 726,
+    "year": 2000,
+    "topic": "General",
+    "question": "The most important advantage of personal selling is that it",
+    "options": [
+      "allows sellers to perceive buyers’ needs",
+      "allows sellers to sell their goods quickly",
+      "takes place easily on the highways",
+      "takes place without the permission of government."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: allows sellers to perceive buyers’ needs"
+  },
+  {
+    "id": 428,
+    "year": 2012,
+    "topic": "General",
+    "question": "The promotion of team spirit in an organization is referred to as",
+    "options": [
+      "Unit of direction",
+      "spirit de corps",
+      "unity of purpose",
+      "discipline"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: Unit of direction"
+  },
+  {
+    "id": 216,
+    "year": 2008,
+    "topic": "General",
+    "question": "A source of capital that has both elements of debt and equity is a",
+    "options": [
+      "debenture",
+      "warrant",
+      "loan",
+      "share"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: share"
+  },
+  {
+    "id": 275,
+    "year": 2009,
+    "topic": "General",
+    "question": "The financial instrument that entitles the holder to receive dividend and capital gains is a",
+    "options": [
+      "share",
+      "bond",
+      "bill of exchange",
+      "treasury bill"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: share"
+  },
+  {
+    "id": 145,
+    "year": 2006,
+    "topic": "General",
+    "question": "The documents used in the purchase and sale of goods which contain other terms of trade are",
+    "options": [
+      "debit note and credit note",
+      "delivery note and advice not",
+      "invoice and order",
+      "quotation and invoice."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: invoice and order"
+  },
+  {
+    "id": 849,
+    "year": 2003,
+    "topic": "General",
+    "question": "The concept that refers to the sale, transfer or exchange of goods and services is",
+    "options": [
+      "industry",
+      "trade",
+      "tariff",
+      "marketing"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: trade"
+  },
+  {
+    "id": 352,
+    "year": 2011,
+    "topic": "General",
+    "question": "One of the functions of a retailer is the",
+    "options": [
+      "financing of production activities",
+      "provision of credit facilities to relations",
+      "provision of jobs for customers",
+      "breaking of bulk"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: provision of credit facilities to relations"
+  },
+  {
+    "id": 132,
+    "year": 2006,
+    "topic": "General",
+    "question": "The headquarters of the Lake Chad Basin Commission is in",
+    "options": [
+      "Niamey",
+      "N'Djamena",
+      "Abuja",
+      "Lagos."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: N'Djamena"
+  },
+  {
+    "id": 85,
+    "year": 2005,
+    "topic": "General",
+    "question": "Which of the following confirms the accuracy of the duty charged on imported goods?",
+    "options": [
+      "An indent",
+      "Consular invoice",
+      "Consignment note",
+      "Shipping note."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Consular invoice"
+  },
+  {
+    "id": 453,
+    "year": 2013,
+    "topic": "General",
+    "question": "An undertaking given by a person to another assuring his integrity is",
+    "options": [
+      "proximate clause",
+      "fidelity guarantee",
+      "subrogation",
+      "insurable interest"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: fidelity guarantee"
+  },
+  {
+    "id": 835,
+    "year": 2002,
+    "topic": "General",
+    "question": "group of companies is a collection of",
+    "options": [
+      "subsidiaries and their holding company",
+      "firms",
+      "associates and their holding company",
+      "industries."
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: subsidiaries and their holding company"
+  },
+  {
+    "id": 867,
+    "year": 2003,
+    "topic": "General",
+    "question": "The evolution of commerce in Nigeria is traceable to the",
+    "options": [
+      "period of barter economy as human needs became limitless",
+      "desire by human beings to satisfy their needs through the services of other people in the society",
+      "development of human civilizations and the desire to meet their needs",
+      "primitive stage of existence of  human beings."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: desire by human beings to satisfy their needs through the services of other people in the society"
+  },
+  {
+    "id": 141,
+    "year": 2006,
+    "topic": "General",
+    "question": "The major types of warehouses are",
+    "options": [
+      "manufacturer, bonded, departmental and private",
+      "bonded, public, cold room and private",
+      "manufacturer, bonded, public and departmental",
+      "wholesaler, manufacturer, public and bonded."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: wholesaler, manufacturer, public and bonded."
+  },
+  {
+    "id": 387,
+    "year": 2011,
+    "topic": "General",
+    "question": "Intranet differs from extranet in that the former",
+    "options": [
+      "requires a modem before it could be used",
+      "can generally be accessed by the public",
+      "is restricted to employees of an organization",
+      "requires internet protocols"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: is restricted to employees of an organization"
+  },
+  {
+    "id": 395,
+    "year": 2012,
+    "topic": "General",
+    "question": "The allocation of tasks to different skills in a production process is referred to as",
+    "options": [
+      "production technique",
+      "production function",
+      "division of labour",
+      "delegation of responsibility"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: division of labour"
+  },
+  {
+    "id": 30,
+    "year": 2004,
+    "topic": "General",
+    "question": "An action taken by a company outside its object clause is regarded as",
+    "options": [
+      "ultra vires",
+      "a trespass",
+      "uberrima fides",
+      "caveat emptor"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: ultra vires"
+  },
+  {
+    "id": 293,
+    "year": 2009,
+    "topic": "General",
+    "question": "The economic environment of a business is concerned with",
+    "options": [
+      "climatic conditions",
+      "changing values",
+      "the growth rate",
+      "the interest rate"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: the growth rate"
+  },
+  {
+    "id": 785,
+    "year": 2001,
+    "topic": "General",
+    "question": "A functional organizational structure is where",
+    "options": [
+      "staff performing the same functions are grouped together",
+      "departments performing similar functions are grouped together",
+      "activities of similar nature are-grouped together",
+      "staff performing similar functions are grouped together."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: activities of similar nature are-grouped together"
+  },
+  {
+    "id": 91,
+    "year": 2005,
+    "topic": "General",
+    "question": "The market where only indigenous firms are considered is the",
+    "options": [
+      "money market",
+      "second-tier securities market",
+      "local market",
+      "stock exchange."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: second-tier securities market"
+  },
+  {
+    "id": 279,
+    "year": 2009,
+    "topic": "General",
+    "question": "The manufactures’ Association of Nigeria is an example of a",
+    "options": [
+      "labour union",
+      "pressure group",
+      "conglomerate",
+      "cartel"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: pressure group"
+  },
+  {
+    "id": 218,
+    "year": 2008,
+    "topic": "General",
+    "question": "A warehouse which is used to store goods whose customs duty is not yet paid is a",
+    "options": [
+      "wholesale warehouse",
+      "bonded warehouse",
+      "public warehouse",
+      "branded warehouse"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: bonded warehouse"
+  },
+  {
+    "id": 75,
+    "year": 2005,
+    "topic": "General",
+    "question": "An acquired firm in a merger will always receive a",
+    "options": [
+      "premium",
+      "grant",
+      "share",
+      "discount"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: grant"
+  },
+  {
+    "id": 187,
+    "year": 2007,
+    "topic": "General",
+    "question": "A share premium is an example of",
+    "options": [
+      "issued capital",
+      "capital stock",
+      "equity capital",
+      "capital reserve."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: capital reserve."
+  },
+  {
+    "id": 478,
+    "year": 2013,
+    "topic": "General",
+    "question": "A motor dealer who agreed to sell a car to Mr. X but sold and delivered it to Mr. Y on the delivery date agreed with Mr. X. He has discharged the contract by",
+    "options": [
+      "performance",
+      "frustration",
+      "an agreement",
+      "breach"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: breach"
+  },
+  {
+    "id": 43,
+    "year": 2004,
+    "topic": "General",
+    "question": "The term 4 net 7 on an invoice means that",
+    "options": [
+      "4% surcharge will be made unless payment is made within seven days",
+      "4% discount will be allowed on the price charged only if the goods are bought within seven days",
+      "4% discount will be allowed on the price charged if payment is made after seven days",
+      "4% discount will be allowed on the price charged if payment is made within even days."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: 4% discount will be allowed on the price charged if payment is made within even days."
+  },
+  {
+    "id": 154,
+    "year": 2007,
+    "topic": "General",
+    "question": "An announcement of a person's willingness to enter into a contract is referred to as",
+    "options": [
+      "a proxy",
+      "an offer",
+      "a consideration",
+      "an acceptance."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: an offer"
+  },
+  {
+    "id": 734,
+    "year": 2000,
+    "topic": "General",
+    "question": "The primary objectives of a trade association is to",
+    "options": [
+      "undertake research work on behalf of members",
+      "establish easy link with government",
+      "exchange information and negotiate as a pressure group",
+      "operate as a group against other groups."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: exchange information and negotiate as a pressure group"
+  },
+  {
+    "id": 850,
+    "year": 2003,
+    "topic": "General",
+    "question": "A guarantee given by one person or party to another in which \tthe integrity of the person is assured is",
+    "options": [
+      "fidelity",
+      "term assurance",
+      "subrogation",
+      "indemnity"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: fidelity"
+  },
+  {
+    "id": 471,
+    "year": 2013,
+    "topic": "General",
+    "question": "In a staff-authority relationship, the opinion of a specialist is one department to another is",
+    "options": [
+      "a directive",
+      "an advice",
+      "a command",
+      "a delegation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: an advice"
+  },
+  {
+    "id": 480,
+    "year": 2013,
+    "topic": "General",
+    "question": "The right of retain possession of goods until the contract price is paid is referred to as",
+    "options": [
+      "a promise",
+      "ultra vires",
+      "a branch",
+      "a lien"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: a promise"
+  },
+  {
+    "id": 459,
+    "year": 2013,
+    "topic": "General",
+    "question": "Which of the following will NOT be stated in a Memorandum of Association?",
+    "options": [
+      "Name clause",
+      "Rights of shareholders",
+      "object clause",
+      "Registered office"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Registered office"
+  },
+  {
+    "id": 360,
+    "year": 2011,
+    "topic": "General",
+    "question": "The most effective but limited medium of advertising in Nigeria is",
+    "options": [
+      "billboard",
+      "television",
+      "newspaper",
+      "radio"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: billboard"
+  },
+  {
+    "id": 310,
+    "year": 2010,
+    "topic": "General",
+    "question": "The details of the goods required by the purchaser is outlined in",
+    "options": [
+      "a consular invoice",
+      "an indent",
+      "an invoice",
+      "a certificate of origin"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: an invoice"
+  },
+  {
+    "id": 698,
+    "year": 2000,
+    "topic": "General",
+    "question": "The term Plc implies that the shares are available",
+    "options": [
+      "to the public at the company",
+      "privately on the stock exchange",
+      "publicly on the stock exchange",
+      "publicly in commercial banks."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: publicly on the stock exchange"
+  },
+  {
+    "id": 83,
+    "year": 2005,
+    "topic": "General",
+    "question": "A major function of a chamber of commerce is",
+    "options": [
+      "increasing productivity",
+      "promoting both home and foreign trade",
+      "promoting trade in a particular line",
+      "maximizing profit."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: promoting both home and foreign trade"
+  },
+  {
+    "id": 884,
+    "year": 2003,
+    "topic": "General",
+    "question": "An essential factor for evaluating the different sources of funds for a business is the",
+    "options": [
+      "decree establishing the business",
+      "ownership structure of the business concern",
+      "size and the type of the business",
+      "burden of cost and repayment"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: ownership structure of the business concern"
+  },
+  {
+    "id": 725,
+    "year": 2000,
+    "topic": "General",
+    "question": "The practice whereby soft drink manufacturers give away caps, bags and other items when consumers buy their product is a \t\tform of",
+    "options": [
+      "marketing strategy",
+      "publicity",
+      "advertising",
+      "sales promotion."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: sales promotion."
+  },
+  {
+    "id": 472,
+    "year": 2013,
+    "topic": "General",
+    "question": "Management of a business involves he development of ideas for the",
+    "options": [
+      "distribution of goods and services that human wants",
+      "transportation of goods and services that goods and services that human wants",
+      "transfer of little of ownership of goods and services to individuals.",
+      "production of goods and services that satisfy human needs."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: production of goods and services that satisfy human needs."
+  },
+  {
+    "id": 869,
+    "year": 2003,
+    "topic": "General",
+    "question": "The assembling of products into usable forms is known as",
+    "options": [
+      "construction",
+      "manufacturing",
+      "formation",
+      "creation"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: manufacturing"
+  },
+  {
+    "id": 45,
+    "year": 2004,
+    "topic": "General",
+    "question": "Organizing trade fairs in Nigeria is the responsibility of",
+    "options": [
+      "National Directorate of Employment",
+      "Federal Ministry of Commerce",
+      "trade associations",
+      "chambers of commerce"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: chambers of commerce"
+  },
+  {
+    "id": 21,
+    "year": 2004,
+    "topic": "General",
+    "question": "Charges for loans paid by commercial banks to the Central Bank of Nigeria are called",
+    "options": [
+      "bank rates",
+      "credit charges",
+      "interest rates",
+      "bank charges"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: bank rates"
+  },
+  {
+    "id": 476,
+    "year": 2013,
+    "topic": "General",
+    "question": "A contract that is acknowledged before the law court is referred to as",
+    "options": [
+      "informal contract",
+      "formal contract",
+      "contract of records",
+      "specialty contract"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: formal contract"
+  },
+  {
+    "id": 58,
+    "year": 2005,
+    "topic": "General",
+    "question": "The primary objective of consumer protection laws is to ensure that consumers derive maximum satisfaction from goods and services",
+    "options": [
+      "consumers buy goods and services at cheap rates",
+      "manufacturers of goods and service providers overcome",
+      "Internal competition",
+      "manufacturers of goods and service providers get optimum profit"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: consumers buy goods and services at cheap rates"
+  },
+  {
+    "id": 196,
+    "year": 2007,
+    "topic": "General",
+    "question": "The body regulating the sale and purchase of shares in Nigeria is the",
+    "options": [
+      "Corporate   Affairs Commission",
+      "Securities   and   Exchange Commission",
+      "Securities   and   Exchange Tribunal",
+      "Nigerian Stock Exchange."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: Securities   and   Exchange Commission"
+  },
+  {
+    "id": 718,
+    "year": 2000,
+    "topic": "General",
+    "question": "A form of money that has gone out of use is",
+    "options": [
+      "paper money",
+      "bank money",
+      "commodity money",
+      "foreign money."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: commodity money"
+  },
+  {
+    "id": 403,
+    "year": 2012,
+    "topic": "General",
+    "question": "Which of the following is a characteristic of a bearer cheque?",
+    "options": [
+      "it is made with transverse lines",
+      "it is made payable to whoever presents it",
+      "It is made without teraservers lines",
+      "it is only payable into the payee’s account"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: it is made payable to whoever presents it"
+  },
+  {
+    "id": 244,
+    "year": 2008,
+    "topic": "General",
+    "question": "Which of the following is a form of social responsibility of a business?",
+    "options": [
+      "selling goods  at cheaper prices",
+      "using the best technology available",
+      "maintaining  tidy and safe environment",
+      "Meeting contractor’s obligation"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: maintaining  tidy and safe environment"
+  },
+  {
+    "id": 831,
+    "year": 2002,
+    "topic": "General",
+    "question": "In product pricing, which of these elements needs more consideration than others?",
+    "options": [
+      "the demand for the product",
+      "the demography of the buyers of the product",
+      "the economic conditions in the market",
+      "the cost of producing the product."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the cost of producing the product."
+  },
+  {
+    "id": 396,
+    "year": 2012,
+    "topic": "General",
+    "question": "The sales of goods through a medium that accepts money and deliver the items to the customer is",
+    "options": [
+      "an automated teller machine",
+      "a vending machine",
+      "a counting machine",
+      "a branding machine"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is option B: a vending machine"
+  },
+  {
+    "id": 713,
+    "year": 2000,
+    "topic": "General",
+    "question": "The Central Bank differs from commercial banks because it",
+    "options": [
+      "renders service to customers",
+      "carries out foreign exchange transactions",
+      "issues currencies",
+      "discounts bills."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: issues currencies"
+  },
+  {
+    "id": 778,
+    "year": 2001,
+    "topic": "Companies I, II, III and IV produce and sell electronic videos. Company I sells its videos for N= 14 000 each and offers advice on how to fix and operate them. Company II sells at N14 000 and its representatives go to install at no additional cost. Company III sells at N15 500 and offers credit sales at N15 500 per video while company IV sells at N= 15 000 each.",
+    "question": "Which of these companies offers after-sales services?",
+    "options": [
+      "IV",
+      "Ill",
+      "II",
+      "I"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: II"
+  },
+  {
+    "id": 655,
+    "year": 2016,
+    "topic": "General",
+    "question": "Which of the following types of occupation involves services that can be referred to as auxiliaries’ trade?",
+    "options": [
+      "Constructive occupation",
+      "Manufacturing occupation.",
+      "Industrial occupation.",
+      "Commercial occupation"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: Commercial occupation"
+  },
+  {
+    "id": 754,
+    "year": 2001,
+    "topic": "General",
+    "question": "One of the reasons why wholesaling must continue is that",
+    "options": [
+      "the tax paid by wholesalers on their profit enhances national revenue",
+      "by creating artificial scarcity, the wholesaler is enhancing competition in the economy",
+      "the wholesaler provides technical advice to the retailer",
+      "the gap between manufacturers and retailers is reduced by wholesalers."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: the gap between manufacturers and retailers is reduced by wholesalers."
+  },
+  {
+    "id": 321,
+    "year": 2010,
+    "topic": "General",
+    "question": "An illegal arrangement by manufacturers to control the price or condition of sale of a product is",
+    "options": [
+      "ring",
+      "factoring",
+      "consortium",
+      "merger"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: consortium"
+  },
+  {
+    "id": 657,
+    "year": 2016,
+    "topic": "General",
+    "question": "A basic concept of advertising that reveals the essential message an advertiser wishes to communicate is referred to as the",
+    "options": [
+      "medium",
+      "theme",
+      "target",
+      "reach"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is option A: medium"
+  },
+  {
+    "id": 124,
+    "year": 2006,
+    "topic": "General",
+    "question": "I. Wholesaling  II. Fishing  III. Canning IV. Retailing  The sequence in which the occupational activities above are performed is",
+    "options": [
+      "Ill, II, I and IV",
+      "Ill, I, IV and II",
+      "I, II, III and IV",
+      "II, III, I and IV."
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is option D: II, III, I and IV."
+  },
+  {
+    "id": 750,
+    "year": 2001,
+    "topic": "General",
+    "question": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of",
+    "options": [
+      "distress",
+      "closure",
+      "bankruptcy",
+      "liquidation."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: bankruptcy"
+  },
+  {
+    "id": 375,
+    "year": 2011,
+    "topic": "General",
+    "question": "A communication process providing information for decision-making in an organization is the",
+    "options": [
+      "Management Information System",
+      "Transmission Control Protocol",
+      "Information Retrieval System",
+      "File Transfer Protocol."
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is option C: Information Retrieval System"
+  }
+]
