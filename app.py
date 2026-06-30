@@ -471,3 +471,62 @@ def paystack_webhook():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 3000))
     app.run(host="0.0.0.0", port=port)
+
+# ============================
+# ROUTE: Admin Rebuild DB
+# ============================
+@app.route("/api/admin/rebuild-db")
+def rebuild_db():
+    secret = request.args.get("secret", "")
+    if secret != ADMIN_SECRET:
+        return jsonify({"error": "Unauthorized"}), 401
+
+    fixes = [
+        ('accounting',          'accounts-principles-of-accounts'),
+        ('agriculture',         'agricultural-science'),
+        ('crs',                 'christian-religious-knowledge-crk'),
+        ('irs',                 'islamic-religious-knowledge-irk'),
+        ('literature',          'literature-in-english'),
+        ('catering',            'catering-craft-practice'),
+        ('english',             'english-language'),
+        ('computer studies',    'computer-studies'),
+        ('book keeping',        'book-keeping'),
+        ('home economics',      'home-economics'),
+        ('food and nutrition',  'food-and-nutrition'),
+        ('technical drawing',   'technical-drawing'),
+        ('data processing',     'data-processing'),
+        ('animal husbandry',    'animal-husbandry'),
+        ('civic education',     'civic-education'),
+        ('further mathematics', 'further-mathematics'),
+        ('fine arts',           'fine-arts'),
+    ]
+
+    try:
+        conn = get_db()
+        c = conn.cursor()
+        fixed = {}
+        for old, new in fixes:
+            c.execute("UPDATE exam_vault SET subject=? WHERE subject=?", (new, old))
+            n = conn.total_changes
+            c.execute("UPDATE theory_vault SET subject=? WHERE subject=?", (new, old))
+            if n > 0:
+                fixed[old] = new
+        conn.commit()
+
+        c.execute("SELECT DISTINCT subject, exam_type, COUNT(*) FROM exam_vault GROUP BY subject, exam_type ORDER BY exam_type, subject")
+        subjects = [{"subject": r[0], "exam": r[1], "count": r[2]} for r in c.fetchall()]
+        c.execute("SELECT COUNT(*) FROM exam_vault")
+        total_obj = c.fetchone()[0]
+        c.execute("SELECT COUNT(*) FROM theory_vault")
+        total_theory = c.fetchone()[0]
+        conn.close()
+
+        return jsonify({
+            "status": "done",
+            "fixed": fixed,
+            "total_objective": total_obj,
+            "total_theory": total_theory,
+            "subjects": subjects
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
