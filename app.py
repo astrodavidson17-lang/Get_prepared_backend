@@ -530,3 +530,23 @@ def rebuild_db():
         })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route("/api/admin/debug")
+def debug_info():
+    secret = request.args.get("secret", "")
+    if secret != ADMIN_SECRET:
+        return jsonify({"error": "Unauthorized"}), 401
+    import os
+    conn = get_db()
+    c = conn.cursor()
+    c.execute("SELECT DISTINCT subject, exam_type FROM exam_vault ORDER BY exam_type, subject LIMIT 10")
+    sample = [{"subject": r[0], "exam": r[1]} for r in c.fetchall()]
+    conn.close()
+    return jsonify({
+        "db_path": DB_PATH,
+        "db_abs_path": os.path.abspath(DB_PATH),
+        "db_exists": os.path.exists(DB_PATH),
+        "db_size_mb": round(os.path.getsize(DB_PATH)/1024/1024, 2),
+        "cwd": os.getcwd(),
+        "sample_subjects": sample
+    })
