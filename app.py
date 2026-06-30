@@ -86,38 +86,23 @@ def config():
 # ============================
 @app.route("/subjects")
 def get_subjects():
-    import os, json
-    exam = request.args.get("exam", "WAEC")
-    data_dir = os.path.join(os.path.dirname(__file__), "data", exam)
-    if not os.path.exists(data_dir):
-        return jsonify({"exam": exam, "subjects": []})
-    subject_map = {
-        "Mathematics": "mathematics",
-        "English": "english-language",
-        "Physics": "physics",
-        "Chemistry": "chemistry",
-        "Biology": "biology",
-        "Economics": "economics",
-        "Government": "government",
-        "Geography": "geography",
-        "History": "history",
-        "Commerce": "commerce",
-        "Accounting": "accounting",
-        "Agriculture": "agricultural-science",
-        "CRS": "crk",
-        "Literature": "literature-in-english",
-        "Further Mathematics": "further-mathematics",
-        "Civic Education": "civic-education",
-        "Yoruba": "yoruba",
-        "Hausa": "hausa",
-        "Igbo": "igbo",
-    }
-    subjects = []
-    for folder in sorted(os.listdir(data_dir)):
-        qfile = os.path.join(data_dir, folder, "questions.json")
-        if os.path.exists(qfile):
-            subjects.append(subject_map.get(folder, folder.lower().replace(" ", "-")))
-    return jsonify({"exam": exam, "subjects": subjects})
+    exam_type = request.args.get("exam", "WAEC")
+    try:
+        conn = get_db()
+        cursor = conn.cursor()
+        cursor.execute('''
+            SELECT DISTINCT subject FROM exam_vault
+            WHERE exam_type = ?
+            UNION
+            SELECT DISTINCT subject FROM theory_vault
+            WHERE exam_type = ?
+            ORDER BY subject
+        ''', (exam_type, exam_type))
+        subjects = [row[0] for row in cursor.fetchall()]
+        conn.close()
+        return jsonify({"exam": exam_type, "subjects": subjects})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 SUBJECT_FOLDER_MAP = {
     "mathematics": "Mathematics",
