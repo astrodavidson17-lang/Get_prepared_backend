@@ -143,65 +143,87 @@ def get_years():
 
 @app.route("/questions")
 def get_questions():
-    import os, json
     exam = request.args.get("exam", "WAEC")
     subject = request.args.get("subject", "")
     year = request.args.get("year", "")
+    q_type = request.args.get("type", "all")
+
     if not subject:
         return jsonify({"error": "subject required"}), 400
-    folder = SUBJECT_FOLDER_MAP.get(subject, subject.title())
-    qfile = os.path.join(os.path.dirname(__file__), "data", exam, folder, "questions.json")
-    if not os.path.exists(qfile):
-        return jsonify({"exam": exam, "subject": subject, "year": year, "count": 0, "questions": []})
-    with open(qfile, encoding="utf-8") as f:
-        data = json.load(f)
-    all_qs = data if isinstance(data, list) else data.get("questions", [])
-    if year:
-        all_qs = [q for q in all_qs if str(q.get("year", "")) == str(year)]
-    letter_map = {0: "A", 1: "B", 2: "C", 3: "D"}
-    questions = []
-    for i, q in enumerate(all_qs, 1):
-        opts = q.get("options", [])
-        if not isinstance(opts, list) or len(opts) < 2:
-            continue
-        ans_idx = q.get("answer", 0)
-        if not isinstance(ans_idx, int):
-            try: ans_idx = int(ans_idx)
-            except: ans_idx = 0
-        if ans_idx >= len(opts): ans_idx = 0
-        ans_letter = letter_map.get(ans_idx, "A")
-        q_type = q.get("type", "objective")
-        if q_type == "theory":
-            questions.append({
-                "id": f"{exam}_{subject}_{year}_T{i}",
-                "type": "theory",
-                "number": i,
-                "text": q.get("question", q.get("text", "")).strip(),
-                "solution": q.get("explanation", q.get("solution", "")).strip(),
-                "topic": q.get("topic", "Theory"),
-                "subject": subject,
-                "exam": exam,
-                "year": str(q.get("year", year)),
-            })
-        else:
-            questions.append({
-                "id": f"{exam}_{subject}_{year}_O{i}",
-                "type": "objective",
-                "number": i,
-                "text": q.get("question", q.get("text", "")).strip(),
-                "options": {
-                    "A": opts[0] if len(opts) > 0 else "",
-                    "B": opts[1] if len(opts) > 1 else "",
-                    "C": opts[2] if len(opts) > 2 else "",
-                    "D": opts[3] if len(opts) > 3 else "",
-                },
-                "answer": ans_letter,
-                "explanation": q.get("explanation", "").strip(),
-                "topic": q.get("topic", "Objectives"),
-                "subject": subject,
-                "exam": exam,
-                "year": str(q.get("year", year)),
-            })
+
+    try:
+        conn = get_db()
+        cursor = conn.cursor()
+        questions = []
+
+        if q_type in ("all", "objective"):
+            query = '''
+                SELECT id, question_text, option_a, option_b,
+                       option_c, option_d, correct_option
+                FROM exam_vault
+                WHERE exam_type = ? AND subject = ?
+            '''
+            params = [exam, subject]
+            if year:
+                query += " AND year = ?"
+                params.append(year)
+            query += " ORDER BY id"
+            cursor.execute(query, params)
+            for i, row in enumerate(cursor.fetchall(), 1):
+                questions.append({
+                    "id": f"{exam}_{subject}_{year}_O{i}",
+                    "type": "objective",
+                    "number": i,
+                    "text": (row[1] or "").strip(),
+                    "options": {
+                        "A": (row[2] or "").strip(),
+                        "B": (row[3] or "").strip(),
+                        "C": (row[4] or "").strip(),
+                        "D": (row[5] or "").strip(),
+                    },
+                    "answer": (row[6] or "").strip(),
+                    "explanation": "",
+                    "topic": "Objectives",
+                    "subject": subject,
+                    "exam": exam,
+                    "year": year
+                })
+
+        if q_type in ("all", "theory"):
+            query = '''
+                SELECT id, question_text, solution_text
+                FROM theory_vault
+                WHERE exam_type = ? AND subject = ?
+            '''
+            params = [exam, subject]
+            if year:
+                query += " AND year = ?"
+                params.append(year)
+            query += " ORDER BY id"
+            cursor.execute(query, params)
+            for i, row in enumerate(cursor.fetchall(), 1):
+                questions.append({
+                    "id": f"{exam}_{subject}_{year}_T{i}",
+                    "type": "theory",
+                    "number": i,
+                    "text": (row[1] or "").strip(),
+                    "solution": (row[2] or "").strip(),
+                    "topic": "Theory",
+                    "subject": subject,
+                    "exam": exam,
+                    "year": year
+                })
+
+        conn.close()
+        return jsonify({
+            "exam": exam,
+            "subject": subject,
+            "year": year,
+            "count": len(questions),
+            "questions": questions
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
     return jsonify({
         "exam": exam,
         "subject": subject,
