@@ -128,18 +128,26 @@ SUBJECT_FOLDER_MAP = {
 
 @app.route("/years")
 def get_years():
-    import os, json
-    exam = request.args.get("exam", "WAEC")
+    exam_type = request.args.get("exam", "WAEC")
     subject = request.args.get("subject", "")
-    folder = SUBJECT_FOLDER_MAP.get(subject, subject.title())
-    qfile = os.path.join(os.path.dirname(__file__), "data", exam, folder, "questions.json")
-    if not os.path.exists(qfile):
-        return jsonify({"exam": exam, "subject": subject, "years": []})
-    with open(qfile, encoding="utf-8") as f:
-        data = json.load(f)
-    qs = data if isinstance(data, list) else data.get("questions", [])
-    years = sorted(set(str(q.get("year", "")) for q in qs if q.get("year")), reverse=True)
-    return jsonify({"exam": exam, "subject": subject, "years": years})
+    if not subject:
+        return jsonify({"error": "subject required"}), 400
+    try:
+        conn = get_db()
+        cursor = conn.cursor()
+        cursor.execute('''
+            SELECT DISTINCT year FROM exam_vault
+            WHERE exam_type = ? AND subject = ?
+            UNION
+            SELECT DISTINCT year FROM theory_vault
+            WHERE exam_type = ? AND subject = ?
+            ORDER BY year DESC
+        ''', (exam_type, subject, exam_type, subject))
+        years = [str(row[0]) for row in cursor.fetchall()]
+        conn.close()
+        return jsonify({"exam": exam_type, "subject": subject, "years": years})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 @app.route("/questions")
 def get_questions():
